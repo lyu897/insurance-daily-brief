@@ -55,6 +55,7 @@ fetch("data/brief.json")
     issues = brief.issues;
     document.querySelector("blockquote").textContent = `“${brief.editorNote || ""}”`;
     renderKeywords(brief.keywords);
+    if (brief.marketSummary) document.querySelector("#market-summary").textContent = brief.marketSummary;
     renderMarketContext(brief.marketContext);
     const time = new Date(brief.updatedAt);
     if (!Number.isNaN(time.getTime())) document.querySelector(".updated b").textContent = time.toLocaleTimeString("ko-KR", { hour:"2-digit", minute:"2-digit", hour12:false });
