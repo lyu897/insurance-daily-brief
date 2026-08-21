@@ -1,0 +1,6 @@
+{
+  "name": "insurance-daily-brief",
+  "private": true,
+  "type": "module",
+  "scripts": { "refresh": "node scripts/refresh-brief.mjs" }
+}

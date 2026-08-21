@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="매일 핵심 보험 뉴스를 빠르게 확인하는 보험 데일리 브리핑" />
+    <title>보험 데일리 브리핑</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Noto+Sans+KR:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="보험 데일리 브리핑 홈">
+        <span class="brand-mark">B</span>
+        <span>보험 데일리 브리핑</span>
+      </a>
+      <nav aria-label="주요 메뉴">
+        <a class="active" href="#today">오늘의 브리핑</a>
+        <a href="#archive">지난 브리핑</a>
+      </nav>
+      <button class="icon-button" id="theme-toggle" aria-label="화면 테마 바꾸기">◐</button>
+    </header>
+
+    <main id="top">
+      <section class="hero" id="today">
+        <div>
+          <p class="eyebrow"><span></span> INSURANCE INTELLIGENCE</p>
+          <h1>오늘의 <em>보험 이슈</em> 알아봐요</h1>
+        </div>
+        <aside class="brief-status" aria-label="브리핑 정보">
+          <p>DAILY BRIEF</p>
+          <strong id="current-date"></strong>
+          <span><i></i> 최근 24시간 기준</span>
+        </aside>
+      </section>
+
+      <section class="keyword-section" aria-labelledby="keyword-heading">
+        <div>
+          <p class="eyebrow">KEYWORDS TODAY</p>
+          <h2 id="keyword-heading">오늘의 핵심 키워드</h2>
+          <p class="keyword-copy">오늘 가장 많이 언급된 키워드</p>
+        </div>
+        <div class="keyword-list" id="keyword-list" aria-label="오늘의 핵심 키워드 목록">
+          <span>실손보험</span><span>비급여</span><span>보험료</span><span>건강관리</span><span>GA</span>
+        </div>
+      </section>
+
+      <section class="summary-section">
+        <div class="section-heading">
+          <div><p class="eyebrow">EDITOR'S TAKE</p><h2>오늘의 보험 한 줄 요약</h2></div>
+          <span class="updated">마지막 업데이트 <b>08:30</b></span>
+        </div>
+        <blockquote>“오늘은 실손보험의 비급여 관리와 보험료 부담 완화 방안, 건강 데이터 연동형 보험상품 확대, 보험사의 장기 보장성 상품 수익성 관리가 주요 이슈입니다.”</blockquote>
+      </section>
+
+      <section class="market-section" aria-labelledby="market-heading">
+        <div class="section-heading market-heading">
+          <div>
+            <p class="eyebrow">MARKET CONTEXT</p>
+            <h2 id="market-heading">보험에 영향을 주는 금융시장</h2>
+          </div>
+          <p>금리·부동산·환율 흐름을 보험시장 관점에서 살펴봅니다.</p>
+        </div>
+        <div class="market-list" id="market-list">
+          <article class="market-item">
+            <span>미국 금리</span>
+            <p>미국 통화정책 기대와 국채금리 변화는 보험사의 해외 채권 투자 수익과 장기보험 가치에 영향을 줄 수 있습니다.</p>
+            <a href="https://news.google.com/search?q=%EB%AF%B8%EA%B5%AD+%EA%B8%B0%EC%A4%80%EA%B8%88%EB%A6%AC&hl=ko&gl=KR&ceid=KR%3Ako" target="_blank" rel="noopener noreferrer">관련 뉴스 ↗</a>
+          </article>
+          <article class="market-item">
+            <span>부동산</span>
+            <p>부동산 PF와 상업용 부동산의 건전성은 보험사의 대체투자 위험을 확인하는 주요 지표입니다.</p>
+            <a href="https://news.google.com/search?q=%EB%B6%80%EB%8F%99%EC%82%B0+PF&hl=ko&gl=KR&ceid=KR%3Ako" target="_blank" rel="noopener noreferrer">관련 뉴스 ↗</a>
+          </article>
+          <article class="market-item">
+            <span>환율·채권</span>
+            <p>원·달러 환율과 국내외 채권금리의 방향은 외화자산 가치와 보험사의 자산운용 손익에 연결됩니다.</p>
+            <a href="https://news.google.com/search?q=%EC%9B%90%EB%8B%AC%EB%9F%AC+%ED%99%98%EC%9C%A8+%EA%B5%AD%EC%B1%84%EA%B8%88%EB%A6%AC&hl=ko&gl=KR&ceid=KR%3Ako" target="_blank" rel="noopener noreferrer">관련 뉴스 ↗</a>
+          </article>
+        </div>
+      </section>
+
+      <section class="news-section" aria-labelledby="news-heading">
+        <div class="section-heading news-heading">
+          <div><p class="eyebrow">TOP STORIES</p><h2 id="news-heading">핵심 이슈 5</h2></div>
+          <div class="filters" role="group" aria-label="분야별 뉴스 필터">
+            <button class="filter selected" data-filter="all">전체</button>
+            <button class="filter" data-filter="제도·규제">제도·규제</button>
+            <button class="filter" data-filter="상품·서비스">상품·서비스</button>
+            <button class="filter" data-filter="보험사">보험사</button>
+          </div>
+        </div>
+        <div id="news-list" class="news-list"></div>
+      </section>
+
+      <section class="archive-section" id="archive">
+        <div class="section-heading">
+          <div><p class="eyebrow">ARCHIVE</p><h2>지난 브리핑</h2></div>
+          <button class="text-button" id="show-archive">전체 보기 <span>→</span></button>
+        </div>
+        <div class="archive-list" id="archive-list"></div>
+      </section>
+    </main>
+
+    <footer>
+      <span>보험 데일리 브리핑</span>
+      <span>기사 원문은 각 언론사에 있습니다. 요약과 원문 링크만 제공합니다.</span>
+    </footer>
+    <script src="app.js"></script>
+  </body>
+</html>
