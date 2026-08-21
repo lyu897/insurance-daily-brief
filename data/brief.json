@@ -1,4 +1,53 @@
 {
+  "updatedAt": "2026-08-21T08:30:00+09:00",
+  "articleCount": 24,
+  "keywords": ["실손보험", "비급여", "보험료", "건강관리", "GA"],
+  "editorNote": "오늘은 실손보험의 비급여 관리와 보험료 부담 완화 방안, 건강 데이터 연동형 보험상품 확대, 보험사의 장기 보장성 상품 수익성 관리가 주요 이슈입니다.",
+  "marketSummary": "오늘 금융시장은 미국 금리 전망과 채권금리 움직임, 부동산 PF 건전성, 환율 흐름이 보험사의 자산운용 환경을 어떻게 바꾸는지 점검하는 날입니다.",
+  "marketContext": [
+    { "label": "미국 금리", "summary": "미국 통화정책 기대와 국채금리 변화는 보험사의 해외 채권 투자 수익과 장기보험 가치에 영향을 줄 수 있습니다.", "source": "관련 뉴스", "url": "https://news.google.com/search?q=%EB%AF%B8%EA%B5%AD+%EA%B8%B0%EC%A4%80%EA%B8%88%EB%A6%AC&hl=ko&gl=KR&ceid=KR%3Ako" },
+    { "label": "부동산", "summary": "부동산 PF와 상업용 부동산의 건전성은 보험사의 대체투자 위험을 확인하는 주요 지표입니다.", "source": "관련 뉴스", "url": "https://news.google.com/search?q=%EB%B6%80%EB%8F%99%EC%82%B0+PF&hl=ko&gl=KR&ceid=KR%3Ako" },
+    { "label": "환율·채권", "summary": "원·달러 환율과 국내외 채권금리의 방향은 외화자산 가치와 보험사의 자산운용 손익에 연결됩니다.", "source": "관련 뉴스", "url": "https://news.google.com/search?q=%EC%9B%90%EB%8B%AC%EB%9F%AC+%ED%99%98%EC%9C%A8+%EA%B5%AD%EC%B1%84%EA%B8%88%EB%A6%AC&hl=ko&gl=KR&ceid=KR%3Ako" }
+  ],
+  "issues": [
+    {
+      "tag": "제도·규제",
+      "title": "실손보험 구조 개편 논의, 비급여 관리가 핵심 변수",
+      "summary": "금융당국과 업계가 보험료 부담과 과잉진료 문제를 함께 낮추는 방향을 검토하고 있습니다. 가입자별 보험료와 보장 범위에 변화가 생길 수 있어 관련 발표를 지켜볼 필요가 있습니다.",
+      "source": "관련 뉴스",
+      "url": "https://news.google.com/search?q=%EC%8B%A4%EC%86%90%EB%B3%B4%ED%97%98&hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    {
+      "tag": "상품·서비스",
+      "title": "건강관리 연동 보험, ‘예방’ 혜택 경쟁이 커진다",
+      "summary": "운동·건강검진 등 건강 데이터를 활용해 보험료 혜택을 제공하는 상품이 늘고 있습니다. 단순 보장 중심에서 사전 예방 서비스까지 보험사의 경쟁 범위가 넓어지는 흐름입니다.",
+      "source": "관련 뉴스",
+      "url": "https://news.google.com/search?q=%EA%B1%B4%EA%B0%95%EA%B4%80%EB%A6%AC+%EB%B3%B4%ED%97%98&hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    {
+      "tag": "보험사",
+      "title": "보험사, 장기 보장성 상품 중심의 수익성 관리 강화",
+      "summary": "금리와 손해율 변동성이 이어지면서 보험사들은 보장성 상품의 포트폴리오와 계약 유지율 관리에 더 집중하고 있습니다. 실적 발표에서는 신계약 가치와 손해율을 함께 확인하는 것이 좋습니다.",
+      "source": "관련 뉴스",
+      "url": "https://news.google.com/search?q=%EB%B3%B4%ED%97%98%EC%82%AC+%EC%88%98%EC%9D%B5%EC%84%B1&hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    {
+      "tag": "제도·규제",
+      "title": "GA 판매채널 관리 강화, 소비자 보호 기준 주목",
+      "summary": "법인보험대리점의 불완전판매 예방과 내부통제에 대한 관심이 높아지고 있습니다. 판매 과정의 설명 의무와 사후 관리 체계가 영업 현장의 주요 과제가 될 전망입니다.",
+      "source": "관련 뉴스",
+      "url": "https://news.google.com/search?q=GA+%EB%B3%B4%ED%97%98+%EC%86%8C%EB%B9%84%EC%9E%90+%EB%B3%B4%ED%98%B8&hl=ko&gl=KR&ceid=KR%3Ako"
+    },
+    {
+      "tag": "상품·서비스",
+      "title": "반려동물 보험, 보장 범위와 진료비 표준화가 관건",
+      "summary": "펫보험 가입 관심은 높아졌지만 진료 항목과 비용 기준의 불확실성이 성장 속도를 좌우합니다. 병원 진료 체계와 연계한 서비스 개선 여부가 다음 관전 포인트입니다.",
+      "source": "관련 뉴스",
+      "url": "https://news.google.com/search?q=%ED%8E%AB%EB%B3%B4%ED%97%98&hl=ko&gl=KR&ceid=KR%3Ako"
+    }
+  ]
+}
+{
   "updatedAt": "2026-08-21T05:47:20.483Z",
   "articleCount": 45,
   "editorNote": "최근 24시간 기사에서 동일 내용이 반복된 보험사기 규제, KB손보 다이렉트 캠페인, 경남권 침수 피해·보험사 지원 기사를 각각 하나의 이슈로 통합했습니다. 제공된 메타데이터에는 미국 금리·국내외 채권금리·환율·부동산 가격 관련 내용이 없어 해당 변수의 방향이나 수치는 판단하지 않았습니다.",
