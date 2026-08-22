@@ -1,70 +1,69 @@
 {
-  "updatedAt": "2026-08-22T00:02:01.258Z",
-  "articleCount": 45,
-  "editorNote": "최근 24시간 기사 중 동일 사안을 다룬 기사는 하나의 이슈로 통합했습니다. 제공된 기사 메타데이터에는 미국 금리·국내외 채권금리·환율·부동산의 구체적인 수치나 흐름이 없어 해당 변수는 별도로 제시하지 않았습니다.",
+  "updatedAt": "2026-08-22T23:57:54.059Z",
+  "articleCount": 16,
+  "editorNote": "제공된 최근 24시간 기사 메타데이터를 기준으로 유사 주제를 묶었으며, 금융시장 변수는 기사 목록에서 확인되는 범위가 제한적입니다.",
   "keywords": [
-    "간병보험 과열",
-    "보험사 건전성",
-    "디지털 보험채널",
-    "모집질서·보험사기",
-    "자동차보험 8주 룰"
+    "보험사기",
+    "침수손해",
+    "기후보험",
+    "건강보험 보장확대"
   ],
-  "marketSummary": "보험·투자손익과 일부 보험사 실적 개선이 부각됐지만 자본 부담과 건전성 관리 과제가 함께 제기됐고, 글로벌 상업보험 요율 하락은 보험료·수익성 관리 필요성을 높이는 흐름으로 나타났다.",
+  "marketSummary": "제공된 기사 목록에는 미국 금리·채권금리·환율·부동산 등 금융시장 흐름을 판단할 수 있는 정보가 없어, 이를 보험사의 자산운용·상품가격·건전성과 연결해 평가하기 어렵습니다.",
   "marketContext": [
     {
-      "label": "글로벌 상업보험 요율",
-      "summary": "2026년 2분기 글로벌 상업보험 요율이 6% 하락하고 미국 배상책임·파라메트릭 시장은 양극화된 것으로 보도됐다. 요율 흐름은 손해보험사의 상품가격과 보험료 수익성 관리에 연결되는 변수지만, 제공된 기사에는 국내 보험사에 대한 구체적인 영향이 제시되지 않았다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kdENzcTlpTUZjZmo2cjZhN3h1dk5vY09HT0c0ajhuMk1VZc3UzaDZjZXlldUFfNzVzbXUwODZBUU9rN2c3YThyc1djdVYyOVFZM3ZpeXhWcFlY3E0OWoyNkVNV2g2MndTblZFZHhfMA?oc=5",
-      "source": "보험저널"
+      "label": "미국 금리",
+      "summary": "관련 금융시장 변수를 다룬 기사가 제공 목록에 없어, 미국 금리 변화와 보험사 자산운용·상품가격·건전성의 연결점은 확인할 수 없습니다.",
+      "url": "",
+      "source": "제공 기사 목록"
     },
     {
-      "label": "보험·투자손익과 자본 부담",
-      "summary": "보험·투자손익 개선과 손보사 상반기 실적 호조가 보도됐지만, 외형 확대 과정의 자본 부담과 비보험 부문 확대에 따른 건전성 관리 과제도 함께 언급됐다. 이는 보험사의 자산운용 성과가 손익 개선으로 이어지는 동시에 자본 여력 관리와 함께 평가돼야 함을 보여준다.",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FSUU3SU5GUTVySHRQM2c0T0lpX3J0djloZXA0R0U5cUdHZFdCZTdtdWJjbVYxUDkxcnYwUmxCS2pEMkdRbEw5SndXRjRDUC1V?oc=5",
-      "source": "톱데일리"
+      "label": "국내외 채권금리",
+      "summary": "국내외 채권금리 관련 기사가 제공 목록에 없어, 채권 평가와 보험사 자산운용에 미치는 영향은 확인할 수 없습니다.",
+      "url": "",
+      "source": "제공 기사 목록"
     },
     {
-      "label": "보험업종 주가와 기업가치",
-      "summary": "한화생명은 일주일 새 주가가 17% 상승했고 목표가가 잇따라 상향됐다는 보도가 나온 반면, 보험 업종 내에서는 미래에셋생명 상승·DB손해보험 하락 등 차별화가 나타났다. 보험사 주가는 실적과 자본 부담에 대한 시장 평가를 반영하는 변수로 연결되지만, 기사 목록에는 변동 원인에 대한 상세 수치가 제한적으로 제시됐다.",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xVVJSWS1kTlRLNFREZFJpUU5qWlh3NHRhY1o2NW5QaXlIQnNUU2JuSFFGeGJZQW81M2tjVVpyNkowUk1Id0wwalZNM1dfWXU0MVE?oc=5",
-      "source": "매일경제 마켓"
+      "label": "환율·부동산",
+      "summary": "환율이나 부동산 시장을 다룬 기사가 제공 목록에 없어, 관련 변수가 보험시장에 미치는 영향은 확인할 수 없습니다.",
+      "url": "",
+      "source": "제공 기사 목록"
     }
   ],
   "issues": [
     {
-      "tag": "상품·가격",
-      "title": "간병보험 ‘20만원 지급’ 경쟁 재점화…과열 우려",
-      "summary": "간병보험에서 다시 20만원을 지급하는 상품이 등장하며 과열 조짐이 부각됐다. 보장 수준과 지급 혜택을 앞세운 상품 경쟁이 보험상품 가격과 판매 관리의 주요 이슈로 떠올랐다.",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOaWcxRzdqejRwX1d4Yzl3aXg4YnhOYXNibi1CRUdHMEoxWnVmM093RjBad1RRZElFU2dkaktPUF9JU0IzOTRkMS1FLWtvZUE?oc=5",
-      "source": "v.daum.net"
+      "tag": "손해보험·기후위험",
+      "title": "폭우 침수차 손실 145억원…손보사 손해 부담 커지나",
+      "summary": "폭우로 침수차가 속출하면서 손해보험업계에 145억원 규모의 손실이 발생했다는 내용입니다. 집중호우와 같은 자연재해가 자동차보험 손해율과 보험금 부담에 직접 연결될 수 있다는 점을 보여줍니다.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fTUNHSzlXellIQnpWVE1Jb2p2ektrZEtfeFdXcXZORk1mallla2JNZWZHNTFkODJCOXJBNHlQbGxPMHpmZnktcU9ib0ZrRUtOcTlpVkk4VE5yeWM?oc=5",
+      "source": "에너지경제신문"
     },
     {
-      "tag": "실적·건전성",
-      "title": "보험·투자손익 개선에도 자본 부담과 건전성 관리 과제",
-      "summary": "손보사 상반기 실적 호조와 한화생명의 보험·투자손익 동반 개선이 보도됐다. 그러나 보험·투자손익 개선에도 자본 부담이 발목을 잡고 비보험 확대 속 건전성 관리가 과제로 제시돼 외형 성장과 자본관리의 균형이 중요해졌다.",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FSUU3SU5GUTVySHRQM2c0T0lpX3J0djloZXA0R0U5cUdHZFdCZTdtdWJjbVYxUDkxcnYwUmxCS2pEMkdRbEw5SndXRjRDUC1V?oc=5",
-      "source": "톱데일리"
+      "tag": "보험사기·제도개선",
+      "title": "보험사기 신고포상금 한도 폐지 주장",
+      "summary": "보험사기 신고포상금 한도를 없애야 한다는 주장이 제기됐습니다. 현행 보상 수준으로는 범죄 억제가 어렵다는 문제 제기로, 보험사기 대응을 위한 제도 개선 논의로 이어질 수 있는 사안입니다.",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hV3lLZ29wZUZEYk8zTWx1TkgwaUh0X3d5QWZnZG1rck9nN0VQWHNJWGxBSWJiNDNBUmpOSzJBWkcxTndaZV9pWVY3UFpBYnhFOVE?oc=5",
+      "source": "서울경제"
     },
     {
-      "tag": "판매채널",
-      "title": "우리WON뱅킹 연계 등 디지털 보험 접점 확대",
-      "summary": "동양생명이 우리WON뱅킹에서 보험 상담과 서비스를 확대하며 디지털 접점 강화에 나섰다는 보도가 이어졌다. 은행 플랫폼과 보험서비스의 연계가 보험 상담과 판매채널 확대의 방향으로 부각됐다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lNUZvSlY3V2lOdlYxNzRTeXd1TFNicXF5by1lcThjNEJsN3h4ZGJEYVkxRWp3SjRSMzJjT2NkNlBKUW8xV3M0TnBKVmI5cWU5WXV4Zm1hS1FwVGtsWHd2YUsydXd5cFRhUllLNGpuQ1A?oc=5",
-      "source": "신아일보"
+      "tag": "공공보험·기후보험",
+      "title": "부산시, 전 시민 기후보험 가입 추진",
+      "summary": "부산시가 온열질환 등에 대비하기 위해 전 시민 기후보험 가입을 추진한다는 내용입니다. 지방자치단체 차원의 기후 관련 보장 확대가 공공보험의 역할과 범위를 넓히는 흐름으로 나타났습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55eVc3am80dlFnMUxYS0pjMHlCWnRrc1RVeFhxYU1uM1FCUkp0SVpnVkp0bDZxZC1PNGVwaVNEQU1PUlJQeE5oSW1Xc2RPSlJ1OTBrMndSdFJtU09zTjB5NHcxV2pNbzAyNGc?oc=5",
+      "source": "네이트"
     },
     {
-      "tag": "자동차보험",
-      "title": "‘8주 룰’ 재검토 요구…치료권과 손해율 개선 논쟁",
-      "summary": "자동차보험의 ‘8주 룰’ 재검토를 촉구하는 주장이 제기됐으며 노인·장애인의 치료권 우려가 함께 언급됐다. 다른 보도에서는 적자로 돌아선 자동차보험의 손해율 개선 카드로 8주 룰이 거론돼 보장·치료권과 보험금 지출 관리가 맞물린 쟁점으로 나타났다.",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91R29GNjJ0cDhzUHZHVFRNcFBLdkxSdWpLNGdkbzlmMHZ4M0FGQ04yZmRwMEtjOUVYNTRkdmJPVkl0UGlDRWNiLW9mbTZQVndtbHBMMkdZT0pWbW9VVDFHbVFB?oc=5",
-      "source": "이코노미스트"
+      "tag": "건강보험·의약품 유통",
+      "title": "약 배송 확대 두고 건보재정 악화·부작용 우려",
+      "summary": "동작구약사회가 약 배송 확대가 건강보험 재정을 악화시키고 약 부작용을 부추길 수 있다고 주장했습니다. 약 배송 확대의 편의성보다 재정과 안전성에 대한 우려가 쟁점으로 제기됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJWEJUMkVlbk1yYnZObksxX2ZLTWtoZDQ2MnBiZ3VaN2luaHRiSi04clVpNFJDWDEzQjc3WjZQWmpiSXhIZUV0b2xxOXhjLWFySzlTbnVB?oc=5",
+      "source": "데일리팜"
     },
     {
-      "tag": "모집질서·소비자보호",
-      "title": "서명 대필·보험사기 전력 설계사 제재 강화",
-      "summary": "삼성화재·KB손보 등에서 보험계약자 서명을 대신 작성한 설계사들이 제재를 받았다는 보도가 나왔다. 보험사기 전력 설계사를 영업현장에서 즉시 퇴출할 수 있도록 신속 제재가 가능해진다는 내용도 함께 제시돼 모집질서 관리가 강화되는 흐름을 보였다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41aEpHcnZ5cmlpWXRJbkExYmxjTW1JQkJYcGQ3eFFrSWgzN1hLbUt6Y2VqTk9XTndCUzZfT0stQnVCMV9RVDc2d2k3dVZTN3IxTmw0cHRzY00zSXdUd0dEaWxqeHFmRDZKS2hTczJ5QdIBc0FVX3lxTE9Xci1JNEVmNXlmb1JXU3JJOWM2d1U5YXZXWVVuSXR4Z2hHWk5vbUQ3WWdpQXU0bXpoTkVlUzF0dzVlTkh6bWdQLXFBU2pSRlQ1OHpHM1liRG11OUxUQ2RkNE85ajNhcmJmVWdsSkt6QzlobWM?oc=5",
-      "source": "세이프타임즈"
+      "tag": "건강보험·보장성",
+      "title": "2027년부터 무치악 어르신 임플란트 건강보험 혜택 변화",
+      "summary": "치아가 하나도 없어 임플란트 건강보험 혜택을 받지 못하던 어르신들이 2027년부터 달라질 수 있다는 내용입니다. 고령층 치과 보장 범위의 변화가 건강보험 보장성 확대 이슈로 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XRWdORUxzUmlVdWhSQkpVSUFTNDVCZVN2RjVxZlp1MEZjMnRNZER3bzRPT3dGRXdkZlJ2T0pVc05VWE40NTY1SDdJMTRxaDZOM0hJQzVqdEN6cmZsWE01NFZfS3F5RFYx?oc=5",
+      "source": "CBC뉴스"
     }
   ]
 }
