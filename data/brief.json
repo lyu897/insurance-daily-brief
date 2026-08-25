@@ -1,69 +1,70 @@
 {
-  "updatedAt": "2026-08-23T23:57:55.793Z",
+  "updatedAt": "2026-08-25T00:01:25.086Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사 중 동일 사안을 다룬 보도는 하나의 이슈로 통합했으며, 제공된 기사 메타데이터에 없는 금융시장 수치나 방향은 임의로 보완하지 않았습니다.",
+  "editorNote": "최근 24시간 기사 중 동일 자동차보험 손해율·마운자로·집중호우 성금·부고 보도는 대표 기사 중심으로 묶었습니다.",
   "keywords": [
-    "기후보험",
-    "간편보험 손익",
-    "실손24",
-    "보험사기"
+    "자동차보험 손해율",
+    "보험판매전문회사",
+    "마운자로",
+    "민원업무 이관",
+    "간병인보험"
   ],
-  "marketSummary": "제공된 기사 목록에서는 미국 금리·채권금리·환율·부동산의 당일 방향을 확인할 수 없어 금융시장 흐름을 특정하기 어렵지만, 보험업계는 기후위험 확대와 상품 손익·건전성 관리 이슈에 직면한 모습입니다.",
+  "marketSummary": "제공된 기사에는 미국 금리·채권금리·환율·부동산의 당일 흐름이 포함되지 않아 금융시장 변화가 보험사 자산운용과 상품가격·건전성에 미친 영향은 확인되지 않습니다.",
   "marketContext": [
     {
       "label": "미국 금리",
-      "summary": "제공된 기사에는 미국 금리의 변동 방향이나 수준이 제시되지 않았습니다. 미국 금리는 보험사의 해외채권 운용수익과 자산·부채 평가, 신상품 가격 산정에 영향을 줄 수 있는 변수입니다.",
+      "summary": "기사 목록에 미국 금리의 방향이나 수치가 없어 오늘의 흐름과 보험사 자산운용에 대한 영향은 판단할 수 없습니다.",
       "url": "",
       "source": "제공 기사 목록"
     },
     {
       "label": "국내외 채권금리",
-      "summary": "제공된 기사에는 국내외 채권금리 흐름이 포함돼 있지 않습니다. 채권금리는 보험사의 주요 운용자산 수익률과 금리위험, 자본비율 및 장기 보장성보험 가격에 연결됩니다.",
+      "summary": "국내외 채권금리 관련 보도가 없어 금리 변동에 따른 보험사 투자손익이나 건전성 영향을 확인할 수 없습니다.",
       "url": "",
       "source": "제공 기사 목록"
     },
     {
       "label": "환율·부동산",
-      "summary": "제공된 기사에는 환율이나 부동산시장 움직임에 대한 정보가 없습니다. 환율은 외화자산과 해외투자의 평가 및 헤지 비용에, 부동산은 관련 자산의 가치와 보험사 건전성에 영향을 줄 수 있습니다.",
+      "summary": "환율과 부동산 시장의 움직임을 다룬 기사가 없어 외화자산 운용이나 부동산 관련 보험시장 영향은 판단할 수 없습니다.",
       "url": "",
       "source": "제공 기사 목록"
     }
   ],
   "issues": [
     {
-      "tag": "기후보험",
-      "title": "기후재난 확산 속 기후보험 확대와 보장 공백이 동시에 부각",
-      "summary": "MBC와 지역 언론·딜사이트 보도는 기후재난에 대응하는 기후보험의 필요성, 부산시의 전 시민 대상 추진, 거제 사례의 보험 공백, 농작물 보상 사례를 함께 다뤘습니다. 기후위험 보장 수요는 커지고 있지만 지역·대상별 보장 범위와 제도 정착이 과제로 제시됩니다.",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tU0RkNmRYejc1X1V3R0JqTUlhWVI1bzZQLUdWdFUxZUJrNmRxSnNSbTItNXQyLXE4QUdjWEJuaDJPU2plQXI0TGFVRTA4bnhLbXBiQXVPM3MwdGNNMUxtZllTSTJsVzNTOV9lX2RROXN6aFRzMm9tcNIBeEFVX3lxTE1rNnhRdUt6TXFfeExWeU1ZRy1reTliX1dCTmdLazhLbWsyLWpWZUZ4OGk0aU9ZbnhNMm1zXzd4bDd4UkpuR3FuSS11NzJFUzNzV2ZBVjEybUd3VmR4YlY5Z1N4clJYYURFU3o0LUlRZ2JpeDBaTVpkNg?oc=5",
-      "source": "MBC 뉴스·knn.co.kr·국제신문·딜사이트"
+      "tag": "손해율·자동차보험",
+      "title": "7월 누적 자동차보험 손해율 상승 보도 잇따라",
+      "summary": "복수 매체가 7월까지 자동차보험 누적 손해율을 84.3% 또는 84.8%로 제시하며 전년보다 소폭 상승했다고 보도했습니다. 보험료 인상에도 손해율이 악화됐다는 보도와 8월 폭우·원가 상승에 대한 우려가 함께 나와 자동차보험 수익성 부담이 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pbUx5bWwwempjSm9xX0cxbHc4bnpwSmhtREZZQUh3WTZkZlpfbFZ4OHlLbzFmWnBzeTVkNk5VZmZ0cTBSbjRfTTRuM0FZSU5tdU0wQkVpNHRVS2J0YUlcdA?oc=5",
+      "source": "연합뉴스"
     },
     {
-      "tag": "상품손익",
-      "title": "간편보험 판매 확대가 연말 실적 부담으로 돌아올 수 있다는 경고",
-      "summary": "뉴스토마토는 보험사들이 간편보험을 많이 판매했지만 연말 실적에 부담이 될 수 있다고 보도했습니다. 판매 확대보다 위험률과 손해율을 반영한 상품가격 및 계약 관리가 중요하다는 의미를 갖습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13TzFBWEg0UzBvdWUzczVsS2pVZXZDZ2RLUm9PSEd6aU01R3ZwclgwVmtBTmFleFJEZFVyUEpDUkd0YnQ0VFdmbEFXV1gtUllPYVpoeGRTM3pIdDl1eXR3Zw?oc=5",
-      "source": "뉴스토마토"
+      "tag": "판매채널·제도",
+      "title": "GA 보험판매전문회사 입법 추진에 보험사 난색",
+      "summary": "GA 업계가 보험판매전문회사 도입을 위한 입법에 시동을 걸었고, 보험사들은 이에 난색을 보이는 것으로 보도됐습니다. 보험 모집·판매 구조를 둘러싼 업계 간 제도 논의가 본격화되는 이슈입니다.",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XejJqbXNWX0pNMUhIU3RnVVNWRjNIYnMxeXJnYlV5aG14OER5RHdoWlg1UUt1aUdlNmdlX1JoUTk4TDAxdHNEYndQMHlJQQ?oc=5",
+      "source": "전자신문"
     },
     {
-      "tag": "실손보험",
-      "title": "실손24의 정액형 보장성보험 확대를 두고 신중론",
-      "summary": "보험신보는 실손24를 정액형 보장성보험으로 확대하는 방안에 대해 ‘시기 상조’라는 업계 의견을 전했습니다. 보험금 청구·지급 체계의 확대가 상품 운영과 소비자 보호에 미칠 영향을 먼저 검토해야 한다는 의미입니다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SU2ZCekt0b3RPUWVEbHl1RHZkYVY5SlYxTGdLSmJ1Sm9IczFTS1BEbjRoQjFlc2NRMVppM2VJdnhvVWpyR3BMSFk3Njcyb1UyMVdWS0d3bmRwdHppWm9XaVNfWEtpOFZPOHZR?oc=5",
-      "source": "보험신보"
+      "tag": "상품·언더라이팅",
+      "title": "마운자로 사용자의 보험 가입·보험금 불이익 논란",
+      "summary": "KBS 보도는 마운자로를 맞은 사람이 보험 가입에서 불이익을 받을 수 있는지, 보험금을 받지 못할 수 있는지를 쟁점으로 제기했습니다. 비만·당뇨 치료제 사용과 보험 가입 심사 및 보험금 지급의 관계에 대한 소비자 관심을 보여주는 이슈입니다.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UOHVBbW1jSzR6WVdxZm1BS1pSNlpjWnI3bVVjSENVUUV1djVraWZoeG5VN1Y3X3ZPN210aFVIdXVuQjV4aFFVUE41TUhuaVRDektuTnpoQWowSWM?oc=5",
+      "source": "KBS 뉴스"
     },
     {
-      "tag": "보험사기",
-      "title": "진단서 변경을 둘러싼 보험사기 의혹으로 360명 경찰 조사",
-      "summary": "중앙일보는 지방흡입 관련 진단이 요추염좌로 바뀐 진단서를 둘러싸고 360명이 경찰 조사를 받고 있다고 보도했습니다. 의료행위와 보험금 청구 과정의 이상 징후가 보험금 누수와 보험사의 지급심사 부담으로 이어질 수 있는 사안입니다.",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnRnViQUtWZ2ZyMlgtejFmMFZOMWNONGQ1YjFIZDZkNlZpc3RhdFM5c1J2SUFuLU5XQXVYZzVqQm51QVFuS0dYeVFrVVpYdDhOb3dEandR?oc=5",
-      "source": "중앙일보"
+      "tag": "소비자보호·민원",
+      "title": "생·손보협회, 금감원 민원업무 이관에 인력·센터 확충",
+      "summary": "생명보험협회와 손해보험협회가 금융감독원으로부터 민원업무를 넘겨받으면서 인력을 충원하고 민원센터를 확장하는 것으로 보도됐습니다. 보험 민원 처리 체계와 협회의 소비자보호 역할이 변하는 사안입니다.",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HWGdtbGt0MnFHQVN6aWxnMThoTW9uMGFlZ2RmRXg5NDlRYUZ0WXFfNUQwZm5heXNSaE5FUkdld1gtSHFCdW9BVTg4RnVVbmI1TFI0eVVSMGdVX0xnVXZqV0J6alZRc3h5OGg1NGRUeTZ2dw?oc=5",
+      "source": "KB Think"
     },
     {
-      "tag": "해상보험·제재",
-      "title": "제재 회피 선박의 GPS 교란과 허위 선적으로 해상보험 리스크 확대",
-      "summary": "해사신문은 GPS 교란과 ‘가짜 선적’ 등을 활용하는 제재 회피 선박으로 해상보험업계가 어려움을 겪고 있다고 보도했습니다. 선박·화물의 실제 운항과 제재 관련 위험을 식별하는 언더라이팅 및 보상 관리가 핵심 과제로 부상합니다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkNlZiWkpJZ0EwX1ZJM1Y0MGlPa0IwZ1pQMFdxTGdsV3BXVUY1RzdMRF9ZZHZJQU5kUkZvWGtuR0JQQW5xVkd4U0w2d0VXNlI4ODk4dU1FZW94THNUc2ZOSTNUQnI4MkpMSmhB?oc=5",
-      "source": "해사신문"
+      "tag": "상품경쟁·장기보험",
+      "title": "간병인보험 ‘20만원 보장’ 상품 확산에 과열 우려",
+      "summary": "간병인보험 시장에서 한시적으로 20만원을 보장하는 상품이 잇따라 나오며 다시 과열되는 것 아니냐는 보도가 나왔습니다. 보장 확대 경쟁이 상품 판매와 가격·손해 관리에 어떤 영향을 미칠지가 쟁점으로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HckpxYWJOZGQ4bzQ2aU9rYWdNcDRwRHdSU0tPUzNtdXdoS0FwM1B3SGY5TE1aYlA5UjdPMHBOTHppUHZZamJtVTgwTU9tX08wRWt4ZmpodzU2NVNyUW83eGFqOA?oc=5",
+      "source": "쿠키뉴스"
     }
   ]
 }
