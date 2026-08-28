@@ -1,69 +1,69 @@
 {
-  "updatedAt": "2026-08-26T00:02:26.880Z",
+  "updatedAt": "2026-08-28T06:12:37.554Z",
   "articleCount": 45,
-  "editorNote": "제공된 최근 24시간 기사 메타데이터만을 기준으로 중복·유사 보도를 하나의 이슈로 통합했습니다. 기사 본문이나 메타데이터에 없는 금융시장 수치와 사실은 추가하지 않았으며, 시장 변수는 현재 흐름이 확인되지 않은 항목을 ‘점검 변수’로 제시했습니다.",
+  "editorNote": "제공된 최근 24시간 기사 제목과 메타데이터만을 기준으로 중복 보도는 하나의 이슈로 묶었으며, 기사 본문에 없는 세부 내용과 해석은 추가하지 않았습니다.",
   "keywords": [
-    "보험계약대출 규제",
-    "1200%룰·설계사 경쟁",
-    "자동차보험 손해율",
-    "기후재난보험",
-    "건강보험 사칭앱"
+    "기업대출 연체율",
+    "실손보험 페이백",
+    "금리인상",
+    "보험사 자산운용",
+    "변액보험"
   ],
-  "marketSummary": "제공된 기사 메타데이터에는 미국 금리·국내외 채권금리·환율·부동산의 당일 방향이 제시되지 않아 시장 흐름은 판단할 수 없으며, 보험업계에서는 유동성·투자·손해율 부담과 상품·유통 재편 이슈가 부각됐습니다.",
+  "marketSummary": "한은의 연속 금리인상과 변동성 장세가 이어지는 가운데, 금리 상승은 보험·은행에 상대적 호재로, 증권에는 부담으로 거론되며 보험시장에서는 자산운용과 변액보험이 주목받았다.",
   "marketContext": [
     {
-      "label": "미국 금리",
-      "summary": "이번 기사 목록에는 미국 금리의 방향이나 수치가 나타나지 않았습니다. 다만 보험사의 유동성 관리와 자산운용 이슈가 보도된 만큼, 미국 금리는 보험계약대출 규제와 투자전략을 함께 점검할 변수입니다.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPajc4Y19WQW5LMV9DSUtSNXMwTElrSThhNWdLcHVyb21VMGNKcUR3ckdHNzJzLXlhVUc2Ykd2ZVFhaWQ4NENOTHRtMjhDcUlFcWNFbFEwdjYxNHVqMUFqQTBVRjRFd0VlT09xV3VYTTVCWWgxd21NZldhdGsta2dOZTB3VQ?oc=5",
-      "source": "인베스트조선"
+      "label": "국내 금리",
+      "summary": "기사들은 한국은행의 연속 금리인상과 금리인상 국면에서 은행·보험의 상대적 수혜 가능성을 제시했다. 금리 흐름은 보험사의 자산운용과 상품 수익성에 연결되는 핵심 변수로 언급되고 있다.",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iX2hocUpxcng2eGt0TUlnS2pRd0dQRmtvTHRlaUFyTkFjY3haRWlmYkFTYUE0Ym5PTUpGRExwbFl4NzlJOWdwRll6aWhvNksxZ0I2R3hEWHNVM2RDSlZBaVZjOEs5b1dwcElVTHNn0gFyQVVfeXFMTkxnN0tJS3BuRHVSMjhyRV9KZDczSF9WVi1oZ0l5cXI4dm5qSnRtTTNmNzMtZUo4R1IwVXRmMjdnbzZSQ1p0cXpBbFhPRHhXOEJKallRWmZOMWtaLUdRNXdodzdXaXN6eFdUWDBWTXZYeTNn?oc=5",
+      "source": "폴리뉴스 Polinews"
     },
     {
-      "label": "국내외 채권금리",
-      "summary": "국내외 채권금리의 당일 흐름은 기사 메타데이터에서 확인되지 않았습니다. 금리 환경은 보험사의 자산운용 성과와 상품 가격 설정, 건전성 관리와 연결되는 핵심 점검 변수로 제시할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93WjhfeV9GZk1Wem14QlVYV0N3VDE1TGhJMlJrbVo2bGVkV2Y5cTNWRXpITEZQaDVlWkpBbm1nWUtBVkQ4OG01SnlDbXZMN1ItTVFPQWN5Qy1vRS1JUWFj?oc=5",
-      "source": "데이터뉴스"
+      "label": "주식시장 변동성",
+      "summary": "변동성이 큰 장세 속에서 ‘배당주 변액보험’이 주목받고 있다는 보도가 나왔다. 주식시장 흐름은 변액보험처럼 투자성과와 연계된 상품에 대한 관심 및 상품 구성 논의와 연결된다.",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GeUNMb0RMTkhHam5aNVFNQk1Ha1FTSnBES0p6bjF3bDBOOFJhZmgweGNOdjRuMGZSV3RQOW0wNlY0Q3hxSnlObFlHLUZDeENi?oc=5",
+      "source": "문화일보"
     },
     {
-      "label": "부동산·재해위험",
-      "summary": "부동산 가격이나 시장 방향 자체에 대한 보도는 없었지만, 집중호우 피해와 기후보험 제도화·재해보험 사각지대 관련 기사가 나왔습니다. 재해위험은 손해보험 손해율과 보장 범위, 상품 가격에 영향을 줄 수 있는 점검 변수입니다.",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ydUZwa0NjRDVvZ2QxcDRDQ1BfYjM3ZlJsVWpWRFBTbndJOGxkdkkwLWhFY2lGTUlBZnhJZTFiMmVFS3hVb0NFZmF2RmJXaXgzZXhRVlhKejFGREs5VjJFTkloNnRxRTJiX0t1YWZwMWFzWjI0?oc=5",
-      "source": "대한경제"
+      "label": "미국 고용지표",
+      "summary": "미국의 주간 신규 실업보험 청구가 20만3천건으로 예상치를 밑돌았다는 기사가 전해졌다. 해당 지표가 보험사의 자산운용·상품가격·건전성에 미치는 영향은 제공된 기사 제목에서 직접 제시되지 않았다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kVWw1SmIxbENZQWhnOHYxcUhjY0N3cmxRTVgwWmpXaC1TdUNBRXFsV2UtS0l4TnVqdUF6YmdRR2RDcmVtSUpBQXExLURpa1Q1OWhLdHEwWmNxN29YZFdFQTNrdWc4NFE5RHRibGd3Z2g?oc=5",
+      "source": "연합인포맥스"
     }
   ],
   "issues": [
     {
-      "tag": "유동성·규제",
-      "title": "보험계약대출 규제, 유동성 보호와 해약 증가 사이의 딜레마",
-      "summary": "보험계약대출 규제가 보험사의 유동성을 지키는 수단이 될 수 있지만, 대출 이용이 제한되면 보험계약 해약이 늘어날 수 있다는 딜레마가 제기됐습니다. 규제 설계가 보험사의 유동성 관리와 계약 유지에 동시에 영향을 줄 수 있다는 의미입니다.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPajc4Y19WQW5LMV9DSUtSNXMwTElrSThhNWdLcHVyb21VMGNKcUR3ckdHNzJzLXlhVUc2Ykd2ZVFhaWQ4NENOTHRtMjhDcUlFcWNFbFEwdjYxNHVqMUFqQTBVRjRFd0VlT09xV3VYTTVCWWgxd21NZldhdGsta2dOZTB3VQ?oc=5",
-      "source": "인베스트조선"
+      "tag": "건전성",
+      "title": "보험사 기업대출 연체율 상승…중소기업 대출 건전성 경고등",
+      "summary": "보험·저축은행·상호금융의 기업대출 연체율이 함께 상승했고, 보험사의 중소기업 대출 연체율은 0.80%에서 1.46%로 급등했다는 보도가 나왔다. 기업대출 부문의 연체율 상승이 보험사의 건전성 관리 부담으로 부각되고 있다.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GcWxPbjRFWDBzWGlwSHFPQnd2aEFiNHNFMnN6cUFUYkhRUXNmN1RKLW0xS3BscHJLbjVUNWxYcGxfWWJUUWctQkh3cVVncEI5NzFHWjVUUHhxMHRKRkhvMg?oc=5",
+      "source": "아시아경제"
     },
     {
-      "tag": "모집·유통",
-      "title": "1200%룰과 사업비 증가가 바꾸는 설계사 확보 경쟁",
-      "summary": "생명보험사의 1~5월 사업비가 11% 증가한 가운데 설계사 확보 경쟁이 이어지고 있으며, 1200%룰이 보험사·GA의 신입 설계사 영입 방식과 유통 구조의 변화를 촉진하고 있다는 보도가 나왔습니다. 판매비 부담과 모집 전략 재편이 보험사의 비용 구조와 영업 경쟁력에 영향을 줄 수 있는 국면입니다.",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZnQ1NW5PcTFsZ3dMczJxNTJEZlgxN2p2Q29mNUc4RWliSVRlbFZBWVZkR0tWUVZ1QTBjTlJuTjRBcW14VUl6b3k3U3psSzhmM1ZqYTJic0JCTXM0c3lORndGcXN0RlNDSVFLeEh0Vjh1d1Q4S09FUUIwOFpDclBPQtIBlAFBVV95cUxNU04tSGxUbVVuazhZQzVzQWJfZ2tJNmVacTQwdFRDMVVXT1VCNGxsVXVLajZFOTdUeEFkbEZELXJ4Mk9taWp3aVhCNV9YcW90WWRBM050ODRicWZENm9sVUg1X3hHUkJZNHlWby02MHBOaGpZNHRSbnVRZmlFOU5qd2FUcFREam5uOEFKSGtsQ1htMjdE?oc=5",
-      "source": "Chosunbiz"
+      "tag": "실손보험",
+      "title": "실손보험 ‘페이백’ 의심 병·의원 15곳 추가 수사의뢰",
+      "summary": "실손보험 가입 여부를 확인한 뒤 1천만원 선결제를 유도하고 페이백을 제공한 것으로 의심되는 병·의원 15곳이 추가 수사의뢰됐다. 관련 보도가 여러 매체에서 반복되며 실손보험금 누수와 보험사기 대응이 핵심 이슈로 떠올랐다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kSGo4ekU2QnlDemoxOVZiSUN6LThFb1FEc1U5czNSTVRrOEhWM1BWT0JWdUxGd3lxU2ZCUnZNYWR0OUZtdzZ1Rl9LZEMxdUljWDZJNUw0S21FbEJYUEdzR2Z6R1I1MDM5aWhDM18xZjg?oc=5",
+      "source": "팍스메디컬뉴스"
     },
     {
-      "tag": "자동차보험",
-      "title": "자동차보험 손해율 부담 속 정비협의회도 파행",
-      "summary": "집중호우 피해 손해액이 230억원으로 집계됐고 자동차보험은 적자 구간의 손해율이 이어지는 가운데, 보험업계와 정비업계 간 이견으로 자동차보험정비협의회가 사실상 파행을 겪고 있다는 보도가 나왔습니다. 재해 손실과 정비비 논의가 겹치며 자동차보험의 손익 관리와 보험료 논의 부담이 커지고 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9HLUhud2F6TGxKVnZ4cFBRVmtQSGxPem81bmdkbFpjD3VGalpYMExIaEx3dlhua1FVbmttWXRRTnlOVHFWWmZnekxXT3gyRExMbnhLSk9HM1RIOGh3bEJZcUdYeFZ0WjlYR1d3VWp3OGxDbVpwRWpkTVFQZw?oc=5",
-      "source": "한국금융신문"
+      "tag": "금리·업권실적",
+      "title": "한은 연속 금리인상…보험·은행 긍정, 증권 부담",
+      "summary": "한국은행의 연속 금리인상에 대해 은행과 보험에는 긍정적이고 증권에는 비우호적이라는 분석이 제시됐다. 금리 방향이 금융업권별 실적과 시장 평가를 차별화하는 변수로 부각됐다.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04YVFkVW9OU0d6WlNEcUgzNmdzSG94RkhFSGI3SXk5WHFFTGl3VHF4U3hhM0tpWjZHN21qYkU4ZDU3dHdXUExLRTNsRWhUbHJTMnRFaWZfOXJTaUd0aWpzMW4yR0ZMYksyWHJiTg?oc=5",
+      "source": "메디컬투데이"
     },
     {
-      "tag": "기후·재해",
-      "title": "기후재난 보장 확대와 재해보험 사각지대 부각",
-      "summary": "부산형 기후보험의 제도화가 추진되는 한편, 호우 피해에 대한 건강보험 지원과 당근 농가의 재해보험 사각지대가 보도됐습니다. 기후재난이 개인·지역·농가별 보장 공백과 보험제도 설계 문제를 함께 드러내고 있다는 의미입니다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJUllQNjBGcDJjdUhlVE41ZDkteDFEREp2QmZvNmpIVklHZkFTenV0Q053aHVnSkxOc3JJODN6Ni03RlhrWGRZUGRUUmdjS3JlYVhDZG5ZSkZieUoyUkZqem1uc1A?oc=5",
-      "source": "서울신문"
+      "tag": "상품·자산운용",
+      "title": "변동성 장세에 배당주 변액보험·보험사 자산운용 역량 주목",
+      "summary": "‘롤러코스터 장세’에서 안정적인 배당을 내세운 변액보험이 주목받고 있으며, 보험사가 보험 판매뿐 아니라 자산을 운용하는 힘을 키워야 한다는 보도가 나왔다. 시장 변동성과 금리 환경 속에서 보험상품의 투자 매력과 자산운용 전략이 함께 부각됐다.",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GeUNMb0RMTkhHam5aNVFNQk1Ha1FTSnBES0p6bjF3bDBOOFJhZmgweGNOdjRuMGZSV3RQOW0wNlY0Q3hxSnlObFlHLUZDeENi?oc=5",
+      "source": "문화일보"
     },
     {
-      "tag": "소비자보호",
-      "title": "건강보험 사칭 고지서·앱 설치 유도 주의보",
-      "summary": "건강보험 고지서를 가장해 악성 앱 설치를 유도하는 사례에 대해 국민건강보험공단의 긴급 경고가 나왔습니다. 공공기관과 건강보험을 사칭한 피싱이 보험 소비자의 개인정보·금융 피해로 이어질 수 있어 안내 채널에 대한 주의가 요구됩니다.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XQzNkdGxrYWJ1N3d6UFdtTXdfTW9VT28ya3BQTFNHaEFveTNFU2FrYlNGODdZRUxKMHh4TmhTbXZxZGRsUUhRUGg4QWpIZks5QXpIOEN2eXV3QQ?oc=5",
+      "tag": "업계전략",
+      "title": "보험사 실적 개선·기업가치 제고·사업 재편 움직임",
+      "summary": "카카오페이손해보험은 여행자·펫보험 수요를 바탕으로 실적 성장세를 이어갔고, 현대해상은 보험손익 급증이 보도됐다. DB손해보험은 지속가능한 균형성장 기반 기업가치 제고계획을 발표했으며, 동양생명은 ABL생명 통합에 시동을 걸었다.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhRzEyZnFrYXFQdnlkRTg0VWNRVU9idkh6TWV6ckxxczV2WUNvaGJYb3lGdkgyNW5KN2U0bFJHWkNPTWVhaG1NOWstY0NwUEpTejEwaUJuNkFKdw?oc=5",
       "source": "한국경제"
     }
   ]
