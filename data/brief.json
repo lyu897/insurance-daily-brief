@@ -1,70 +1,70 @@
 {
-  "updatedAt": "2026-08-28T06:12:37.554Z",
+  "updatedAt": "2026-08-28T23:32:43.762Z",
   "articleCount": 45,
-  "editorNote": "제공된 최근 24시간 기사 제목과 메타데이터만을 기준으로 중복 보도는 하나의 이슈로 묶었으며, 기사 본문에 없는 세부 내용과 해석은 추가하지 않았습니다.",
+  "editorNote": "최근 24시간 기사 메타데이터만 기준으로 동일 사안을 통합했습니다. DB손해보험 주주환원율은 일부 기사에서 2030년 40%, 일부에서 50%로 보도돼 차이를 병기했으며, 금융시장 변수는 목록에 구체적인 수치나 방향이 제시된 범위에서만 정리했습니다.",
   "keywords": [
-    "기업대출 연체율",
     "실손보험 페이백",
-    "금리인상",
-    "보험사 자산운용",
-    "변액보험"
+    "DB손해보험 주주환원",
+    "AI 보험",
+    "기업대출 연체율",
+    "기후·재난보험"
   ],
-  "marketSummary": "한은의 연속 금리인상과 변동성 장세가 이어지는 가운데, 금리 상승은 보험·은행에 상대적 호재로, 증권에는 부담으로 거론되며 보험시장에서는 자산운용과 변액보험이 주목받았다.",
+  "marketSummary": "보험주가 혼조세를 보이고 변동성 장세에서 배당주 변액보험 수요가 부각되는 가운데, 보험업계는 주주환원 확대와 건전성 관리라는 상반된 과제를 동시에 마주하고 있다.",
   "marketContext": [
     {
-      "label": "국내 금리",
-      "summary": "기사들은 한국은행의 연속 금리인상과 금리인상 국면에서 은행·보험의 상대적 수혜 가능성을 제시했다. 금리 흐름은 보험사의 자산운용과 상품 수익성에 연결되는 핵심 변수로 언급되고 있다.",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iX2hocUpxcng2eGt0TUlnS2pRd0dQRmtvTHRlaUFyTkFjY3haRWlmYkFTYUE0Ym5PTUpGRExwbFl4NzlJOWdwRll6aWhvNksxZ0I2R3hEWHNVM2RDSlZBaVZjOEs5b1dwcElVTHNn0gFyQVVfeXFMTkxnN0tJS3BuRHVSMjhyRV9KZDczSF9WVi1oZ0l5cXI4dm5qSnRtTTNmNzMtZUo4R1IwVXRmMjdnbzZSQ1p0cXpBbFhPRHhXOEJKallRWmZOMWtaLUdRNXdodzdXaXN6eFdUWDBWTXZYeTNn?oc=5",
-      "source": "폴리뉴스 Polinews"
-    },
-    {
       "label": "주식시장 변동성",
-      "summary": "변동성이 큰 장세 속에서 ‘배당주 변액보험’이 주목받고 있다는 보도가 나왔다. 주식시장 흐름은 변액보험처럼 투자성과와 연계된 상품에 대한 관심 및 상품 구성 논의와 연결된다.",
+      "summary": "‘롤러코스터 장세’와 보험주 혼조 마감이 함께 보도됐다. 변액보험의 배당주 편입 수요와 보험사 주가·주주환원 이슈가 연결되지만, 기사 메타데이터만으로 시장 변동의 구체적 원인이나 규모는 확인할 수 없다.",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GeUNMb0RMTkhHam5aNVFNQk1Ha1FTSnBES0p6bjF3bDBOOFJhZmgweGNOdjRuMGZSV3RQOW0wNlY0Q3hxSnlObFlHLUZDeENi?oc=5",
       "source": "문화일보"
     },
     {
-      "label": "미국 고용지표",
-      "summary": "미국의 주간 신규 실업보험 청구가 20만3천건으로 예상치를 밑돌았다는 기사가 전해졌다. 해당 지표가 보험사의 자산운용·상품가격·건전성에 미치는 영향은 제공된 기사 제목에서 직접 제시되지 않았다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kVWw1SmIxbENZQWhnOHYxcUhjY0N3cmxRTVgwWmpXaC1TdUNBRXFsV2UtS0l4TnVqdUF6YmdRR2RDcmVtSUpBQXExLURpa1Q1OWhLdHEwWmNxN29YZFdFQTNrdWc4NFE5RHRibGd3Z2g?oc=5",
-      "source": "연합인포맥스"
+      "label": "금리·채권금리",
+      "summary": "제공된 기사 목록에는 미국 금리나 국내외 채권금리의 수준·방향에 관한 내용이 없다. 따라서 보험사 자산운용, 상품가격, 건전성에 미친 이번 금리·채권금리의 영향은 판단하지 않는다.",
+      "url": "",
+      "source": "기사 목록상 확인 불가"
+    },
+    {
+      "label": "환율·부동산",
+      "summary": "제공된 기사 목록에는 원·달러 환율이나 부동산 시장의 움직임을 보여주는 내용이 없다. 이에 따라 환율·부동산 변수가 보험사 자산운용과 건전성에 미친 영향도 추가로 추정하지 않는다.",
+      "url": "",
+      "source": "기사 목록상 확인 불가"
     }
   ],
   "issues": [
     {
+      "tag": "실손보험",
+      "title": "실손보험 악용 의심 ‘페이백’ 병·의원 15곳 수사의뢰",
+      "summary": "보건복지부가 실손보험 가입자에게 1000만원 선결제를 유도한 뒤 페이백을 제공한 것으로 의심되는 병·의원 15곳을 추가 수사의뢰했다. 의료기관의 보험금 부정 이용 의혹이 수사 단계로 넘어가면서 실손보험 제도의 관리와 보험사기 대응이 핵심 과제로 부각됐다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XOTBhWWZoaV9nTXlwekJTTnlWN2dYU1FxR2F6aFlBV2g3VEVSUXlqZHJBcW13VTUyS0JJVnU2dVA5cUlsZWM4d29FT29hakVNM0JkZzZqOXhwcFExQ2pmT3hGcVNMeGN1dS01RmZxbw?oc=5",
+      "source": "의사신문"
+    },
+    {
+      "tag": "주주환원·밸류업",
+      "title": "DB손해보험, 2030년 주주환원율 확대 계획 제시",
+      "summary": "DB손해보험이 2030년 연결 기준 주주환원율을 높이는 중장기 계획을 발표했으며, 관련 보도는 목표치를 40% 또는 50%로 각각 전했다. 배당 확대와 지속가능한 균형성장을 내세운 계획인 만큼 보험사의 자본 운용과 주주환원 수준이 시장의 주요 관심사로 떠올랐다.",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFPA4eWRrZUlmZUVaUEgwcEY2OFh4TWxpTjZ0MWpWaWNGX25JaWRJaUhMTGtwanRPVnZEa3huMWc3MmptVXB5ckM3NV9jbUZlMXg3QzAxNXprZGpRNTUtTE5JOFFzX1dBSEN5NlYxQWxlU2VpWTQ?oc=5",
+      "source": "비즈니스포스트"
+    },
+    {
+      "tag": "상품 다변화",
+      "title": "사망보장에서 치료·간병·법률·생활밀착형 보장으로 상품 영역 확대",
+      "summary": "보험 상품이 사망보장 중심에서 치료·간병·법률 보장으로 넓어지고, 여행자·펫보험 수요와 혈관질환 관련 신상품도 소개됐다. 보장 수요가 세분화되면서 보험사들이 생활위험과 건강위험을 겨냥한 상품 개발 및 판매에 집중하는 흐름이 나타났다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pM3FyaGlkTjVmNDA5VDhjVXJmeGtiYk5tMUNheFctc2tBWC0tUG5TRk9xTnBDRkZraEN2cW5VTFZULTFOZEN4czZKYjZaNjVNS09nR1RtM3pHTExnY0xicUZEblFJa1JvNGpVeXNUU2XSAXRBVV95cUxOOWJqLTJjSjVncENMX1Mwc3pzVl9raGhUTk4wajAxcEJXNXdXSW1fZkYyeXY5VFZ5V0ZrVktCcEhUZUpDdkI3OENaNG5DSlhOdnlPTksydFBMbl9QTllERk5BN2ljWVQxV1RfU3R3WTl2MEJ0Tw?oc=5",
+      "source": "IT조선"
+    },
+    {
+      "tag": "AI 보험",
+      "title": "AI 고객·에이전트 확산에 보험 약관과 업무 자동화 재정비",
+      "summary": "보험사들이 AI가 자율적으로 사고를 일으키거나 해킹에 연루되는 상황을 반영해 약관을 다시 검토하고, 신상품을 먼저 체험하는 AI 고객과 보험 문서에 대응하는 AI 에이전트도 등장했다. AI의 보험 판매·심사·보장 영역 진입이 빨라지면서 새로운 위험의 책임과 보장 범위를 정하는 작업이 중요해지고 있다.",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5sR0ttaExsMndZR0ZRTERVSURFcEJ5X2JmMXBLdjIwelN0b1ZEN195Uzd2NjRfMElXZ2w0VkJIczNDSDBlX2VpUQ?oc=5",
+      "source": "플래텀(Platum)"
+    },
+    {
       "tag": "건전성",
-      "title": "보험사 기업대출 연체율 상승…중소기업 대출 건전성 경고등",
-      "summary": "보험·저축은행·상호금융의 기업대출 연체율이 함께 상승했고, 보험사의 중소기업 대출 연체율은 0.80%에서 1.46%로 급등했다는 보도가 나왔다. 기업대출 부문의 연체율 상승이 보험사의 건전성 관리 부담으로 부각되고 있다.",
+      "title": "보험·저축은행·상호금융 기업대출 연체율 동반 상승",
+      "summary": "보험을 포함한 금융권에서 기업대출 연체율이 함께 상승해 건전성 관리에 경고등이 켜졌다는 보도가 나왔다. 보험사의 대출자산 부실 위험과 자본·리스크 관리 부담을 점검해야 한다는 의미로 해석된다.",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GcWxPbjRFWDBzWGlwSHFPQnd2aEFiNHNFMnN6cUFUYkhRUXNmN1RKLW0xS3BscHJLbjVUNWxYcGxfWWJUUWctQkh3cVVncEI5NzFHWjVUUHhxMHRKRkhvMg?oc=5",
       "source": "아시아경제"
-    },
-    {
-      "tag": "실손보험",
-      "title": "실손보험 ‘페이백’ 의심 병·의원 15곳 추가 수사의뢰",
-      "summary": "실손보험 가입 여부를 확인한 뒤 1천만원 선결제를 유도하고 페이백을 제공한 것으로 의심되는 병·의원 15곳이 추가 수사의뢰됐다. 관련 보도가 여러 매체에서 반복되며 실손보험금 누수와 보험사기 대응이 핵심 이슈로 떠올랐다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kSGo4ekU2QnlDemoxOVZiSUN6LThFb1FEc1U5czNSTVRrOEhWM1BWT0JWdUxGd3lxU2ZCUnZNYWR0OUZtdzZ1Rl9LZEMxdUljWDZJNUw0S21FbEJYUEdzR2Z6R1I1MDM5aWhDM18xZjg?oc=5",
-      "source": "팍스메디컬뉴스"
-    },
-    {
-      "tag": "금리·업권실적",
-      "title": "한은 연속 금리인상…보험·은행 긍정, 증권 부담",
-      "summary": "한국은행의 연속 금리인상에 대해 은행과 보험에는 긍정적이고 증권에는 비우호적이라는 분석이 제시됐다. 금리 방향이 금융업권별 실적과 시장 평가를 차별화하는 변수로 부각됐다.",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04YVFkVW9OU0d6WlNEcUgzNmdzSG94RkhFSGI3SXk5WHFFTGl3VHF4U3hhM0tpWjZHN21qYkU4ZDU3dHdXUExLRTNsRWhUbHJTMnRFaWZfOXJTaUd0aWpzMW4yR0ZMYksyWHJiTg?oc=5",
-      "source": "메디컬투데이"
-    },
-    {
-      "tag": "상품·자산운용",
-      "title": "변동성 장세에 배당주 변액보험·보험사 자산운용 역량 주목",
-      "summary": "‘롤러코스터 장세’에서 안정적인 배당을 내세운 변액보험이 주목받고 있으며, 보험사가 보험 판매뿐 아니라 자산을 운용하는 힘을 키워야 한다는 보도가 나왔다. 시장 변동성과 금리 환경 속에서 보험상품의 투자 매력과 자산운용 전략이 함께 부각됐다.",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GeUNMb0RMTkhHam5aNVFNQk1Ha1FTSnBES0p6bjF3bDBOOFJhZmgweGNOdjRuMGZSV3RQOW0wNlY0Q3hxSnlObFlHLUZDeENi?oc=5",
-      "source": "문화일보"
-    },
-    {
-      "tag": "업계전략",
-      "title": "보험사 실적 개선·기업가치 제고·사업 재편 움직임",
-      "summary": "카카오페이손해보험은 여행자·펫보험 수요를 바탕으로 실적 성장세를 이어갔고, 현대해상은 보험손익 급증이 보도됐다. DB손해보험은 지속가능한 균형성장 기반 기업가치 제고계획을 발표했으며, 동양생명은 ABL생명 통합에 시동을 걸었다.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhRzEyZnFrYXFQdnlkRTg0VWNRVU9idkh6TWV6ckxxczV2WUNvaGJYb3lGdkgyNW5KN2U0bFJHWkNPTWVhaG1NOWstY0NwUEpTejEwaUJuNkFKdw?oc=5",
-      "source": "한국경제"
     }
   ]
 }
