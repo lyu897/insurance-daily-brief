@@ -1,70 +1,70 @@
 {
-  "updatedAt": "2026-08-28T23:32:43.762Z",
-  "articleCount": 45,
-  "editorNote": "최근 24시간 기사 메타데이터만 기준으로 동일 사안을 통합했습니다. DB손해보험 주주환원율은 일부 기사에서 2030년 40%, 일부에서 50%로 보도돼 차이를 병기했으며, 금융시장 변수는 목록에 구체적인 수치나 방향이 제시된 범위에서만 정리했습니다.",
+  "updatedAt": "2026-08-29T23:32:52.331Z",
+  "articleCount": 22,
+  "editorNote": "제공된 기사 메타데이터와 제목만을 바탕으로 유사 주제를 통합했습니다. 기사 본문과 금융시장 수치가 제공되지 않아 세부 원인이나 시장 방향은 제목에서 확인되는 범위로만 정리했습니다.",
   "keywords": [
-    "실손보험 페이백",
-    "DB손해보험 주주환원",
-    "AI 보험",
-    "기업대출 연체율",
-    "기후·재난보험"
+    "실손보험",
+    "보험사 건전성",
+    "저축성보험",
+    "마운자로 보장",
+    "기후데이터 보험"
   ],
-  "marketSummary": "보험주가 혼조세를 보이고 변동성 장세에서 배당주 변액보험 수요가 부각되는 가운데, 보험업계는 주주환원 확대와 건전성 관리라는 상반된 과제를 동시에 마주하고 있다.",
+  "marketSummary": "제공된 기사 목록에는 미국 금리·국내외 채권금리·환율·부동산의 당일 방향이 제시되지 않아, 금융시장 흐름이 보험사 자산운용·상품가격·건전성에 미친 영향은 확인할 수 없습니다.",
   "marketContext": [
     {
-      "label": "주식시장 변동성",
-      "summary": "‘롤러코스터 장세’와 보험주 혼조 마감이 함께 보도됐다. 변액보험의 배당주 편입 수요와 보험사 주가·주주환원 이슈가 연결되지만, 기사 메타데이터만으로 시장 변동의 구체적 원인이나 규모는 확인할 수 없다.",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GeUNMb0RMTkhHam5aNVFNQk1Ha1FTSnBES0p6bjF3bDBOOFJhZmgweGNOdjRuMGZSV3RQOW0wNlY0Q3hxSnlObFlHLUZDeENi?oc=5",
-      "source": "문화일보"
-    },
-    {
       "label": "금리·채권금리",
-      "summary": "제공된 기사 목록에는 미국 금리나 국내외 채권금리의 수준·방향에 관한 내용이 없다. 따라서 보험사 자산운용, 상품가격, 건전성에 미친 이번 금리·채권금리의 영향은 판단하지 않는다.",
-      "url": "",
-      "source": "기사 목록상 확인 불가"
+      "summary": "금리와 채권금리는 보험사의 자산운용, 저축성·종신보험 등 상품가격, 자본과 건전성에 연결되는 핵심 변수입니다. 다만 제공된 기사 목록에는 미국 및 국내외 채권금리의 수준이나 방향이 없어 오늘의 영향은 특정할 수 없습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FRFE5cHFGQzNsUTFLZ2tSYWZpNndoelk5Q2o3R213SFFYOGRuRG1LSWdoNTBGbTI2Yy1KSGdoS3A4MU16eHhDQ1pZYm5DSXFSeG5aV3cwdVMxQTFPRjFISzgzTDE4ZnRn?oc=5",
+      "source": "CEO스코어데일리"
     },
     {
-      "label": "환율·부동산",
-      "summary": "제공된 기사 목록에는 원·달러 환율이나 부동산 시장의 움직임을 보여주는 내용이 없다. 이에 따라 환율·부동산 변수가 보험사 자산운용과 건전성에 미친 영향도 추가로 추정하지 않는다.",
-      "url": "",
-      "source": "기사 목록상 확인 불가"
+      "label": "환율",
+      "summary": "환율은 해외투자와 해외사업의 원화 환산 및 위험관리와 연결되는 변수입니다. 그러나 이번 기사 목록에는 환율의 움직임이나 보험사별 환율 영향이 언급되지 않았습니다.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ2VMTWhRQ2hEajBPNnh5ZWF2N25aVHRKUGQyQ1ZCbXVkTjdCaGx4T01hMmpEN3JqbnU1SWg2dGlEbmU1UF9SdFppYkFNR01mTWtvT01Yb3ViSHlHWEJ3TWZ5TktoSWdvZVpmUmRlRjRmVGlYZ1J2THRZRU9KU0NWS1RRRWQ?oc=5",
+      "source": "글로벌이코노믹"
+    },
+    {
+      "label": "부동산",
+      "summary": "부동산은 보험사의 대출자산과 투자자산 건전성에 연결될 수 있는 변수입니다. 제공된 기사 목록에는 부동산 가격이나 관련 손익·건전성 변화가 제시되지 않아 보험시장 영향을 판단할 수 없습니다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95QjRUU3JlOGd4TGRwTUxsVFV2d0tWVVBvUUZYdXJtVVhrM19pNzhrZUFPeWZEOGltWXZORHllU2I5VlllNWFVMmhCQ0RXZkVpNG1EZkYzQlpBdWZ4dENyQ1BJVjVvQy1TUE5B?oc=5",
+      "source": "라이센스뉴스"
     }
   ],
   "issues": [
     {
-      "tag": "실손보험",
-      "title": "실손보험 악용 의심 ‘페이백’ 병·의원 15곳 수사의뢰",
-      "summary": "보건복지부가 실손보험 가입자에게 1000만원 선결제를 유도한 뒤 페이백을 제공한 것으로 의심되는 병·의원 15곳을 추가 수사의뢰했다. 의료기관의 보험금 부정 이용 의혹이 수사 단계로 넘어가면서 실손보험 제도의 관리와 보험사기 대응이 핵심 과제로 부각됐다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XOTBhWWZoaV9nTXlwekJTTnlWN2dYU1FxR2F6aFlBV2g3VEVSUXlqZHJBcW13VTUyS0JJVnU2dVA5cUlsZWM4d29FT29hakVNM0JkZzZqOXhwcFExQ2pmT3hGcVNMeGN1dS01RmZxbw?oc=5",
-      "source": "의사신문"
-    },
-    {
-      "tag": "주주환원·밸류업",
-      "title": "DB손해보험, 2030년 주주환원율 확대 계획 제시",
-      "summary": "DB손해보험이 2030년 연결 기준 주주환원율을 높이는 중장기 계획을 발표했으며, 관련 보도는 목표치를 40% 또는 50%로 각각 전했다. 배당 확대와 지속가능한 균형성장을 내세운 계획인 만큼 보험사의 자본 운용과 주주환원 수준이 시장의 주요 관심사로 떠올랐다.",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFPA4eWRrZUlmZUVaUEgwcEY2OFh4TWxpTjZ0MWpWaWNGX25JaWRJaUhMTGtwanRPVnZEa3huMWc3MmptVXB5ckM3NV9jbUZlMXg3QzAxNXprZGpRNTUtTE5JOFFzX1dBSEN5NlYxQWxlU2VpWTQ?oc=5",
+      "tag": "건전성·수익성",
+      "title": "보험사 건전성 회복과 실적 양극화가 매각·규제 이슈로 부상",
+      "summary": "롯데손해보험은 매각 과정에서 수익성뿐 아니라 건전성 회복이 관건으로 거론됐고, 하나손해보험은 업계가 9조원을 벌어들인 가운데 711억원 적자를 기록한 것으로 보도됐습니다. 보험사 9곳의 기본자본이 당국 권고선에 미달했다는 기사와 보험사 대출 연체율 1.08%, 중소기업 대출 연체율 1.46% 보도가 함께 나오며 수익성과 자본·여신 건전성 관리가 핵심 과제로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tU0Y5ajB2aFJTZVVTR3l5bk9TdlgtQlBqTGhIZFplUHJiTmtiWmltSmVFSXZDcFhfNUlJZ1F1N1NMM254YVM2X2FvZERzZXd1S1BqdVFLM3NrekI5TlNVd0Zqa1ZRNWp1SDhxVXk2OW9CMnM?oc=5",
       "source": "비즈니스포스트"
     },
     {
-      "tag": "상품 다변화",
-      "title": "사망보장에서 치료·간병·법률·생활밀착형 보장으로 상품 영역 확대",
-      "summary": "보험 상품이 사망보장 중심에서 치료·간병·법률 보장으로 넓어지고, 여행자·펫보험 수요와 혈관질환 관련 신상품도 소개됐다. 보장 수요가 세분화되면서 보험사들이 생활위험과 건강위험을 겨냥한 상품 개발 및 판매에 집중하는 흐름이 나타났다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pM3FyaGlkTjVmNDA5VDhjVXJmeGtiYk5tMUNheFctc2tBWC0tUG5TRk9xTnBDRkZraEN2cW5VTFZULTFOZEN4czZKYjZaNjVNS09nR1RtM3pHTExnY0xicUZEblFJa1JvNGpVeXNUU2XSAXRBVV95cUxOOWJqLTJjSjVncENMX1Mwc3pzVl9raGhUTk4wajAxcEJXNXdXSW1fZkYyeXY5VFZ5V0ZrVktCcEhUZUpDdkI3OENaNG5DSlhOdnlPTksydFBMbl9QTllERk5BN2ljWVQxV1RfU3R3WTl2MEJ0Tw?oc=5",
-      "source": "IT조선"
+      "tag": "실손·건강보장",
+      "title": "실손보험 손해율 개선 신호와 건강보험 보장 공백 논쟁",
+      "summary": "실손보험의 의료쇼핑을 제한한 뒤 손해율이 크게 낮아졌다는 보도가 나왔지만, 효과를 체감하기에는 아직 이르다는 평가도 함께 제시됐습니다. 건보 보장률이 10년째 정체되고 4천만명이 실손보험에 가입한 가운데 가계 부담이 커지고 있다는 보도는 손해율 관리와 보장성·소비자 부담의 균형을 과제로 남겼습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jcF9vSmlZNHRSbm5pQzNRRzNuRVB0dlJ6MFA4MlZ6N08yQ3lJdTc3cHB3SnVTNmkyN3J0dDJRYnlNQ1JGMDNaVW9QekNyRlFET0wxdQ?oc=5",
+      "source": "매일경제"
     },
     {
-      "tag": "AI 보험",
-      "title": "AI 고객·에이전트 확산에 보험 약관과 업무 자동화 재정비",
-      "summary": "보험사들이 AI가 자율적으로 사고를 일으키거나 해킹에 연루되는 상황을 반영해 약관을 다시 검토하고, 신상품을 먼저 체험하는 AI 고객과 보험 문서에 대응하는 AI 에이전트도 등장했다. AI의 보험 판매·심사·보장 영역 진입이 빨라지면서 새로운 위험의 책임과 보장 범위를 정하는 작업이 중요해지고 있다.",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5sR0ttaExsMndZR0ZRTERVSURFcEJ5X2JmMXBLdjIwelN0b1ZEN195Uzd2NjRfMElXZ2w0VkJIczNDSDBlX2VpUQ?oc=5",
-      "source": "플래텀(Platum)"
+      "tag": "생명보험·상품",
+      "title": "저축성보험 신계약 위축 속 상품 차별화 움직임",
+      "summary": "생명보험사의 저축성보험 신계약액이 감소한 가운데 빅3 중 삼성생명만 69% 증가한 것으로 보도됐습니다. 교보생명은 20년마다 보장을 복원하는 ‘다시채움 건강종신보험’을 출시해 저축성보험 판매 흐름과 별개로 상품 구조 차별화를 시도했습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FRFE5cHFGQzNsUTFLZ2tSYWZpNndoelk5Q2o3R213SFFYOGRuRG1LSWdoNTBGbTI2Yy1KSGdoS3A4MU16eHhDQ1pZYm5DSXFSeG5aV3cwdVMxQTFPRjFISzgzTDE4ZnRn?oc=5",
+      "source": "CEO스코어데일리"
     },
     {
-      "tag": "건전성",
-      "title": "보험·저축은행·상호금융 기업대출 연체율 동반 상승",
-      "summary": "보험을 포함한 금융권에서 기업대출 연체율이 함께 상승해 건전성 관리에 경고등이 켜졌다는 보도가 나왔다. 보험사의 대출자산 부실 위험과 자본·리스크 관리 부담을 점검해야 한다는 의미로 해석된다.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GcWxPbjRFWDBzWGlwSHFPQnd2aEFiNHNFMnN6cUFUYkhRUXNmN1RKLW0xS3BscHJLbjVUNWxYcGxfWWJUUWctQkh3cVVncEI5NzFHWjVUUHhxMHRKRkhvMg?oc=5",
-      "source": "아시아경제"
+      "tag": "건강보험·신약",
+      "title": "마운자로 보장 확대 가능성을 둘러싼 보험 논의",
+      "summary": "국내에서 마운자로 가격이 비싸다는 지적과 함께 당뇨 환자 대상 건강보험 적용 요구가 제기됐습니다. 미국에서 심혈관 질환 적응증이 추가됐다는 보도는 향후 보험 보장 확대의 발판이 될 수 있다는 관측으로 이어졌습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOXpDaWlpYUlteDZjUzBhbC1NdndTX3pzWW96T3JpVDh1QmphZElYaHlLRlRmS2QySHFVVC1LclFmSnE5dEpWN2ExYlA2OERmcjdKQlhNaXdoVFU2aDZYUktKMHd1cUNDTnNLdmx2SzJjN0ZPam9ueFFvZS1QSlNzV0xsSV9FNkU4?oc=5",
+      "source": "글로벌이코노믹"
+    },
+    {
+      "tag": "기후·농작물보험",
+      "title": "폭염 상시화 속 농작물보험과 기후데이터 법안 정체",
+      "summary": "폭염이 일상이 됐다는 문제의식 속에서도 농작물보험이 제자리걸음을 하고 있으며, 기후데이터 보험법이 국회 농해수위에 계류 중이라는 보도가 나왔습니다. 기후데이터 활용을 뒷받침할 법·제도 정비 여부가 농작물보험의 대응력과 연결된 이슈로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTF5rZl9jMDZUVHA0TFU3RjhyeTc0U1VZcHFxTjF0TE9POHhzQ3c2U3VKWVRVVnplZEZaaG5kV1JMTVFEOEQwWXBXMmY0SVBXUUZPUXljY1JUZw?oc=5",
+      "source": "허프포스트코리아"
     }
   ]
 }
