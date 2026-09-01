@@ -1,64 +1,70 @@
 {
-  "updatedAt": "2026-08-31T23:32:45.036Z",
+  "updatedAt": "2026-09-01T23:33:07.987Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사 중 동일한 ‘소상공인·취약계층 무료 상생보험’ 보도는 하나의 이슈로 통합했으며, 지역별 후속 보도와 세부 보장 내용은 대표 기사에 반영했습니다.",
+  "editorNote": "최근 24시간 기사 중 동일한 발표·출시 내용을 묶어 정리했습니다. 제공된 기사 목록에는 미국 금리, 국내외 채권금리, 환율, 부동산의 구체적인 흐름이나 수치가 포함돼 있지 않아 해당 변수에 대한 판단은 제한적입니다.",
   "keywords": [
     "상생보험",
-    "기후보험",
-    "간병보험",
-    "보험사기",
-    "자본건전성"
+    "보장성보험",
+    "소비자보호",
+    "보험판매제도",
+    "가상자산보험"
   ],
-  "marketSummary": "금리 상승에 보험주가 강세를 보였다는 보도가 나온 가운데, 보험업계에서는 장기 수익성 개선과 기본자본 취약성이 함께 부각됐다.",
+  "marketSummary": "ETF로의 대규모 자금 유입과 보험 해약금 증가 보도가 나온 가운데, 보험시장에서는 상생보험 확대와 보장성 상품 출시가 동시에 나타났습니다.",
   "marketContext": [
     {
-      "label": "금리 상승",
-      "summary": "한 기사에서 금리 상승 이후 보험주가 한 달 새 17% 올랐다고 보도했다. 금리 흐름이 보험주 평가와 함께 보험시장 주요 변수로 주목된다는 점을 보여준다.",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyeDVqdkNoSkNWS1BnNlBMb0pIRVFlOUFacGRlT3JwdlRuWi1JZ0pJRDVDT1cyTldSSkluSkFNcV9NeS1jbVRLRS1EWGFCNjI2SDg2M2RMZ3c1R3RUU19MbDhSSms?oc=5",
-      "source": "디지털데일리"
+      "label": "ETF 자금 유입",
+      "summary": "한 기사에서 ETF에 두 달 만에 5조5000억원이 몰렸다고 보도했습니다. 보험사의 자산운용에 미치는 구체적인 영향이나 보험사 자금 이동 여부는 제공 기사에 제시되지 않았습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yeVQ4dU1lZmtCUUVpaFB0RndSaTZPb1NOVmUtV2tSUVF4dW56cWdUWWFyY2Z3bGp5NDJWcnpvNEdpS01VTjkwdk9YZWpMRk9hLXdHSkVBMWw2QQ?oc=5",
+      "source": "한국경제"
     },
     {
-      "label": "보험사 자본건전성",
-      "summary": "보험사의 장기 수익성은 좋아졌지만 기본자본은 여전히 취약하다는 분석이 제기됐다. 수익성 개선만으로는 건전성 우려가 해소되지 않을 수 있어 기본자본이 보험사의 핵심 점검 변수로 남아 있음을 시사한다.",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0za191VGdGNjl2WXlWM2otTU1jemRJUUFSZHgzNEhETUdqQ2d3SEJpalY4ckEteGJBWV92Z2VFWDQzUml0Szd3RHVxNWRPeC1z?oc=5",
-      "source": "톱데일리"
+      "label": "보험 해약금",
+      "summary": "올해 상반기 보험 해약금이 36조원을 넘어섰다는 보도가 나왔습니다. 해약금 증가는 보험사의 계약 유지와 자금 흐름을 살필 때 참고할 변수지만, 기사에는 자산운용이나 상품가격에 미친 영향이 별도로 설명되지 않았습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9POVZjZ2hpejl3dkNNd1VyYTd5ZHh1NDlaYzIwekVqS09fMVotZW12YmwwVlRicTZEcGN1VGtINVBNRHFudG9nX0pNNjF5OS1fUktPQnVVTERxUdIBWEFVX3lxTFBvaTN4Qk9zb0xyaXhaTW1DdGpyMmJ6WFdTM3VZd2QyT2ZaTmo4aDA5SnNVYWRnaGhKczA0QjNmVjdqTUxUTmpTbVJEWEZvd2psMmtkQUJEeHQ?oc=5",
+      "source": "아주경제"
+    },
+    {
+      "label": "금리·환율·부동산",
+      "summary": "제공된 기사 목록에는 미국 금리, 국내외 채권금리, 환율, 부동산 시장의 당일 흐름이나 수치가 포함돼 있지 않습니다. 따라서 해당 변수와 보험사 자산운용·상품가격·건전성의 연결 관계는 이번 브리핑에서 평가하지 않습니다.",
+      "url": "",
+      "source": "제공 기사 목록"
     }
   ],
   "issues": [
     {
-      "tag": "상생금융",
-      "title": "보험업계, 7개 지자체서 소상공인·취약계층 무료 상생보험 출시",
-      "summary": "보험업계가 7개 지방자치단체에서 소상공인과 취약계층을 대상으로 140억원 규모의 무료 상생보험을 9월부터 출시한다. 사망·질병 때 대출 상환, 입원 때 월세 지원과 기후·사이버 피해 등을 보장하는 상품으로 보험의 상생금융 역할을 넓힌다는 의미가 있다.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10bmo4VlZYWF9zcldwNGk2cUJmQVUwRm1jd2ZCS3RvQ2RWVEViSWFEaF9pOGJXbTVMU3oycXBmWEtrRVdLejdlMUQ3aFFTUWxlQ2phQUhXOGJOeWJZY2FTdNIBZkFVX3lxTFBFVUtkNFpNU1pJWWM0MGJHcmNyVjlJTFpUcUcyaWVJRFRsdHR2aktBbkpOcnNQZlp3SlhPc19pUzA0ZHczLVpCMXRZcHFScHo4a1Y3OUZfbU9qNkNLODNxblc3M2VUdw?oc=5",
-      "source": "뉴스1"
+      "tag": "상생보험",
+      "title": "보험업계·지자체, 소상공인·취약계층 대상 무료 상생보험 확대",
+      "summary": "보험업계가 7개 지방자치단체와 함께 140억원 규모의 무료 상생보험을 내놓고 소상공인 약 100만명에게 혜택을 제공할 전망이라는 보도가 이어졌습니다. 상품에는 사망·질병 보장과 함께 일부 지역에서 사이버 피해 보장도 포함돼 취약계층 안전망 성격을 보였습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sLWk2ZjlUVDQwN3BVNTRVdFpvRnZlUzlhWkJoSk9ycFVEMmJYOTZtOWFpWGdWaTNZMmt6bGNBUUtUb1RMaUtjZHBUN290a043SVZremVYM2xTU2l6YjNCMNIBYEFVX3lxTE9sLWk2ZjlUVDQwN3BVNTRVdFpvRnZlUzlhWkJoSk9ycFVEMmJYOTZtOWFpWGdWaTNZMmt6bGNBUUtUb1RMaUtjZHBUN290a043SVZremVYM2xTU2l6YjNCMA?oc=5",
+      "source": "연합뉴스 외"
     },
     {
-      "tag": "기후리스크",
-      "title": "폭염보험·풍수해 국가재보험 등 기후보험의 보장 공백 부각",
-      "summary": "폭염보험은 보상이 열려도 상인들이 가입을 포기했고, 지자체 안전보험의 폭염 보장도 제각각이며 좁다는 지적이 나왔다. 해외에서는 날씨 데이터 기반 기후보험이 진화하는 가운데 국내 풍수해 국가재보험 도입은 1년 미뤄진 상태여서 기후위험 보장 공백이 핵심 과제로 제시됐다.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNcnRGZkhaLVdHRl9GSGZKNXM1eUx1d28zeUdTNU1pLXJ4cmJKUElVMVYzRXhVQ2p3eHZMZm83VDV1MDhLZmpBNVo3cU5JalpTUXQtNElKbGJscGp2NFFxMNIBYEFVX3lxTFBNcnRGZkhaLVdHRl9GSGZKNXM1eUx1d28zeUdTNU1pLXJ4cmJKUElVMVYzRXhVQ2p3eHZMZm83VDV1MDhLZmpBNVo3cU5JalpTUXQtNElKbGJscGp2NFFxMA?oc=5",
+      "tag": "상품",
+      "title": "생보사들의 건강·간병 보장성 상품 출시 이어져",
+      "summary": "농협생명은 혈관 관련 보장을 내세운 건강보험을, iM라이프는 노년기 전 단계 보장을 강조한 치매간병보험을, 동양생명은 반복적인 의료비를 보장하는 치료비보험을 각각 출시했습니다. 건강·간병·치료비를 겨냥한 신상품 출시가 하루 동안 잇따랐다는 점이 주요 흐름입니다.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKemJOTFJlNXU1cjhUenBaaE1DMmFSai1HUFlNWFd2ZmdjbFIwR1FhLWplNGVVeVpyMk9iUEJYWmk4Wm5EOUtEdTBhWGpDay1hbHY5ZXNScl81UQ?oc=5",
+      "source": "농민신문 외"
+    },
+    {
+      "tag": "소비자보호",
+      "title": "보험 해약금·민원·건강보험 거짓청구 등 소비자보호 이슈 부각",
+      "summary": "올해 상반기 보험 해약금이 36조원을 넘어섰다는 보도와 함께 농협손보 민원이 1년 새 50% 증가했다는 보도가 나왔습니다. 또 최근 4년간 839개 요양기관에서 347억8900만원의 건강보험 거짓청구가 적발됐다는 내용도 전해져 보험 관련 신뢰와 관리 문제가 함께 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9POVZjZ2hpejl3dkNNd1VyYTd5ZHh1NDlaYzIwekVqS09fMVotZW12YmwwVlRicTZEcGN1VGtINVBNRHFudG9nX0pNNjF5OS1fUktPQnVVTERxUdIBWEFVX3lxTFBvaTN4Qk9zb0xyaXhaTW1DdGpyMmJ6WFdTM3VZd2QyT2ZaTmo4aDA5SnNVYWRnaGhKczA0QjNmVjdqTUxUTmpTbVJEWEZvd2psMmtkQUJEeHQ?oc=5",
+      "source": "아주경제 외"
+    },
+    {
+      "tag": "제도·판매채널",
+      "title": "보험 판매제도와 GA의 역할을 둘러싼 논의 확대",
+      "summary": "보험업계에서는 시행을 앞둔 ‘8주룰’을 두고 업계의 대응이 복잡하다는 보도가 나왔고, 보험판매전문회사 제도 도입 방향을 소비자보호 관점에서 논의했다는 소식도 전해졌습니다. 보험GA협회가 금융위원회 출신 인사를 상임부회장으로 맞았다는 보도까지 나오면서 판매채널과 제도 변화가 함께 주목받았습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05b2hKYzBqSU0xc0hiYUZrcjNBSkNCYnNueVVuOVNnUmxJV2ZrSEhZU196SDFCMHhocTNPMzYwQkw2bG9xQU91YTgycXNGcnBkOHE0bW5SMU5Jdw?oc=5",
+      "source": "파이낸셜뉴스 외"
+    },
+    {
+      "tag": "가상자산",
+      "title": "가상자산사업자 보험 가입 의무에도 미가입 사례 확인",
+      "summary": "가상자산사업자(VASP)의 보험 가입이 의무지만 업황 침체를 이유로 2곳이 아직 가입하지 않았다는 보도가 나왔습니다. 의무 가입 제도와 실제 이행 사이의 간극이 확인됐다는 점에서 가상자산 관련 보험의 관리 이슈가 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sLWk2ZjlUVDQwN3BVNTRVdFpvRnZlUzlhWkJoSk9ycFVEMmJYOTZtOWFpWGdWaTNZMmt6bGNBUUtUb1RMaUtjZHBUN290a043SVZremVYM2xTU2l6YjNCMNIBYEFVX3lxTE9sLWk2ZjlUVDQwN3BVNTRVdFpvRnZlUzlhWkJoSk9ycFVEMmJYOTZtOWFpWGdWaTNZMmt6bGNBUUtUb1RMaUtjZHBUN290a043SVZremVYM2xTU2l6YjNCMA?oc=5",
       "source": "연합뉴스"
-    },
-    {
-      "tag": "간병보험",
-      "title": "실손보험 악순환 우려에 간병보험 보장 축소",
-      "summary": "보험사들이 실손보험의 악순환이 간병보험에서도 반복될 가능성을 우려해 보장을 축소하고 있다는 보도가 나왔다. 간병보험금 누수 의혹과 맞물려 보장 범위와 상품 운영의 지속가능성이 쟁점으로 부상했다.",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xSXFDTUtJNy1VN012UHdMTDdsc0RmMGEwG3pEQnBKakxhY01pSlB3bDA5ZDlhcFRTOEduelpVdTIzSVhDNHpXR3UtZjJTX1BPTWVxQg?oc=5",
-      "source": "매일경제"
-    },
-    {
-      "tag": "보험사기",
-      "title": "할인 전 금액으로 실손 청구하면 병원 관행도 보험사기",
-      "summary": "법원은 지인 할인을 받은 뒤 할인 전 진료비를 실손보험금으로 청구한 행위를 병원 관행과 관계없이 보험사기로 판단했다. 보험사기 조사와 규제 강화 보도까지 이어지며 의료비 청구의 적정성이 다시 주요 쟁점이 됐다.",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JWEZIUnhyQzVWQnlLU2hCQVliX011Vm9MV200YW5FSW5aX6xMFNuOFhxN0g1NjhidjIwZGZTaG5hQnZQUWgzUmdNQUNUZUhhdEZHMkJn?oc=5",
-      "source": "MEDI:GATE NEWS"
-    },
-    {
-      "tag": "건전성",
-      "title": "장기 수익성 개선에도 기본자본 취약성 지속",
-      "summary": "보험사의 장기 수익성은 개선됐지만 기본자본은 여전히 취약하다는 분석이 제기됐다. 수익성 개선과 자본건전성 사이의 간극이 보험업계의 지속적인 관리 과제로 남았다는 의미다.",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0za191VGdGNjl2WXlWM2otTU1jemRJUUFSZHgzNEhETUdqQ2d3SEJpalY4ckEteGJBWV92Z2VFWDQzUml0Szd3RHVxNWRPeC1z?oc=5",
-      "source": "톱데일리"
     }
   ]
 }
