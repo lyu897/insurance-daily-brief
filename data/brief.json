@@ -1,70 +1,64 @@
 {
-  "updatedAt": "2026-09-02T23:34:11.212Z",
+  "updatedAt": "2026-09-03T23:33:30.797Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사 중 동일 사안을 반복 보도한 기사는 하나의 이슈로 통합했습니다. 금융시장 변수는 제공된 기사 메타데이터에 구체적인 수치나 방향이 없어 판단을 유보했습니다.",
+  "editorNote": "최근 24시간 기사 중 동일 사안을 다룬 군 복무자 보험, 티빙 개인정보 유출 보상, 국산 CAR-T 급여 관련 보도는 각각 하나의 이슈로 통합했습니다.",
   "keywords": [
-    "자동차보험 8주룰",
-    "보험 민원 통합지원센터",
-    "실손보험 전환",
-    "펫보험 경쟁",
-    "보험상품 혁신"
+    "공공보험",
+    "사이버보험",
+    "불완전판매",
+    "K-ICS",
+    "CAR-T"
   ],
-  "marketSummary": "제공된 기사 목록에는 미국 금리·채권금리·환율·부동산의 당일 흐름이 제시되지 않아 금융시장 방향은 판단하기 어렵고, 보험시장에서는 자동차보험 보상관리와 소비자보호, 신상품 경쟁이 부각됐습니다.",
+  "marketSummary": "미국 고용지표가 예상보다 약한 가운데 장기금리 상승이 보험주 강세로 이어지면서, 보험시장에서는 금리 환경과 자본건전성·성장전략의 연결성이 부각됐습니다.",
   "marketContext": [
     {
-      "label": "미국 금리",
-      "summary": "기사 목록에 미국 금리의 수준이나 변동 방향이 언급되지 않았습니다. 따라서 보험사 자산운용과 건전성에 미친 당일 영향은 판단할 수 없습니다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxNl9pTFpzamg4cFFEWjNFZ1ZnbEY5TlRfNkxLMWE3ZW9oTTFDQWw2WWE3cGsxLXRPOTU3MlF2Zy1UMEZzRnBvVWp3R0FJVF1hR0w2LXZhQ3J4Yk1pVGFCRGFWX0tIT3AtZXJv0gFwQVVfeXFMTmJaNThoUTdsX294WWFiTkVnSk1Ua2RoXzJRY0N5ZmZqVXZfOFQzMTdlTGZqdlMxclpoaHgwRlVOLWxDWm9KbHdDX0xIRTNfQllmRVJIRHlhTi12YU1LMkpJMnBwUU5xM0JObDVUbWdYeQ?oc=5",
-      "source": "머니투데이"
+      "label": "국내외 장기금리",
+      "summary": "장기금리 상승과 함께 KRX 보험지수가 한 달 새 15.8% 올랐다는 보도가 나왔습니다. 금리 흐름은 보험사의 자산운용 및 상품가격과 연결되는 핵심 변수지만, 제공된 기사에는 금리 상승이 개별 보험사의 손익이나 건전성에 미친 구체적 수치가 제시되지는 않았습니다.",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE43d3p6ZHJyckZCQmcwRFVSeXg0UlR6UTlpMDZLeENFYXVlWWRmOUdwTUdGRVBZWURFM3RPcFNNZkxuQ3FjcGJIRHo1MjJ4akI0TWZZc2xFZ1cyS1l6RXNxcmJFYjF0aVY0R1pMdjFpX2pGQQ?oc=5",
+      "source": "인더스트리뉴스"
     },
     {
-      "label": "국내외 채권금리",
-      "summary": "보험 운용자산 1000조원 관련 기사는 규제와 해외진출·생산적금융의 어려움을 다루지만, 국내외 채권금리의 움직임은 제시하지 않았습니다. 이에 따라 상품가격과 자산운용 수익성에 대한 시장 영향은 이번 자료만으로 설명할 수 없습니다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxNl9pTFpzamg4cFFEWjNFZ1ZnbEY5TlRfNkxLMWE3ZW9oTTFDQWw2WWE3cGsxLXRPOTU3MlF2Zy1UMEZzRnBvVWp3R0FJVF1hR0w2LXZhQ3J4Yk1pVGFCRGFWX0tIT3AtZXJv0gFwQVVfeXFMTmJaNThoUTdsX294WWFiTkVnSk1Ua2RoXzJRY0N5ZmZqVXZfOFQzMTdlTGZqdlMxclpoaHgwRlVOLWxDWm9KbHdDX0xIRTNfQllmRVJIRHlhTi12YU1LMkpJMnBwUU5xM0JObDVUbWdYeQ?oc=5",
-      "source": "머니투데이"
-    },
-    {
-      "label": "환율·부동산",
-      "summary": "제공된 기사 목록에는 원·달러 환율이나 국내외 부동산 가격의 당일 흐름이 포함되지 않았습니다. 따라서 보험사의 해외자산 평가, 부동산 관련 건전성, 상품가격에 대한 연결점은 확인할 수 없습니다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxNl9pTFpzamg4cFFEWjNFZ1ZnbEY5TlRfNkxLMWE3ZW9oTTFDQWw2WWE3cGsxLXRPOTU3MlF2Zy1UMEZzRnBvVWp3R0FJVF1hR0w2LXZhQ3J4Yk1pVGFCRGFWX0tIT3AtZXJv0gFwQVVfeXFMTmJaNThoUTdsX294WWFiTkVnSk1Ua2RoXzJRY0N5ZmZqVXZfOFQzMTdlTGZqdlMxclpoaHgwRlVOLWxDWm9KbHdDX0xIRTNfQllmRVJIRHlhTi12YU1LMkpJMnBwUU5xM0JObDVUbWdYeQ?oc=5",
-      "source": "머니투데이"
+      "label": "미국 고용지표",
+      "summary": "미국 주간 신규 실업보험 청구 건수는 20만6000건으로 예상치를 웃돌았습니다. 고용지표는 경기와 금리 경로에 영향을 줄 수 있는 금융시장 변수지만, 제공된 기사에는 해당 결과가 보험사의 자산운용·상품가격·건전성에 미친 직접적인 영향은 언급되지 않았습니다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JVjV6dDVPZW1idjVaLXBQcjAzVGdlbkNZWnJiQ2V4b1N5dHRVb2tLX0VyeF81Ml9LWXIzLXpOQ05OYjZzSThqUXJvMWFySDNZSGJXTGRGZ2l1R19IelBoTURVUGdjZVF5Y3ZuOHlUNU4?oc=5",
+      "source": "연합인포맥스"
     }
   ],
   "issues": [
     {
-      "tag": "자동차보험",
-      "title": "자동차보험 ‘8주룰’ 10일 시행…경상환자 장기치료·보상관리 강화",
-      "summary": "자동차보험 8주룰이 10일부터 시행되며, 경상환자의 장기치료는 별도 심사를 받고 7주 이내 관련 서류를 내야 하는 내용이 보도됐습니다. 일부 기사에서는 경상환자의 향후치료비를 제외하는 보상절차도 함께 제시돼 보험금 누수와 보상관리 기준이 쟁점으로 부상했습니다.",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ueV9CSkU5eVktQnBQdlVyYkN4MkZseFNWanNJTFg3a3NXNGZrQTc4Um9wV1RKUUdFVC1qcDZ1YkdveEVlZVJMaGdmYmtmbjIwaVBQcGUtanBaTnpQTTdKa0JrOV80UmJJVmdxMFlmSW1adw?oc=5",
-      "source": "KB Think"
+      "tag": "제도·상품",
+      "title": "의무복무 병사 전원 단체 상해보험…전역 후 실손 지원",
+      "summary": "내년 7월부터 의무복무 병사 전원에게 골절·정신질환 등을 보장하는 단체 상해보험을 제공하고, 전역 후 18개월 동안 실손보험을 지원하는 방안이 보도됐습니다. 입대부터 전역 이후까지 공공보험의 보장 범위를 넓히는 내용으로, 병사 대상 보험 보장의 제도화가 핵심입니다.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RVFA2QXFScDROMWRTUkZhcEZYdkRyRGtsYkRIV1BMclJhVS0wems2eTEyVGllcjZkNXBfdm9NLUg3TEh5NmdpRkVFWW5lQ0lQYVJGeENKeC1tOEHSAWBBVV95cUxQOW1JYWZpc29SYktOcUZ6MGVzR09kdWk2bHg3M1E0WWNmMl9iczc1NFUzUkN1TFF5aFgwME9lU2gzY1gyM193R3pXRzBJcVpDamc5Y0JqMlBzVmZ6d2JCMnY?oc=5",
+      "source": "연합뉴스"
+    },
+    {
+      "tag": "디지털·보상",
+      "title": "티빙 개인정보 유출…사이버·피싱 안심보험과 포인트 보상",
+      "summary": "티빙의 3954만개 계정 정보 유출과 관련해 회사가 사과하고 보안투자 확대 및 고객 보상안을 제시했습니다. 보상에는 1년간 안심보험 또는 피싱 관련 보험과 포인트가 포함돼 대규모 개인정보 침해사고에서 사이버보험이 고객 보상 수단으로 활용된 사례로 보도됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02VzBVOVBOSzBYSE02YlBMMEtGSnlDMEdwZVhKNFU4SmUzUE44Zk5JNXE2Y2g0Y2hJU1lhbERpUDBUbVBsSWRhdUlDbHljam1RWFRCNWl1a3JsMnk1Q0VkZGhseEtjWTRReml3?oc=5",
+      "source": "보안뉴스"
     },
     {
       "tag": "소비자보호",
-      "title": "손보협회 통합민원지원센터 출범…자동차 과실비율 등 원스톱 처리",
-      "summary": "손해보험협회가 보험 민원을 한곳에서 처리하는 통합민원지원센터를 개소하고 자동차 과실비율 민원을 우선 처리하기로 했습니다. 평균 11일 만에 해결한다는 보도와 함께 민원 처리의 전문성과 효율성을 높이는 창구로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZHdiRTlaSzhaNURLRVlTam52WUZUZ1F0d05zR0tOcFNaeXp1eFBlWVB0VTB3R1FiYmJiTzRhUERuTnJLWC1FbjZpaThxMFVKRzM1X0FkbzJNOFBKSVE1aFhrX2dWUDdLZV91a0h2eTYwVWxEZ3A4VlZyRXo3QVpDalRBNzg?oc=5",
-      "source": "글로벌이코노믹"
+      "title": "우수설계사 인증 확대에도 불완전판매 분쟁 지속",
+      "summary": "생명보험협회가 우수 설계사 1000명을 ‘골든 펠로우’로 선정한 가운데, 종신보험을 적금으로 오인한 사례와 고령 고객의 보장 내용 분쟁 등 불완전판매 관련 보도도 이어졌습니다. 우수 모집인 인증과 실제 판매 과정의 설명·소비자 이해 사이의 간극이 보험업계의 소비자보호 과제로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40TE1FVzFnVXhNTFZCakI2UGF0aWVjWklFZU5HdGtSRlB1SUVmVTZIUkl2WlNYWjNBbDFvMGtBa1FuR3pRUzJ6aEF0OWdTRTEzOW5tU1JoRkIxd9IBX0FVX3lxTE5oOUxYQTlWdzQ4VlFDelI0Tmk5R0NFV3J2WnpCRGFmODh5aHpDN0hmZ0NWUEJnb1pmUVBXZDAyLU9YQUpycXNSelpvQmdGVFR4aTNDNGMzQTNRNFpVSjNF?oc=5",
+      "source": "경향신문"
     },
     {
-      "tag": "판매관리",
-      "title": "국감 앞두고 실손·판매관리·종신보험 불완전판매 등 소비자보호 부각",
-      "summary": "국정감사를 앞두고 보험업계의 실손보험과 판매관리, 소비자보호 이슈가 부각됐다는 보도가 나왔습니다. 별도 기사에서는 1·2세대 실손보험 가입자의 5세대 전환과 종신보험의 연금·저축 오인 판매 사례가 다뤄져 상품 설명과 전환 과정의 관리 필요성이 제기됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HQXRuOTVtVkNqSE0xVlJPeXdXRzVxMWV6dXVGbFNST05mRG5iMUV4ODhZYkJ4anR1bTNWQklQRnNMTEdYd1A3UVhIUXIwQ0tSMHVWa0FyTEdPYzNlOGpmNkhaUWxRTUdG?oc=5",
-      "source": "보험매일"
+      "tag": "산업재편·건전성",
+      "title": "포화시장 돌파 위한 통합·M&A와 자본건전성 개선",
+      "summary": "한화손해보험의 캐롯손해보험 통합 1년 성과와 자동차보험 시장점유율 6%, 보험업계의 M&A·합병·증자 움직임이 보도됐습니다. 한화손해보험의 K-ICS 비율이 185%까지 높아졌다는 소식과 보험손익 반등에도 순이익이 뒷걸음질쳤다는 분석은 시장 재편과 자본·수익성 관리가 함께 요구되고 있음을 보여줍니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5YlRJaVhVNGZTY29Hc0h1cHc4aVh4ZEpQcFl4bWZvNXpaNmgwRFFkNzVuWWVlSVBBd1hfRlRxR2Y3TFdvb1pGSlBtWXhJbUhfRFlrejBGR1BiU21zVFRLa0luRi14SmRlRnFY?oc=5",
+      "source": "fetv.co.kr"
     },
     {
-      "tag": "펫보험",
-      "title": "카카오페이손보 펫보험, 출시 4개월 만에 1만건·브랜드 대상 1위",
-      "summary": "카카오페이손해보험의 펫보험이 출시 4개월 만에 1만건을 돌파했고 올해의 브랜드 대상 펫보험 부문 1위로 선정됐다는 보도가 이어졌습니다. 펫보험을 중심으로 소비자 인지도와 디지털 기반 보험 경쟁력을 확대하려는 흐름이 나타났습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UT1U5cExYemFhYlYtbXUtbGxUUGdwQ0xOdnNHVlQ5dkFXNEZDUVlnSzVzVmVTak5nUVlWT1VLcXJEY2xyNWhZUXBNaDJCdmhkSEpab2dM3MwY1FYSUhMNNIBZkFVX3lxTE9IUG5icFBOU2t6eG9ReVGVTOUktbDNxMUJqVmlsWjVVNFQ5dlI2SGxzc1c4Y09Ob3hJRlRQVklwbUx5TTI1ZGJYa2FKbmkxd1NabVZXZkVmdzZ4TlR1Z3FfMFJtdw?oc=5",
-      "source": "뉴스1"
-    },
-    {
-      "tag": "상품혁신",
-      "title": "건강·어린이·종신보험부터 미니보험까지 상품 경쟁과 혁신 확대",
-      "summary": "교보생명은 3040세대의 보험료 부담을 고려한 건강보험을 개정하고 고령기 보장을 강화했으며, 한화생명은 어린이보험 실적이 경쟁사와 엇갈렸다는 보도가 나왔습니다. 흥국생명의 종신보험 배타적사용권 획득과 소액 보장 미니보험 확산, AI의 보험산업 변화 가능성도 함께 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZM1ZnS2dKeF9FMEhYWHRiZlpDR0dtdm9kVkZ4MWJILWxzSnM4ZU04SlRnbjhRbnVZUktCWU1JUWI2bFJlSnYyTWlNR1luMGkzczhtOXFDT2NDcTFMenlKbW4yZFBoQWdZ?oc=5",
-      "source": "보험매일"
+      "tag": "건강보험·신약",
+      "title": "국산 CAR-T ‘림카토’, 건강보험 급여 등재 절차 진전",
+      "summary": "국산 CAR-T 세포치료제 ‘림카토’가 약평위를 통과하며 연내 건강보험 등재 절차가 본격화됐다는 보도가 나왔습니다. 급여 등재의 첫 관문을 넘었다는 의미로, 고가 신약의 건강보험 보장 편입 여부가 주요 관심사로 부상했습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YRVI2c3BwX3ZYSnZkaFFYUERfVjNwTUctZXBaMnJZSWVfS2dOckdGU3VLS3IydjRLTDB0YzM5ZW53NHlzUm5CYjU4MHI1WEdsZmpxV3kxa3B4NjhQbzBlWjdlNVU?oc=5",
+      "source": "PRESS9"
     }
   ]
 }
