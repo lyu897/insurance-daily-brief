@@ -1,64 +1,64 @@
 {
-  "updatedAt": "2026-09-03T23:33:30.797Z",
+  "updatedAt": "2026-09-04T23:33:09.452Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사 중 동일 사안을 다룬 군 복무자 보험, 티빙 개인정보 유출 보상, 국산 CAR-T 급여 관련 보도는 각각 하나의 이슈로 통합했습니다.",
+  "editorNote": "최근 24시간 기사 중 동일 정책·사건·상품군을 하나의 이슈로 통합했습니다. 제공된 기사 메타데이터에 없는 금리·환율·부동산 수치는 추가하지 않았습니다.",
   "keywords": [
-    "공공보험",
-    "사이버보험",
-    "불완전판매",
-    "K-ICS",
-    "CAR-T"
+    "군장병 상해보험",
+    "실손보험 이용 쏠림",
+    "해약준비금",
+    "건강보험 보장 확대",
+    "자동차보험 8주룰"
   ],
-  "marketSummary": "미국 고용지표가 예상보다 약한 가운데 장기금리 상승이 보험주 강세로 이어지면서, 보험시장에서는 금리 환경과 자본건전성·성장전략의 연결성이 부각됐습니다.",
+  "marketSummary": "코스피는 1.64% 올랐지만 보험주는 3.46% 하락해, 전체 증시 상승과 보험업종 주가 흐름이 엇갈렸습니다.",
   "marketContext": [
     {
-      "label": "국내외 장기금리",
-      "summary": "장기금리 상승과 함께 KRX 보험지수가 한 달 새 15.8% 올랐다는 보도가 나왔습니다. 금리 흐름은 보험사의 자산운용 및 상품가격과 연결되는 핵심 변수지만, 제공된 기사에는 금리 상승이 개별 보험사의 손익이나 건전성에 미친 구체적 수치가 제시되지는 않았습니다.",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE43d3p6ZHJyckZCQmcwRFVSeXg0UlR6UTlpMDZLeENFYXVlWWRmOUdwTUdGRVBZWURFM3RPcFNNZkxuQ3FjcGJIRHo1MjJ4akI0TWZZc2xFZ1cyS1l6RXNxcmJFYjF0aVY0R1pMdjFpX2pGQQ?oc=5",
-      "source": "인더스트리뉴스"
+      "label": "국내 주식시장",
+      "summary": "코스피는 6687.21로 전일보다 1.64% 상승했습니다. 보험사 입장에서는 전체 시장의 상승 흐름과 보험업종 주가의 움직임을 구분해 볼 필요가 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Cd1JJT3VmSk9Tb21hTUlfU1UwU2pPUTZDVUhUYXdXcUczNXhPMlNSNWljQ0F2bmljZV9IaVctYkJoanVISnJXUXhnNnhTWWdrNkhoM053WHF4YmF1REV1dk5EMy0zTTQ?oc=5",
+      "source": "자본시장뉴스"
     },
     {
-      "label": "미국 고용지표",
-      "summary": "미국 주간 신규 실업보험 청구 건수는 20만6000건으로 예상치를 웃돌았습니다. 고용지표는 경기와 금리 경로에 영향을 줄 수 있는 금융시장 변수지만, 제공된 기사에는 해당 결과가 보험사의 자산운용·상품가격·건전성에 미친 직접적인 영향은 언급되지 않았습니다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JVjV6dDVPZW1idjVaLXBQcjAzVGdlbkNZWnJiQ2V4b1N5dHRVb2tLX0VyeF81Ml9LWXIzLXpOQ05OYjZzSThqUXJvMWFySDNZSGJXTGRGZ2l1R19IelBoTURVUGdjZVF5Y3ZuOHlUNU4?oc=5",
-      "source": "연합인포맥스"
+      "label": "보험업종 주가",
+      "summary": "보험주는 3.46% 하락해 코스피 상승과 반대 흐름을 보였습니다. 기사에 제시된 시장 흐름만 보면 보험업종에 대한 주가 평가가 전체 증시와 다르게 나타난 점이 핵심입니다.",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Cd1JJT3VmSk9Tb21hTUlfU1UwU2pPUTZDVUhUYXdXcUczNXhPMlNSNWljQ0F2bmljZV9IaVctYkJoanVISnJXUXhnNnhTWWdrNkhoM053WHF4YmF1REV1dk5EMy0zTTQ?oc=5",
+      "source": "자본시장뉴스"
     }
   ],
   "issues": [
     {
-      "tag": "제도·상품",
-      "title": "의무복무 병사 전원 단체 상해보험…전역 후 실손 지원",
-      "summary": "내년 7월부터 의무복무 병사 전원에게 골절·정신질환 등을 보장하는 단체 상해보험을 제공하고, 전역 후 18개월 동안 실손보험을 지원하는 방안이 보도됐습니다. 입대부터 전역 이후까지 공공보험의 보장 범위를 넓히는 내용으로, 병사 대상 보험 보장의 제도화가 핵심입니다.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RVFA2QXFScDROMWRTUkZhcEZYdkRyRGtsYkRIV1BMclJhVS0wems2eTEyVGllcjZkNXBfdm9NLUg3TEh5NmdpRkVFWW5lQ0lQYVJGeENKeC1tOEHSAWBBVV95cUxQOW1JYWZpc29SYktOcUZ6MGVzR09kdWk2bHg3M1E0WWNmMl9iczc1NFUzUkN1TFF5aFgwME9lU2gzY1gyM193R3pXRzBJcVpDamc5Y0JqMlBzVmZ6d2JCMnY?oc=5",
-      "source": "연합뉴스"
+      "tag": "정책·보장",
+      "title": "군장병 상해보험 전국 확대…전역 후 의료비 지원도 강화",
+      "summary": "군 복무 중 상해보험을 전국으로 확대하고, 전역 후 실손보험 등 의료비·정책 지원을 강화하는 방안이 기사화됐습니다. 국가가 군 복무 청년의 위험과 의료비를 더 폭넓게 책임지는 방향으로 보장 체계가 논의되고 있다는 의미입니다.",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84Rk1pWWxpNlluTHppZWkyTEhnZ0RGZkRHSHNCckxBT1E0Y1ctRUpmUjI0S0ZkQmV1Vk5GVjlzXzJWVmR2Um9UNXkwRUdKdWVfMGZDVXdyX2ZQa2VRa2o3S2YwZ1RqMlU?oc=5",
+      "source": "연합뉴스TV"
     },
     {
-      "tag": "디지털·보상",
-      "title": "티빙 개인정보 유출…사이버·피싱 안심보험과 포인트 보상",
-      "summary": "티빙의 3954만개 계정 정보 유출과 관련해 회사가 사과하고 보안투자 확대 및 고객 보상안을 제시했습니다. 보상에는 1년간 안심보험 또는 피싱 관련 보험과 포인트가 포함돼 대규모 개인정보 침해사고에서 사이버보험이 고객 보상 수단으로 활용된 사례로 보도됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02VzBVOVBOSzBYSE02YlBMMEtGSnlDMEdwZVhKNFU4SmUzUE44Zk5JNXE2Y2g0Y2hJU1lhbERpUDBUbVBsSWRhdUlDbHljam1RWFRCNWl1a3JsMnk1Q0VkZGhseEtjWTRReml3?oc=5",
-      "source": "보안뉴스"
+      "tag": "실손보험",
+      "title": "20조원 규모 실손보험, 병의원 이용에 86% 집중",
+      "summary": "실손보험 지급액 가운데 86%가 병의원에 쏠린 반면 약국 비중은 0.7%에 그쳤다는 내용이 나왔습니다. 보장 이용이 의료기관에 집중된 구조가 실손보험 운영과 상품 관리의 주요 쟁점으로 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOUlVqUWlyRUx3bGZjVFZvM29uOUZrVl85ZmdRcVNoa3J1UmRnZkYzUjhQSGJfLUJkTlptZnVPTmFnSXQ3Z2FaeGlaX3o2M25mV191Z3p3?oc=5",
+      "source": "데일리팜"
     },
     {
-      "tag": "소비자보호",
-      "title": "우수설계사 인증 확대에도 불완전판매 분쟁 지속",
-      "summary": "생명보험협회가 우수 설계사 1000명을 ‘골든 펠로우’로 선정한 가운데, 종신보험을 적금으로 오인한 사례와 고령 고객의 보장 내용 분쟁 등 불완전판매 관련 보도도 이어졌습니다. 우수 모집인 인증과 실제 판매 과정의 설명·소비자 이해 사이의 간극이 보험업계의 소비자보호 과제로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40TE1FVzFnVXhNTFZCakI2UGF0aWVjWklFZU5HdGtSRlB1SUVmVTZIUkl2WlNYWjNBbDFvMGtBa1FuR3pRUzJ6aEF0OWdTRTEzOW5tU1JoRkIxd9IBX0FVX3lxTE5oOUxYQTlWdzQ4VlFDelI0Tmk5R0NFV3J2WnpCRGFmODh5aHpDN0hmZ0NWUEJnb1pmUVBXZDAyLU9YQUpycXNSelpvQmdGVFR4aTNDNGMzQTNRNFpVSjNF?oc=5",
-      "source": "경향신문"
+      "tag": "건전성·주주환원",
+      "title": "해약준비금 부담 증가에 한화·현대해상 주주환원 제약",
+      "summary": "한화손해보험과 현대해상에서 상반기에만 해약준비금 부담이 8조원 이상 늘어 주주환원에 제약이 생겼다는 보도가 나왔습니다. 해약준비금 확대가 보험사의 자본 운용과 주주환원 여력을 함께 압박하는 요인으로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtM1VMWnBJN0ZtTnJHVjZZeUl3UFA4bW9aZFVjWXVSNS1sUzZGSHRITkhMc3VycFRVOG9CWGJNcWtOdVBCUjdGYjViX0I0YVRsTFlpTVRLQlFtT1E0anV3WUJqNVdTNk8w?oc=5",
+      "source": "CEO스코어데일리"
     },
     {
-      "tag": "산업재편·건전성",
-      "title": "포화시장 돌파 위한 통합·M&A와 자본건전성 개선",
-      "summary": "한화손해보험의 캐롯손해보험 통합 1년 성과와 자동차보험 시장점유율 6%, 보험업계의 M&A·합병·증자 움직임이 보도됐습니다. 한화손해보험의 K-ICS 비율이 185%까지 높아졌다는 소식과 보험손익 반등에도 순이익이 뒷걸음질쳤다는 분석은 시장 재편과 자본·수익성 관리가 함께 요구되고 있음을 보여줍니다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5YlRJaVhVNGZTY29Hc0h1cHc4aVh4ZEpQcFl4bWZvNXpaNmgwRFFkNzVuWWVlSVBBd1hfRlRxR2Y3TFdvb1pGSlBtWXhJbUhfRFlrejBGR1BiU21zVFRLa0luRi14SmRlRnFY?oc=5",
-      "source": "fetv.co.kr"
+      "tag": "상품·보장",
+      "title": "생보 건강보험, 진단금에서 치료·간병·돌봄으로 보장 확대",
+      "summary": "생명보험사 건강보험이 진단금 중심에서 치료비·간병·돌봄까지 보장을 넓히는 흐름을 보이고, 혈관질환과 MRI·재활 등을 겨냥한 신상품도 소개됐습니다. 건강 관련 위험을 세분화하고 보장 영역을 확장하는 상품 경쟁이 이어지고 있다는 의미입니다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hS2h5M05faEdaYWNyVEdKLUhtOU0wOFBrNmM0RExiblczNzg5RmhRaktDbFd4TFB6MEprQU4ySlFUaVJiVlBWMkNhU3NvLTVFdTY1eWEwMTNJUUZPMEhwblNLYzdaYWtUMlZRZk5WMzfSAXRBVV95cUxPN2NUSmJmY3VlY1VMSXBnb3BzUGdaaUcxaGJtUHJxc2UtRThUVDN4Y1B2YXg4ek4ydjJaTG1STEFZcnlmV0N2QUY2R3pNRS1PSU4xX0oxT3BtdC0zYmxuSjhtWTBjVWwwRlJuck5MRTNkVVJFLQ?oc=5",
+      "source": "IT조선"
     },
     {
-      "tag": "건강보험·신약",
-      "title": "국산 CAR-T ‘림카토’, 건강보험 급여 등재 절차 진전",
-      "summary": "국산 CAR-T 세포치료제 ‘림카토’가 약평위를 통과하며 연내 건강보험 등재 절차가 본격화됐다는 보도가 나왔습니다. 급여 등재의 첫 관문을 넘었다는 의미로, 고가 신약의 건강보험 보장 편입 여부가 주요 관심사로 부상했습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YRVI2c3BwX3ZYSnZkaFFYUERfVjNwTUctZXBaMnJZSWVfS2dOckdGU3VLS3IydjRLTDB0YzM5ZW53NHlzUm5CYjU4MHI1WEdsZmpxV3kxa3B4NjhQbzBlWjdlNVU?oc=5",
-      "source": "PRESS9"
+      "tag": "자동차보험",
+      "title": "자동차보험 ‘8주룰’ 시행 앞두고 경상환자 치료 심사 주목",
+      "summary": "자동차보험에서 경상환자의 8주 초과 치료를 심사하는 제도 변화가 임박했다는 보도가 나왔습니다. 제도 시행을 앞두고 자동차보험 손해율 개선 여부와 보상 운영 변화에 업계의 관심이 쏠리고 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84SjdMTGJya09LUmxqM0drN1BmWU9GN3I3elZVS20yREtzYWl6aE92WTdCYWVTOUdYMUZiNEo1SVdaOTN3c21rSHYzSE95alBnQXdN?oc=5",
+      "source": "네이트"
     }
   ]
 }
