@@ -1,64 +1,63 @@
 {
-  "updatedAt": "2026-09-04T23:33:09.452Z",
-  "articleCount": 45,
-  "editorNote": "최근 24시간 기사 중 동일 정책·사건·상품군을 하나의 이슈로 통합했습니다. 제공된 기사 메타데이터에 없는 금리·환율·부동산 수치는 추가하지 않았습니다.",
+  "updatedAt": "2026-09-05T23:33:00.660Z",
+  "articleCount": 20,
+  "editorNote": "최근 24시간 기사 중 동일 제목 또는 동일 사안을 다룬 기사는 하나의 이슈로 통합했습니다. 제공된 메타데이터에 금융시장 수치와 기사 본문이 없어 시장 변수의 영향은 확인 가능한 범위에서만 정리했습니다.",
   "keywords": [
-    "군장병 상해보험",
-    "실손보험 이용 쏠림",
-    "해약준비금",
-    "건강보험 보장 확대",
-    "자동차보험 8주룰"
+    "자동차보험 8주룰",
+    "보험계약대출·카드론",
+    "기후재난 보험 사각지대",
+    "공공·정책성 보험"
   ],
-  "marketSummary": "코스피는 1.64% 올랐지만 보험주는 3.46% 하락해, 전체 증시 상승과 보험업종 주가 흐름이 엇갈렸습니다.",
+  "marketSummary": "제공된 기사에서는 50대 이상 보험계약대출·카드론 증가와 주식 대신 보험을 통한 목돈 운용 수요가 포착됐지만, 금리·환율·채권금리 등 전통적 금융시장 흐름은 확인되지 않습니다.",
   "marketContext": [
     {
-      "label": "국내 주식시장",
-      "summary": "코스피는 6687.21로 전일보다 1.64% 상승했습니다. 보험사 입장에서는 전체 시장의 상승 흐름과 보험업종 주가의 움직임을 구분해 볼 필요가 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Cd1JJT3VmSk9Tb21hTUlfU1UwU2pPUTZDVUhUYXdXcUczNXhPMlNSNWljQ0F2bmljZV9IaVctYkJoanVISnJXUXhnNnhTWWdrNkhoM053WHF4YmF1REV1dk5EMy0zTTQ?oc=5",
-      "source": "자본시장뉴스"
+      "label": "가계 레버리지와 보험계약대출",
+      "summary": "‘빚투’ 상황에서 50대 이상 보험계약대출과 카드론이 늘었다는 기사가 나왔습니다. 보험계약대출 증가는 보험사의 대출 운용과 계약자 유동성에 연결될 수 있지만, 제공된 메타데이터에는 금리·연체·건전성 수치가 없어 영향 방향은 판단하기 어렵습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83ZXRFNXpHNHlidE9qcDJodlNrd1BCdlhmUzdwOUo1R2tjY3RvSnZveVB6MlhiNzdnMXZzX3FLMENZQ1JWU1d1SnJXaURjcE0?oc=5",
+      "source": "v.daum.net·네이트"
     },
     {
-      "label": "보험업종 주가",
-      "summary": "보험주는 3.46% 하락해 코스피 상승과 반대 흐름을 보였습니다. 기사에 제시된 시장 흐름만 보면 보험업종에 대한 주가 평가가 전체 증시와 다르게 나타난 점이 핵심입니다.",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Cd1JJT3VmSk9Tb21hTUlfU1UwU2pPUTZDVUhUYXdXcUczNXhPMlNSNWljQ0F2bmljZV9IaVctYkJoanVISnJXUXhnNnhTWWdrNkhoM053WHF4YmF1REV1dk5EMy0zTTQ?oc=5",
-      "source": "자본시장뉴스"
+      "label": "목돈 운용과 보험 수요",
+      "summary": "‘주식 대신 보험’이라는 제목처럼 부자들의 목돈 운용 방식 변화가 보험과 연결된 이슈로 제시됐습니다. 다만 주식시장 흐름이나 보험 상품의 수익률·가격 정보는 제공되지 않아 자산운용 및 상품가격에 미친 구체적 영향은 확인할 수 없습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLWkxWaTVCWUpycG9iVVB0QU5QTEZ2dmlKQWdBVEFKUmlfaldBYnMyM2N4MWVRbGF6TkJJYWc3eTk3Q1VIdS00YUZxSmtqSzlPcXFr?oc=5",
+      "source": "네이트"
     }
   ],
   "issues": [
     {
-      "tag": "정책·보장",
-      "title": "군장병 상해보험 전국 확대…전역 후 의료비 지원도 강화",
-      "summary": "군 복무 중 상해보험을 전국으로 확대하고, 전역 후 실손보험 등 의료비·정책 지원을 강화하는 방안이 기사화됐습니다. 국가가 군 복무 청년의 위험과 의료비를 더 폭넓게 책임지는 방향으로 보장 체계가 논의되고 있다는 의미입니다.",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84Rk1pWWxpNlluTHppZWkyTEhnZ0RGZkRHSHNCckxBT1E0Y1ctRUpmUjI0S0ZkQmV1Vk5GVjlzXzJWVmR2Um9UNXkwRUdKdWVfMGZDVXdyX2ZQa2VRa2o3S2YwZ1RqMlU?oc=5",
-      "source": "연합뉴스TV"
-    },
-    {
-      "tag": "실손보험",
-      "title": "20조원 규모 실손보험, 병의원 이용에 86% 집중",
-      "summary": "실손보험 지급액 가운데 86%가 병의원에 쏠린 반면 약국 비중은 0.7%에 그쳤다는 내용이 나왔습니다. 보장 이용이 의료기관에 집중된 구조가 실손보험 운영과 상품 관리의 주요 쟁점으로 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOUlVqUWlyRUx3bGZjVFZvM29uOUZrVl85ZmdRcVNoa3J1UmRnZkYzUjhQSGJfLUJkTlptZnVPTmFnSXQ3Z2FaeGlaX3o2M25mV191Z3p3?oc=5",
-      "source": "데일리팜"
-    },
-    {
-      "tag": "건전성·주주환원",
-      "title": "해약준비금 부담 증가에 한화·현대해상 주주환원 제약",
-      "summary": "한화손해보험과 현대해상에서 상반기에만 해약준비금 부담이 8조원 이상 늘어 주주환원에 제약이 생겼다는 보도가 나왔습니다. 해약준비금 확대가 보험사의 자본 운용과 주주환원 여력을 함께 압박하는 요인으로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtM1VMWnBJN0ZtTnJHVjZZeUl3UFA4bW9aZFVjWXVSNS1sUzZGSHRITkhMc3VycFRVOG9CWGJNcWtOdVBCUjdGYjViX0I0YVRsTFlpTVRLQlFtT1E0anV3WUJqNVdTNk8w?oc=5",
-      "source": "CEO스코어데일리"
-    },
-    {
-      "tag": "상품·보장",
-      "title": "생보 건강보험, 진단금에서 치료·간병·돌봄으로 보장 확대",
-      "summary": "생명보험사 건강보험이 진단금 중심에서 치료비·간병·돌봄까지 보장을 넓히는 흐름을 보이고, 혈관질환과 MRI·재활 등을 겨냥한 신상품도 소개됐습니다. 건강 관련 위험을 세분화하고 보장 영역을 확장하는 상품 경쟁이 이어지고 있다는 의미입니다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hS2h5M05faEdaYWNyVEdKLUhtOU0wOFBrNmM0RExiblczNzg5RmhRaktDbFd4TFB6MEprQU4ySlFUaVJiVlBWMkNhU3NvLTVFdTY1eWEwMTNJUUZPMEhwblNLYzdaYWtUMlZRZk5WMzfSAXRBVV95cUxPN2NUSmJmY3VlY1VMSXBnb3BzUGdaaUcxaGJtUHJxc2UtRThUVDN4Y1B2YXg4ek4ydjJaTG1STEFZcnlmV0N2QUY2R3pNRS1PSU4xX0oxT3BtdC0zYmxuSjhtWTBjVWwwRlJuck5MRTNkVVJFLQ?oc=5",
-      "source": "IT조선"
-    },
-    {
       "tag": "자동차보험",
-      "title": "자동차보험 ‘8주룰’ 시행 앞두고 경상환자 치료 심사 주목",
-      "summary": "자동차보험에서 경상환자의 8주 초과 치료를 심사하는 제도 변화가 임박했다는 보도가 나왔습니다. 제도 시행을 앞두고 자동차보험 손해율 개선 여부와 보상 운영 변화에 업계의 관심이 쏠리고 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84SjdMTGJya09LUmxqM0drN1BmWU9GN3I3elZVS20yREtzYWl6aE92WTdCYWVTOUdYMUZiNEo1SVdaOTN3c21rSHYzSE95alBnQXdN?oc=5",
-      "source": "네이트"
+      "title": "자동차보험 ‘8주룰’의 실효성과 편법 논란",
+      "summary": "자동차보험 ‘8주룰’을 두고 진단명을 바꾸면 규제를 피할 수 있다는 지적과 함께 제도의 실효성을 점검해야 한다는 보도가 나왔습니다. 다른 기사에서는 시행을 편법을 바로잡는 기회로 평가해, 제도 집행과 손해사정 관행이 핵심 쟁점으로 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xa3NFcFBiWHRyOTRUWXBNamNELXlWWi10VEZBUG9oZVlBX21pQkw2amFQTmNtTDB0cURsd3hBbTFYbm82TGVSYVFEeWY5WXJkTGMwNkhSTTRYZGh4MWF4NGEzMTU?oc=5",
+      "source": "서울경제TV·전자신문"
+    },
+    {
+      "tag": "가계부채",
+      "title": "50대 이상 보험계약대출·카드론 증가",
+      "summary": "‘빚투’ 속에서 50대 이상 연령층의 보험계약대출과 카드론이 늘었다는 보도가 나왔습니다. 보험계약대출이 가계의 자금 조달 수단으로 확대되는 흐름이 제시됐지만, 증가 폭과 보험사의 건전성 영향은 제공된 기사 메타데이터만으로 확인되지 않습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83ZXRFNXpHNHlidE9qcDJodlNrd1BCdlhmUzdwOUo1R2tjY3RvSnZveVB6MlhiNzdnMXZzX3FLMENZQ1JWU1d1SnJXaURjcE0?oc=5",
+      "source": "v.daum.net·네이트"
+    },
+    {
+      "tag": "기후·재난보험",
+      "title": "기후재난 피해에도 80%가 보험 사각지대",
+      "summary": "집중호우 등 기후재난에도 피해자의 80%가 보험 사각지대에 놓였다는 보도가 나왔습니다. 재난 피해 보장의 공백이 기후재난의 양극화 문제로 연결됐다는 점에서 보험 가입 확대와 보장 접근성이 쟁점으로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Vc0pzaDhQUkxpRUlVZHBlUjRWakt3T0lyZ1lneXJXMm1IOGRRWTA5UnpLSmQ0WW05c0w3UmhQczRPVjhVMk5MRzk0VUdoSWc?oc=5",
+      "source": "v.daum.net·네이트"
+    },
+    {
+      "tag": "공공·정책성 보험",
+      "title": "지역·계층별 공공 및 지원성 보험 확대",
+      "summary": "제주도는 소상공인 대출안심보험료를 전액 지원하고, iM뱅크는 다문화가정에 무료 사이버안심보험을 제공한다는 기사가 나왔습니다. 군 장병 상해보험 전국 시행과 청년 제대군인 대상 공공 실손보험 도입 보도까지 더해져, 특정 계층을 대상으로 한 보험 지원 확대가 나타났습니다.",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Qa1RDdmVneHEwLTUwNG5fZkdLdXBGMUVTdWQxZ2o5ZlZtTUR5SzhJVmk5WUhCdVhBTi1Oc2tXbDlQVm1yejJqNzVuUHpTakZzWjE2aUZTdE1IbGtUMklLa3RHU2lJWTdzSkhhTExn?oc=5",
+      "source": "제주도민일보·kyongbuk.co.kr·대한민국 보훈방송·아시아투데이"
+    },
+    {
+      "tag": "생명보험 상품",
+      "title": "농협생명, 반복 치료비 보장 ‘혈관튼튼보험’ 출시",
+      "summary": "농협생명이 혈관 관련 치료비를 반복 보장하는 ‘혈관튼튼보험’을 출시했다는 보도가 나왔습니다. 반복 치료비 보장을 전면에 내세운 신상품으로, 보장 구조를 차별화하려는 상품 개발 흐름이 확인됩니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tdUxta25vektUYmxhaTFKNnVzeEdfWEtUTDhtSW9lZjNvSFU5RnU4OEplXy0zWUNxSlF3Q195ZzdSYmM3RHBVbzlzbDRwMzItc09SWVdRUk5Ec3J5b2NyYUtzQV93aFh3?oc=5",
+      "source": "fetv.co.kr"
     }
   ]
 }
