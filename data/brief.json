@@ -1,64 +1,70 @@
 {
-  "updatedAt": "2026-09-06T23:33:53.111Z",
+  "updatedAt": "2026-09-07T23:34:20.758Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사에서 동일한 흐름을 다룬 보도는 하나의 이슈로 통합했습니다. 금리·채권금리·환율·부동산 관련 기사는 확인되지 않아 금융시장 변수로는 증시 흐름만 반영했습니다.",
+  "editorNote": "최근 24시간 기사 메타데이터의 제목과 출처를 기준으로 동일 사안을 묶었습니다. 제공된 자료에는 금융시장 수치나 방향을 다룬 기사가 없어 시장 변수의 당일 흐름은 판단하지 않았습니다.",
   "keywords": [
-    "보험계약대출",
-    "5060세대 빚투",
-    "제3보험 경쟁",
-    "실손보험 심사",
-    "재해보험 보장 공백"
+    "자동차보험 8주 심사",
+    "보험판매전문회사",
+    "건강보험 재정",
+    "기후·시민안전보험",
+    "보험산업 AI 전환"
   ],
-  "marketSummary": "증시 활황이 이어지는 가운데 5060세대의 보험·카드 대출을 통한 투자 확대가 포착돼 보험시장에서는 계약대출 건전성 부담과 자산운용 환경의 변동성에 관심이 커지고 있다.",
+  "marketSummary": "제공된 기사 목록에는 미국 금리·국내외 채권금리·환율·부동산 등 금융시장 흐름을 확인할 수 있는 정보가 없어, 오늘 금융시장과 보험시장 간 방향성은 판단하기 어렵습니다.",
   "marketContext": [
     {
-      "label": "국내 증시 활황",
-      "summary": "증시 활황 속 50대 이상에서 보험·카드 대출이 늘었다는 보도가 나왔다. 보험계약대출 확대가 보험사의 자산운용 재원과 계약자 대출 건전성에 어떤 영향을 줄지 주목된다.",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6UzBaTEpiOF81OEpJQVpYOTUwNUYwVDBiNGZtTlRZTmlPVk51a24ybzZYd3FUNS1BQWtqV1ZoVjU2c2VLb3A2Ny1LUjhqV3M?oc=5",
-      "source": "v.daum.net"
+      "label": "미국 금리",
+      "summary": "제공된 기사에 미국 금리의 수준이나 변동 방향은 언급되지 않았습니다. 미국 금리는 일반적으로 보험사의 해외채권 운용과 금리 민감형 상품의 가격·건전성에 연결될 수 있지만, 이번 자료만으로 당일 영향을 판단할 수 없습니다.",
+      "url": "",
+      "source": "제공 기사 목록"
     },
     {
-      "label": "증시 하락 위험",
-      "summary": "일부 보도는 보험·카드론으로 주식에 투자한 5060세대에 대해 증시가 꺾일 경우를 우려했다. 증시 방향성은 차주의 상환 부담과 보험계약대출 연체 가능성을 통해 보험사의 건전성과 연결된다.",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84dWZPSnRTZFM4MXYxX0tMS3pRbXUzbE9qX0VFUnJJR1dCVlc1QUdDSDBVdGI1aWxGRi1DMDZHMUhVZFEzVW84STd3MkVkRXdPNVHSAVNBVV95cUxNSFBQZi13emh4VDdxcWlsc0NFNkV2U2c1REhyNWFNSEp5UmZpWHVkRTVOMnBiRmIzZjgxaWQydGhyUzZJVEh0b3hwWUJfR0RQMFZwVQ?oc=5",
-      "source": "서울경제"
+      "label": "국내외 채권금리",
+      "summary": "제공된 기사에 국내외 채권금리의 수준이나 변동 방향은 언급되지 않았습니다. 채권금리는 보험사의 투자수익과 자산·부채 평가, 상품 가격 및 건전성에 영향을 줄 수 있으나 이번 자료에는 관련 근거가 없습니다.",
+      "url": "",
+      "source": "제공 기사 목록"
+    },
+    {
+      "label": "환율",
+      "summary": "제공된 기사에 원·달러 환율 등 환율 변수의 움직임은 언급되지 않았습니다. 환율은 외화자산 운용과 환헤지, 해외투자 평가에 연결될 수 있지만 오늘 보험시장에 미친 영향은 확인할 수 없습니다.",
+      "url": "",
+      "source": "제공 기사 목록"
     }
   ],
   "issues": [
     {
-      "tag": "건전성",
-      "title": "5060세대 보험·카드 대출 늘며 ‘빚투’와 연체율 상승 우려",
-      "summary": "증시 활황을 배경으로 50~60대 이상에서 보험계약대출과 카드론이 늘었고, 일부 보도는 연체율 상승도 함께 전했다. 보험시장에서는 계약대출 증가가 차주의 상환 부담과 보험사의 대출 건전성 문제로 이어질 수 있다는 점이 핵심이다.",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUnBCQkN2RnJOcEZkbnVHSlJjVUw5QVFtTWwtN3VfUUVMY3BsUjF4VGIxOVVNUGh5cmh3UkxrenlpbXdka3g4Nk10cWExcVVoaFVlV3RKZTkybkpFay02V3JCVlgzVXRUcVRPeVItQkZ4RHM1UWdZTVU2dEd4My1sOEI0a01meFMwelI4?oc=5",
-      "source": "조선일보"
+      "tag": "자동차보험",
+      "title": "자동차보험 ‘8주 심사’ 10일 시행…과잉진료 억제와 풍선효과가 쟁점",
+      "summary": "자동차보험의 ‘8주 심사’가 10일부터 시행되며, 관련 기사들은 나이롱 환자와 과잉진료를 줄여 손해율을 개선할 가능성과 함께 풍선효과를 우려했습니다. 제도 시행 이후 보험금 지급과 민원, 손해율에 어떤 변화가 나타날지가 핵심 관전 포인트입니다.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRjIyS0taTUM5N3JDX051TlJsUm1IUmZCYmpHYUhuTk91QjBQTjltY1NveE4wTVU3YjEzanhvSnZYVUt0MDRvQzE1cXdjUE9GMzlNS2dvZFZhUW43aWJQZGkxTzhEREwxT081a1NYeURmaVhLa1gyYmk1ejN6T3dPeWIxbw?oc=5",
+      "source": "글로벌이코노믹"
     },
     {
-      "tag": "상품·영업",
-      "title": "제3보험 경쟁에 생명보험 사업비 확대",
-      "summary": "신계약 경쟁과 제3보험 경쟁의 여파로 생명보험업계의 사업비가 커졌다는 분석이 나왔다. 판매 경쟁이 상품가격과 신계약 수익성에 미치는 영향이 주요 쟁점으로 부상했다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrLXFsM2tJOEVETF81OUtPOFdwRy13RHdmQVNyV2YxR3B3TW14MHV2NTc5NWJ5VUhCNU5QWm4tdVd2N3BDX2NDMWhMV3FKS1lCQ29JcnJSNXFEYlE0SHU1eUR3bHFTNjdMSEtz?oc=5",
-      "source": "news.bizwatch.co.kr"
+      "tag": "판매채널 제도",
+      "title": "보험판매전문회사 도입 재논의…GA업계 입법 추진",
+      "summary": "보험판매전문회사 도입 논의가 18년 만에 다시 부상했으며, GA업계는 관련 입법 발의 준비와 제도 도입을 추진하고 있습니다. 제도화될 경우 보험상품 판매 구조와 GA의 역할 변화가 주요 쟁점이 될 전망이지만, 제공 기사에는 구체적인 법안 내용은 제시되지 않았습니다.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ndmt0NzBhRUVoUVhmWHNucVdpZVJNMUtQZ2h4V040dGxUVk1qazQ3U3k1NTloNTZpN2ZYMzQ0RnRQZGxBUVprakNORWs1X1BmSUFmSWh6SldkRkxtaUl6UC0zSkFRc25oc01CQU4zc1hIYXM5dU4yUl95NWk?oc=5",
+      "source": "한국금융신문"
     },
     {
-      "tag": "실손·의료비",
-      "title": "하지정맥류 실손 심사 강화와 관리급여 추진의 이중 압박",
-      "summary": "하지정맥류 관련 실손보험 심사가 강화되는 가운데 관리급여까지 추진되면서 관련 보장과 의료비 부담에 변화가 예상된다는 보도다. 이는 실손보험의 인수 기준과 보험금 지급 관리, 상품 운영에 영향을 줄 수 있는 사안이다.",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BMGgxYVZBR0VfNmpMNElGaUZLa2RjdlBIMkVvRzM5cGlILXFaQXZBWEJGZGdzYVdka0QySU5MQ1Q2TGFnM1RTY0dYRDdRRV91c3h0QXZWQ1BKXy1PUF9PY1hJbWZtM3ItTWc?oc=5",
-      "source": "의학신문"
+      "tag": "건강보험",
+      "title": "건강보험 재정 지속가능성 논의…보험료율과 국민 참여·혁신 과제 부상",
+      "summary": "대한의사협회는 지속가능한 건강보험 재정을 위해 책임 있는 보험료율 결정을 촉구했고, 국민건강보험공단은 국민참여위원회 출범과 ‘리부트 건강보험’ 토론회를 진행했습니다. 보험료율 결정과 국민 의견 반영, AI·업무혁신 등 건강보험 운영체계 재점검이 함께 논의되고 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xcmN5b1RFekZPemQ0RVhndzZSZFVaUEM0YlotMy1LZnNCelAtZERHdFBBMFp1SEswckJpMlE3Sk14dTFNdW4ta3FDNUVoQi1xNGl2NWIza0w1MXd0U3lVNk01R0xaM2pUeGZj?oc=5",
+      "source": "한국의약통신"
     },
     {
-      "tag": "재해보험",
-      "title": "굴 종패 보장 요구와 재해보험 보장 공백",
-      "summary": "지방의회와 지역 보도를 통해 굴 종패를 재해보험 보장 대상에 포함해야 한다는 요구와 재해보험의 보장 공백이 제기됐다. 보장 대상 확대 여부와 실제 피해 보상 범위가 농어업 보험의 핵심 쟁점이다.",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HR0thcXNNeVdaeGZNMkkyU0dQY1NIWDZyV0FRSlBDNWRsWXg2YU5qUHB4SHpmQjFEZDRhMllTN3BOSUVkTEhoTnZBSzhoVmFSRnlQTnBSY245TS1SeUFhXG9WdVctQQ?oc=5",
-      "source": "KBS 뉴스"
+      "tag": "공공·기후보험",
+      "title": "기후·시민안전보험의 실효성 논란과 데이터 기반 정책화",
+      "summary": "기후보험의 지급 실적이 전무했다는 보도와 함께, 포항시민안전보험의 낮은 치료비 지급 사례가 제기됐습니다. 한편 손해보험업계는 기상청과 데이터 포털 구축을 추진하고 있어, 보장 설계와 보험금 지급 기준의 실효성이 주요 과제로 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wVUZxc1ExNjVyUHRUeWZuVU56eGxjdUlMSlZWRUtFdFB5b0l1Z3RPZjEzTllGa0JrTGplcUpZdmUyemdsN2RwaWVhNFl3MUswa1hsc3ZBa1diX2dZRkZSd0d3YkJ5bVBSdmhmWQ?oc=5",
+      "source": "DFT 대한금융신문"
     },
     {
-      "tag": "판매채널 규제",
-      "title": "보험 모집·광고 규율 강화와 판매전문회사 도입 논의",
-      "summary": "금감원은 1,200%룰 우회 행위를 경고했고, 보험광고 심의 비용의 현실화와 보험판매전문회사 도입을 둘러싼 입법지원 활동도 보도됐다. 모집 보상과 판매채널의 구조 변화가 보험사의 영업비용과 상품 판매 방식에 영향을 줄 수 있다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hS3NPbGxzWFJPTDNiVXJiMVhHSW91QlgtQWg0d0VjbjB3alhoY1F1Y05PU2UwSXNleWM5TERfenlraGE0QlMydG5Md3EzX2ttV2F1YnNrUzBzQ015RVJvVk1USGlNY21M?oc=5",
-      "source": "보험매일"
+      "tag": "보험 사각지대",
+      "title": "국내 세계유산 57% 화재보험 미가입…보장 공백 논란",
+      "summary": "국내 세계유산의 57%가 화재보험에 가입하지 않았고, 팔만대장경도 미가입 상태라는 지적이 나왔습니다. 문화유산 화재 위험에 대한 보험 보장 공백이 드러나면서 공공자산의 보험 가입 필요성이 쟁점으로 제기됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sajhiTXktWjlWUXBWX2VnUW1POVlJQ2c2Tmc0NVNMOFZvTFhJVzFRUUJLQ0tib3dOam56Ml9PblVxWFl0cXZTeXdhM3dXRGRzelhfQnBHd1NmSmPSAWBBVV95cUxOWVl4MUdRY3I0cG1nSG1JZUpyN1luNk5Zd195WmpxS2ZnQXJ4M3RBS3p1SUw5YmdfY25ybDdNU1BxdlVmdjV2NWNoNUl3UzFkTmtxZXFENXA0OEh4R2ZkRTM?oc=5",
+      "source": "연합뉴스"
     }
   ]
 }
