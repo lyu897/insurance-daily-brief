@@ -1,70 +1,70 @@
 {
-  "updatedAt": "2026-09-07T23:34:20.758Z",
+  "updatedAt": "2026-09-08T23:34:33.261Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사 메타데이터의 제목과 출처를 기준으로 동일 사안을 묶었습니다. 제공된 자료에는 금융시장 수치나 방향을 다룬 기사가 없어 시장 변수의 당일 흐름은 판단하지 않았습니다.",
+  "editorNote": "최근 24시간 기사 메타데이터를 기준으로 동일하거나 유사한 보도를 하나의 이슈로 묶었습니다. 제공된 기사 목록에는 미국 금리·국내외 채권금리·환율·부동산의 구체적인 수치나 방향이 포함되지 않아 금융시장 흐름은 제한적으로만 정리했습니다.",
   "keywords": [
-    "자동차보험 8주 심사",
-    "보험판매전문회사",
-    "건강보험 재정",
-    "기후·시민안전보험",
-    "보험산업 AI 전환"
+    "건강보험 보장성",
+    "보험료 동결",
+    "생보 수익성",
+    "실손24",
+    "화재보험 공백"
   ],
-  "marketSummary": "제공된 기사 목록에는 미국 금리·국내외 채권금리·환율·부동산 등 금융시장 흐름을 확인할 수 있는 정보가 없어, 오늘 금융시장과 보험시장 간 방향성은 판단하기 어렵습니다.",
+  "marketSummary": "제공된 기사에는 미국 금리·채권금리·환율·부동산 등 금융시장 흐름에 관한 구체적 정보가 없어, 오늘 보험시장에서는 건강보험 재정과 생명보험 수익성·상품 전략 이슈가 상대적으로 부각됐다.",
   "marketContext": [
     {
       "label": "미국 금리",
-      "summary": "제공된 기사에 미국 금리의 수준이나 변동 방향은 언급되지 않았습니다. 미국 금리는 일반적으로 보험사의 해외채권 운용과 금리 민감형 상품의 가격·건전성에 연결될 수 있지만, 이번 자료만으로 당일 영향을 판단할 수 없습니다.",
+      "summary": "제시된 기사에는 미국 금리의 변동 방향이나 수치가 언급되지 않았다. 따라서 보험사 자산운용과 상품가격, 건전성에 미친 영향을 이 기사 목록만으로는 판단할 수 없다.",
       "url": "",
       "source": "제공 기사 목록"
     },
     {
       "label": "국내외 채권금리",
-      "summary": "제공된 기사에 국내외 채권금리의 수준이나 변동 방향은 언급되지 않았습니다. 채권금리는 보험사의 투자수익과 자산·부채 평가, 상품 가격 및 건전성에 영향을 줄 수 있으나 이번 자료에는 관련 근거가 없습니다.",
+      "summary": "제시된 기사에는 국내외 채권금리 관련 내용이 없다. 보험사의 자산운용 및 금리 관련 건전성 변화와 상품가격의 연결점도 확인되지 않는다.",
       "url": "",
       "source": "제공 기사 목록"
     },
     {
-      "label": "환율",
-      "summary": "제공된 기사에 원·달러 환율 등 환율 변수의 움직임은 언급되지 않았습니다. 환율은 외화자산 운용과 환헤지, 해외투자 평가에 연결될 수 있지만 오늘 보험시장에 미친 영향은 확인할 수 없습니다.",
+      "label": "환율·부동산",
+      "summary": "제시된 기사에는 환율이나 부동산 시장의 수준·변동에 관한 정보가 없다. 이에 따라 관련 자산의 평가와 보험사의 건전성 영향은 분석 대상에서 제외했다.",
       "url": "",
       "source": "제공 기사 목록"
     }
   ],
   "issues": [
     {
-      "tag": "자동차보험",
-      "title": "자동차보험 ‘8주 심사’ 10일 시행…과잉진료 억제와 풍선효과가 쟁점",
-      "summary": "자동차보험의 ‘8주 심사’가 10일부터 시행되며, 관련 기사들은 나이롱 환자와 과잉진료를 줄여 손해율을 개선할 가능성과 함께 풍선효과를 우려했습니다. 제도 시행 이후 보험금 지급과 민원, 손해율에 어떤 변화가 나타날지가 핵심 관전 포인트입니다.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRjIyS0taTUM5N3JDX051TlJsUm1IUmZCYmpHYUhuTk91QjBQTjltY1NveE4wTVU3YjEzanhvSnZYVUt0MDRvQzE1cXdjUE9GMzlNS2dvZFZhUW43aWJQZGkxTzhEREwxT081a1NYeURmaVhLa1gyYmk1ejN6T3dPeWIxbw?oc=5",
-      "source": "글로벌이코노믹"
+      "tag": "생보 수익성",
+      "title": "생명보험 해지·적자와 종신보험 CSM 변동성 부담",
+      "summary": "생명보험 가입자 해지가 이어지는 가운데 생보업계 수지 적자가 15조원에 육박했다는 보도가 나왔고, 종신보험의 CSM 변동성 부담 속에 치매·간병보험 공략과 고율 시책이 거론됐다. 해지와 손익 부담이 상품 판매 전략 및 수익성 관리의 핵심 변수로 부각된 이슈다.",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OaUdEcGtZbjJtZDVmQjFROGpPSER1LXNYbFV5aHNmOWZSdG53bFJIeDd0bkJFQU5Bb1BKQUhYa0RhanFSLVdTQ3RnUC1tUQ?oc=5",
+      "source": "전자신문·보험저널"
     },
     {
-      "tag": "판매채널 제도",
-      "title": "보험판매전문회사 도입 재논의…GA업계 입법 추진",
-      "summary": "보험판매전문회사 도입 논의가 18년 만에 다시 부상했으며, GA업계는 관련 입법 발의 준비와 제도 도입을 추진하고 있습니다. 제도화될 경우 보험상품 판매 구조와 GA의 역할 변화가 주요 쟁점이 될 전망이지만, 제공 기사에는 구체적인 법안 내용은 제시되지 않았습니다.",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ndmt0NzBhRUVoUVhmWHNucVdpZVJNMUtQZ2h4V040dGxUVk1qazQ3U3k1NTloNTZpN2ZYMzQ0RnRQZGxBUVprakNORWs1X1BmSUFmSWh6SldkRkxtaUl6UC0zSkFRc25oc01CQU4zc1hIYXM5dU4yUl95NWk?oc=5",
-      "source": "한국금융신문"
+      "tag": "건강보험 보장성",
+      "title": "중증·희귀난치 환자 건강보험 보장 강화 추진",
+      "summary": "중증·희귀난치 환자 197만명에게 연 8000억원을 지원하고 본인 부담을 낮추는 내용의 건강보험 보장성 강화 방안이 보도됐다. 보장 확대가 환자 부담 경감으로 이어지는 동시에 건강보험 재정 운용의 주요 과제로 제시됐다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oV2pTN3NnUFBEcUxrQ3hJQ3BYS0VLSUlsTkJvS1EzWnNYUTQwWS1mTnA4ZUxHYmptSzcyNllLMUlVdHBKdkFyRlZheEhaaS1STUthZDFrbkJ3M2phcGczRFp6eHNHckpFbE44?oc=5",
+      "source": "kmpnews.co.kr·의협신문·의사신문"
     },
     {
-      "tag": "건강보험",
-      "title": "건강보험 재정 지속가능성 논의…보험료율과 국민 참여·혁신 과제 부상",
-      "summary": "대한의사협회는 지속가능한 건강보험 재정을 위해 책임 있는 보험료율 결정을 촉구했고, 국민건강보험공단은 국민참여위원회 출범과 ‘리부트 건강보험’ 토론회를 진행했습니다. 보험료율 결정과 국민 의견 반영, AI·업무혁신 등 건강보험 운영체계 재점검이 함께 논의되고 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xcmN5b1RFekZPemQ0RVhndzZSZFVaUEM0YlotMy1LZnNCelAtZERHdFBBMFp1SEswckJpMlE3Sk14dTFNdW4ta3FDNUVoQi1xNGl2NWIza0w1MXd0U3lVNk01R0xaM2pUeGZj?oc=5",
-      "source": "한국의약통신"
+      "tag": "건보 재정",
+      "title": "건강보험료율 동결과 재정 지속 가능성 논쟁",
+      "summary": "건강보험료율을 7.19%로 동결하고 정부 지원 증액과 보험료 수입을 고려한다는 보도와 함께, 올해 적자 전망 및 재정 누수를 둘러싼 우려가 제기됐다. 보험료 부담을 유지하는 정책과 재정 절벽·보장 확대의 지속 가능성이 맞물린 이슈다.",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pMnBpdWZWcmtESjFnWEI3clRRbkFRZ29sV3NsZU13M21MdGZoTzBGZTYzYTN6WFFrMjlrd0dwZEFTNm1CaF9RZVl5MGMtb1pC?oc=5",
+      "source": "데일리팜·청년의사·쿠키메디·의학신문"
     },
     {
-      "tag": "공공·기후보험",
-      "title": "기후·시민안전보험의 실효성 논란과 데이터 기반 정책화",
-      "summary": "기후보험의 지급 실적이 전무했다는 보도와 함께, 포항시민안전보험의 낮은 치료비 지급 사례가 제기됐습니다. 한편 손해보험업계는 기상청과 데이터 포털 구축을 추진하고 있어, 보장 설계와 보험금 지급 기준의 실효성이 주요 과제로 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wVUZxc1ExNjVyUHRUeWZuVU56eGxjdUlMSlZWRUtFdFB5b0l1Z3RPZjEzTllGa0JrTGplcUpZdmUyemdsN2RwaWVhNFl3MUswa1hsc3ZBa1diX2dZRkZSd0d3YkJ5bVBSdmhmWQ?oc=5",
-      "source": "DFT 대한금융신문"
+      "tag": "실손·소비자보호",
+      "title": "실손24 이용률 저조와 5세대 실손·부당승환 논란",
+      "summary": "실손24를 통한 보험금 청구 비중이 4.6%에 그치고 요양기관 참여율도 40.5% 수준이라는 보도가 나왔다. 동시에 5세대 실손과 부당승환이 국정감사 쟁점으로 거론되고 도수치료 규제 이후 우회 행태가 보도돼, 청구 인프라와 상품·판매 관리 문제가 함께 부각됐다.",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xOTZzQ19fYWJGVTE2d1pRVG9rcUttT3owSDJKVjdpVThjM3dBZVp1ZW1jUm41SVpFYUppRFVUM2MydkJfamJFbUY1ZmVoUGVJUFU0M0RFN1NmWm03U0NF?oc=5",
+      "source": "조세일보·약사공론·데일리안·ebn.co.kr"
     },
     {
-      "tag": "보험 사각지대",
-      "title": "국내 세계유산 57% 화재보험 미가입…보장 공백 논란",
-      "summary": "국내 세계유산의 57%가 화재보험에 가입하지 않았고, 팔만대장경도 미가입 상태라는 지적이 나왔습니다. 문화유산 화재 위험에 대한 보험 보장 공백이 드러나면서 공공자산의 보험 가입 필요성이 쟁점으로 제기됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sajhiTXktWjlWUXBWX2VnUW1POVlJQ2c2Tmc0NVNMOFZvTFhJVzFRUUJLQ0tib3dOam56Ml9PblVxWFl0cXZTeXdhM3dXRGRzelhfQnBHd1NmSmPSAWBBVV95cUxOWVl4MUdRY3I0cG1nSG1JZUpyN1luNk5Zd195WmpxS2ZnQXJ4M3RBS3p1SUw5YmdfY25ybDdNU1BxdlVmdjV2NWNoNUl3UzFkTmtxZXFENXA0OEh4R2ZkRTM?oc=5",
-      "source": "연합뉴스"
+      "tag": "화재보험 공백",
+      "title": "문화유산·취약계층의 화재보험 공백과 안전망 구축",
+      "summary": "해인사 팔만대장경과 부석사·도산서원 등 일부 문화유산의 화재보험 미가입 사례가 보도된 가운데, 충남소방본부와 화재보험협회는 화재취약계층 안전망 구축에 협력하기로 했다. 보험 가입 공백과 재난 대응을 지역 안전망으로 보완하려는 움직임이 함께 나타난 이슈다.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFpelAtQURKLUU0aHZVX3ZGLVdtSldHNG1iSTZHUERvODVYQ2xORm5NNW1LOWRiRVA0bS0wWHpnbEtNdGx3Y3RuU0kxcW5PT3NBZlVxMmdPeXItaEs1MlFIMTIzcWVMbU1tV1d1VHQ0gtOUxydkJ0Q2fSAWZBVV95cUxOSl81dlMtak9CS2hLTXhCMkZocFRZREtxWUw2RGpnRVdEQU4yOTc1X3JIOEZZSUZ1SUdWbTlOQ2k4TktMX1dKMVdvalYxOWtBN3lmMGI1S3JpNUZjdkF6clZ0Nmc?oc=5",
+      "source": "동아일보·kyongbuk.co.kr·보험신보·소방방재신문"
     }
   ]
 }
