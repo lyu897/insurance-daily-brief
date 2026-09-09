@@ -1,70 +1,64 @@
 {
-  "updatedAt": "2026-09-08T23:34:33.261Z",
+  "updatedAt": "2026-09-09T23:35:03.506Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사 메타데이터를 기준으로 동일하거나 유사한 보도를 하나의 이슈로 묶었습니다. 제공된 기사 목록에는 미국 금리·국내외 채권금리·환율·부동산의 구체적인 수치나 방향이 포함되지 않아 금융시장 흐름은 제한적으로만 정리했습니다.",
+  "editorNote": "최근 24시간 기사 중 동일한 정책·감독 이슈와 건보공단 관련 보도는 하나의 이슈로 통합했습니다. 제공된 메타데이터에 구체적인 금리·환율·부동산 시장 수치나 방향은 없어, 금융시장 변수는 보험산업과의 연결 가능성 중심으로 정리했습니다.",
   "keywords": [
-    "건강보험 보장성",
-    "보험료 동결",
-    "생보 수익성",
-    "실손24",
-    "화재보험 공백"
+    "건강보험 재설계",
+    "금융당국 감독 강화",
+    "K-ICS·자본건전성",
+    "변액보험·증시 민감도",
+    "보험상품 가격·보장 변화"
   ],
-  "marketSummary": "제공된 기사에는 미국 금리·채권금리·환율·부동산 등 금융시장 흐름에 관한 구체적 정보가 없어, 오늘 보험시장에서는 건강보험 재정과 생명보험 수익성·상품 전략 이슈가 상대적으로 부각됐다.",
+  "marketSummary": "제공된 기사에서는 변액보험의 증시 민감도와 DB손해보험의 인수에 따른 K-ICS 변동이 부각됐지만, 당일 금리·환율·부동산 시장의 구체적인 흐름은 확인되지 않아 보험시장은 자산시장 민감도와 자본·상품 관리 이슈가 중심입니다.",
   "marketContext": [
     {
-      "label": "미국 금리",
-      "summary": "제시된 기사에는 미국 금리의 변동 방향이나 수치가 언급되지 않았다. 따라서 보험사 자산운용과 상품가격, 건전성에 미친 영향을 이 기사 목록만으로는 판단할 수 없다.",
-      "url": "",
-      "source": "제공 기사 목록"
+      "label": "국내외 채권금리·미국 금리",
+      "summary": "기사 목록에는 미국 금리나 국내외 채권금리의 당일 방향이 제시되지 않았습니다. 다만 채권금리는 보험사의 자산운용 수익과 장기 보장성·연금 상품의 가격 산정, 자본건전성 변동을 함께 좌우하는 핵심 변수이므로 지속적인 확인이 필요합니다.",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfNUtQbGJMS3l1NF9PUHhSUDNORVI1UDVFRURrdWZwSEpYV2hXelo1b3VTbTczVmNGNzNGb29oNEhXb2p5a1BZNGdxOFNkdTZmWmF1WmllVnpzT1pFdm9iOEVBMkw?oc=5",
+      "source": "PRESS9"
     },
     {
-      "label": "국내외 채권금리",
-      "summary": "제시된 기사에는 국내외 채권금리 관련 내용이 없다. 보험사의 자산운용 및 금리 관련 건전성 변화와 상품가격의 연결점도 확인되지 않는다.",
-      "url": "",
-      "source": "제공 기사 목록"
-    },
-    {
-      "label": "환율·부동산",
-      "summary": "제시된 기사에는 환율이나 부동산 시장의 수준·변동에 관한 정보가 없다. 이에 따라 관련 자산의 평가와 보험사의 건전성 영향은 분석 대상에서 제외했다.",
-      "url": "",
-      "source": "제공 기사 목록"
+      "label": "주가·증시",
+      "summary": "변액보험 초회보험료가 회사별로 크게 엇갈린 가운데 관련 보도는 변액보험 시장이 증시에 따라 움직인다고 설명했습니다. 따라서 주가 흐름은 변액보험 판매와 계약자 자산가치, 보험사의 수수료·운용 실적에 연결되는 변수로 볼 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CWGVmMEVoNXRkTjN0TTdpS040czYzaXd3cmxZVUdzcnVFbVI2V3MtNFh1N3otQlYyRDhKUDQ5Tm0xTDJkZG1mVFI2YXVEcTFiUEJHN0FoVDVhcmJmLWRWaVN5RmNEdEdo?oc=5",
+      "source": "CEO스코어데일리"
     }
   ],
   "issues": [
     {
-      "tag": "생보 수익성",
-      "title": "생명보험 해지·적자와 종신보험 CSM 변동성 부담",
-      "summary": "생명보험 가입자 해지가 이어지는 가운데 생보업계 수지 적자가 15조원에 육박했다는 보도가 나왔고, 종신보험의 CSM 변동성 부담 속에 치매·간병보험 공략과 고율 시책이 거론됐다. 해지와 손익 부담이 상품 판매 전략 및 수익성 관리의 핵심 변수로 부각된 이슈다.",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OaUdEcGtZbjJtZDVmQjFROGpPSER1LXNYbFV5aHNmOWZSdG53bFJIeDd0bkJFQU5Bb1BKQUhYa0RhanFSLVdTQ3RnUC1tUQ?oc=5",
-      "source": "전자신문·보험저널"
+      "tag": "정책·건강보험",
+      "title": "건보공단, 건강보험 50년 재설계와 보장성 개편 추진",
+      "summary": "건보공단이 재정 누수를 막고 AI 기반 건강복지 플랫폼을 구축하는 한편, 중증·혁신신약 중심으로 보장을 조정하는 건강보험 재설계를 추진하고 관련 2단계 혁신방안을 내년 초 발표할 예정입니다. 특사경 도입과 비대면 진료, 수가 및 보장 우선순위 조정 등이 함께 거론돼 향후 공보험 보장 범위와 재정 관리 방식에 영향을 줄 이슈입니다.",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaQXE4WHFYMDFCbjM0VHhWU1U5ODdFX3ZyamhreUVJcHQzQUgxUjRqeXdOVWZNMnJmWWFwREdieXBCMjkwM29mbm1kS2g5RGNCaWdXdlY2dnpwN01wNkdyN01FT0tHMm51ZGlfRTRB?oc=5",
+      "source": "뉴스더보이스헬스케어·한국의약통신·히트뉴스·데일리메디"
     },
     {
-      "tag": "건강보험 보장성",
-      "title": "중증·희귀난치 환자 건강보험 보장 강화 추진",
-      "summary": "중증·희귀난치 환자 197만명에게 연 8000억원을 지원하고 본인 부담을 낮추는 내용의 건강보험 보장성 강화 방안이 보도됐다. 보장 확대가 환자 부담 경감으로 이어지는 동시에 건강보험 재정 운용의 주요 과제로 제시됐다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oV2pTN3NnUFBEcUxrQ3hJQ3BYS0VLSUlsTkJvS1EzWnNYUTQwWS1mTnA4ZUxHYmptSzcyNllLMUlVdHBKdkFyRlZheEhaaS1STUthZDFrbkJ3M2phcGczRFp6eHNHckpFbE44?oc=5",
-      "source": "kmpnews.co.kr·의협신문·의사신문"
+      "tag": "감독·소비자보호",
+      "title": "금감원, 보험사 성과평가와 분쟁 민원 관리 동시 점검",
+      "summary": "금감원이 보험사의 제살깎기식 경쟁을 줄이기 위해 임원 성과평가 지표를 손질하고, KB손해보험과 DB손해보험을 대상으로 분쟁 민원 관리 현장점검에 나섭니다. 성과평가와 민원 대응을 함께 들여다보는 흐름은 보험사의 판매 경쟁, 보상·분쟁 처리, 내부통제 관행을 재정비하는 압력으로 작용할 전망입니다.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vb05wRFg2LTJJUHM0Wm5OWEx1Q1BDS3pZb2QxeGs4cW5lMnVEeGxzOWFfMEtDSW01THV4TnFOcTBFUHdsX09GbTRLSEVQLTdZandMcm9rWUJOUU3SAWBBVV95cUxPRU5YekhwVkFHVEI4Q1Zhcll1Z01KUnYxV3htdkRZNHhOM2VjM1FlN0tmaXk5eGF6MzhQS2htTF9RbUZpN182WWpMYmpuRDduWUNpcFFlbUg1SGNoSUt5VFA?oc=5",
+      "source": "연합뉴스·머니투데이·아시아경제"
     },
     {
-      "tag": "건보 재정",
-      "title": "건강보험료율 동결과 재정 지속 가능성 논쟁",
-      "summary": "건강보험료율을 7.19%로 동결하고 정부 지원 증액과 보험료 수입을 고려한다는 보도와 함께, 올해 적자 전망 및 재정 누수를 둘러싼 우려가 제기됐다. 보험료 부담을 유지하는 정책과 재정 절벽·보장 확대의 지속 가능성이 맞물린 이슈다.",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pMnBpdWZWcmtESjFnWEI3clRRbkFRZ29sV3NsZU13M21MdGZoTzBGZTYzYTN6WFFrMjlrd0dwZEFTNm1CaF9RZVl5MGMtb1pC?oc=5",
-      "source": "데일리팜·청년의사·쿠키메디·의학신문"
+      "tag": "자본건전성·M&A",
+      "title": "DB손해보험, 인수 이후 K-ICS 하락에도 배당 확대 방침",
+      "summary": "DB손해보험은 포르테그라 인수로 K-ICS가 28%포인트 하락했지만 배당을 늘릴 계획으로 보도됐습니다. 인수에 따른 자본건전성 변화와 주주환원 정책이 함께 부각되면서 보험사의 M&A 이후 자본관리와 배당 여력이 핵심 쟁점이 됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfNUtQbGJMS3l1NF9PUHhSUDNORVI1UDVFRURrdWZwSEpYV2hXelo1b3VTbTczVmNGNzNGb29oNEhXb2p5a1BZNGdxOFNkdTZmWmF1WmllVnpzT1pFdm9iOEVBMkw?oc=5",
+      "source": "PRESS9"
     },
     {
-      "tag": "실손·소비자보호",
-      "title": "실손24 이용률 저조와 5세대 실손·부당승환 논란",
-      "summary": "실손24를 통한 보험금 청구 비중이 4.6%에 그치고 요양기관 참여율도 40.5% 수준이라는 보도가 나왔다. 동시에 5세대 실손과 부당승환이 국정감사 쟁점으로 거론되고 도수치료 규제 이후 우회 행태가 보도돼, 청구 인프라와 상품·판매 관리 문제가 함께 부각됐다.",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xOTZzQ19fYWJGVTE2d1pRVG9rcUttT3owSDJKVjdpVThjM3dBZVp1ZW1jUm41SVpFYUppRFVUM2MydkJfamJFbUY1ZmVoUGVJUFU0M0RFN1NmWm03U0NF?oc=5",
-      "source": "조세일보·약사공론·데일리안·ebn.co.kr"
+      "tag": "변액보험·판매",
+      "title": "변액보험 초회보험료, 증시 민감도와 회사별 실적 격차 부각",
+      "summary": "변액보험 시장이 증시 상황에 따라 움직이는 가운데 메트라이프의 초회보험료는 183% 증가한 반면 KB라이프는 95% 감소한 것으로 보도됐습니다. 회사별 실적 격차는 변액보험 판매가 시장 분위기와 상품·채널 경쟁력에 민감하게 반응한다는 점을 보여줍니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CWGVmMEVoNXRkTjN0TTdpS040czYzaXd3cmxZVUdzcnVFbVI2V3MtNFh1N3otQlYyRDhKUDQ5Tm0xTDJkZG1mVFI2YXVEcTFiUEJHN0FoVDVhcmJmLWRWaVN5RmNEdEdo?oc=5",
+      "source": "CEO스코어데일리"
     },
     {
-      "tag": "화재보험 공백",
-      "title": "문화유산·취약계층의 화재보험 공백과 안전망 구축",
-      "summary": "해인사 팔만대장경과 부석사·도산서원 등 일부 문화유산의 화재보험 미가입 사례가 보도된 가운데, 충남소방본부와 화재보험협회는 화재취약계층 안전망 구축에 협력하기로 했다. 보험 가입 공백과 재난 대응을 지역 안전망으로 보완하려는 움직임이 함께 나타난 이슈다.",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFpelAtQURKLUU0aHZVX3ZGLVdtSldHNG1iSTZHUERvODVYQ2xORm5NNW1LOWRiRVA0bS0wWHpnbEtNdGx3Y3RuU0kxcW5PT3NBZlVxMmdPeXItaEs1MlFIMTIzcWVMbU1tV1d1VHQ0gtOUxydkJ0Q2fSAWZBVV95cUxOSl81dlMtak9CS2hLTXhCMkZocFRZREtxWUw2RGpnRVdEQU4yOTc1X3JIOEZZSUZ1SUdWbTlOQ2k4TktMX1dKMVdvalYxOWtBN3lmMGI1S3JpNUZjdkF6clZ0Nmc?oc=5",
-      "source": "동아일보·kyongbuk.co.kr·보험신보·소방방재신문"
+      "tag": "상품·가격 규제",
+      "title": "보장성 상품 확대와 정액보험 한도·자동차보험 제도 변화",
+      "summary": "삼성생명이 치료 횟수 기준의 가족대표건강보험을 출시했고, 내년 초 치매환자 배상책임보험 출시와 중증질병까지의 정액보험 금액한도 법제화가 보도됐습니다. 자동차보험의 ‘8주룰’ 시행도 전해져 보험사는 보장 범위와 지급 기준, 상품 가격 산정 전반을 재점검해야 하는 환경에 놓였습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaYEFVX3lxTE01UHdKVmdKWTVxS25OMVdkRGZVTHh5NVJMM1ZlUzFLOEpQQWQzTnZPT216anpWdi1zbGNnQTJBb2R1cWR1U2N2Y0FEU3NCbVdWU0htaktmdXd1LUVaYUhsetIBYEFVX3lxTE01UHdKVmdKWTVxS25OMVdkRGZVTHh5NVJMMVZlUzFLOEpQQWQzTnZPT216anpWdi1zbGNnQTJBb2R1cWR1U2N2Y0FEU3NCbVdWU0htaktmdXd1LUVaYUhseg?oc=5",
+      "source": "연합뉴스·MTN 머니투데이방송·대한경제·Investing.com 한국어"
     }
   ]
 }
