@@ -1,64 +1,64 @@
 {
-  "updatedAt": "2026-09-09T23:35:03.506Z",
+  "updatedAt": "2026-09-10T23:33:38.357Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사 중 동일한 정책·감독 이슈와 건보공단 관련 보도는 하나의 이슈로 통합했습니다. 제공된 메타데이터에 구체적인 금리·환율·부동산 시장 수치나 방향은 없어, 금융시장 변수는 보험산업과의 연결 가능성 중심으로 정리했습니다.",
+  "editorNote": "동일한 사실을 다룬 중복 보도는 하나의 이슈로 통합했으며, 제공된 기사 메타데이터에 명시된 내용만 반영했습니다. 금융시장 변수는 기사 목록에서 확인되는 범위와 확인 불가 항목을 구분해 정리했습니다.",
   "keywords": [
-    "건강보험 재설계",
-    "금융당국 감독 강화",
-    "K-ICS·자본건전성",
-    "변액보험·증시 민감도",
-    "보험상품 가격·보장 변화"
+    "보험분쟁",
+    "금감원 현장점검",
+    "AI·빅데이터",
+    "치매·간병보험",
+    "보험보장 취약"
   ],
-  "marketSummary": "제공된 기사에서는 변액보험의 증시 민감도와 DB손해보험의 인수에 따른 K-ICS 변동이 부각됐지만, 당일 금리·환율·부동산 시장의 구체적인 흐름은 확인되지 않아 보험시장은 자산시장 민감도와 자본·상품 관리 이슈가 중심입니다.",
+  "marketSummary": "미국 주간 신규 실업보험 청구가 예상치를 웃돈 가운데, 제공된 기사 목록에서는 국내외 채권금리·환율·부동산의 방향이 확인되지 않아 보험사의 자산운용·상품가격·건전성 흐름을 종합적으로 판단하기는 어렵다.",
   "marketContext": [
     {
-      "label": "국내외 채권금리·미국 금리",
-      "summary": "기사 목록에는 미국 금리나 국내외 채권금리의 당일 방향이 제시되지 않았습니다. 다만 채권금리는 보험사의 자산운용 수익과 장기 보장성·연금 상품의 가격 산정, 자본건전성 변동을 함께 좌우하는 핵심 변수이므로 지속적인 확인이 필요합니다.",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfNUtQbGJMS3l1NF9PUHhSUDNORVI1UDVFRURrdWZwSEpYV2hXelo1b3VTbTczVmNGNzNGb29oNEhXb2p5a1BZNGdxOFNkdTZmWmF1WmllVnpzT1pFdm9iOEVBMkw?oc=5",
-      "source": "PRESS9"
+      "label": "미국 고용·실업보험 청구",
+      "summary": "미국 주간 신규 실업보험 청구가 20만6천 건으로 예상치를 웃돌았다는 보도가 나왔다. 고용·경기 관련 지표로서 보험사의 해외 자산운용과 보험수요 판단에 참고 변수가 될 수 있지만, 기사에는 금리나 금융시장 반응이 제시되지 않았다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01U0JncnU5M0ZrdmJ3UjdsU0JaRWg5dzk0QWt3c0ZIN0dnSzFVVjNsNDRydXg2MDdhcWFMdHgzbHpCSGx3NGt3enV2WGxDNG1fbVVybl9TWkNqOVFhV19IcXZVNWdiNWFzdlBwOGhKYWc?oc=5",
+      "source": "연합인포맥스"
     },
     {
-      "label": "주가·증시",
-      "summary": "변액보험 초회보험료가 회사별로 크게 엇갈린 가운데 관련 보도는 변액보험 시장이 증시에 따라 움직인다고 설명했습니다. 따라서 주가 흐름은 변액보험 판매와 계약자 자산가치, 보험사의 수수료·운용 실적에 연결되는 변수로 볼 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CWGVmMEVoNXRkTjN0TTdpS040czYzaXd3cmxZVUdzcnVFbVI2V3MtNFh1N3otQlYyRDhKUDQ5Tm0xTDJkZG1mVFI2YXVEcTFiUEJHN0FoVDVhcmJmLWRWaVN5RmNEdEdo?oc=5",
-      "source": "CEO스코어데일리"
+      "label": "국내외 채권금리·환율·부동산",
+      "summary": "제공된 기사 목록에는 국내외 채권금리, 환율, 부동산의 수치나 상승·하락 방향이 포함돼 있지 않다. 따라서 이들 변수가 보험사의 자산운용 수익, 상품가격, 자본·건전성에 미친 영향은 이번 자료만으로 판단할 수 없다.",
+      "url": "",
+      "source": "제공 기사 목록"
     }
   ],
   "issues": [
     {
-      "tag": "정책·건강보험",
-      "title": "건보공단, 건강보험 50년 재설계와 보장성 개편 추진",
-      "summary": "건보공단이 재정 누수를 막고 AI 기반 건강복지 플랫폼을 구축하는 한편, 중증·혁신신약 중심으로 보장을 조정하는 건강보험 재설계를 추진하고 관련 2단계 혁신방안을 내년 초 발표할 예정입니다. 특사경 도입과 비대면 진료, 수가 및 보장 우선순위 조정 등이 함께 거론돼 향후 공보험 보장 범위와 재정 관리 방식에 영향을 줄 이슈입니다.",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaQXE4WHFYMDFCbjM0VHhWU1U5ODdFX3ZyamhreUVJcHQzQUgxUjRqeXdOVWZNMnJmWWFwREdieXBCMjkwM29mbm1kS2g5RGNCaWdXdlY2dnpwN01wNkdyN01FT0tHMm51ZGlfRTRB?oc=5",
-      "source": "뉴스더보이스헬스케어·한국의약통신·히트뉴스·데일리메디"
+      "tag": "소비자보호",
+      "title": "보험분쟁 48% 급증…금감원, 14개사 현장점검",
+      "summary": "올해 상반기 보험분쟁이 전년보다 48% 늘어난 가운데 금융감독원이 14개 보험사를 대상으로 분쟁 처리 실태 현장점검에 나선다는 보도가 이어졌다. KB·DB 등이 첫 점검 대상이라는 보도와 10월 말까지 릴레이 점검이 진행된다는 내용이 함께 제시돼 분쟁 대응과 처리 역량이 핵심 감독 이슈로 부상했다.",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RX0d0Yk5qU3BnSktaZ2JOOUxmWXZaWmtYTVJ2SVpmaVpVeGhHNlQ0Q3M1NEoyNE1ub05aTmZNcVpPMGVzRUFlSDRUbXZQblUyX0I2VlhFTTlmTGVFWWs1NDl4dWsxaDhvR3Roamx30gFzQVVfeXFMTmVuSU45VFJscFU4N2h6WXA3QTc1RHFuaS1UWDlMcF85NUFrdlZ1bG81NHlNQk9ZTDFBOXV4ZlJEZTFvNXZCZkgzenk5NW40Ukk3R1BQWXdJU1hIMHl4ckJxVVlPdDVSdkpBWHlBemV5X04zVQ?oc=5",
+      "source": "한국일보"
     },
     {
-      "tag": "감독·소비자보호",
-      "title": "금감원, 보험사 성과평가와 분쟁 민원 관리 동시 점검",
-      "summary": "금감원이 보험사의 제살깎기식 경쟁을 줄이기 위해 임원 성과평가 지표를 손질하고, KB손해보험과 DB손해보험을 대상으로 분쟁 민원 관리 현장점검에 나섭니다. 성과평가와 민원 대응을 함께 들여다보는 흐름은 보험사의 판매 경쟁, 보상·분쟁 처리, 내부통제 관행을 재정비하는 압력으로 작용할 전망입니다.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vb05wRFg2LTJJUHM0Wm5OWEx1Q1BDS3pZb2QxeGs4cW5lMnVEeGxzOWFfMEtDSW01THV4TnFOcTBFUHdsX09GbTRLSEVQLTdZandMcm9rWUJOUU3SAWBBVV95cUxPRU5YekhwVkFHVEI4Q1Zhcll1Z01KUnYxV3htdkRZNHhOM2VjM1FlN0tmaXk5eGF6MzhQS2htTF9RbUZpN182WWpMYmpuRDduWUNpcFFlbUg1SGNoSUt5VFA?oc=5",
-      "source": "연합뉴스·머니투데이·아시아경제"
+      "tag": "디지털 전환",
+      "title": "보험·건강 데이터와 AI 활용 확대",
+      "summary": "보험개발원의 AI·K-보험 성과 창출 과제, 건강보험 빅데이터 분석센터 개소, 화재보험협회의 AIoT 기반 예측형 위험관리, 부당청구 차단을 위한 AI 활용이 잇따라 보도됐다. AI와 데이터가 보험개발·연구·위험관리·재정누수 차단 등 여러 업무 영역으로 확장되는 흐름이다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40aDFlaVJEMWItOUZXNGdaVGxlMkxHb05NQWt1Z1BZdHZqYzkzbDBBdFR4b1ZieDBBOFZhX3BUR3E5bVNSRFJJeTh5MXNaazN3ZW9lWmlvT0VRQklOUm5sSm5mM2FGM3VibHhB?oc=5",
+      "source": "보험신보"
     },
     {
-      "tag": "자본건전성·M&A",
-      "title": "DB손해보험, 인수 이후 K-ICS 하락에도 배당 확대 방침",
-      "summary": "DB손해보험은 포르테그라 인수로 K-ICS가 28%포인트 하락했지만 배당을 늘릴 계획으로 보도됐습니다. 인수에 따른 자본건전성 변화와 주주환원 정책이 함께 부각되면서 보험사의 M&A 이후 자본관리와 배당 여력이 핵심 쟁점이 됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfNUtQbGJMS3l1NF9PUHhSUDNORVI1UDVFRURrdWZwSEpYV2hXelo1b3VTbTczVmNGNzNGb29oNEhXb2p5a1BZNGdxOFNkdTZmWmF1WmllVnpzT1pFdm9iOEVBMkw?oc=5",
-      "source": "PRESS9"
+      "tag": "상품·시장",
+      "title": "치매·간병 등 건강보장 상품 경쟁",
+      "summary": "iM라이프가 치매·간병보험 시장 공략을 본격화하며 CSM 1조원 목표를 제시했다. NH농협손보의 치매극복선도기업 지정과 청년층을 겨냥한 건강보험 관련 보도까지 나오면서 건강·돌봄 보장 상품이 주요 상품 이슈로 다뤄졌다.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15Ulhkd3U0Wm1IRXltYk1ncWhzYlp6WXlYUXp3RmlNOExkYWU5QWVkSm1ycDZpUnhZNXQwUTdMcnNLSENPNTlsSlZILVo3ZXhXc2hKZl9FTGJwOVJwQzg4elc5eWMxZEFEekpSSFduQdIBc0FVX3lxTE1YcWdUTHR3cmlCTFdqOEI1d3JPU2N1RG5meEZab3NaTTJSQUJqM0h6M19fdlY5UXFiWmdfSkJEQk9EZGJjRkd5bENrUHVDNlVTNjEyeWFLYWpUdXRlZE43R1NvTzJKMzB1MnQyR1JDZ3BzYVE?oc=5",
+      "source": "데일리한국"
     },
     {
-      "tag": "변액보험·판매",
-      "title": "변액보험 초회보험료, 증시 민감도와 회사별 실적 격차 부각",
-      "summary": "변액보험 시장이 증시 상황에 따라 움직이는 가운데 메트라이프의 초회보험료는 183% 증가한 반면 KB라이프는 95% 감소한 것으로 보도됐습니다. 회사별 실적 격차는 변액보험 판매가 시장 분위기와 상품·채널 경쟁력에 민감하게 반응한다는 점을 보여줍니다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CWGVmMEVoNXRkTjN0TTdpS040czYzaXd3cmxZVUdzcnVFbVI2V3MtNFh1N3otQlYyRDhKUDQ5Tm0xTDJkZG1mVFI2YXVEcTFiUEJHN0FoVDVhcmJmLWRWaVN5RmNEdEdo?oc=5",
-      "source": "CEO스코어데일리"
+      "tag": "정책보험·재해",
+      "title": "농촌지역 재해보험 보장 취약성과 정책보험 검증 논란",
+      "summary": "농촌지역 집중호우로 인한 경제손실의 82%가 보험으로 보상받지 못했다는 보도가 나왔다. 한편 농협손보는 농작물재해보험이 최근 5년간 139억원 흑자를 냈다고 밝혔지만, 세금이 투입되는 정책보험의 검증 장치가 없다는 지적도 제기됐다.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SX0xMVFR2cE9BN3Y4bEVDODhLUFBTMkJjTVJIb0hpSHVXSUNYaGhrX0RMVU1LOS12em8wV05KUUZSWGtuc3I0NFFNUThGQVEweGViRDF5dUc3Zw?oc=5",
+      "source": "농민신문"
     },
     {
-      "tag": "상품·가격 규제",
-      "title": "보장성 상품 확대와 정액보험 한도·자동차보험 제도 변화",
-      "summary": "삼성생명이 치료 횟수 기준의 가족대표건강보험을 출시했고, 내년 초 치매환자 배상책임보험 출시와 중증질병까지의 정액보험 금액한도 법제화가 보도됐습니다. 자동차보험의 ‘8주룰’ 시행도 전해져 보험사는 보장 범위와 지급 기준, 상품 가격 산정 전반을 재점검해야 하는 환경에 놓였습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiaYEFVX3lxTE01UHdKVmdKWTVxS25OMVdkRGZVTHh5NVJMM1ZlUzFLOEpQQWQzTnZPT216anpWdi1zbGNnQTJBb2R1cWR1U2N2Y0FEU3NCbVdWU0htaktmdXd1LUVaYUhsetIBYEFVX3lxTE01UHdKVmdKWTVxS25OMVdkRGZVTHh5NVJMMVZlUzFLOEpQQWQzTnZPT216anpWdi1zbGNnQTJBb2R1cWR1U2N2Y0FEU3NCbVdWU0htaktmdXd1LUVaYUhseg?oc=5",
-      "source": "연합뉴스·MTN 머니투데이방송·대한경제·Investing.com 한국어"
+      "tag": "자동차보험",
+      "title": "자동차보험 ‘8주 룰’ 시행…11월 ‘7일 심사’ 예고",
+      "summary": "자동차보험 관련 ‘8주 룰’이 9월 10일부터 시행된다는 보도가 나왔다. 기사에서는 오는 11월 ‘7일 심사’가 실제 시험대가 될 것으로 전망해 자동차보험 심사·처리 절차 변화에 관심이 모인다.",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1OSDZXU2V6X1pyYmVwVWRfelNZaFhCT3hiRldUNjhjYzFkQnlGbXc4WlF0RGh1VDVWUmMyakVYaEx3dmdYbWpIZVp3WmNkY0RRRXJPcXZDeUlrdkdKWFQtbm1HRjZ5ZHJSb2gxTnV2clRhYVHSAXdBVV95cUxORkg4WmZPQnAtU1ItczhNd3ZsOU1BWnhFdERiX3hRYkJ1eGNIckxkeXNGYlRER1lDM0s5eHNadWh6ZkFadDVyeEhLS1Z4Nno5M254S05sd3JTbUVXandUOUg4UUNBTDVjdU5vUzhPcnZZdEJ4Sm9BRQ?oc=5",
+      "source": "여성경제신문"
     }
   ]
 }
