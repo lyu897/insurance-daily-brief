@@ -1,64 +1,64 @@
 {
-  "updatedAt": "2026-09-10T23:33:38.357Z",
+  "updatedAt": "2026-09-11T23:33:50.661Z",
   "articleCount": 45,
-  "editorNote": "동일한 사실을 다룬 중복 보도는 하나의 이슈로 통합했으며, 제공된 기사 메타데이터에 명시된 내용만 반영했습니다. 금융시장 변수는 기사 목록에서 확인되는 범위와 확인 불가 항목을 구분해 정리했습니다.",
+  "editorNote": "최근 24시간 기사 중 동일 사안을 반복 보도한 IFRS17 계리가정 보고서, KB손해보험 AI 에이전트, DB손해보험 기업PR 광고 관련 기사는 각각 하나의 이슈로 통합했습니다.",
   "keywords": [
-    "보험분쟁",
-    "금감원 현장점검",
-    "AI·빅데이터",
-    "치매·간병보험",
-    "보험보장 취약"
+    "IFRS17·계리가정",
+    "실손보험 세대 전환",
+    "보험소비자 분쟁",
+    "보험산업 AI",
+    "건강보험 급여"
   ],
-  "marketSummary": "미국 주간 신규 실업보험 청구가 예상치를 웃돈 가운데, 제공된 기사 목록에서는 국내외 채권금리·환율·부동산의 방향이 확인되지 않아 보험사의 자산운용·상품가격·건전성 흐름을 종합적으로 판단하기는 어렵다.",
+  "marketSummary": "건설주가 은행·보험주를 제친 흐름과 Aon의 170억 달러 규모 인수 및 선순위 채권 발행 소식이 보험업의 주가 상대성과 자금조달 이슈를 부각했습니다.",
   "marketContext": [
     {
-      "label": "미국 고용·실업보험 청구",
-      "summary": "미국 주간 신규 실업보험 청구가 20만6천 건으로 예상치를 웃돌았다는 보도가 나왔다. 고용·경기 관련 지표로서 보험사의 해외 자산운용과 보험수요 판단에 참고 변수가 될 수 있지만, 기사에는 금리나 금융시장 반응이 제시되지 않았다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01U0JncnU5M0ZrdmJ3UjdsU0JaRWg5dzk0QWt3c0ZIN0dnSzFVVjNsNDRydXg2MDdhcWFMdHgzbHpCSGx3NGt3enV2WGxDNG1fbVVybl9TWkNqOVFhV19IcXZVNWdiNWFzdlBwOGhKYWc?oc=5",
-      "source": "연합인포맥스"
+      "label": "국내 주식시장·건설주",
+      "summary": "하반기 증시 주도주로 건설주가 거론되며 은행·보험주를 앞섰다는 분석이 나왔습니다. 보험사 주가가 다른 금융·산업 업종과 어떤 상대 흐름을 보이는지가 시장 관심사로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmeXR4ZUtsbC1Qd25aWWx0cm1SLU81RnFiNzZFeVFMbXc5eENsUjdIQmMtcTkwQzh1TWpiTEhhZ1pfN3oxY1RFT3NDZHJ6Nl9NdWpYb3F5SVBIZw?oc=5",
+      "source": "한국경제"
     },
     {
-      "label": "국내외 채권금리·환율·부동산",
-      "summary": "제공된 기사 목록에는 국내외 채권금리, 환율, 부동산의 수치나 상승·하락 방향이 포함돼 있지 않다. 따라서 이들 변수가 보험사의 자산운용 수익, 상품가격, 자본·건전성에 미친 영향은 이번 자료만으로 판단할 수 없다.",
-      "url": "",
-      "source": "제공 기사 목록"
+      "label": "보험업 자금조달·채권 발행",
+      "summary": "에이온이 미국 10위 보험 중개사 USI를 170억 달러에 인수하고 대규모 선순위 채권 발행에 착수한다는 소식이 전해졌습니다. 보험업의 대형 인수합병이 채권 발행을 통한 자금조달과 연결된 사례로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQVlRtRThXXzg1NE9vTU5FcFlfNmwtTGVjQ0hMOGhKUF91dVBYNHFNVnNFanhlbEVDYzdZSVVTY0tXMFF5YlRsbzV6c3J1QnFxTjJKWkRYS29LQkZFWHprYXZzZnZBZWU4LUVaYVliM3AzV2s?oc=5",
+      "source": "데이터투자"
     }
   ],
   "issues": [
     {
-      "tag": "소비자보호",
-      "title": "보험분쟁 48% 급증…금감원, 14개사 현장점검",
-      "summary": "올해 상반기 보험분쟁이 전년보다 48% 늘어난 가운데 금융감독원이 14개 보험사를 대상으로 분쟁 처리 실태 현장점검에 나선다는 보도가 이어졌다. KB·DB 등이 첫 점검 대상이라는 보도와 10월 말까지 릴레이 점검이 진행된다는 내용이 함께 제시돼 분쟁 대응과 처리 역량이 핵심 감독 이슈로 부상했다.",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RX0d0Yk5qU3BnSktaZ2JOOUxmWXZaWmtYTVJ2SVpmaVpVeGhHNlQ0Q3M1NEoyNE1ub05aTmZNcVpPMGVzRUFlSDRUbXZQblUyX0I2VlhFTTlmTGVFWWs1NDl4dWsxaDhvR3Roamx30gFzQVVfeXFMTmVuSU45VFJscFU4N2h6WXA3QTc1RHFuaS1UWDlMcF85NUFrdlZ1bG81NHlNQk9ZTDFBOXV4ZlJEZTFvNXZCZkgzenk5NW40Ukk3R1BQWXdJU1hIMHl4ckJxVVlPdDVSdkpBWHlBemV5X04zVQ?oc=5",
-      "source": "한국일보"
+      "tag": "건전성·감독",
+      "title": "보험부채 계리가정 보고서 의무화로 IFRS17 감독 강화",
+      "summary": "금융당국이 보험부채 평가의 신뢰성과 투명성을 높이기 위해 계리가정 보고서 제출을 의무화하고 관련 감독을 강화하는 내용이 여러 매체에서 보도됐습니다. 보험사의 실적과 부채 평가에 활용되는 가정 자체가 감독 대상이 되면서 IFRS17 운영과 건전성 관리의 중요성이 커졌습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpdDBDSTByeWF1dzlVWEtPVVN3NDJpZzJTWFBsblRmTVdoUTZoWWFxbXpqWDM2aENtMUxxNEhkVF9yMkZoNzROa044eHM4UlNJOXRlTTA1d2pxLVFQRW8zWnpDZEo?oc=5",
+      "source": "디지털데일리"
+    },
+    {
+      "tag": "소비자보호·판매채널",
+      "title": "금감원, 보험 분쟁과 GA 운영위험 관리 점검",
+      "summary": "금감원이 보험 소비자 분쟁 적체와 증가에 대응해 14개 보험사의 분쟁관리 체계를 점검하고, 보험사들도 민원·분쟁 관리 강화에 나섰다는 보도가 나왔습니다. 법인보험대리점에는 불완전판매 비율 등을 기준으로 운영위험 등급을 매기는 방안이 제시돼 판매채널 책임이 확대될 전망입니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTF9mWDBDX19rYjFSRkkzYU5YaXdBQkhmZkVIUVMwUkEyOWpDRjV4cmJRNGNEbFc0ZkRxaDJkd3RPSzVuUGFCYjM2TUFWUlZXV3RwVjc0OUk1Ri1hcTN5ak5pM0R0bnBiZm85?oc=5",
+      "source": "녹색경제신문"
+    },
+    {
+      "tag": "상품·보장",
+      "title": "고액 혈액암 치료제 건강보험 급여 여부 시험대",
+      "summary": "수억원대 혈액암 치료제의 건강보험 급여 적용 여부가 시험대에 올랐다는 보도가 나왔습니다. 고가 치료제의 급여 결정은 환자 접근성과 건강보장 재정 사이의 조정 과제로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RT0dVbDduNWJqRkdVYmlSWVB6ckNMdWcxcFN1YnAtV3BpZlFGazZrbThXYXJQRmsxNHRuaHJiQ2swTlVfVl94VV9wR3BiQmlyWFhrR00yMmdxOFXSAWBBVV95cUxPSXhJTDdqd0FfdXZvejNjWnA3UTlEdTdRdGlmdjRxMDZ2YzhYYlVHY000dDVpb0I1T3ZaM1ZZLWVFLTBFWFA1N3pYWWU4eDYwNER3QS1odmpraGhTOHZfQ2I?oc=5",
+      "source": "연합뉴스"
+    },
+    {
+      "tag": "실손보험",
+      "title": "1·2세대 실손 가입자의 5세대 전환 가능성 부상",
+      "summary": "1·2세대 실손보험 가입자가 종신보험 특약을 통해 5세대 실손으로 변경할 수 있다는 내용이 보도됐습니다. 기존 가입자의 세대 전환이 상품 구조와 보장 선택에 영향을 줄 수 있는 사안으로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QZVM0WUVlOU92d0h1M3F5dzRmYjhFemxqcXdCV3lHcHRQWFRSNHFsU2xrU2JvUzF2WmdNeUhBV05PZTRTei1VbTY1YU1xc3JBc2xZa0lITFFkdw?oc=5",
+      "source": "파이낸셜뉴스"
     },
     {
       "tag": "디지털 전환",
-      "title": "보험·건강 데이터와 AI 활용 확대",
-      "summary": "보험개발원의 AI·K-보험 성과 창출 과제, 건강보험 빅데이터 분석센터 개소, 화재보험협회의 AIoT 기반 예측형 위험관리, 부당청구 차단을 위한 AI 활용이 잇따라 보도됐다. AI와 데이터가 보험개발·연구·위험관리·재정누수 차단 등 여러 업무 영역으로 확장되는 흐름이다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40aDFlaVJEMWItOUZXNGdaVGxlMkxHb05NQWt1Z1BZdHZqYzkzbDBBdFR4b1ZieDBBOFZhX3BUR3E5bVNSRFJJeTh5MXNaazN3ZW9lWmlvT0VRQklOUm5sSm5mM2FGM3VibHhB?oc=5",
-      "source": "보험신보"
-    },
-    {
-      "tag": "상품·시장",
-      "title": "치매·간병 등 건강보장 상품 경쟁",
-      "summary": "iM라이프가 치매·간병보험 시장 공략을 본격화하며 CSM 1조원 목표를 제시했다. NH농협손보의 치매극복선도기업 지정과 청년층을 겨냥한 건강보험 관련 보도까지 나오면서 건강·돌봄 보장 상품이 주요 상품 이슈로 다뤄졌다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15Ulhkd3U0Wm1IRXltYk1ncWhzYlp6WXlYUXp3RmlNOExkYWU5QWVkSm1ycDZpUnhZNXQwUTdMcnNLSENPNTlsSlZILVo3ZXhXc2hKZl9FTGJwOVJwQzg4elc5eWMxZEFEekpSSFduQdIBc0FVX3lxTE1YcWdUTHR3cmlCTFdqOEI1d3JPU2N1RG5meEZab3NaTTJSQUJqM0h6M19fdlY5UXFiWmdfSkJEQk9EZGJjRkd5bENrUHVDNlVTNjEyeWFLYWpUdXRlZE43R1NvTzJKMzB1MnQyR1JDZ3BzYVE?oc=5",
-      "source": "데일리한국"
-    },
-    {
-      "tag": "정책보험·재해",
-      "title": "농촌지역 재해보험 보장 취약성과 정책보험 검증 논란",
-      "summary": "농촌지역 집중호우로 인한 경제손실의 82%가 보험으로 보상받지 못했다는 보도가 나왔다. 한편 농협손보는 농작물재해보험이 최근 5년간 139억원 흑자를 냈다고 밝혔지만, 세금이 투입되는 정책보험의 검증 장치가 없다는 지적도 제기됐다.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SX0xMVFR2cE9BN3Y4bEVDODhLUFBTMkJjTVJIb0hpSHVXSUNYaGhrX0RMVU1LOS12em8wV05KUUZSWGtuc3I0NFFNUThGQVEweGViRDF5dUc3Zw?oc=5",
-      "source": "농민신문"
-    },
-    {
-      "tag": "자동차보험",
-      "title": "자동차보험 ‘8주 룰’ 시행…11월 ‘7일 심사’ 예고",
-      "summary": "자동차보험 관련 ‘8주 룰’이 9월 10일부터 시행된다는 보도가 나왔다. 기사에서는 오는 11월 ‘7일 심사’가 실제 시험대가 될 것으로 전망해 자동차보험 심사·처리 절차 변화에 관심이 모인다.",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1OSDZXU2V6X1pyYmVwVWRfelNZaFhCT3hiRldUNjhjYzFkQnlGbXc4WlF0RGh1VDVWUmMyakVYaEx3dmdYbWpIZVp3WmNkY0RRRXJPcXZDeUlrdkdKWFQtbm1HRjZ5ZHJSb2gxTnV2clRhYVHSAXdBVV95cUxORkg4WmZPQnAtU1ItczhNd3ZsOU1BWnhFdERiX3hRYkJ1eGNIckxkeXNGYlRER1lDM0s5eHNadWh6ZkFadDVyeEhLS1Z4Nno5M254S05sd3JTbUVXandUOUg4UUNBTDVjdU5vUzhPcnZZdEJ4Sm9BRQ?oc=5",
-      "source": "여성경제신문"
+      "title": "보험사 AI 활용 확대와 ‘디지털 직원’ 관리체계 구축",
+      "summary": "생명보험업계에서 가입 심사와 민원 상담 등에 AI를 활용하는 사례가 소개됐고, KB손해보험은 AI 에이전트 6개에 사원번호를 부여해 직무·접근 권한과 성과를 관리하기로 했습니다. AI가 단순 보조 도구를 넘어 업무 주체로 관리되는 단계로 확대되면서 운영·통제 체계가 함께 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEUTZqeHA3R2c2TXpYLUJKR1lpbTJhaFJUVjNhTFByQndldVVOUG9sMHdVVkxJRkF4b1R2eDdHV0VkdHZVc085b3JhdHVma0tHUDdTX3l5NnVEMjZ1OTctQkRVMFVoOGo0T3dnNg?oc=5",
+      "source": "뉴스락"
     }
   ]
 }
