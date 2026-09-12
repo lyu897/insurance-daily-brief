@@ -1,64 +1,70 @@
 {
-  "updatedAt": "2026-09-11T23:33:50.661Z",
-  "articleCount": 45,
-  "editorNote": "최근 24시간 기사 중 동일 사안을 반복 보도한 IFRS17 계리가정 보고서, KB손해보험 AI 에이전트, DB손해보험 기업PR 광고 관련 기사는 각각 하나의 이슈로 통합했습니다.",
+  "updatedAt": "2026-09-12T23:33:36.172Z",
+  "articleCount": 23,
+  "editorNote": "최근 24시간 기사 메타데이터만 기준으로 유사 보도를 통합했습니다. 기사 목록에 미국 금리·국내외 채권금리·환율·부동산 가격의 실제 변동 수치는 없어 방향성 판단은 유보했습니다.",
   "keywords": [
-    "IFRS17·계리가정",
-    "실손보험 세대 전환",
-    "보험소비자 분쟁",
-    "보험산업 AI",
-    "건강보험 급여"
+    "예보료율",
+    "보험사기",
+    "설계사 수수료",
+    "AI 보험심사",
+    "중고차 성능보험"
   ],
-  "marketSummary": "건설주가 은행·보험주를 제친 흐름과 Aon의 170억 달러 규모 인수 및 선순위 채권 발행 소식이 보험업의 주가 상대성과 자금조달 이슈를 부각했습니다.",
+  "marketSummary": "이번 기사에서는 예금보험기금 운용수익률과 예보료율 부담, 중고차 성능보험의 보험료·보상 논란이 부각됐지만 미국 금리·채권금리·환율 등 금융시장 흐름은 확인되지 않았습니다.",
   "marketContext": [
     {
-      "label": "국내 주식시장·건설주",
-      "summary": "하반기 증시 주도주로 건설주가 거론되며 은행·보험주를 앞섰다는 분석이 나왔습니다. 보험사 주가가 다른 금융·산업 업종과 어떤 상대 흐름을 보이는지가 시장 관심사로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmeXR4ZUtsbC1Qd25aWWx0cm1SLU81RnFiNzZFeVFMbXc5eENsUjdIQmMtcTkwQzh1TWpiTEhhZ1pfN3oxY1RFT3NDZHJ6Nl9NdWpYb3F5SVBIZw?oc=5",
-      "source": "한국경제"
+      "label": "미국 금리",
+      "summary": "기사 목록에는 미국 금리의 움직임이나 수치가 제시되지 않았습니다. 다만 해당 변수는 보험사의 자산운용과 장기 상품 가격을 점검할 때 확인해야 할 외부 변수로 남아 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQR3lldW0tQ1Bib0RrMFIydFRDNENnWXUxQVUwT3pucFc1MmgyaU1fM2NRTTNmWlFfQ002UnV2Umk2WVZjMnJXazJGdHZFandiaWtfTnlLSDczazBNR0g3N1dOdDk2UEprQ3dvSTJldVAybHBGYUdFNEl2Uk9Zb3hPcnhlOUdSNmY1azFJY3gtQUxBY2hvQV9yRnNnOWU3eW9mY25IUUhodGNYbDl5ak1GYkVmUUNKWTF6WUlGeXJteHpnY2Z5UEFIWk5VRzFMRTF6ODVmWDhETngya3RhMFZmUXZlMTljZWJBMEdaTTJiX2I1ZE5DeF9nZTktMi1oUlBRellvVEFJeDNCaWlITE5sOFoxZThpMnlr?oc=5",
+      "source": "데일리안"
     },
     {
-      "label": "보험업 자금조달·채권 발행",
-      "summary": "에이온이 미국 10위 보험 중개사 USI를 170억 달러에 인수하고 대규모 선순위 채권 발행에 착수한다는 소식이 전해졌습니다. 보험업의 대형 인수합병이 채권 발행을 통한 자금조달과 연결된 사례로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQVlRtRThXXzg1NE9vTU5FcFlfNmwtTGVjQ0hMOGhKUF91dVBYNHFNVnNFanhlbEVDYzdZSVVTY0tXMFF5YlRsbzV6c3J1QnFxTjJKWkRYS29LQkZFWHprYXZzZnZBZWU4LUVaYVliM3AzV2s?oc=5",
-      "source": "데이터투자"
+      "label": "국내외 채권금리",
+      "summary": "이번 기사에는 국내외 채권금리의 변동 내용이 없습니다. 보험사의 자산운용 수익률과 상품 가격, 건전성에 연결되는 변수인 만큼 예금보험기금 운용수익률 0.5% 보도와 함께 추가 확인이 필요합니다.",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQR3lldW0tQ1Bib0RrMFIydFRDNENnWXUxQVUwT3pucFc1MmgyaU1fM2NRTTNmWlFfQ002UnV2Umk2WVZjMnJXazJGdHZFandiaWtfTnlLSDczazBNR0g3N1dOdDk2UEprQ3dvSTJldVAybHBGYUdFNEl2Uk9Zb3hPdnhlOUdSNmY1azFJY3gtQUxBY2hvQV9yRnNnOWU3eW9mY25IUUhodGNYbDl5ak1GYkVmUUNKWTF6WUlGeXJteHpnY2Z5UEFIWk5VRzFMRTF6ODVmWDhETngya3RhMFZmUXZlMTljZWJBMEdaTTJiX2I1ZE5DeF9nZTktMi1oUlBRellvVEFJeDNCaWlITE5sOFoxZThpMnlr?oc=5",
+      "source": "데일리안"
+    },
+    {
+      "label": "환율·부동산",
+      "summary": "기사 목록에는 환율이나 부동산 가격의 흐름이 언급되지 않았습니다. 따라서 이들 변수가 보험사의 운용자산과 건전성에 미친 영향은 이번 브리핑에서 판단하지 않습니다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VU1BVSUV6bF9ReWxxRmNFZFQ1VXNLbHYxRFRpUG1qN25XNzU4QUxrdTFCTXlpU29lTFNZVlNLZG85ZXRIaEk2N05CV2Q0YlhKa1c2elRlRURxWmd2aGZ4QW93YXBaanBwMzBF?oc=5",
+      "source": "해사신문"
     }
   ],
   "issues": [
     {
-      "tag": "건전성·감독",
-      "title": "보험부채 계리가정 보고서 의무화로 IFRS17 감독 강화",
-      "summary": "금융당국이 보험부채 평가의 신뢰성과 투명성을 높이기 위해 계리가정 보고서 제출을 의무화하고 관련 감독을 강화하는 내용이 여러 매체에서 보도됐습니다. 보험사의 실적과 부채 평가에 활용되는 가정 자체가 감독 대상이 되면서 IFRS17 운영과 건전성 관리의 중요성이 커졌습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpdDBDSTByeWF1dzlVWEtPVVN3NDJpZzJTWFBsblRmTVdoUTZoWWFxbXpqWDM2aENtMUxxNEhkVF9yMkZoNzROa044eHM4UlNJOXRlTTA1d2pxLVFQRW8zWnpDZEo?oc=5",
-      "source": "디지털데일리"
+      "tag": "제도·건전성",
+      "title": "예보료율 인상 우려와 예금보험기금 운용수익률 논란",
+      "summary": "손해보험협회장이 국회에 예보료율 인상 우려를 전달했다는 보도와 함께, 예금보험기금 운용액은 20조원을 넘었지만 수익률은 0.5%에 그쳤다는 보도가 나왔습니다. 보험업계의 비용 부담과 기금 운용 효율이 예금보험제도 관련 핵심 쟁점으로 부각됐다는 의미입니다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wX0I3cVU4VmczQkRtU1dnQUFRNjNqWTQzLWdqSzR0aGdIQ1NLMzIxc2RWcnpPU1VPV0Z5OGtqZ3A0SWUtTHJSODRKTzZhUmk5V25VNFIwRi1EZ29tWlVjY1VHODNSVU9XWUNB0gFwQVVfeXFMTlZkd1UyLTZjZlVyVGxXTnVxS2JBenhXeXRjeDhVVWNzcWpJNlBzWW1OX3VJRTdRTmc4NUJkN3EzNUs4ZVVYWlRvR3Zwd3QtcXRDaFpFUjBZdW5JVjhhdkhVd0wyZG9WdVB0bGxwTkRMRg?oc=5",
+      "source": "머니투데이·데일리안"
     },
     {
-      "tag": "소비자보호·판매채널",
-      "title": "금감원, 보험 분쟁과 GA 운영위험 관리 점검",
-      "summary": "금감원이 보험 소비자 분쟁 적체와 증가에 대응해 14개 보험사의 분쟁관리 체계를 점검하고, 보험사들도 민원·분쟁 관리 강화에 나섰다는 보도가 나왔습니다. 법인보험대리점에는 불완전판매 비율 등을 기준으로 운영위험 등급을 매기는 방안이 제시돼 판매채널 책임이 확대될 전망입니다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTF9mWDBDX19rYjFSRkkzYU5YaXdBQkhmZkVIUVMwUkEyOWpDRjV4cmJRNGNEbFc0ZkRxaDJkd3RPSzVuUGFCYjM2TUFWUlZXV3RwVjc0OUk1Ri1hcTN5ak5pM0R0bnBiZm85?oc=5",
-      "source": "녹색경제신문"
+      "tag": "모집질서",
+      "title": "보험설계사 이직 때 수수료 상실 문제, 국회에 호소",
+      "summary": "보험설계사들이 자신이 만든 계약에서 발생하는 수수료를 이직하면 잃는 문제를 국회에 호소했다는 보도입니다. 설계사 보상체계와 계약 유지·관리 책임을 둘러싼 제도 개선 요구가 계속되고 있음을 보여줍니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9acEhqMlZ1cnFqTVM3ekQtSVJJdEFWNnAzRVJLaUhXREJOMWhFd1lKektkRV9kSU1jTl9wRXN5dXNMUVozcE9MOGhSNXNTbTY3ekRmOFNhVnNnMERMOHhPUG1MdXBwU3h5?oc=5",
+      "source": "한국NGO신문"
     },
     {
-      "tag": "상품·보장",
-      "title": "고액 혈액암 치료제 건강보험 급여 여부 시험대",
-      "summary": "수억원대 혈액암 치료제의 건강보험 급여 적용 여부가 시험대에 올랐다는 보도가 나왔습니다. 고가 치료제의 급여 결정은 환자 접근성과 건강보장 재정 사이의 조정 과제로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RT0dVbDduNWJqRkdVYmlSWVB6ckNMdWcxcFN1YnAtV3BpZlFGazZrbThXYXJQRmsxNHRuaHJiQ2swTlVfVl94VV9wR3BiQmlyWFhrR00yMmdxOFXSAWBBVV95cUxPSXhJTDdqd0FfdXZvejNjWnA3UTlEdTdRdGlmdjRxMDZ2YzhYYlVHY000dDVpb0I1T3ZaM1ZZLWVFLTBFWFA1N3pYWWU4eDYwNER3QS1odmpraGhTOHZfQ2I?oc=5",
-      "source": "연합뉴스"
+      "tag": "보험사기",
+      "title": "고의사고·의료비 청구 등 보험사기 대응 이슈 확산",
+      "summary": "고의사고를 역할별로 나눠 저지른 일당의 실형 선고, 마운자로 비용을 아끼기 위한 보험 청구 문제, 반복 보험사기에 따른 보험계약 해지 인정 사례가 각각 보도됐습니다. 사고 조작과 부정 청구에 대한 형사·민사상 대응이 보험금 관리와 계약 신뢰의 핵심 과제로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iSVF0cHVsRWlIeWRxcU95eGE5THdRM0dKMGp6QWVfMTJIUXE3Z3BxdC0xLTRuVGdJb0owdzR6NnJHOUliaXlERXpIY2llRDQ?oc=5",
+      "source": "v.daum.net·투데이신문·로이슈"
     },
     {
-      "tag": "실손보험",
-      "title": "1·2세대 실손 가입자의 5세대 전환 가능성 부상",
-      "summary": "1·2세대 실손보험 가입자가 종신보험 특약을 통해 5세대 실손으로 변경할 수 있다는 내용이 보도됐습니다. 기존 가입자의 세대 전환이 상품 구조와 보장 선택에 영향을 줄 수 있는 사안으로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QZVM0WUVlOU92d0h1M3F5dzRmYjhFemxqcXdCV3lHcHRQWFRSNHFsU2xrU2JvUzF2WmdNeUhBV05PZTRTei1VbTY1YU1xc3JBc2xZa0lITFFkdw?oc=5",
-      "source": "파이낸셜뉴스"
+      "tag": "자동차보험",
+      "title": "중고차 성능보험, 사고·보험료·보상 간 불일치 논란",
+      "summary": "중고차 성능보험을 두고 손해율은 급감했지만 보상은 줄었다는 보도와, 사고는 늘었는데 보상은 줄고 보험료만 올랐다는 지적이 함께 나왔습니다. 손해율과 실제 사고·보상 체감 사이의 격차가 상품 가격과 보상 적정성 논쟁으로 이어지고 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBna1plYjJtMjFBZ0NfaWF1eE9aa3RsVERzd29CMVZSazB4bTBnRjJCSTFENUxLLUxWRWgzYzhkUEFac2ZYRGRWZk53dE42Wk56OTlWWkNWVklValhpRF84NkxpMThkS2VwV0FXdHRzRQ?oc=5",
+      "source": "뉴스데일리·stnsports.co.kr"
     },
     {
       "tag": "디지털 전환",
-      "title": "보험사 AI 활용 확대와 ‘디지털 직원’ 관리체계 구축",
-      "summary": "생명보험업계에서 가입 심사와 민원 상담 등에 AI를 활용하는 사례가 소개됐고, KB손해보험은 AI 에이전트 6개에 사원번호를 부여해 직무·접근 권한과 성과를 관리하기로 했습니다. AI가 단순 보조 도구를 넘어 업무 주체로 관리되는 단계로 확대되면서 운영·통제 체계가 함께 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEUTZqeHA3R2c2TXpYLUJKR1lpbTJhaFJUVjNhTFByQndldVVOUG9sMHdVVkxJRkF4b1R2eDdHV0VkdHZVc085b3JhdHVma0tHUDdTX3l5NnVEMjZ1OTctQkRVMFVoOGo0T3dnNg?oc=5",
-      "source": "뉴스락"
+      "title": "영업·심사로 확장되는 보험업계 AI 활용",
+      "summary": "보험업계에서 AI가 영업과 심사 업무까지 담당하는 방향으로 지각변동이 일고 있다는 보도가 나왔습니다. AI 활용이 단순한 구축 단계를 넘어 실제 영업·언더라이팅 업무의 변화로 다뤄지고 있다는 점이 핵심입니다.",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSR0RJdVhWS3MxNGZRTHRDVThMcEZrZWpRcnNsOXMtMDNKc3RHU3FodjVPb2lZQVZLOEtVeGhTOUtZd2c3S1BmM3J1dDBLMVU?oc=5",
+      "source": "v.daum.net"
     }
   ]
 }
