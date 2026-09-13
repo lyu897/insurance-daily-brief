@@ -1,70 +1,64 @@
 {
-  "updatedAt": "2026-09-12T23:33:36.172Z",
-  "articleCount": 23,
-  "editorNote": "최근 24시간 기사 메타데이터만 기준으로 유사 보도를 통합했습니다. 기사 목록에 미국 금리·국내외 채권금리·환율·부동산 가격의 실제 변동 수치는 없어 방향성 판단은 유보했습니다.",
+  "updatedAt": "2026-09-13T23:34:33.676Z",
+  "articleCount": 45,
+  "editorNote": "최근 24시간 기사 메타데이터만 기준으로 유사 보도를 통합했습니다. 미국 금리·채권금리·환율·부동산의 구체적 흐름은 제공된 기사에 없어 별도 판단하지 않았습니다.",
   "keywords": [
-    "예보료율",
-    "보험사기",
-    "설계사 수수료",
-    "AI 보험심사",
-    "중고차 성능보험"
+    "보험주 급등",
+    "보험금 청구 자동화",
+    "보험금청구권 신탁",
+    "약가 재평가",
+    "캣본드·재보험"
   ],
-  "marketSummary": "이번 기사에서는 예금보험기금 운용수익률과 예보료율 부담, 중고차 성능보험의 보험료·보상 논란이 부각됐지만 미국 금리·채권금리·환율 등 금융시장 흐름은 확인되지 않았습니다.",
+  "marketSummary": "금리와 제도 개선 기대가 보험주 강세로 나타난 가운데, 보험업계는 디지털 청구·신사업·자본시장 활용을 확대하는 흐름을 보였습니다.",
   "marketContext": [
     {
-      "label": "미국 금리",
-      "summary": "기사 목록에는 미국 금리의 움직임이나 수치가 제시되지 않았습니다. 다만 해당 변수는 보험사의 자산운용과 장기 상품 가격을 점검할 때 확인해야 할 외부 변수로 남아 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQR3lldW0tQ1Bib0RrMFIydFRDNENnWXUxQVUwT3pucFc1MmgyaU1fM2NRTTNmWlFfQ002UnV2Umk2WVZjMnJXazJGdHZFandiaWtfTnlLSDczazBNR0g3N1dOdDk2UEprQ3dvSTJldVAybHBGYUdFNEl2Uk9Zb3hPcnhlOUdSNmY1azFJY3gtQUxBY2hvQV9yRnNnOWU3eW9mY25IUUhodGNYbDl5ak1GYkVmUUNKWTF6WUlGeXJteHpnY2Z5UEFIWk5VRzFMRTF6ODVmWDhETngya3RhMFZmUXZlMTljZWJBMEdaTTJiX2I1ZE5DeF9nZTktMi1oUlBRellvVEFJeDNCaWlITE5sOFoxZThpMnlr?oc=5",
-      "source": "데일리안"
+      "label": "금리",
+      "summary": "기사에서는 금리와 제도 개선 기대가 보험주 상승 배경으로 거론됐습니다. 다만 미국 금리나 국내외 채권금리의 수준·방향은 제시되지 않아 보험사 자산운용·상품가격·건전성에 미친 구체적 영향은 확인할 수 없습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wQ3h0bW44OTR0SUd2bFVHaTZfOEJGNlVZRXQ4Qm1hRjAtWjNEUmp1TjBfZi1hdy01VDczazRwYXVGdE1YTmYwUDFjaW8yMjJwOW1uYVFsNFRZWE5vNC0xazNrNVVTd2NY?oc=5",
+      "source": "CEO스코어데일리"
     },
     {
-      "label": "국내외 채권금리",
-      "summary": "이번 기사에는 국내외 채권금리의 변동 내용이 없습니다. 보험사의 자산운용 수익률과 상품 가격, 건전성에 연결되는 변수인 만큼 예금보험기금 운용수익률 0.5% 보도와 함께 추가 확인이 필요합니다.",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQR3lldW0tQ1Bib0RrMFIydFRDNENnWXUxQVUwT3pucFc1MmgyaU1fM2NRTTNmWlFfQ002UnV2Umk2WVZjMnJXazJGdHZFandiaWtfTnlLSDczazBNR0g3N1dOdDk2UEprQ3dvSTJldVAybHBGYUdFNEl2Uk9Zb3hPdnhlOUdSNmY1azFJY3gtQUxBY2hvQV9yRnNnOWU3eW9mY25IUUhodGNYbDl5ak1GYkVmUUNKWTF6WUlGeXJteHpnY2Z5UEFIWk5VRzFMRTF6ODVmWDhETngya3RhMFZmUXZlMTljZWJBMEdaTTJiX2I1ZE5DeF9nZTktMi1oUlBRellvVEFJeDNCaWlITE5sOFoxZThpMnlr?oc=5",
-      "source": "데일리안"
-    },
-    {
-      "label": "환율·부동산",
-      "summary": "기사 목록에는 환율이나 부동산 가격의 흐름이 언급되지 않았습니다. 따라서 이들 변수가 보험사의 운용자산과 건전성에 미친 영향은 이번 브리핑에서 판단하지 않습니다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VU1BVSUV6bF9ReWxxRmNFZFQ1VXNLbHYxRFRpUG1qN25XNzU4QUxrdTFCTXlpU29lTFNZVlNLZG85ZXRIaEk2N05CV2Q0YlhKa1c2elRlRURxWmd2aGZ4QW93YXBaanBwMzBF?oc=5",
-      "source": "해사신문"
+      "label": "보험주 주가",
+      "summary": "보험주가 금리·제도 개선 기대와 함께 크게 움직였다는 보도가 나왔습니다. 이는 보험시장에 대한 투자자 기대와 기업가치 평가의 변화를 보여주지만, 개별 보험사의 자산운용·상품가격·건전성 개선을 의미한다고 단정할 수는 없습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wQ3h0bW44OTR0SUd2bFVHaTZfOEJGNlVZRXQ4Qm1hRjAtWjNEUmp1TjBfZi1hdy01VDczazRwYXVGdE1YTmYwUDFjaW8yMjJwOW1uYVFsNFRZWE5vNC0xazNrNVVTd2NY?oc=5",
+      "source": "CEO스코어데일리"
     }
   ],
   "issues": [
     {
-      "tag": "제도·건전성",
-      "title": "예보료율 인상 우려와 예금보험기금 운용수익률 논란",
-      "summary": "손해보험협회장이 국회에 예보료율 인상 우려를 전달했다는 보도와 함께, 예금보험기금 운용액은 20조원을 넘었지만 수익률은 0.5%에 그쳤다는 보도가 나왔습니다. 보험업계의 비용 부담과 기금 운용 효율이 예금보험제도 관련 핵심 쟁점으로 부각됐다는 의미입니다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wX0I3cVU4VmczQkRtU1dnQUFRNjNqWTQzLWdqSzR0aGdIQ1NLMzIxc2RWcnpPU1VPV0Z5OGtqZ3A0SWUtTHJSODRKTzZhUmk5V25VNFIwRi1EZ29tWlVjY1VHODNSVU9XWUNB0gFwQVVfeXFMTlZkd1UyLTZjZlVyVGxXTnVxS2JBenhXeXRjeDhVVWNzcWpJNlBzWW1OX3VJRTdRTmc4NUJkN3EzNUs4ZVVYWlRvR3Zwd3QtcXRDaFpFUjBZdW5JVjhhdkhVd0wyZG9WdVB0bGxwTkRMRg?oc=5",
-      "source": "머니투데이·데일리안"
+      "tag": "시장",
+      "title": "금리·제도 개선 기대에 보험주 급등",
+      "summary": "보험주가 금리와 제도 개선 기대를 바탕으로 강세를 보였고, 한화생명과 한화손해보험의 주가 급등이 보도됐습니다. 시장의 기대가 보험업종 주가에 반영된 사례지만, 기사만으로 실적이나 건전성의 실제 개선 여부까지 확인되지는 않습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wQ3h0bW44OTR0SUd2bFVHaTZfOEJGNlVZRXQ4Qm1hRjAtWjNEUmp1TjBfZi1hdy01VDczazRwYXVGdE1YTmYwUDFjaW8yMjJwOW1uYVFsNFRZWE5vNC0xazNrNVVTd2NY?oc=5",
+      "source": "CEO스코어데일리"
     },
     {
-      "tag": "모집질서",
-      "title": "보험설계사 이직 때 수수료 상실 문제, 국회에 호소",
-      "summary": "보험설계사들이 자신이 만든 계약에서 발생하는 수수료를 이직하면 잃는 문제를 국회에 호소했다는 보도입니다. 설계사 보상체계와 계약 유지·관리 책임을 둘러싼 제도 개선 요구가 계속되고 있음을 보여줍니다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9acEhqMlZ1cnFqTVM3ekQtSVJJdEFWNnAzRVJLaUhXREJOMWhFd1lKektkRV9kSU1jTl9wRXN5dXNMUVozcE9MOGhSNXNTbTY3ekRmOFNhVnNnMERMOHhPUG1MdXBwU3h5?oc=5",
-      "source": "한국NGO신문"
+      "tag": "디지털",
+      "title": "보험금 청구·심사·가입 업무의 자동화 확대",
+      "summary": "펫보험 자동청구, NH농협손해보험의 보험금 자동심사시스템 개선, 신한라이프의 청구·지급 안내 고도화, KB라이프의 비대면 청약업무 개선이 잇따라 소개됐습니다. 보험업계의 디지털화가 고객 접점과 내부 심사·가입 절차 전반으로 확장되는 흐름을 보여줍니다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aaVpUNV9laXV4S3BLSk5sLTd2d2dQWURPWUpCNE5sMHhRMEEzNWxmV3M3aUtybERSVVhZUjRqUlFrRHBucVVTZEtGalVDNFdmcmdZOVh1LUIwU3J2YjB6b0tJSmpyTzVPSHpz?oc=5",
+      "source": "보험신보"
     },
     {
-      "tag": "보험사기",
-      "title": "고의사고·의료비 청구 등 보험사기 대응 이슈 확산",
-      "summary": "고의사고를 역할별로 나눠 저지른 일당의 실형 선고, 마운자로 비용을 아끼기 위한 보험 청구 문제, 반복 보험사기에 따른 보험계약 해지 인정 사례가 각각 보도됐습니다. 사고 조작과 부정 청구에 대한 형사·민사상 대응이 보험금 관리와 계약 신뢰의 핵심 과제로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iSVF0cHVsRWlIeWRxcU95eGE5THdRM0dKMGp6QWVfMTJIUXE3Z3BxdC0xLTRuVGdJb0owdzR6NnJHOUliaXlERXpIY2llRDQ?oc=5",
-      "source": "v.daum.net·투데이신문·로이슈"
+      "tag": "신사업",
+      "title": "생보업계, 보험금청구권 신탁·디지털 유산 등 사후관리 사업 확대",
+      "summary": "생보업계가 보험금청구권 신탁을 새로운 사업 영역으로 보고 경쟁을 벌이는 가운데, 디지털 유산을 사후관리 서비스로 다루는 움직임도 보도됐습니다. KB라이프의 건강보험·시니어 사업 확대와 함께 생보사의 보장 이후 서비스와 고령층 관련 사업 확장이 주요 관심사로 부상했습니다.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHMzhWWEhES0IzQkFrdnZvSkVtTU13MThHQVdQMDIwSEtFRW5wQms4eWlBQnB5aG1xQVVLd2JoMDE5TS01OHFUZ0thUkhtb3BlTWZydmZBMDJQZlE1Q2FVVzNvLWwwQmUtRENTRHZrQdIBc0FVX3lxTE83YXg2dkFOeUNibDBIYlIyUkU4aWpISHpVQnE5RXB2ODByanRUaWlZbGpOMC1uS0RFOVh4QWFlRTM2QzUzZldhMGIwT0NuaWd3UmJUOWJfNXZqX21lZ2FSTHk5NFJsR0h5TlhxMEh0cG1oTUU?oc=5",
+      "source": "데일리한국"
     },
     {
-      "tag": "자동차보험",
-      "title": "중고차 성능보험, 사고·보험료·보상 간 불일치 논란",
-      "summary": "중고차 성능보험을 두고 손해율은 급감했지만 보상은 줄었다는 보도와, 사고는 늘었는데 보상은 줄고 보험료만 올랐다는 지적이 함께 나왔습니다. 손해율과 실제 사고·보상 체감 사이의 격차가 상품 가격과 보상 적정성 논쟁으로 이어지고 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBna1plYjJtMjFBZ0NfaWF1eE9aa3RsVERzd29CMVZSazB4bTBnRjJCSTFENUxLLUxWRWgzYzhkUEFac2ZYRGRWZk53dE42Wk56OTlWWkNWVklValhpRF84NkxpMThkS2VwV0FXdHRzRQ?oc=5",
-      "source": "뉴스데일리·stnsports.co.kr"
+      "tag": "제도",
+      "title": "약가 재평가 기준과 추가 인하 여부 논의",
+      "summary": "약가 재평가에서 기준선보다 낮은 경우 추가 인하를 하지 않는다는 내용과, 기등재약 재평가 제외 품목은 68% 가산 대상이 아니라는 내용이 보도됐습니다. 재평가 기준과 가산 적용 범위가 의약품 보장과 관련된 제도 변수로 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxMXBYdEpudmdfd1BjZFBwQ29lRl9SaTkxUkFwd0xVOWRpMms3YTNzLVZLX3ZWMWo3UF9BcnNGSWlJdlNnd1hyNU5hOVh2c3A4RmR0SFZCc1FaZUszWGtySC1OakExanJpSG44?oc=5",
+      "source": "히트뉴스"
     },
     {
-      "tag": "디지털 전환",
-      "title": "영업·심사로 확장되는 보험업계 AI 활용",
-      "summary": "보험업계에서 AI가 영업과 심사 업무까지 담당하는 방향으로 지각변동이 일고 있다는 보도가 나왔습니다. AI 활용이 단순한 구축 단계를 넘어 실제 영업·언더라이팅 업무의 변화로 다뤄지고 있다는 점이 핵심입니다.",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSR0RJdVhWS3MxNGZRTHRDVThMcEZrZWpRcnNsOXMtMDNKc3RHU3FodjVPb2lZQVZLOEtVeGhTOUtZd2c3S1BmM3J1dDBLMVU?oc=5",
-      "source": "v.daum.net"
+      "tag": "자본·재보험",
+      "title": "캣본드와 재보험 등 글로벌 위험관리 수단 주목",
+      "summary": "일본에서 보험과 자본시장을 결합한 캣본드 시장이 확대되고 있으며, 글로벌 위험 변동성 확대로 재보험의 역할이 부각됐다는 보도가 나왔습니다. 중국 재정부의 5개 보험사 자본 투입 보도까지 더해져 보험산업의 자본 확충과 위험 이전 수단이 함께 주목받았습니다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVbV9aQmM4Tmg0Z3F6dVRXRDhteHM1QURVYzhfZEt3V0RrMk00SFlEaDRoRmhuckRCOFlrUHAxaFR5OWxBWmRYWl9jTU8yb1JaaHhGZ2xTd3dBeHNqWDI0bk9wdnRVaXpXb1Vn0gFvQVVfeXFMUGw0T1J6UUtqWkJlQzRCckFNTkh2c3RUNVJ3dEoyTmF4RkRIX0RpUFA0ZDh5eUtjeDU1bGVzdFhSem4yYlpFMFkySmJkY0ZsZUpzbTRFU0M4MEN2T2RQd09qYUo2NjJrZ0Zfc29UTW13?oc=5",
+      "source": "한국보험신문"
     }
   ]
 }
