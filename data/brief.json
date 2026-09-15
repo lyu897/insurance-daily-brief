@@ -1,64 +1,70 @@
 {
-  "updatedAt": "2026-09-13T23:34:33.676Z",
+  "updatedAt": "2026-09-15T23:34:58.466Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사 메타데이터만 기준으로 유사 보도를 통합했습니다. 미국 금리·채권금리·환율·부동산의 구체적 흐름은 제공된 기사에 없어 별도 판단하지 않았습니다.",
+  "editorNote": "최근 24시간 기사 중 동일한 자동차보험 손익 이슈와 생명보험협회 공동연구 보도는 하나의 이슈로 통합했습니다. 제공된 메타데이터에는 금융시장 가격·방향에 관한 구체적 정보가 없어 시장 변수는 확인 불가로 표시했습니다.",
   "keywords": [
-    "보험주 급등",
-    "보험금 청구 자동화",
-    "보험금청구권 신탁",
-    "약가 재평가",
-    "캣본드·재보험"
+    "자동차보험 적자",
+    "보험사 기본자본비율",
+    "보험사기·과잉청구",
+    "생명보험 상품 재편",
+    "보험 디지털화"
   ],
-  "marketSummary": "금리와 제도 개선 기대가 보험주 강세로 나타난 가운데, 보험업계는 디지털 청구·신사업·자본시장 활용을 확대하는 흐름을 보였습니다.",
+  "marketSummary": "제공된 기사 목록에는 미국 금리, 국내외 채권금리, 환율, 부동산 등 금융시장 흐름을 판단할 수 있는 정보가 없어 보험시장 관점의 방향성은 확인되지 않습니다.",
   "marketContext": [
     {
-      "label": "금리",
-      "summary": "기사에서는 금리와 제도 개선 기대가 보험주 상승 배경으로 거론됐습니다. 다만 미국 금리나 국내외 채권금리의 수준·방향은 제시되지 않아 보험사 자산운용·상품가격·건전성에 미친 구체적 영향은 확인할 수 없습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wQ3h0bW44OTR0SUd2bFVHaTZfOEJGNlVZRXQ4Qm1hRjAtWjNEUmp1TjBfZi1hdy01VDczazRwYXVGdE1YTmYwUDFjaW8yMjJwOW1uYVFsNFRZWE5vNC0xazNrNVVTd2NY?oc=5",
-      "source": "CEO스코어데일리"
+      "label": "미국 금리",
+      "summary": "제공된 기사 메타데이터에 미국 금리의 변동이나 전망에 관한 내용이 없습니다. 따라서 보험사의 해외채권 운용과 생명보험 상품가격에 미친 영향을 이 자료만으로는 판단할 수 없습니다.",
+      "url": "",
+      "source": "제공 기사 목록"
     },
     {
-      "label": "보험주 주가",
-      "summary": "보험주가 금리·제도 개선 기대와 함께 크게 움직였다는 보도가 나왔습니다. 이는 보험시장에 대한 투자자 기대와 기업가치 평가의 변화를 보여주지만, 개별 보험사의 자산운용·상품가격·건전성 개선을 의미한다고 단정할 수는 없습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wQ3h0bW44OTR0SUd2bFVHaTZfOEJGNlVZRXQ4Qm1hRjAtWjNEUmp1TjBfZi1hdy01VDczazRwYXVGdE1YTmYwUDFjaW8yMjJwOW1uYVFsNFRZWE5vNC0xazNrNVVTd2NY?oc=5",
-      "source": "CEO스코어데일리"
+      "label": "국내외 채권금리",
+      "summary": "국내외 채권금리 수준과 변화에 관한 정보가 없습니다. 이에 따라 보험사의 채권 평가손익, 자산운용 수익률, 금리 민감형 상품의 가격 영향도 확인할 수 없습니다.",
+      "url": "",
+      "source": "제공 기사 목록"
+    },
+    {
+      "label": "환율·부동산",
+      "summary": "환율이나 부동산시장 흐름을 다룬 기사가 없어 관련 변수를 평가할 수 없습니다. 보험사의 외화자산 운용, 부동산 익스포저, 건전성에 대한 연결점도 기사 목록만으로는 확인되지 않습니다.",
+      "url": "",
+      "source": "제공 기사 목록"
     }
   ],
   "issues": [
     {
-      "tag": "시장",
-      "title": "금리·제도 개선 기대에 보험주 급등",
-      "summary": "보험주가 금리와 제도 개선 기대를 바탕으로 강세를 보였고, 한화생명과 한화손해보험의 주가 급등이 보도됐습니다. 시장의 기대가 보험업종 주가에 반영된 사례지만, 기사만으로 실적이나 건전성의 실제 개선 여부까지 확인되지는 않습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wQ3h0bW44OTR0SUd2bFVHaTZfOEJGNlVZRXQ4Qm1hRjAtWjNEUmp1TjBfZi1hdy01VDczazRwYXVGdE1YTmYwUDFjaW8yMjJwOW1uYVFsNFRZWE5vNC0xazNrNVVTd2NY?oc=5",
-      "source": "CEO스코어데일리"
+      "tag": "자동차보험",
+      "title": "자동차보험, 사고 감소에도 6년 만에 적자 전환…보험료 인상·보상 관리 주목",
+      "summary": "상반기 자동차보험 손익이 6년 만에 적자로 전환했고, 사고 건수는 줄었지만 보험금 지급액은 증가했다는 보도가 잇따랐습니다. 경상 환자의 장기 치료와 이른바 ‘8주 룰’ 등이 손익 악화 요인으로 거론되면서 보험료 조정과 보상 관리가 쟁점으로 부상했습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZQ3VLcjRrZ29UZDBLSzdJaFJhOUZoUFpzRkFLc3NiM3d2SHZveEZCbnZQY3B6T2M1U1RrdGp5VHBEcnhiUnlHenNSRkc5dXVVYm5xdXhHUm9nUFU0RExZMmk5WEktXzg?oc=5",
+      "source": "연합뉴스TV"
     },
     {
-      "tag": "디지털",
-      "title": "보험금 청구·심사·가입 업무의 자동화 확대",
-      "summary": "펫보험 자동청구, NH농협손해보험의 보험금 자동심사시스템 개선, 신한라이프의 청구·지급 안내 고도화, KB라이프의 비대면 청약업무 개선이 잇따라 소개됐습니다. 보험업계의 디지털화가 고객 접점과 내부 심사·가입 절차 전반으로 확장되는 흐름을 보여줍니다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aaVpUNV9laXV4S3BLSk5sLTd2d2dQWURPWUpCNE5sMHhRMEEzNWxmV3M3aUtybERSVVhZUjRqUlFrRHBucVVTZEtGalVDNFdmcmdZOVh1LUIwU3J2YjB6b0tJSmpyTzVPSHpz?oc=5",
-      "source": "보험신보"
+      "tag": "생명보험 상품",
+      "title": "생보 상품 전략, 종신보험에서 고금리 저축성·건강보장 상품으로 재편",
+      "summary": "장기 종신보험 판매가 늘어난 배경과 함께 고금리 저축성보험 수요가 부각됐다는 보도가 나왔습니다. 삼성생명 건강보험과 우체국보험 상품 개편 등 상품군별 대응이 이어지며 생명보험업계의 상품 전략 변화가 나타났습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WMVNQTnJHeENwNHVuUThpcHphb2lrbGdCaEpnQXZoQkZWeVUxYXdhbVJIc1kzM0xIcUE0T3VyWnRsNS1QeDAzZEVoc3lOSHJnbnBjWlFDZHFjZw?oc=5",
+      "source": "한국경제"
     },
     {
-      "tag": "신사업",
-      "title": "생보업계, 보험금청구권 신탁·디지털 유산 등 사후관리 사업 확대",
-      "summary": "생보업계가 보험금청구권 신탁을 새로운 사업 영역으로 보고 경쟁을 벌이는 가운데, 디지털 유산을 사후관리 서비스로 다루는 움직임도 보도됐습니다. KB라이프의 건강보험·시니어 사업 확대와 함께 생보사의 보장 이후 서비스와 고령층 관련 사업 확장이 주요 관심사로 부상했습니다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHMzhWWEhES0IzQkFrdnZvSkVtTU13MThHQVdQMDIwSEtFRW5wQms4eWlBQnB5aG1xQVVLd2JoMDE5TS01OHFUZ0thUkhtb3BlTWZydmZBMDJQZlE1Q2FVVzNvLWwwQmUtRENTRHZrQdIBc0FVX3lxTE83YXg2dkFOeUNibDBIYlIyUkU4aWpISHpVQnE5RXB2ODByanRUaWlZbGpOMC1uS0RFOVh4QWFlRTM2QzUzZldhMGIwT0NuaWd3UmJUOWJfNXZqX21lZ2FSTHk5NFJsR0h5TlhxMEh0cG1oTUU?oc=5",
-      "source": "데일리한국"
+      "tag": "건전성 규제",
+      "title": "내년 기본자본비율 규제 시행 예고…일부 보험사 취약성 부각",
+      "summary": "보험사에 내년부터 기본자본비율 규제가 적용될 예정이라는 보도가 나왔고, KDB생명과 롯데손보가 취약한 회사로 거론됐습니다. 새 자본 규제가 보험사의 자본 확충과 자산·상품 운용 전략에 부담 요인이 될 수 있다는 점이 핵심입니다.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56c2FnSWZ1Q3RiclJWR1FVbGM0eFdrXzl1MXNVZ3paSEI4MHF4SXpsMWVPVjYwTjVrWDU5RWswdU1UUnB0ZkVPVWZUYlhqamROUzJHWF9ndVcydXhRTDUtSmhDX1lIcEx4MFo4Wm1jTHNrVllu?oc=5",
+      "source": "대한경제"
     },
     {
-      "tag": "제도",
-      "title": "약가 재평가 기준과 추가 인하 여부 논의",
-      "summary": "약가 재평가에서 기준선보다 낮은 경우 추가 인하를 하지 않는다는 내용과, 기등재약 재평가 제외 품목은 68% 가산 대상이 아니라는 내용이 보도됐습니다. 재평가 기준과 가산 적용 범위가 의약품 보장과 관련된 제도 변수로 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxMXBYdEpudmdfd1BjZFBwQ29lRl9SaTkxUkFwd0xVOWRpMms3YTNzLVZLX3ZWMWo3UF9BcnNGSWlJdlNnd1hyNU5hOVh2c3A4RmR0SFZCc1FaZUszWGtySC1OakExanJpSG44?oc=5",
-      "source": "히트뉴스"
+      "tag": "보험사기·보상관리",
+      "title": "가짜 요양등급·과잉치료 등 보험사기와 과잉청구 대응 강화",
+      "summary": "장기요양등급을 속여 보험금을 편취한 일당이 송치·검거됐고, 가벼운 자동차사고 뒤 장기 치료를 받는 사례에 대한 단속 보도도 나왔습니다. 생명보험협회와 한국형사·법무정책연구원의 공동연구, 요양병원 현장점검 확대 등 제도·현장 대응이 함께 추진되고 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OOXR0d2Rzdmh2ODUtb29HWXYya2xmdWFWQTUxTmctaU8tVnI0Wlh6UkhlSV9OVXkxUk91UDEzUVhLQXBwcFphRmFLZTdzVWl2Mm40TDhGSW85LXF3cjBOWA?oc=5",
+      "source": "유교신문"
     },
     {
-      "tag": "자본·재보험",
-      "title": "캣본드와 재보험 등 글로벌 위험관리 수단 주목",
-      "summary": "일본에서 보험과 자본시장을 결합한 캣본드 시장이 확대되고 있으며, 글로벌 위험 변동성 확대로 재보험의 역할이 부각됐다는 보도가 나왔습니다. 중국 재정부의 5개 보험사 자본 투입 보도까지 더해져 보험산업의 자본 확충과 위험 이전 수단이 함께 주목받았습니다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVbV9aQmM4Tmg0Z3F6dVRXRDhteHM1QURVYzhfZEt3V0RrMk00SFlEaDRoRmhuckRCOFlrUHAxaFR5OWxBWmRYWl9jTU8yb1JaaHhGZ2xTd3dBeHNqWDI0bk9wdnRVaXpXb1Vn0gFvQVVfeXFMUGw0T1J6UUtqWkJlQzRCckFNTkh2c3RUNVJ3dEoyTmF4RkRIX0RpUFA0ZDh5eUtjeDU1bGVzdFhSem4yYlpFMFkySmJkY0ZsZUpzbTRFU0M4MEN2T2RQd09qYUo2NjJrZ0Zfc29UTW13?oc=5",
-      "source": "한국보험신문"
+      "tag": "디지털·판매채널",
+      "title": "보험업계, 디지털 내재화와 온라인 채널·AI 활용 확대",
+      "summary": "교보생명이 라이프플래닛을 흡수합병해 디지털 역량을 보험사업 전반에 활용하려는 움직임을 보였습니다. 한화손보의 PM·온라인 채널 강화, DB손보의 자동차보험 이미지 판독 자동화, 개인정보보호 강화에 따른 GA 부담 증가는 판매·업무 효율화와 규제 대응이 동시에 진행되고 있음을 보여줍니다.",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDZzA3UU85aUUxcEVHYllSa2VVcXVENFExOWdZRlEtNHZUeldJQnR6THBDd1ltMDgtcUk4SGpGeTg4NENNTnJpc1dSTWNkRTZXRGYxWlZWRXdjM0ZHR2ZWLUI3T1hULUFUaGFuRGZtaWpPUQ?oc=5",
+      "source": "KB Think"
     }
   ]
 }
