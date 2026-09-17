@@ -1,64 +1,64 @@
 {
-  "updatedAt": "2026-09-16T23:35:55.183Z",
+  "updatedAt": "2026-09-17T23:33:00.479Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사 중 동일 발표를 반복 보도한 보험사기·부당청구 공조 기사와 보험범죄 방지 포럼 출범 기사를 각각 하나의 이슈로 통합했습니다. 금융시장 관련 기사에서는 금리·채권금리의 방향이나 환율 수치가 확인되지 않아 시장 흐름은 제한적으로 정리했습니다.",
+  "editorNote": "최근 24시간 제공 기사 메타데이터를 기준으로 동일 사안을 묶었으며, 기사 본문에 제시되지 않은 수치나 사실은 제외했습니다.",
   "keywords": [
-    "보험사기·부당청구",
-    "디지털보험 재편",
-    "지급여력비율",
-    "자본규제",
-    "시니어케어"
+    "디지털보험사 통합·퇴출",
+    "보험사기 근절",
+    "기후보험",
+    "CSM·건강보험 상품 경쟁",
+    "AI·예금토큰 보험"
   ],
-  "marketSummary": "오늘 기사에서는 미국 금리·국내외 채권금리·환율의 구체적인 움직임은 확인되지 않았으며, 보험시장에서는 자본규제와 지급여력비율 하락, 수익성 관리가 핵심 변수로 부각됐습니다.",
+  "marketSummary": "미국 고용지표와 일본 가계의 예금·보험에서 주식으로의 자산 이동이 포착된 가운데, 보험시장에서는 디지털 사업의 수익성·건전성과 상품 경쟁이 핵심 변수로 부각됐다.",
   "marketContext": [
     {
-      "label": "금리·채권금리",
-      "summary": "기사에 미국 금리나 국내외 채권금리의 방향과 수치는 제시되지 않았습니다. 다만 보험사의 자산운용과 지급여력, 자본규제 부담을 다룬 기사들이 있어 금리·채권금리 변동이 보험사의 건전성 및 이익의 질과 연결될 수 있는 변수로 제시됩니다.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40TjJJNXVLOURsb21DLTFpNVllYjRud3FuVkdCWjJTQUlnZThlSVpXdnpmVE5pZ3Y3N19hTjg4UTRqdlJZT2JDcnhFMm1MVkxaUUZTV1I1RlZRaEU?oc=5",
-      "source": "에너지경제신문"
+      "label": "미국 고용지표",
+      "summary": "미국 주간 신규 실업보험 청구액이 19만6천건으로 예상치를 밑돌았다는 보도가 나왔다. 고용 관련 지표는 보험사의 자산운용 환경과 경기 민감형 보험 수요를 살피는 금융시장 변수로 연결될 수 있다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ramE2bWwxYzM5WlF0RGFVWDJNanpsSG9MV3ZpTTFhWjkzTzJDT25ySGh1a2xobUZPb3VGb1B6WVhxTnlXRjFQWjZ2dXJZcXg1ZHFacUZJUjhuVUNuY0cxcFdrM3czYjNTZkxmNElKX0o?oc=5",
+      "source": "연합인포맥스"
     },
     {
-      "label": "부동산·요양시설 규제",
-      "summary": "시니어케어 시장과 관련해 요양시설 토지 소유 규제를 완화해야 한다는 업계 과제가 보도됐습니다. 이는 부동산 자체의 가격 흐름을 다룬 내용은 아니지만, 요양시설의 사업 확장과 보험업계의 신사업 수익성에 영향을 줄 수 있는 규제 변수로 언급됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsblhfOGp0MGh6R2M3akhDQWNVNWR1c084ZXphSGtNZnVvdmhqMUotQXZFR29RdF9QYVVUNnNHYjBmY19PVlNtVVJFWUR4dmg4M01OSDdUaGM3S2xh?oc=5",
-      "source": "뉴스핌"
+      "label": "일본 가계 자산배분",
+      "summary": "일본 가계가 예금과 보험을 해지하고 주식으로 이동하는 자산구조 전환이 보도됐다. 이런 자금 이동은 보험상품의 유지·판매 환경과 가계의 위험자산 선호를 함께 점검하게 하는 변수다.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ocndfT29DeHdyVzFqV1hzbENSSGtyQWRLTURsaHd1d0lqWWpTaDFpYV9ZWmZ3ZlZQOWpkUzFac1dxc2FwbFFpbG8za2I3d3FGUjFVQjBvTkQxUQ?oc=5",
+      "source": "한국경제"
     }
   ],
   "issues": [
     {
-      "tag": "보험사기·부당청구",
-      "title": "심평원·금감원, 실손·자동차보험 보험사기 공동 대응 강화",
-      "summary": "건강보험심사평가원과 금융감독원이 요양기관의 부당청구와 보험사기를 적발하기 위해 의료·보험 정보를 공유하고 공동 대응체계를 강화하기로 했습니다. 실손보험과 자동차보험의 누수 차단, 의심 의료기관에 대한 신속한 수사의뢰와 제재가 핵심입니다.",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zRktiUzE0dUhxV2dZNHdoclgyRXFORUJJNEZacU9mOWZuZk9ZZnE1QXJiZXhGendGZkVzdjItOW1rLWxHNVNIMmp2OGdVR3puRVVDWk1kbDZvTm96SlVBQzlfbmJUb1FPcC0tcg?oc=5",
-      "source": "약사공론"
+      "tag": "구조조정·건전성",
+      "title": "디지털보험사 통합·퇴출 가속…대면 채널 확대",
+      "summary": "디지털보험사들이 잇따라 통합되거나 독립 사업을 접는 흐름이 보도됐고, 하나·신한EZ손해보험은 대면 영업 확대에 나선 것으로 전해졌다. 기사들은 적자와 건전성 규제가 디지털보험사의 홀로서기를 제약하는 요인으로 제시한다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zYnZBN0VVYVFxWmN5akFWaVAza2Y0VldPZi1DaW0xdVFTSUVsZ25qRjNhUThpeG1GWW1MeDI1RGtEY21BTG5lZ1ZKcFhPTXRQSGpOczFLdjViaElOSWt1ZnJQaDNQWkZXeTVR?oc=5",
+      "source": "라이센스뉴스"
     },
     {
-      "tag": "보험범죄 대응",
-      "title": "국회·정부·보험업계, 보험범죄 방지 연구포럼 출범",
-      "summary": "국회와 정부, 연구기관 및 보험업계가 참여하는 보험범죄 방지 연구포럼이 출범했고, 손해보험협회도 국회와 협력에 나섰습니다. AI·딥페이크를 활용한 신종 사기까지 대응 범위를 넓히며 제도와 수사 공조를 강화하려는 움직임입니다.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83dlZFeU9jYTdsUEZzMF9VOUN5NmVjeGdzSzFDczlVWU5fS29SMTZ6cVVUVzVZSEJyTjNXaVZqc051a0J3MkFseHhMXzVRT3picEotWkRvQUhIQjlOVzRqNNIBYEFVX3lxTE83dlZFeU9jYTdsUEZzMF9VOUN5NmVjeGdzSzFDczlVWU5fS29SMTZ6cVVUVzVZSEJyTjNXaVZqc051a0J3MkFseHhMXzVRT3picEotWkRvQUhIQjlOVzRqNA?oc=5",
-      "source": "연합뉴스"
+      "tag": "보험사기·소비자 부담",
+      "title": "보험사기 근절 위해 관계기관 공조 강화",
+      "summary": "손해보험업계와 관계기관이 보험사기 대응을 강화하는 전방위 공조에 나섰다는 보도가 나왔다. 금융당국이 연 1조원대 보험사기 근절에 나선다는 기사도 함께 나오며, 보험금 누수와 보험료 부담 문제가 주요 현안으로 부각됐다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1meWhHMDFqRTc5VmdrTldRZlZ2em55WGo3Ty11TFFqeWoyZVU4aEJRWXRBWXpQM3ZLQVByd3VQaDBfSXZlbUZlSVhKU1BLYWdpT0NfQUc5Mm1ldGRfRDBtNy1YXzlrMG5s?oc=5",
+      "source": "녹색경제신문"
     },
     {
-      "tag": "디지털보험",
-      "title": "디지털보험사 생존전략 재편…대면영업·GA와 합병 부상",
-      "summary": "네이버·토스 등 디지털 보험 관련 사업에서 독자적인 온라인 모델의 한계와 대면영업·GA로의 회귀가 거론됐고, 카카오페이손해보험은 존폐 기로에 놓였다는 보도가 나왔습니다. 교보생명은 라이프플래닛을 흡수합병해 디지털 보험 역량을 통합하며 사업 재편에 나섰습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nZHE3WW15bUVkd3lwbExpUUdXS0ZDRFpEeUZQaHdwUUJFaEVaTlJPckZwLU1Dd0xHbHpvb3hzcG04c0tqMGVraHc0Vll2QUk?oc=5",
-      "source": "v.daum.net"
+      "tag": "기후위험·제도",
+      "title": "기후보험, 예산과 데이터 공백이 상용화 걸림돌",
+      "summary": "기후보험이 법적 기반에도 예산 부족으로 출발부터 난항을 겪을 수 있다는 보도가 나왔다. 과거 날씨를 활용해 미래 위험을 계산하는 데 데이터 공백이 있고, 극한기후로 보험금 부담이 커지면서 새로운 보장 수요가 부상한다는 분석이 제시됐다.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaWoyVmY2Y24yMVdTZnJyc1I0Ul8xdTZnUHdKTTJIUGFwMDQ0YWV6VzA4SEY3RE9BMWZRRjk3SU12bWZsSkNUYjJEZFF1ZHNsbk5aM0owTEhHR3ZlTWVOS3RZTWNIdkNRWGlRS3pXWjh2ZnlyWnR2dXhuUUFTbjAxbw?oc=5",
+      "source": "edaily.co.kr"
     },
     {
-      "tag": "건전성·자본",
-      "title": "보험사 지급여력과 이익의 질에 경고등…자본규제 대응 본격화",
-      "summary": "보험업계 지급여력비율이 5개 분기 만에 하락 전환했다는 보도와 함께, CSM이 늘어도 보험이익이 둔화될 수 있어 이익의 질이 신용도를 가를 수 있다는 분석이 제시됐습니다. 자본규제를 앞두고 교보생명의 합병 선택과 증권·보험업계의 잠재 리스크 경계가 함께 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sOUtxN1FkVFd3YUt2NkxPV1lldmFaaGxwMllYRTlyMUpMdGFfVXpjVzZDLWFja1BoeWJkN1NaSVZsY05zQnN5TkpBc3cyeUk?oc=5",
-      "source": "dealsite.co.kr"
+      "tag": "상품전략·수익성",
+      "title": "CSM 확보와 건강·상해보험 상품 경쟁 심화",
+      "summary": "보험업계가 2027년 사업계획을 앞두고 CSM 확보 경쟁의 변곡점을 맞을지 주목된다는 보도가 나왔다. 건강보험의 반복 보장과 상해보험 중심 전략 등이 소개되며, 상품 구성과 수익성 관리가 동시에 강조됐다.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Hb3pud0tMTk9ER28xS2ZMNmtMOE9hOTBUMnBXVnd1UWJ5a2pscXNHYUFfRWR0N3RWR08xakZCWFd0NVoxZm1oMWhvSllKTlJ2ZGd2ZlJCcjdfc1FCZWlZVjZ1a2NoYkF0UTVMMlJJdw?oc=5",
+      "source": "보험저널"
     },
     {
-      "tag": "시니어케어",
-      "title": "보험업계, 시니어케어를 신성장동력으로 모색",
-      "summary": "약 68조원 규모로 언급된 시니어케어 시장에 보험업계가 새 먹거리로 접근하고 있지만 수익성과 규제가 과제로 제시됐습니다. 요양시설 토지 소유 규제 완화 필요성이 거론되며, 시장 확대를 위해 제도 개선이 필요하다는 업계 의견이 나왔습니다.",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzVjVEbDc3dUlBallCWGZYX0FzbVh4WVktOXNCRkotXzJCZDhvd2FvckhRb0RiaG13djBoaEczcVdZR2R0V0l1OEhNV3YzUGpIZ2JzVE9iZ1JBMVRYYkc0bElnckc0S2I5NVhvQnZB?oc=5",
-      "source": "아시아투데이"
+      "tag": "보험기술·업무혁신",
+      "title": "AI·예금토큰 활용한 보험 업무 실증 확대",
+      "summary": "자동차보험 업무에서 서류와 영상 판독에 AI를 활용하는 흐름과, 예금토큰을 기반으로 보험 전 과정을 구현한 실증 사례가 보도됐다. 보험금 처리와 계약 과정의 효율화를 겨냥한 기술 적용이 이어지고 있다는 의미다.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNSE5kZ040Y3JYM0poNHFPbVVlR1ljTkItV3o5bXJKWDZ6ZUxKMTVqMk5vcXhYRVZIb2EzUW9ZX2pxSWowYzBfbXdwMG9fcUcya0w0Y0FlcXAwc1RfcWhDZHZXdkRwd3V3M2c?oc=5",
+      "source": "컨슈머타임스"
     }
   ]
 }
