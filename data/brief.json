@@ -1,64 +1,70 @@
 {
-  "updatedAt": "2026-09-17T23:33:00.479Z",
+  "updatedAt": "2026-09-18T23:34:13.518Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 제공 기사 메타데이터를 기준으로 동일 사안을 묶었으며, 기사 본문에 제시되지 않은 수치나 사실은 제외했습니다.",
+  "editorNote": "최근 24시간 기사 제목과 메타데이터를 기준으로 동일 사안을 통합했으며, 기사 본문에 확인되지 않은 세부 사실은 제외했습니다.",
   "keywords": [
-    "디지털보험사 통합·퇴출",
-    "보험사기 근절",
-    "기후보험",
-    "CSM·건강보험 상품 경쟁",
-    "AI·예금토큰 보험"
+    "보험판매전문회사·GA",
+    "변액보험·주식시장",
+    "보험료 인상",
+    "K-ICS·수익성",
+    "디지털보험사"
   ],
-  "marketSummary": "미국 고용지표와 일본 가계의 예금·보험에서 주식으로의 자산 이동이 포착된 가운데, 보험시장에서는 디지털 사업의 수익성·건전성과 상품 경쟁이 핵심 변수로 부각됐다.",
+  "marketSummary": "주식 호황은 변액보험 관심을 높이는 배경으로 작용하지만, 금리 상승은 보험업종에 일방적인 수혜가 아니어서 자산운용과 상품가격, 건전성을 함께 점검해야 하는 흐름이다.",
   "marketContext": [
     {
-      "label": "미국 고용지표",
-      "summary": "미국 주간 신규 실업보험 청구액이 19만6천건으로 예상치를 밑돌았다는 보도가 나왔다. 고용 관련 지표는 보험사의 자산운용 환경과 경기 민감형 보험 수요를 살피는 금융시장 변수로 연결될 수 있다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ramE2bWwxYzM5WlF0RGFVWDJNanpsSG9MV3ZpTTFhWjkzTzJDT25ySGh1a2xobUZPb3VGb1B6WVhxTnlXRjFQWjZ2dXJZcXg1ZHFacUZJUjhuVUNuY0cxcFdrM3czYjNTZkxmNElKX0o?oc=5",
-      "source": "연합인포맥스"
+      "label": "주식시장 강세",
+      "summary": "주식 호황기에 변액보험 성과와 외국계·신한·한화생명 등의 경쟁력이 주목받았다. 주식시장 흐름은 변액보험의 투자성과와 상품 경쟁력에 연결되는 변수다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sR0JvUjZEdnpubFBwanNhMHZWYjVZeURPNWZOc3Y5SWdYYzdwUGh2RlprV05QSzVsTjluc2I5azh0Q3o3TXBSSDZqSVZHUUtBSUNCQjVHLVhFOU9xZFB1NVRhUU5xSzJWTEJ30gFwQVVfeXFMTjZMbjJMZkJuUUtKTUcydEp4bGM2b0dUU21CVmNRdWxLcEkybHRfQS0xZXVFSzhWTXBzanNqNDhIWkRqcTEyQlJpb3RUMHY1ZnFyZTU0WjByLVpqcnEyVktiemVLZVJNQm9RbFNFMGktNw?oc=5",
+      "source": "머니투데이"
     },
     {
-      "label": "일본 가계 자산배분",
-      "summary": "일본 가계가 예금과 보험을 해지하고 주식으로 이동하는 자산구조 전환이 보도됐다. 이런 자금 이동은 보험상품의 유지·판매 환경과 가계의 위험자산 선호를 함께 점검하게 하는 변수다.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ocndfT29DeHdyVzFqV1hzbENSSGtyQWRLTURsaHd1d0lqWWpTaDFpYV9ZWmZ3ZlZQOWpkUzFac1dxc2FwbFFpbG8za2I3d3FGUjFVQjBvTkQxUQ?oc=5",
-      "source": "한국경제"
+      "label": "금리 상승",
+      "summary": "하나증권은 금리 상승이 보험업종의 일방적인 수혜 요인은 아니라고 분석했다. 금리 방향은 보험사의 자산운용 수익과 상품가격, 건전성 판단에 함께 영향을 주는 변수로 제시됐다.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5UkQzc3M0eWx3b2RROUlPLWU3N25kQTlncl84V204SE4yY3piWU1jZXVvU2tBaUpzRml6T2taUFhMZktGZV9YbzVybUZJWHVNc0lrRVpKMTFzak3SAWBBVV95cUxNN0xnT2lHV2s2N0I3SXVvXzEtQWg5WG0weHFOMkVjT2s5ckJxejJBNTh1TC1HTjJfNkxVd1RVSlhnVXl5b2FEUlJxdmExRWJCV1N5eV83cUw0U2k5cWdCcVc?oc=5",
+      "source": "연합뉴스"
+    },
+    {
+      "label": "보험·연금 대비 주식·펀드 자금 이동",
+      "summary": "일본에서 주식·펀드로 유입된 자금이 사상 처음으로 보험·연금을 넘어섰다는 보도가 나왔다. 보험·연금과 금융상품 사이의 자금 흐름 변화는 보험사의 자산운용 및 상품 경쟁 환경과 연결될 수 있다.",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mQzg3VXdqMFJ2MEtOVzBYNE10dmwxdlc2Z0dtOGNHRXg1MEU1YUhMdGZhaGM2OWtSVXg5Y3Z1UWxNUE1ZeUFOaVpuS0tSd2RQSmfSAVNBVV95cUxNNl9TdXdnYllGdmNBUGFpemlpZ1hTR2duWUc5UzZVREpJcU13eDJZNm9MQUlfYUVfOU1CdXcxWGZwUFZxdDFrcTdPSVpJVVcwd3liTQ?oc=5",
+      "source": "서울경제"
     }
   ],
   "issues": [
     {
-      "tag": "구조조정·건전성",
-      "title": "디지털보험사 통합·퇴출 가속…대면 채널 확대",
-      "summary": "디지털보험사들이 잇따라 통합되거나 독립 사업을 접는 흐름이 보도됐고, 하나·신한EZ손해보험은 대면 영업 확대에 나선 것으로 전해졌다. 기사들은 적자와 건전성 규제가 디지털보험사의 홀로서기를 제약하는 요인으로 제시한다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zYnZBN0VVYVFxWmN5akFWaVAza2Y0VldPZi1DaW0xdVFTSUVsZ25qRjNhUThpeG1GWW1MeDI1RGtEY21BTG5lZ1ZKcFhPTXRQSGpOczFLdjViaElOSWt1ZnJQaDNQWkZXeTVR?oc=5",
-      "source": "라이센스뉴스"
+      "tag": "판매채널",
+      "title": "보험판매전문회사 논의 재점화…GA와 원수사 간 권한·협상력 쟁점",
+      "summary": "보험판매전문회사 도입 논의가 18년 만에 다시 부상한 가운데 GA는 권한 확대를, 보험사는 협상력 변화를 주목하고 있다는 보도가 나왔다. 제도화가 현실화될 경우 보험사의 판매 구조와 원수사 부담에 영향을 줄 수 있는 사안이다.",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1aR0hQQkE3WU9wLU85MkFFM1VmTGJpVXd0aFI4b3dKN0JSTTFEbHRrNVowanNBRF9oVTlmRjRYRkRIVTlHcFJEYVNtTUJxMjVf?oc=5",
+      "source": "톱데일리·블로터"
     },
     {
-      "tag": "보험사기·소비자 부담",
-      "title": "보험사기 근절 위해 관계기관 공조 강화",
-      "summary": "손해보험업계와 관계기관이 보험사기 대응을 강화하는 전방위 공조에 나섰다는 보도가 나왔다. 금융당국이 연 1조원대 보험사기 근절에 나선다는 기사도 함께 나오며, 보험금 누수와 보험료 부담 문제가 주요 현안으로 부각됐다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1meWhHMDFqRTc5VmdrTldRZlZ2em55WGo3Ty11TFFqeWoyZVU4aEJRWXRBWXpQM3ZLQVByd3VQaDBfSXZlbUZlSVhKU1BLYWdpT0NfQUc5Mm1ldGRfRDBtNy1YXzlrMG5s?oc=5",
-      "source": "녹색경제신문"
-    },
-    {
-      "tag": "기후위험·제도",
-      "title": "기후보험, 예산과 데이터 공백이 상용화 걸림돌",
-      "summary": "기후보험이 법적 기반에도 예산 부족으로 출발부터 난항을 겪을 수 있다는 보도가 나왔다. 과거 날씨를 활용해 미래 위험을 계산하는 데 데이터 공백이 있고, 극한기후로 보험금 부담이 커지면서 새로운 보장 수요가 부상한다는 분석이 제시됐다.",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaWoyVmY2Y24yMVdTZnJyc1I0Ul8xdTZnUHdKTTJIUGFwMDQ0YWV6VzA4SEY3RE9BMWZRRjk3SU12bWZsSkNUYjJEZFF1ZHNsbk5aM0owTEhHR3ZlTWVOS3RZTWNIdkNRWGlRS3pXWjh2ZnlyWnR2dXhuUUFTbjAxbw?oc=5",
-      "source": "edaily.co.kr"
-    },
-    {
-      "tag": "상품전략·수익성",
-      "title": "CSM 확보와 건강·상해보험 상품 경쟁 심화",
-      "summary": "보험업계가 2027년 사업계획을 앞두고 CSM 확보 경쟁의 변곡점을 맞을지 주목된다는 보도가 나왔다. 건강보험의 반복 보장과 상해보험 중심 전략 등이 소개되며, 상품 구성과 수익성 관리가 동시에 강조됐다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Hb3pud0tMTk9ER28xS2ZMNmtMOE9hOTBUMnBXVnd1UWJ5a2pscXNHYUFfRWR0N3RWR08xakZCWFd0NVoxZm1oMWhvSllKTlJ2ZGd2ZlJCcjdfc1FCZWlZVjZ1a2NoYkF0UTVMMlJJdw?oc=5",
+      "tag": "상품가격",
+      "title": "손보사 건강보험료 10월 인상 예고…2027년 선제 대응",
+      "summary": "손보사들이 10월 종합·간편 건강보험 보험료를 잇달아 인상할 예정이라는 보도가 나왔다. 건강보험 상품의 가격 조정이 보험 가입자의 부담과 판매 전략에 영향을 줄 수 있다는 점에서 주목된다.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yeHh5amhQcVlRMGljNmxLSm4zZTJOb09RMmYwUUJabDR3WG9CN2dMQXZxaXVsV0dyOHQ4ZG5xN3gyeHFVMmJCOEQ5WlJXaFlhaHhYZkhNMUlROUdnQUM2ZElGTHZVa2JnY1ZvdGVKQQ?oc=5",
       "source": "보험저널"
     },
     {
-      "tag": "보험기술·업무혁신",
-      "title": "AI·예금토큰 활용한 보험 업무 실증 확대",
-      "summary": "자동차보험 업무에서 서류와 영상 판독에 AI를 활용하는 흐름과, 예금토큰을 기반으로 보험 전 과정을 구현한 실증 사례가 보도됐다. 보험금 처리와 계약 과정의 효율화를 겨냥한 기술 적용이 이어지고 있다는 의미다.",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNSE5kZ040Y3JYM0poNHFPbVVlR1ljTkItV3o5bXJKWDZ6ZUxKMTVqMk5vcXhYRVZIb2EzUW9ZX2pxSWowYzBfbXdwMG9fcUcya0w0Y0FlcXAwc1RfcWhDZHZXdkRwd3V3M2c?oc=5",
-      "source": "컨슈머타임스"
+      "tag": "건전성·수익성",
+      "title": "보험업계 외형 성장 뒤 건전성·수익성 부담 부각",
+      "summary": "해약환급금준비금이 반년 새 9조원 늘었다는 보도와 함께 하나손해보험의 K-ICS 비율이 업계 하위권이고 라이나생명이 적자로 전환했다는 기사가 나왔다. 보험물량 확대와 자본·이익 관리 사이의 균형이 보험업계의 핵심 과제로 제시된다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Xd0hkQjNzWnZYUUJBWDBkWVZUNGtoUXJEa1pKSHM5c3FDaXNGOENjenFNM3NoVHMzdHBFT0dpN2VFMXljMWU3WE5BREhld1c0ZXFPOVduVmYtMS05Vk9SZGdWLVlTMnVrRklj0gFwQVVfeXFMTjU2aVRhZk53a1d0cjhVcU8xZU4zc2dYZnJ5YTJ5OFpJRDQ1T1RvalpXYzVfSklxclFkbXg5ZGdmSDQxYVp3am5JVHVycC14Skl3YUpJemtxN0hiX2FKRDhaV0JRaWl6Q2RqRVJFZG5TYw?oc=5",
+      "source": "머니투데이·인사이트코리아·보험저널"
+    },
+    {
+      "tag": "변액보험",
+      "title": "주식 호황기 변액보험 성과 경쟁…외국계와 신한·한화 주목",
+      "summary": "주식 호황기에 변액보험 성과를 비교하는 가운데 외국계 보험사가 강세를 보이고 신한생명과 한화생명이 눈길을 끌었다는 보도가 나왔다. 주식시장 흐름과 운용 성과가 변액보험의 경쟁력 및 소비자 관심을 좌우하는 모습이다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sR0JvUjZEdnpubFBwanNhMHZWYjVZeURPNWZOc3Y5SWdYYzdwUGh2RlprV05QSzVsTjluc2I5azh0Q3o3TXBSSDZqSVZHUUtBSUNCQjVHLVhFOU9xZFB1NVRhUU5xSzJWTEJ30gFwQVVfeXFMTjZMbjJMZkJuUUtKTUcydEp4bGM2b0dUU21CVmNRdWxLcEkybHRfQS0xZXVFSzhWTXBzanNqNDhIWkRqcTEyQlJpb3RUMHY1ZnFyZTU0WjByLVpqcnEyVktiemVLZVJNQm9RbFNFMGktNw?oc=5",
+      "source": "머니투데이"
+    },
+    {
+      "tag": "디지털보험",
+      "title": "카카오페이손보, 수익 증가에도 적자 지속…홀로서기 시험대",
+      "summary": "카카오페이손보의 보험수익이 82.6% 늘었지만 적자가 지속됐고, 디지털보험사들이 잇달아 모회사 품으로 들어가는 흐름 속에서 홀로서기가 시험대에 올랐다는 보도가 나왔다. 외형 성장만으로는 디지털보험사의 독립적인 수익성과 지속 가능성을 입증하기 어렵다는 점을 보여준다.",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ocl9pR0NjT2JqV0tDbEFJMzFHMDBHUnE3TE1MQjZKc2NHQ2tPdHREaUNza1lNNkE3a21rcjVJQXJUQ0d0QUxudDFDOVUyMkUtaUlSSmxCR0o4d21COTcwOGZPS2FNRFU?oc=5",
+      "source": "자본시장뉴스·서울파이낸스"
     }
   ]
 }
