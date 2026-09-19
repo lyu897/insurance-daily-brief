@@ -1,70 +1,64 @@
 {
-  "updatedAt": "2026-09-18T23:34:13.518Z",
-  "articleCount": 45,
-  "editorNote": "최근 24시간 기사 제목과 메타데이터를 기준으로 동일 사안을 통합했으며, 기사 본문에 확인되지 않은 세부 사실은 제외했습니다.",
+  "updatedAt": "2026-09-19T23:32:58.547Z",
+  "articleCount": 19,
+  "editorNote": "최근 24시간 기사 중 보험산업의 판매채널, 자본관리, 실손·비급여, 금융사기 관련 보도를 중심으로 중복 이슈를 통합했습니다.",
   "keywords": [
-    "보험판매전문회사·GA",
-    "변액보험·주식시장",
-    "보험료 인상",
-    "K-ICS·수익성",
-    "디지털보험사"
+    "방카슈랑스",
+    "K-ICS·재보험",
+    "GA 판매채널",
+    "비급여 풍선효과",
+    "보험사기·보이스피싱"
   ],
-  "marketSummary": "주식 호황은 변액보험 관심을 높이는 배경으로 작용하지만, 금리 상승은 보험업종에 일방적인 수혜가 아니어서 자산운용과 상품가격, 건전성을 함께 점검해야 하는 흐름이다.",
+  "marketSummary": "국고채와 여전채 금리가 연고점을 경신한 가운데, 보험시장에서는 금리 환경이 자산운용과 상품·자본관리 여건에 영향을 주는 핵심 변수로 부각되고 있다.",
   "marketContext": [
     {
-      "label": "주식시장 강세",
-      "summary": "주식 호황기에 변액보험 성과와 외국계·신한·한화생명 등의 경쟁력이 주목받았다. 주식시장 흐름은 변액보험의 투자성과와 상품 경쟁력에 연결되는 변수다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sR0JvUjZEdnpubFBwanNhMHZWYjVZeURPNWZOc3Y5SWdYYzdwUGh2RlprV05QSzVsTjluc2I5azh0Q3o3TXBSSDZqSVZHUUtBSUNCQjVHLVhFOU9xZFB1NVRhUU5xSzJWTEJ30gFwQVVfeXFMTjZMbjJMZkJuUUtKTUcydEp4bGM2b0dUU21CVmNRdWxLcEkybHRfQS0xZXVFSzhWTXBzanNqNDhIWkRqcTEyQlJpb3RUMHY1ZnFyZTU0WjByLVpqcnEyVktiemVLZVJNQm9RbFNFMGktNw?oc=5",
-      "source": "머니투데이"
+      "label": "국내 국고채·여전채 금리",
+      "summary": "국고채와 여전채 금리가 연고점을 경신했다는 보도가 나왔다. 금리 변동은 보험사의 채권 운용과 신규 상품 가격, 자본관리 여건을 점검하게 하는 시장 변수다.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTF9teVZONHY1NmFZY0p3eWxvZUtHY0RXaENDLVowOWl4YklyRElvMzhmYUVmd0l5VE5zX2RMY2VkNFJTY3JCWFFKZ3kxSzN4bG92SkJubUE5cnVXdmpBZU5EbFJ5XzVjbnJmMkEwLTl2MNIBc0FVX3lxTE1meGk0aUluYTd0NEcwYUxvdTkyVzFfcTFzNDFiMjdWS3NabTYxRi16c1Y4amN1WFZpNXZoZXJ2UUdrV3R3bjV1SGR0aFMzTHNxTmlxNjQxdVBQaVJNcFVlRUo5NFJXSHF2ZnpEaThJZ1ZqOWc?oc=5",
+      "source": "뉴스웍스"
     },
     {
-      "label": "금리 상승",
-      "summary": "하나증권은 금리 상승이 보험업종의 일방적인 수혜 요인은 아니라고 분석했다. 금리 방향은 보험사의 자산운용 수익과 상품가격, 건전성 판단에 함께 영향을 주는 변수로 제시됐다.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5UkQzc3M0eWx3b2RROUlPLWU3N25kQTlncl84V204SE4yY3piWU1jZXVvU2tBaUpzRml6T2taUFhMZktGZV9YbzVybUZJWHVNc0lrRVpKMTFzak3SAWBBVV95cUxNN0xnT2lHV2s2N0I3SXVvXzEtQWg5WG0weHFOMkVjT2s5ckJxejJBNTh1TC1HTjJfNkxVd1RVSlhnVXl5b2FEUlJxdmExRWJCV1N5eV83cUw0U2k5cWdCcVc?oc=5",
-      "source": "연합뉴스"
-    },
-    {
-      "label": "보험·연금 대비 주식·펀드 자금 이동",
-      "summary": "일본에서 주식·펀드로 유입된 자금이 사상 처음으로 보험·연금을 넘어섰다는 보도가 나왔다. 보험·연금과 금융상품 사이의 자금 흐름 변화는 보험사의 자산운용 및 상품 경쟁 환경과 연결될 수 있다.",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mQzg3VXdqMFJ2MEtOVzBYNE10dmwxdlc2Z0dtOGNHRXg1MEU1YUhMdGZhaGM2OWtSVXg5Y3Z1UWxNUE1ZeUFOaVpuS0tSd2RQSmfSAVNBVV95cUxNNl9TdXdnYllGdmNBUGFpemlpZ1hTR2duWUc5UzZVREpJcU13eDJZNm9MQUlfYUVfOU1CdXcxWGZwUFZxdDFrcTdPSVpJVVcwd3liTQ?oc=5",
-      "source": "서울경제"
+      "label": "보험사의 자본·재보험 관리",
+      "summary": "K-ICS 도입 이후 생명보험사의 재보험 활용이 늘고 있다는 보도가 나왔다. 금리 환경과 자본관리 부담에 대응하는 수단으로 재보험 활용 추세가 보험사의 건전성 관리와 연결된다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qWTRVR3oxcnR1NGVpTlBua3hyR19rZ09KRGZ4S0h0YjY0LTk1OXJwaHdOdkRkZHBka0MzZm5Na0JjV0RnaHcxR1ZJcWxQNzZBbWI4dlJwaXhfaFYxREZzX2w4R2pyM19ab21BQXpVTnA?oc=5",
+      "source": "신아일보"
     }
   ],
   "issues": [
     {
       "tag": "판매채널",
-      "title": "보험판매전문회사 논의 재점화…GA와 원수사 간 권한·협상력 쟁점",
-      "summary": "보험판매전문회사 도입 논의가 18년 만에 다시 부상한 가운데 GA는 권한 확대를, 보험사는 협상력 변화를 주목하고 있다는 보도가 나왔다. 제도화가 현실화될 경우 보험사의 판매 구조와 원수사 부담에 영향을 줄 수 있는 사안이다.",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1aR0hQQkE3WU9wLU85MkFFM1VmTGJpVXd0aFI4b3dKN0JSTTFEbHRrNVowanNBRF9oVTlmRjRYRkRIVTlHcFJEYVNtTUJxMjVf?oc=5",
-      "source": "톱데일리·블로터"
-    },
-    {
-      "tag": "상품가격",
-      "title": "손보사 건강보험료 10월 인상 예고…2027년 선제 대응",
-      "summary": "손보사들이 10월 종합·간편 건강보험 보험료를 잇달아 인상할 예정이라는 보도가 나왔다. 건강보험 상품의 가격 조정이 보험 가입자의 부담과 판매 전략에 영향을 줄 수 있다는 점에서 주목된다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yeHh5amhQcVlRMGljNmxLSm4zZTJOb09RMmYwUUJabDR3WG9CN2dMQXZxaXVsV0dyOHQ4ZG5xN3gyeHFVMmJCOEQ5WlJXaFlhaHhYZkhNMUlROUdnQUM2ZElGTHZVa2JnY1ZvdGVKQQ?oc=5",
-      "source": "보험저널"
-    },
-    {
-      "tag": "건전성·수익성",
-      "title": "보험업계 외형 성장 뒤 건전성·수익성 부담 부각",
-      "summary": "해약환급금준비금이 반년 새 9조원 늘었다는 보도와 함께 하나손해보험의 K-ICS 비율이 업계 하위권이고 라이나생명이 적자로 전환했다는 기사가 나왔다. 보험물량 확대와 자본·이익 관리 사이의 균형이 보험업계의 핵심 과제로 제시된다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Xd0hkQjNzWnZYUUJBWDBkWVZUNGtoUXJEa1pKSHM5c3FDaXNGOENjenFNM3NoVHMzdHBFT0dpN2VFMXljMWU3WE5BREhld1c0ZXFPOVduVmYtMS05Vk9SZGdWLVlTMnVrRklj0gFwQVVfeXFMTjU2aVRhZk53a1d0cjhVcU8xZU4zc2dYZnJ5YTJ5OFpJRDQ1T1RvalpXYzVfSklxclFkbXg5ZGdmSDQxYVp3am5JVHVycC14Skl3YUpJemtxN0hiX2FKRDhaV0JRaWl6Q2RqRVJFZG5TYw?oc=5",
-      "source": "머니투데이·인사이트코리아·보험저널"
-    },
-    {
-      "tag": "변액보험",
-      "title": "주식 호황기 변액보험 성과 경쟁…외국계와 신한·한화 주목",
-      "summary": "주식 호황기에 변액보험 성과를 비교하는 가운데 외국계 보험사가 강세를 보이고 신한생명과 한화생명이 눈길을 끌었다는 보도가 나왔다. 주식시장 흐름과 운용 성과가 변액보험의 경쟁력 및 소비자 관심을 좌우하는 모습이다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sR0JvUjZEdnpubFBwanNhMHZWYjVZeURPNWZOc3Y5SWdYYzdwUGh2RlprV05QSzVsTjluc2I5azh0Q3o3TXBSSDZqSVZHUUtBSUNCQjVHLVhFOU9xZFB1NVRhUU5xSzJWTEJ30gFwQVVfeXFMTjZMbjJMZkJuUUtKTUcydEp4bGM2b0dUU21CVmNRdWxLcEkybHRfQS0xZXVFSzhWTXBzanNqNDhIWkRqcTEyQlJpb3RUMHY1ZnFyZTU0WjByLVpqcnEyVktiemVLZVJNQm9RbFNFMGktNw?oc=5",
+      "title": "방카슈랑스 활기…저축성보험 자금 유입",
+      "summary": "은행 방카슈랑스가 활기를 보이고 저축성보험으로 자금이 유입되면서 생명보험사들이 반색하고 있다는 내용이다. 은행 판매채널의 흐름과 저축성보험 자금 유입이 생보사 영업에 의미 있는 변수로 제시됐다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ER1hZSE40RnFIa2RIZGE2Z1NXcDg2RWhRakRqZkkxZXdCdUxjTWRWLTJDZEh4VVZTUGw5Y1d2VzNnZWlzTWZtU1gxOXNOOUtyVC1yVUpnN2RkaVFJZzR6Yjl5OGVtWnNyU01n0gFwQVVfeXFMTFplc3A4T0F1MjU3dF9UUXZrbXZQYy11T2x0bGRTTmRwU0lPdzRETXN4eEN4VFVjZnotaTlYdVExNUJpRGd3OUxBUmxLSnQwZUM5S0EyRlNGV1ZJWU9zamg2VXk1c2U5bk44TEVLTWx3Sw?oc=5",
       "source": "머니투데이"
     },
     {
-      "tag": "디지털보험",
-      "title": "카카오페이손보, 수익 증가에도 적자 지속…홀로서기 시험대",
-      "summary": "카카오페이손보의 보험수익이 82.6% 늘었지만 적자가 지속됐고, 디지털보험사들이 잇달아 모회사 품으로 들어가는 흐름 속에서 홀로서기가 시험대에 올랐다는 보도가 나왔다. 외형 성장만으로는 디지털보험사의 독립적인 수익성과 지속 가능성을 입증하기 어렵다는 점을 보여준다.",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ocl9pR0NjT2JqV0tDbEFJMzFHMDBHUnE3TE1MQjZKc2NHQ2tPdHREaUNza1lNNkE3a21rcjVJQXJUQ0d0QUxudDFDOVUyMkUtaUlSSmxCR0o4d21COTcwOGZPS2FNRFU?oc=5",
-      "source": "자본시장뉴스·서울파이낸스"
+      "tag": "GA·규제",
+      "title": "GA 시장점유율과 1200%룰 이후 판매 인센티브 논쟁",
+      "summary": "8월 생명보험 GA 시장에서 특정 GA가 4개월 연속 1위를 기록했다는 보도와 함께, 1200%룰 적용 이후 DB생명의 판매 인센티브가 어디로 갔는지를 다룬 보도가 나왔다. GA 영향력 확대와 판매 인센티브 구조가 생보사 상품 판매 경쟁과 규제 이슈로 이어지고 있다.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkNmwwb0hRNTItdnVxaXgwT0VpbXhPMks2ellCMFQ0SGZ4cUlPMWlxcS1NWmFqQkhBenlmWFJCQ1RiLVFTLWdzUkR2UEtRUnJJSE1IY0VFc1R2dVRYQ2pwVHVaYWY2VVFLNWU2MVNnOElTNEU?oc=5",
+      "source": "오늘경제"
+    },
+    {
+      "tag": "GA·시장점유율",
+      "title": "IBK연금보험의 8월 GA 판매 비중 주목",
+      "summary": "IBK연금보험의 8월 GA 시장점유율에서 에이플러스에셋이 19%로 4개월 연속 1위를 기록했다는 내용이다. 직전 1년 비중의 두 배를 넘었다는 점에서 GA 채널 내 판매 집중도와 경쟁 구도가 주목된다.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qMzZhQUZlZVZvazJGeWY1WWozZ0RqTFdwdElLUW9YRHNGR2pPS09IUlRMcVlMdXAweUxfb0tCemFzS2JISXZiek9HcUxhbkk2dV9tOElHOVUtTkV2Q2FXeWJHVUFIbEpna3FhbEtxcw?oc=5",
+      "source": "insjournal.co.kr"
+    },
+    {
+      "tag": "자본·건전성",
+      "title": "K-ICS 이후 생보사 재보험 활용 증가",
+      "summary": "K-ICS 도입 이후 재보험 활용이 늘었고, 특히 생명보험사에서 증가세가 뚜렷하다는 보도다. 재보험이 K-ICS 환경에서 보험사의 자본과 건전성 관리와 연계된 수단으로 활용되고 있음을 보여준다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qWTRVR3oxcnR1NGVpTlBua3hyR19rZ09KRGZ4S0h0YjY0LTk1OXJwaHdOdkRkZHBka0MzZm5Na0JjV0RnaHcxR1ZJcWxQNzZBbWI4dlJwaXhfaFYxREZzX2w4R2pyM19ab21BQXpVTnA?oc=5",
+      "source": "신아일보"
+    },
+    {
+      "tag": "실손·비급여",
+      "title": "도수치료 통제 뒤 신장분사 증가…비급여 풍선효과",
+      "summary": "도수치료를 묶은 뒤 신장분사 관련 이용이 늘면서 비급여 통제의 풍선효과가 현실화했다는 보도다. 특정 비급여 항목을 통제할 때 다른 항목으로 수요와 비용이 이동할 가능성이 보험금 관리의 과제로 제시됐다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NYUIwbWhLRFp0eTJabmtLenBnLUFxLXI3MFdhTlRHOTBQbC10ZWNYMDlIRWptbmp6MHhySEotZzlBeEhSdDI4Q2pkUGNTdThPb1dSTVpjYXRrVTF6eEo5YjRnYXNKaUc3?oc=5",
+      "source": "보험매일"
     }
   ]
 }
