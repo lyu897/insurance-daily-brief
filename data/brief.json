@@ -1,64 +1,64 @@
 {
-  "updatedAt": "2026-09-19T23:32:58.547Z",
-  "articleCount": 19,
-  "editorNote": "최근 24시간 기사 중 보험산업의 판매채널, 자본관리, 실손·비급여, 금융사기 관련 보도를 중심으로 중복 이슈를 통합했습니다.",
+  "updatedAt": "2026-09-20T23:33:23.944Z",
+  "articleCount": 45,
+  "editorNote": "최근 24시간 기사에서 동일 내용은 하나의 이슈로 통합했으며, 기사 제목과 메타데이터에 확인되는 사실만 반영했습니다. 금리·환율·부동산 관련 구체적 흐름은 제공 기사에서 확인되지 않았습니다.",
   "keywords": [
-    "방카슈랑스",
-    "K-ICS·재보험",
-    "GA 판매채널",
-    "비급여 풍선효과",
-    "보험사기·보이스피싱"
+    "실손보험 풍선효과",
+    "AI 거버넌스",
+    "임베디드보험",
+    "예보료 인상",
+    "기후보험"
   ],
-  "marketSummary": "국고채와 여전채 금리가 연고점을 경신한 가운데, 보험시장에서는 금리 환경이 자산운용과 상품·자본관리 여건에 영향을 주는 핵심 변수로 부각되고 있다.",
+  "marketSummary": "증시로 이동한 자금을 둘러싼 방카슈랑스 경쟁과 일본 보험업계의 미국 AI 데이터센터 인프라 투자가 부각되면서, 보험사의 판매 전략과 자산운용 다변화가 동시에 주목받고 있다.",
   "marketContext": [
     {
-      "label": "국내 국고채·여전채 금리",
-      "summary": "국고채와 여전채 금리가 연고점을 경신했다는 보도가 나왔다. 금리 변동은 보험사의 채권 운용과 신규 상품 가격, 자본관리 여건을 점검하게 하는 시장 변수다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTF9teVZONHY1NmFZY0p3eWxvZUtHY0RXaENDLVowOWl4YklyRElvMzhmYUVmd0l5VE5zX2RMY2VkNFJTY3JCWFFKZ3kxSzN4bG92SkJubUE5cnVXdmpBZU5EbFJ5XzVjbnJmMkEwLTl2MNIBc0FVX3lxTE1meGk0aUluYTd0NEcwYUxvdTkyVzFfcTFzNDFiMjdWS3NabTYxRi16c1Y4amN1WFZpNXZoZXJ2UUdrV3R3bjV1SGR0aFMzTHNxTmlxNjQxdVBQaVJNcFVlRUo5NFJXSHF2ZnpEaThJZ1ZqOWc?oc=5",
-      "source": "뉴스웍스"
+      "label": "증시 자금 흐름",
+      "summary": "기사에는 증시에 몰린 자금을 다시 유인하기 위한 방카슈랑스 실적 경쟁이 가열되고 있다는 내용이 담겼다. 이는 금융시장 내 자금 이동이 보험상품 판매 채널 경쟁과 연결될 수 있음을 보여주지만, 증시의 구체적인 수익률이나 자금 규모는 기사에 제시되지 않았다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GMkloNHY0Zi12QlZfMHZKMHlRNHhsTXZOR1hsM0pqY0dUc09SazJOclJSa1RXYTMwY245VWdzZ3VkQmhsbXgzRWh2NFg5eHRCYXFKbGdGTEsyaUdjVC1qUEwtUTNHQ3lJWG1z?oc=5",
+      "source": "보험신보"
     },
     {
-      "label": "보험사의 자본·재보험 관리",
-      "summary": "K-ICS 도입 이후 생명보험사의 재보험 활용이 늘고 있다는 보도가 나왔다. 금리 환경과 자본관리 부담에 대응하는 수단으로 재보험 활용 추세가 보험사의 건전성 관리와 연결된다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qWTRVR3oxcnR1NGVpTlBua3hyR19rZ09KRGZ4S0h0YjY0LTk1OXJwaHdOdkRkZHBka0MzZm5Na0JjV0RnaHcxR1ZJcWxQNzZBbWI4dlJwaXhfaFYxREZzX2w4R2pyM19ab21BQXpVTnA?oc=5",
-      "source": "신아일보"
+      "label": "미국 인프라·AI 데이터센터 투자",
+      "summary": "일본생명보험이 미국 인프라 금융에 2조 엔을 투입하고 일본 보험업계가 AI 데이터센터 투자에 참여한다는 보도가 나왔다. 보험사의 해외 인프라 투자는 자산운용 대상과 수익원 다변화와 연결되지만, 투자 수익률이나 건전성 영향은 기사에서 확인되지 않는다.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaFlqbi03RnI2VE1tSjF0dkI4TWlEM292NWVtVmpFSzRmTmZKQXBUell6ZTlLMFBybU9HN214UEp6SGpsYUI5OWlKemUzUVRyZXp3V2xxeW1GWmZ2dl9ZSmM5ZW5qbzFNNGJEUk9DUU10a3BSRHZPUG1wblM2T2NQcnU1QkxyR3J4?oc=5",
+      "source": "글로벌이코노믹"
     }
   ],
   "issues": [
     {
-      "tag": "판매채널",
-      "title": "방카슈랑스 활기…저축성보험 자금 유입",
-      "summary": "은행 방카슈랑스가 활기를 보이고 저축성보험으로 자금이 유입되면서 생명보험사들이 반색하고 있다는 내용이다. 은행 판매채널의 흐름과 저축성보험 자금 유입이 생보사 영업에 의미 있는 변수로 제시됐다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ER1hZSE40RnFIa2RIZGE2Z1NXcDg2RWhRakRqZkkxZXdCdUxjTWRWLTJDZEh4VVZTUGw5Y1d2VzNnZWlzTWZtU1gxOXNOOUtyVC1yVUpnN2RkaVFJZzR6Yjl5OGVtWnNyU01n0gFwQVVfeXFMTFplc3A4T0F1MjU3dF9UUXZrbXZQYy11T2x0bGRTTmRwU0lPdzRETXN4eEN4VFVjZnotaTlYdVExNUJpRGd3OUxBUmxLSnQwZUM5S0EyRlNGV1ZJWU9zamg2VXk1c2U5bk44TEVLTWx3Sw?oc=5",
-      "source": "머니투데이"
-    },
-    {
-      "tag": "GA·규제",
-      "title": "GA 시장점유율과 1200%룰 이후 판매 인센티브 논쟁",
-      "summary": "8월 생명보험 GA 시장에서 특정 GA가 4개월 연속 1위를 기록했다는 보도와 함께, 1200%룰 적용 이후 DB생명의 판매 인센티브가 어디로 갔는지를 다룬 보도가 나왔다. GA 영향력 확대와 판매 인센티브 구조가 생보사 상품 판매 경쟁과 규제 이슈로 이어지고 있다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkNmwwb0hRNTItdnVxaXgwT0VpbXhPMks2ellCMFQ0SGZ4cUlPMWlxcS1NWmFqQkhBenlmWFJCQ1RiLVFTLWdzUkR2UEtRUnJJSE1IY0VFc1R2dVRYQ2pwVHVaYWY2VVFLNWU2MVNnOElTNEU?oc=5",
-      "source": "오늘경제"
-    },
-    {
-      "tag": "GA·시장점유율",
-      "title": "IBK연금보험의 8월 GA 판매 비중 주목",
-      "summary": "IBK연금보험의 8월 GA 시장점유율에서 에이플러스에셋이 19%로 4개월 연속 1위를 기록했다는 내용이다. 직전 1년 비중의 두 배를 넘었다는 점에서 GA 채널 내 판매 집중도와 경쟁 구도가 주목된다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qMzZhQUZlZVZvazJGeWY1WWozZ0RqTFdwdElLUW9YRHNGR2pPS09IUlRMcVlMdXAweUxfb0tCemFzS2JISXZiek9HcUxhbkk2dV9tOElHOVUtTkV2Q2FXeWJHVUFIbEpna3FhbEtxcw?oc=5",
-      "source": "insjournal.co.kr"
-    },
-    {
-      "tag": "자본·건전성",
-      "title": "K-ICS 이후 생보사 재보험 활용 증가",
-      "summary": "K-ICS 도입 이후 재보험 활용이 늘었고, 특히 생명보험사에서 증가세가 뚜렷하다는 보도다. 재보험이 K-ICS 환경에서 보험사의 자본과 건전성 관리와 연계된 수단으로 활용되고 있음을 보여준다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qWTRVR3oxcnR1NGVpTlBua3hyR19rZ09KRGZ4S0h0YjY0LTk1OXJwaHdOdkRkZHBka0MzZm5Na0JjV0RnaHcxR1ZJcWxQNzZBbWI4dlJwaXhfaFYxREZzX2w4R2pyM19ab21BQXpVTnA?oc=5",
-      "source": "신아일보"
-    },
-    {
       "tag": "실손·비급여",
-      "title": "도수치료 통제 뒤 신장분사 증가…비급여 풍선효과",
-      "summary": "도수치료를 묶은 뒤 신장분사 관련 이용이 늘면서 비급여 통제의 풍선효과가 현실화했다는 보도다. 특정 비급여 항목을 통제할 때 다른 항목으로 수요와 비용이 이동할 가능성이 보험금 관리의 과제로 제시됐다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NYUIwbWhLRFp0eTJabmtLenBnLUFxLXI3MFdhTlRHOTBQbC10ZWNYMDlIRWptbmp6MHhySEotZzlBeEhSdDI4Q2pkUGNTdThPb1dSTVpjYXRrVTF6eEo5YjRnYXNKaUc3?oc=5",
-      "source": "보험매일"
+      "title": "도수치료 규제 이후 신장 분사 치료 청구 급증…비급여 관리 논쟁 재점화",
+      "summary": "도수치료 기준 강화 이후 신장 분사 치료 청구 금액이 3배 늘었고, 비급여 진료비는 4년 새 40% 증가한 22조원으로 보도됐다. 보장 기준을 조정해도 다른 비급여 항목으로 청구가 이동하는 ‘풍선효과’가 나타날 수 있어 실손보험 손해 관리와 비급여 관리가 함께 쟁점이 됐다.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTnBpR1VaZWVRT3JySUpLUDhQUkxNZFNWTzh0XzZjSVJQR3RGQzZlZTFWbWlTSWdPUmdZR1hob2dZZXBYdGc2ZkFYTzdIa3RGMGV3U1R0SXdmWWtWVnZoSzlzbi1KbUVEN3prcDI5dXJsOUhLS01FR0s1dVhwWVJzMVhfTkZqXzNNWVlxdkVB?oc=5",
+      "source": "조선일보"
+    },
+    {
+      "tag": "AI·디지털",
+      "title": "보험사의 AI 활용 확대와 거버넌스 정비, 초기 단계에 머물러",
+      "summary": "보험연구원 조사에서 AI 의사결정기구를 설치한 보험사가 7.5%에 그쳤다는 보도가 나온 가운데, 디지털보험 투자를 멈추지 말아야 한다는 논의도 제기됐다. AI 영업지원과 자동차보험 손해율 관리 등 활용 사례가 늘어나는 상황에서 의사결정 체계와 거버넌스 정비가 과제로 부상했다.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EdTROdXA0MFNUZUhwdFNZRkNhUW5oWnFTeWhzdFpDYnBDNjg1WHNzci1ZUlcyR2t6UjlhOUROOHVPRzE1a1ctelYzaVBQY2dGVl9aM3FNcHY2ZTh6b3RSMjlmVHlEQW9SMkHSAW5BVV95cUxPaExvQW03TWJic291bWw2RXFWUEI1V2p5RDdTYUZFbVloeDhUallSMkh0NE80bzlMY1JkQWEtZEprVWZaTU9RQUlqX2ZpQWI5Ym5QaG9fQkRib3ZrR2JIUk9hSDNCV1JFM1h0UHNUUQ?oc=5",
+      "source": "뉴시안"
+    },
+    {
+      "tag": "신시장",
+      "title": "임베디드보험 시장 성장 둔화…활성화 정책 요구",
+      "summary": "국내 임베디드보험 시장의 속도가 느리다는 진단과 함께 시장 활성화 정책이 시급하다는 주장이 제기됐다. 보험이 다른 서비스와 결합되는 판매 방식의 확산이 지연되면서 관련 제도와 시장 기반 마련이 주요 과제로 제시됐다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfeVZTWHV6STdKU3h2M0plTC1scy1URWt6ZWVBQ0xxRFNXLXJteWNRVlNXM2lBQnJmRHhIX3V2Wnd1ZUY0YU9JaGtQS0pnSzcwMDhaN2NUQXBGbGFoTF9kVW5pdnJ0NlFzS284?oc=5",
+      "source": "보험신보"
+    },
+    {
+      "tag": "건전성·제도",
+      "title": "MG손보 부실 부담 논란 속 예보료 인상에 손보업계 반발",
+      "summary": "MG손해보험의 부실 부담과 관련해 예보료가 3.3배 인상될 수 있다는 보도가 나왔고, 손보업계의 반발이 제기됐다. 보험업계는 부실 정리 비용의 분담 문제와 예금보험제도 관련 부담을 둘러싼 논쟁에 직면했다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KZkVjS0VHSUN0RXlBTkJRLUJWYVRxdG4tTnNwbGtXX29EMlBIQThoNk1sNWFCcWpFUHhCMVBNa2RCQXNXTC1ydlNhU2pSS210b0dmSFY3OWFLaUZjSm00ZllfWGpzT0luZ3c3QmlrQVrSAXRBVV95cUxPZWNVQ2NURG9yLS03RUN1ZWNpazJzbFpaR3dBelBTYnlidXdBbF9zQmtZZElvMWtDbUVJZDVmREhUbk5iTTRGb3VjTkdpak9VQ3ZDYUs3WUV0Y3VOcXRXT2FRek1hLVF1b2xfSG9EcWNEN1V6VA?oc=5",
+      "source": "IT조선"
+    },
+    {
+      "tag": "기후·상품",
+      "title": "기후보험 예산 공백 속 지수형 공제 도입 움직임",
+      "summary": "기후보험의 내년 예산이 0원으로 편성된 가운데 건설공제조합이 지수형 공제에 시동을 건다는 보도가 나왔다. 공공 예산 지원이 불확실한 상황에서 지수형 보장 방식이 기후 위험 대응 상품의 대안으로 검토되고 있다.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtMjJXTzZVWXNhX2s0VFVtQ3pCLTgtWk83eUY0VGJhb2lOMTB3amp0MERyZVVjMmFISDRLYlAta2x5Umo4Ylg5MWp3YlVkajZpcG9oN21uY2tUSmpCUE5FU2MydjBzVGN0N2RaLXA4R0J3WWRY?oc=5",
+      "source": "대한경제"
     }
   ]
 }
