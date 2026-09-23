@@ -1,64 +1,70 @@
 {
-  "updatedAt": "2026-09-22T01:41:29.777Z",
+  "updatedAt": "2026-09-23T01:35:57.369Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사에서 동일 사안을 반복 보도한 기사는 하나의 이슈로 통합했습니다. 금융시장 관련 내용은 기사 제목과 메타데이터에서 확인되는 범위로만 정리했습니다.",
+  "editorNote": "제공된 기사 메타데이터만 기준으로 중복 보도를 통합했습니다. 금융시장 변수에 관한 직접적인 기사 정보가 없어 금리·환율·부동산 흐름은 판단하지 않았습니다.",
   "keywords": [
-    "내보험 찾아줌 사칭",
-    "700 종신보험",
-    "보험판매전문회사",
-    "여행자보험 부지급",
-    "맞춤형 보험"
+    "GA 개혁",
+    "자동차보험 손해율",
+    "보험 분쟁",
+    "디지털 보험",
+    "보험산업 재편"
   ],
-  "marketSummary": "오늘 기사에서는 이란전쟁 관련 지정학 리스크와 사회주택의 임대보증금 보험 가입 문제가 부각돼 보험사의 위험 인수와 상품 운용 여건에 영향을 줄 변수로 제시됐다.",
+  "marketSummary": "제공된 기사 메타데이터에서는 미국 금리·국내외 채권금리·환율·부동산 등 금융시장 흐름을 확인할 수 없으며, 보험시장에서는 자동차보험 손해율과 판매채널·상품 규제 이슈가 두드러졌습니다.",
   "marketContext": [
     {
-      "label": "중동 지정학 리스크",
-      "summary": "이란전쟁을 베트남전쟁에 비유한 기사에서 보험·은행업종 선호도가 높아졌다는 내용이 언급됐다. 지정학적 사건이 보험업종에 대한 투자 선호와 위험 인식의 변수로 연결되고 있음을 보여준다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBAZi1lald4ZXNtUVlvRjJ0ZnRHVlNyZUhhRHY0MVJCNkU3TjVwTHVGZUVpOWhUTFVrUXFNa0ExdzliMEJQbzZmbGRRMTdEaEhiQ1RiZTFqRmMyeF9yZzZ0ZDBZVVN3SE5zQzBTTVpSTzc?oc=5",
-      "source": "news.einfomax.co.kr"
+      "label": "미국 금리",
+      "summary": "제공된 기사 목록에 미국 금리의 상승·하락 또는 보험사 자산운용과 관련한 직접적인 내용이 없습니다. 따라서 미국 금리가 보험사 채권 평가와 운용수익에 미친 영향은 이 자료만으로 설명할 수 없습니다.",
+      "url": "",
+      "source": "제공 기사 메타데이터"
     },
     {
-      "label": "부동산·임대보증금",
-      "summary": "사회주택에서 토지와 건물 소유자가 달라 임대보증금 보험 가입이 어렵다는 보도가 나왔다. 부동산 소유·권리 구조가 보증보험의 가입 가능성과 보장 공백에 직접 연결되는 사례다.",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NbVZVbWZCZVRmMHh4bEl2OUVhOGVtZlNudk1xcW83RFpTS2pzYS0tNnp3a2xOT2VVSmRQc0dxNFRmanp5bHg4WUlOX2hMU00xN1R6ejVaZk5HdlFscV9TQmxqM1hVMFljbk9UMG9jZF80QQ?oc=5",
-      "source": "한겨레"
+      "label": "국내외 채권금리",
+      "summary": "제공된 기사 목록에 국내외 채권금리 수준이나 변동에 관한 내용이 없습니다. 이에 따라 채권금리가 보험사 자산운용, 상품가격 또는 건전성에 미친 영향도 판단할 수 없습니다.",
+      "url": "",
+      "source": "제공 기사 메타데이터"
+    },
+    {
+      "label": "환율·부동산",
+      "summary": "제공된 기사 목록에 환율이나 부동산시장 흐름을 다룬 내용이 없습니다. 따라서 환율과 부동산 변수가 보험사의 해외자산, 대체투자 또는 건전성에 미친 영향은 확인되지 않습니다.",
+      "url": "",
+      "source": "제공 기사 메타데이터"
     }
   ],
   "issues": [
     {
-      "tag": "소비자보호·개인정보",
-      "title": "‘내보험 찾아줌’ 사칭 사이트 확산…개인정보 유출 주의",
-      "summary": "‘내보험 찾아줌’이나 시민안전보험을 사칭한 사이트와 보험 영업용 개인정보 수집 사례가 잇따라 보도됐으며, 보험업계는 운영 주체 확인을 당부했다. 공공성 있는 보험 서비스의 명칭을 악용한 접근이 개인정보 보호와 소비자 신뢰 문제로 번지고 있다.",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lY2RYTndNRVVKaUttY2dOaTc5V09IMlMxVXFDX0NKbVVOVFpPTjlubmJkM3pFby10SE9ZTHJXa2NFaHpIeVVKalNxWFBuT3QzWGdFcHlrUldjWms1VUlpWHc4ZU9QWnVxWWc?oc=5",
-      "source": "intn.co.kr"
+      "tag": "GA 개혁·판매채널 규제",
+      "title": "금융당국, 초대형 GA와 보험 판매수수료 구조에 대한 개혁 압박 강화",
+      "summary": "조 단위 매출과 수만 명의 설계사를 보유한 초대형 보험대리점을 대상으로 금융당국이 관리·감독에 나섰다는 보도가 나왔고, GA 개혁을 강조하는 보도도 이어졌습니다. 수수료 우회지급과 대형 GA의 영향력 문제가 함께 제기되면서 보험 판매채널의 투명성과 감독체계가 핵심 쟁점으로 부상했습니다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qVzNhUS1JT0hNS0VUbjg4Snd0YTJxUHA4WmFPS3F0MDVxOFFjVnFyeV9VbU5IUkQxdVlza3MyZkJyQUpGVU1iSlFMUExoakNsZUtjcE5XLXMyelpGX0hpVFhyalk5OFF4VnRr0gFwQVVfeXFMTjFfSkpvc1NvUTJhTnZ6OFhvTDBvRHRDNXpFZVlnZ3JETy1xUmNxYzZKaTNZN2wtNi01cjFEamtCSnQ5VHdyenNPTGdXeHR1UlUwQVRIdllMMktZR2tDcmNxRlp6SG1jdmJYNlFyd2xRbQ?oc=5",
+      "source": "머니투데이"
     },
     {
-      "tag": "상품규제·판매관행",
-      "title": "금감원, ‘700 종신보험’ 판매에 제동",
-      "summary": "금감원이 7년 환급형 구조를 가진 이른바 ‘700 종신보험’의 판매를 제한하고, 환급·체증 구조를 손질하는 내용이 보도됐다. 특정 시점의 대량 해지 우려와 상품 구조의 적정성이 종신보험 판매 규제의 쟁점으로 부상했다.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91ekU2OU1IVHJMRl9zNzEtUHFnY1Nqd19EZEtNTjA1NzlTek9ha1FYOHlPMTNLSVA5eVV6NkVtZ0s1YWkwQ1JHV2pka0hqRERjVXhkOTc1dlJVQQ?oc=5",
-      "source": "한국경제"
+      "tag": "자동차보험",
+      "title": "자동차보험 손해율 84%대 지속…보험료 인상에도 부담",
+      "summary": "지난달 및 8월 자동차보험 누적 손해율이 84%대라는 보도가 잇따랐고, 전년 대비 상승 또는 보험료 인상에도 부담이 지속된다는 내용이 제시됐습니다. 손해율 고공행진은 자동차보험의 수익성과 향후 상품가격 논의에 직접 연결되는 핵심 지표로 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01bVFMdnIwalM1VFBCcThMd2ZuWGdmeGdPXzBjS3lUQ28xM0tsRTFQTm5QblpUS0FZOXRSenNFQk95Z0VzdEVwRlAtZkdYS0F5amMzalFKNjI4bVFPMEY2M21JS2RfMXpmdHg00gFwQVVfeXFMT1NuelVCem9Bb285UW5DMjlnS3BsSkFjUTVqM3hhSFpvQ1VUczF1QzgyMGhWMGF4TzhGUlU1YjJBcHV3X2pxbDA1ZXdOb0hTZGxQaWZDcldBZDRLWnQzZzdSaGJ1UTVmNW9Qb2VUeHBWZw?oc=5",
+      "source": "머니투데이"
     },
     {
-      "tag": "판매채널·제도개편",
-      "title": "‘보험판매전문회사’ 도입 법안 여야 발의",
-      "summary": "보험판매전문회사 도입을 위한 법안이 여야에서 나란히 발의됐다는 보도가 나왔다. 보험상품 제조와 판매 기능을 분리하는 판매채널 제도 논의가 입법 단계에서 다시 힘을 받고 있다.",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMWJ6a2JldXFjcm9qUnlqbTZzTEI1Q3p1WlBDREk4eS03YkZ3SVhZaGJjeEZGQUREYnZiSTdWQ2ZpNmlWQTlPZnZTdHFtMWVWdVlzbzJkOXBLbTItdGJRUW5JNnF4eGM0TU00a1dHREdwV21JcTR3S3h3a0NPNU1vS9IBlAFBVV95cUxNcS1TZHFySDlKM0U3VzFibThROFBJemQtOXpRdE9qYnVOT2VUUzUwNUtYNUh0S3BFc1V0VTZNbmFETkdlT2dPQ0tjdXByYWo2dXdnbHFCUGExeHIyN0IzSG1JTkEzUFVVaW80R1BuZU51bWVXSnBSZnh4TlNoQmxyYm93NHhSb1JBclNjX0ZiY2VJUDZ3?oc=5",
-      "source": "Chosunbiz"
+      "tag": "보험 분쟁·비급여",
+      "title": "보험 분쟁 신청 역대 최대…비급여·실손 관련 갈등 재부상",
+      "summary": "손해보험 분쟁 신청이 백내장 사태 때보다 심각한 수준으로 역대 최대에 이르렀다는 보도가 나왔습니다. 도수치료를 제한하자 다른 치료가 늘었다는 보도와 수수료 우회지급·비급여 풍선효과 논의가 함께 나오며 보험금 청구와 비급여 관리 문제가 다시 쟁점화됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03eTJ5ZmF3NHVSTHQxZThoaFBWd0hST0J4bzFWRmtQWERKNG9TZnB2aENodzlEMUVMSUktOFVZR1VQZUljZGczbk1sRVJDZw?oc=5",
+      "source": "전자신문"
     },
     {
-      "tag": "보험금지급·소비자보호",
-      "title": "여행자보험 가입 증가에도 보험금 부지급 급증",
-      "summary": "여행자보험 가입은 8% 늘었지만 보험금을 받지 못한 사례는 92% 급증했다는 보도가 나왔다. 가입 확대와 함께 보험금 지급 기준과 청구·심사 과정에 대한 소비자 불만과 점검 필요성이 커지고 있다.",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ldUZ6WXhBckZJMDh2a0kxVlBBT2o4ZDJJLVVZazBUMXl4M1dtN1h6RTNRTFJoSXFkNlNpaU5md0VrRWFiRXo0bkZXWFhpaG8?oc=5",
-      "source": "v.daum.net"
+      "tag": "디지털 보험·AI",
+      "title": "디지털 보험사의 흑자 전환 시도와 AI 기반 보험 혁신 동시 부상",
+      "summary": "카카오페이손해보험은 적자 폭을 줄이며 디지털 손해보험사 최초 흑자전환에 시동을 걸고, 장기보험과 보험 진단을 통한 성장 전략을 추진한다는 보도가 나왔습니다. AI 에이전트의 금융·보험 영향, AI 이미지 자동 판독, 보험업 전 과정의 디지털 혁신 관련 보도가 이어지며 기술 기반 판매·심사 경쟁이 확대되는 흐름이 나타났습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpWngwUkc2ZDlEWENqMFMtY0IyV0g2c0RjdG9ELXNrVXlRSWdraUtoUlpvVnAzTS1zMzB3ajltSmVKRi1qbUkzaEhSbHlMVDRzMWZfY0p1OURiOTloblNxNU5pVU9EdzY3?oc=5",
+      "source": "녹색경제신문"
     },
     {
-      "tag": "상품개발·보장세분화",
-      "title": "생활밀착형·맞춤형 보험 상품 출시 경쟁",
-      "summary": "KB손해보험은 경북 소상공인에게 휴업 시 최대 50만원을 보장하는 상생보험을 운영하고, 롯데손해보험은 러닝 중 골절과 기후성 질환 등을 보장하는 상품을 출시했다. 카카오페이손해보험의 가입자별 건강보장 진단 상품과 미래에셋생명의 보증형 실적배당보험 관련 보도까지 이어지며 고객 상황과 활동을 세분화한 상품 개발이 확대되고 있다.",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HaHZyNlNkMEFfTFVkR2tocFJuMFB5aGVOaTZCY1BRQkZ0OC1LbzM3cWNUazZ0QV9PQXRvSEJHNkRpeDJ2Y2FlNTNybmdFejFjSzM3WXdjOEY5N0ZQaHkzdGJoYmNTMEE?oc=5",
-      "source": "팍스경제TV"
+      "tag": "보험산업 재편",
+      "title": "보험권, M&A·신사업·시니어케어로 성장전략 재편",
+      "summary": "보험권이 M&A와 해외에서 새 먹거리를 찾는다는 보도와 함께 한국투자금융지주의 생명보험사 인수 및 사명 선점 관련 보도가 나왔습니다. 생명보험업계의 치매·요양 등 시니어케어 확대와 통합을 앞둔 동양·ABL생명의 보장성 신계약 성과도 전해지며 사업 포트폴리오 재편 움직임이 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CRGtkbEQ3OEpZLXFtVXZEX1hEV3hwekMyWk1vYnc3TWl5UlBiWHBYQzFKQkJFZDhFcm9zRW1RdHhIWVcxZUZKSzNhem9EbDNpOVVDdWd4aEVlV0o4R2NuT3BkVl9sWE5i?oc=5",
+      "source": "fins.co.kr"
     }
   ]
 }
