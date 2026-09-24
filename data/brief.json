@@ -1,70 +1,70 @@
 {
-  "updatedAt": "2026-09-23T01:35:57.369Z",
+  "updatedAt": "2026-09-24T01:32:38.650Z",
   "articleCount": 45,
-  "editorNote": "제공된 기사 메타데이터만 기준으로 중복 보도를 통합했습니다. 금융시장 변수에 관한 직접적인 기사 정보가 없어 금리·환율·부동산 흐름은 판단하지 않았습니다.",
+  "editorNote": "최근 24시간 기사 메타데이터를 기준으로 유사 보도를 하나의 이슈로 통합했습니다. 제공된 목록에는 미국 금리·국내외 채권금리·환율·부동산 가격의 구체적 흐름이 없어, 해당 변수의 방향이나 수치는 제시하지 않았습니다.",
   "keywords": [
-    "GA 개혁",
     "자동차보험 손해율",
-    "보험 분쟁",
-    "디지털 보험",
-    "보험산업 재편"
+    "매출채권보험",
+    "추석 맞춤형 보장",
+    "보험판매 규제",
+    "AI 데이터센터 보험"
   ],
-  "marketSummary": "제공된 기사 메타데이터에서는 미국 금리·국내외 채권금리·환율·부동산 등 금융시장 흐름을 확인할 수 없으며, 보험시장에서는 자동차보험 손해율과 판매채널·상품 규제 이슈가 두드러졌습니다.",
+  "marketSummary": "추석 귀성길 사고 증가와 자동차보험 원가 부담이 손해율 악화 우려를 키우는 가운데, AI 데이터센터와 매출채권보험 등 신성장·위험관리 수요가 동시에 부각된 하루다.",
   "marketContext": [
     {
-      "label": "미국 금리",
-      "summary": "제공된 기사 목록에 미국 금리의 상승·하락 또는 보험사 자산운용과 관련한 직접적인 내용이 없습니다. 따라서 미국 금리가 보험사 채권 평가와 운용수익에 미친 영향은 이 자료만으로 설명할 수 없습니다.",
-      "url": "",
-      "source": "제공 기사 메타데이터"
+      "label": "자동차보험 손해율·원가 부담",
+      "summary": "기사들은 자동차보험 손해율이 적자 구간에 머물거나 84.7%로 악화됐다고 전하면서, 정비 등 원가 부담과 추석 연휴 사고 증가를 하반기 부담 요인으로 제시했다. 이는 자동차보험의 보험료 산정과 손익 관리에 연결되는 변수지만, 기사 목록에는 금리·환율 등 금융시장 수치가 제시돼 있지 않다.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0bExuM0xfN2xieW5GSVBfcXJXaGV4ZG8tUnkwVER4bm9XZUtNTklVbmozX3JvRXY0eHJXTjBtVy1VVFNGQlJOcE5nREJLUmo0RHB4ZW45QkgtMkdTOHNsSXh6aEUxVzFvclQ3c095dw?oc=5",
+      "source": "보험저널"
     },
     {
-      "label": "국내외 채권금리",
-      "summary": "제공된 기사 목록에 국내외 채권금리 수준이나 변동에 관한 내용이 없습니다. 이에 따라 채권금리가 보험사 자산운용, 상품가격 또는 건전성에 미친 영향도 판단할 수 없습니다.",
-      "url": "",
-      "source": "제공 기사 메타데이터"
+      "label": "AI 데이터센터 투자와 대형손실 위험",
+      "summary": "AI 데이터센터 붐이 보험업계의 성장동력이 될 수 있다는 기대와 함께 대형 손실 가능성도 거론됐다. 데이터센터 관련 보험 수요 확대와 사고 위험이 함께 부각된 만큼, 상품 설계와 위험평가에 영향을 줄 수 있는 산업 변수로 볼 수 있다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85NUdDV0NvbHdhUXBoV0Z1S2U5bWZLVHJaTS1ueXBYNW9xeGJxYlphb0NWb1ZVMW51REV6X3RuV1NPSWVuSGQtT0tiR2tYQ2h5dml3c19Cb21ERFUzQ0Q0ajZWRTl5UmRvYUN1WS15UWM?oc=5",
+      "source": "연합인포맥스"
     },
     {
-      "label": "환율·부동산",
-      "summary": "제공된 기사 목록에 환율이나 부동산시장 흐름을 다룬 내용이 없습니다. 따라서 환율과 부동산 변수가 보험사의 해외자산, 대체투자 또는 건전성에 미친 영향은 확인되지 않습니다.",
-      "url": "",
-      "source": "제공 기사 메타데이터"
+      "label": "추석 연휴 사고·보장 수요",
+      "summary": "추석 전날 자동차 사고가 45% 급증했다는 보도와 함께 교대운전, 여행, 단기운전 관련 특약 점검 필요성이 반복적으로 제시됐다. 연휴 중 사고 빈도와 단기 보장 수요는 자동차보험의 손해율과 여행·상해보험 판매 흐름에 연결된다.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QN3hLaVN4ZjRuTnZ5UHZpX3FGLWZTWkhqV25VSzZyd1R4eW9WUUdQQWgwc3FrSUk5VUdTZElUM21PVkNtYmVDZnFhd2JCbks3YTZYUFhnb0RWN01HMk5SaXNvbGJlVHFnZ2c?oc=5",
+      "source": "뉴스웨이"
     }
   ],
   "issues": [
     {
-      "tag": "GA 개혁·판매채널 규제",
-      "title": "금융당국, 초대형 GA와 보험 판매수수료 구조에 대한 개혁 압박 강화",
-      "summary": "조 단위 매출과 수만 명의 설계사를 보유한 초대형 보험대리점을 대상으로 금융당국이 관리·감독에 나섰다는 보도가 나왔고, GA 개혁을 강조하는 보도도 이어졌습니다. 수수료 우회지급과 대형 GA의 영향력 문제가 함께 제기되면서 보험 판매채널의 투명성과 감독체계가 핵심 쟁점으로 부상했습니다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qVzNhUS1JT0hNS0VUbjg4Snd0YTJxUHA4WmFPS3F0MDVxOFFjVnFyeV9VbU5IUkQxdVlza3MyZkJyQUpGVU1iSlFMUExoakNsZUtjcE5XLXMyelpGX0hpVFhyalk5OFF4VnRr0gFwQVVfeXFMTjFfSkpvc1NvUTJhTnZ6OFhvTDBvRHRDNXpFZVlnZ3JETy1xUmNxYzZKaTNZN2wtNi01cjFEamtCSnQ5VHdyenNPTGdXeHR1UlUwQVRIdllMMktZR2tDcmNxRlp6SG1jdmJYNlFyd2xRbQ?oc=5",
-      "source": "머니투데이"
+      "tag": "손해보험·중소기업",
+      "title": "매출채권보험 사고 증가와 보장한도 상향 추진",
+      "summary": "중소기업의 외상대금 미회수로 매출채권보험 사고액이 4년 새 65% 늘었다는 보도와 함께, 줄도산을 막기 위해 7년 만에 보험 한도 상향이 추진된다는 소식이 나왔다. 거래처 부실 위험이 커진 상황에서 매출채권보험의 위험관리·지원 기능을 확대하려는 움직임으로 해석된다.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13b2ZlT05nYVM3dmtTZkZUVGcxb3J5UWt1d3hDQjk0bDd0aXhxTjRXMUVWV1JDUjFHZlJVVzhfVkpoVFJrMmkxNjNrV0U1alpwbmxoYk9WZHQzVzjSAWBBVV95cUxQX1J0ZDJJdHpOYnNrQkhFdHZjdENmRjdXdHFVbS1yM2FqYU5uVmVtTGZGeVFjVm9FUzdJTDcyZU1vQU5NRzhSMDVrSlg5UjhUdHF1VWZyT3pwYm1VOTJQSE0?oc=5",
+      "source": "연합뉴스"
     },
     {
       "tag": "자동차보험",
-      "title": "자동차보험 손해율 84%대 지속…보험료 인상에도 부담",
-      "summary": "지난달 및 8월 자동차보험 누적 손해율이 84%대라는 보도가 잇따랐고, 전년 대비 상승 또는 보험료 인상에도 부담이 지속된다는 내용이 제시됐습니다. 손해율 고공행진은 자동차보험의 수익성과 향후 상품가격 논의에 직접 연결되는 핵심 지표로 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01bVFMdnIwalM1VFBCcThMd2ZuWGdmeGdPXzBjS3lUQ28xM0tsRTFQTm5QblpUS0FZOXRSenNFQk95Z0VzdEVwRlAtZkdYS0F5amMzalFKNjI4bVFPMEY2M21JS2RfMXpmdHg00gFwQVVfeXFMT1NuelVCem9Bb285UW5DMjlnS3BsSkFjUTVqM3hhSFpvQ1VUczF1QzgyMGhWMGF4TzhGUlU1YjJBcHV3X2pxbDA1ZXdOb0hTZGxQaWZDcldBZDRLWnQzZzdSaGJ1UTVmNW9Qb2VUeHBWZw?oc=5",
-      "source": "머니투데이"
+      "title": "추석 귀성길 사고 증가, 자동차보험 손해율 부담 지속",
+      "summary": "자동차보험 손해율이 84.7%로 악화되거나 여전히 적자 구간에 있다는 보도가 이어졌고, 정비 등 원가 부담과 하반기 계절 요인이 우려 요인으로 제시됐다. 추석 전날 사고가 45% 급증했다는 보도까지 더해지면서 연휴 교통량이 3분기 손해율의 변수로 부상했다.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0bExuM0xfN2xieW5GSVBfcXJXaGV4ZG8tUnkwVER4bm9XZUtNTklVbmozX3JvRXY0eHJXTjBtVy1VVFNGQlJOcE5nREJLUmo0RHB4ZW45QkgtMkdTOHNsSXh6aEUxVzFvclQ3c095dw?oc=5",
+      "source": "보험저널"
     },
     {
-      "tag": "보험 분쟁·비급여",
-      "title": "보험 분쟁 신청 역대 최대…비급여·실손 관련 갈등 재부상",
-      "summary": "손해보험 분쟁 신청이 백내장 사태 때보다 심각한 수준으로 역대 최대에 이르렀다는 보도가 나왔습니다. 도수치료를 제한하자 다른 치료가 늘었다는 보도와 수수료 우회지급·비급여 풍선효과 논의가 함께 나오며 보험금 청구와 비급여 관리 문제가 다시 쟁점화됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03eTJ5ZmF3NHVSTHQxZThoaFBWd0hST0J4bzFWRmtQWERKNG9TZnB2aENodzlEMUVMSUktOFVZR1VQZUljZGczbk1sRVJDZw?oc=5",
-      "source": "전자신문"
+      "tag": "보험상품·고령화",
+      "title": "추석 맞춤형 보장과 치매·간병보험 관심 확대",
+      "summary": "추석을 계기로 치매·간병·뇌·관절질환을 보장하는 효도보험과 장기요양보험 관련 보도가 집중됐으며, 귀성·여행·혼자 보내는 연휴 등 상황별 특약도 소개됐다. 고령층의 질병·간병 위험과 명절 보험 수요를 겨냥한 상품·보장 안내가 확대되는 흐름이다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zR2tuRzlnYlNOSzF4dkJCeDJGRFJ5T25ZdXdWR0xhamYyVFZDQk93MWZvOWZkR3I3cDNIZU5ndlBmSDNDUndURXUwalFaODZpYWJSQ2pFUHVHYnJmRjJwN21pbVdSYlpq?oc=5",
+      "source": "fetv.co.kr"
     },
     {
-      "tag": "디지털 보험·AI",
-      "title": "디지털 보험사의 흑자 전환 시도와 AI 기반 보험 혁신 동시 부상",
-      "summary": "카카오페이손해보험은 적자 폭을 줄이며 디지털 손해보험사 최초 흑자전환에 시동을 걸고, 장기보험과 보험 진단을 통한 성장 전략을 추진한다는 보도가 나왔습니다. AI 에이전트의 금융·보험 영향, AI 이미지 자동 판독, 보험업 전 과정의 디지털 혁신 관련 보도가 이어지며 기술 기반 판매·심사 경쟁이 확대되는 흐름이 나타났습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpWngwUkc2ZDlEWENqMFMtY0IyV0g2c0RjdG9ELXNrVXlRSWdraUtoUlpvVnAzTS1zMzB3ajltSmVKRi1qbUkzaEhSbHlMVDRzMWZfY0p1OURiOTloblNxNU5pVU9EdzY3?oc=5",
-      "source": "녹색경제신문"
+      "tag": "판매·규제",
+      "title": "고환급 종신보험 판매 중단과 보험 갈아타기 방지 논의",
+      "summary": "‘7년 뒤 100% 환급’ 종신보험이 막히면서 생명보험사들이 판매를 중단했다는 보도가 나왔다. 설계사 증가에 따른 부당한 보험 갈아타기 권유와 보험판매전문회사 도입을 둘러싼 업권 간 이견도 함께 제기돼 상품 판매와 모집 질서에 대한 규제 관심이 커졌다.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWjkxTmNUM0Z6aERhMl9fUkNDT3lpdjcyZjJxYklpNTc0UEtBMC1jdG9sUDFPNmd0WGk4dlpqbGQ5ZDJ5REQ2bm0tSElSMmpHSE9XR2pzbGhqX0lENE9RaGVVUDBYWUlIRE5oU0RoLVZwMHNWcDFjd09UUG1ZNzVGTkdUVV8?oc=5",
+      "source": "글로벌이코노믹"
     },
     {
-      "tag": "보험산업 재편",
-      "title": "보험권, M&A·신사업·시니어케어로 성장전략 재편",
-      "summary": "보험권이 M&A와 해외에서 새 먹거리를 찾는다는 보도와 함께 한국투자금융지주의 생명보험사 인수 및 사명 선점 관련 보도가 나왔습니다. 생명보험업계의 치매·요양 등 시니어케어 확대와 통합을 앞둔 동양·ABL생명의 보장성 신계약 성과도 전해지며 사업 포트폴리오 재편 움직임이 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CRGtkbEQ3OEpZLXFtVXZEX1hEV3hwekMyWk1vYnc3TWl5UlBiWHBYQzFKQkJFZDhFcm9zRW1RdHhIWVcxZUZKSzNhem9EbDNpOVVDdWd4aEVlV0o4R2NuT3BkVl9sWE5i?oc=5",
-      "source": "fins.co.kr"
+      "tag": "신시장·리스크",
+      "title": "AI 데이터센터, 보험업계 성장동력과 대형손실 위험 동시 부각",
+      "summary": "AI 데이터센터 붐이 보험업계의 새로운 성장동력이 될 수 있다는 기대가 제시됐다. 동시에 사고 발생 시 대형 손실이 발생할 수 있다는 우려도 제기돼, 관련 위험의 평가와 보장 설계가 과제로 떠올랐다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85NUdDV0NvbHdhUXBoV0Z1S2U5bWZLVHJaTS1ueXBYNW9xeGJxYlphb0NWb1ZVMW51REV6X3RuV1NPSWVuSGQtT0tiR2tYQ2h5dml3c19Cb21ERFUzQ0Q0ajZWRTl5UmRvYUN1WS15UWM?oc=5",
+      "source": "연합인포맥스"
     }
   ]
 }
