@@ -1,70 +1,64 @@
 {
-  "updatedAt": "2026-09-24T01:32:38.650Z",
-  "articleCount": 45,
-  "editorNote": "최근 24시간 기사 메타데이터를 기준으로 유사 보도를 하나의 이슈로 통합했습니다. 제공된 목록에는 미국 금리·국내외 채권금리·환율·부동산 가격의 구체적 흐름이 없어, 해당 변수의 방향이나 수치는 제시하지 않았습니다.",
+  "updatedAt": "2026-09-25T01:40:38.871Z",
+  "articleCount": 36,
+  "editorNote": "최근 24시간 기사에서 동일하거나 유사한 주제를 묶어 보험사의 자본·상품·소비자 보장 이슈를 중심으로 정리했습니다.",
   "keywords": [
-    "자동차보험 손해율",
-    "매출채권보험",
-    "추석 맞춤형 보장",
-    "보험판매 규제",
-    "AI 데이터센터 보험"
+    "자본확충",
+    "신종자본증권",
+    "실손보험",
+    "변액보험",
+    "맞춤형보험"
   ],
-  "marketSummary": "추석 귀성길 사고 증가와 자동차보험 원가 부담이 손해율 악화 우려를 키우는 가운데, AI 데이터센터와 매출채권보험 등 신성장·위험관리 수요가 동시에 부각된 하루다.",
+  "marketSummary": "미국 국채금리와 유가 급등, 미국 주간 신규 실업보험 청구의 예상 하회가 함께 제시돼 보험사는 해외채권 운용과 금리 민감 상품, 자본 변동성을 점검할 흐름입니다.",
   "marketContext": [
     {
-      "label": "자동차보험 손해율·원가 부담",
-      "summary": "기사들은 자동차보험 손해율이 적자 구간에 머물거나 84.7%로 악화됐다고 전하면서, 정비 등 원가 부담과 추석 연휴 사고 증가를 하반기 부담 요인으로 제시했다. 이는 자동차보험의 보험료 산정과 손익 관리에 연결되는 변수지만, 기사 목록에는 금리·환율 등 금융시장 수치가 제시돼 있지 않다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0bExuM0xfN2xieW5GSVBfcXJXaGV4ZG8tUnkwVER4bm9XZUtNTklVbmozX3JvRXY0eHJXTjBtVy1VVFNGQlJOcE5nREJLUmo0RHB4ZW45QkgtMkdTOHNsSXh6aEUxVzFvclQ3c095dw?oc=5",
-      "source": "보험저널"
+      "label": "미국 국채금리·유가",
+      "summary": "미국 국채 금리와 유가 급등 속 인도 증시가 큰 폭으로 하락했고, 보험 수수료 상한 우려가 금융주 약세 요인으로 제시됐습니다. 보험시장에서는 채권금리와 위험자산 변동이 자산운용, 상품가격, 건전성 점검 변수로 연결됩니다.",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SQ3ltNF9rTmtkN3FvMDhfZ2ZsVXJwQWFMcUJSSlF4SG9zd2FTaDRsNnM0OC1mNmxEMlZzZlY0U25udUxMX0q4NnVib0RvR0VNaDRzTGpZOEJ4V1py?oc=5",
+      "source": "newspim.com"
     },
     {
-      "label": "AI 데이터센터 투자와 대형손실 위험",
-      "summary": "AI 데이터센터 붐이 보험업계의 성장동력이 될 수 있다는 기대와 함께 대형 손실 가능성도 거론됐다. 데이터센터 관련 보험 수요 확대와 사고 위험이 함께 부각된 만큼, 상품 설계와 위험평가에 영향을 줄 수 있는 산업 변수로 볼 수 있다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85NUdDV0NvbHdhUXBoV0Z1S2U5bWZLVHJaTS1ueXBYNW9xeGJxYlphb0NWb1ZVMW51REV6X3RuV1NPSWVuSGQtT0tiR2tYQ2h5dml3c19Cb21ERFUzQ0Q0ajZWRTl5UmRvYUN1WS15UWM?oc=5",
+      "label": "미국 고용지표",
+      "summary": "미국 주간 신규 실업보험 청구가 19만7천 건으로 예상치를 밑돌았습니다. 미국 고용 흐름은 해외채권 운용과 금리 민감 보험상품의 시장 환경을 점검할 때 참고할 변수입니다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04ZGYwSFlaMzZrbm05eW85NjJid3c3Sk9sWVhFZWlZa1BnWjBYLUVsek02alU5X0xWUG9SYUhtZlQtRW9JMGpHd0xIaEVMaUpMdWtodXRVNDdiT0E4d3FfV3JBV1lYYl9WSmg0ejlHYS0?oc=5",
       "source": "연합인포맥스"
-    },
-    {
-      "label": "추석 연휴 사고·보장 수요",
-      "summary": "추석 전날 자동차 사고가 45% 급증했다는 보도와 함께 교대운전, 여행, 단기운전 관련 특약 점검 필요성이 반복적으로 제시됐다. 연휴 중 사고 빈도와 단기 보장 수요는 자동차보험의 손해율과 여행·상해보험 판매 흐름에 연결된다.",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QN3hLaVN4ZjRuTnZ5UHZpX3FGLWZTWkhqV25VSzZyd1R4eW9WUUdQQWgwc3FrSUk5VUdTZElUM21PVkNtYmVDZnFhd2JCbks3YTZYUFhnb0RWN01HMk5SaXNvbGJlVHFnZ2c?oc=5",
-      "source": "뉴스웨이"
     }
   ],
   "issues": [
     {
-      "tag": "손해보험·중소기업",
-      "title": "매출채권보험 사고 증가와 보장한도 상향 추진",
-      "summary": "중소기업의 외상대금 미회수로 매출채권보험 사고액이 4년 새 65% 늘었다는 보도와 함께, 줄도산을 막기 위해 7년 만에 보험 한도 상향이 추진된다는 소식이 나왔다. 거래처 부실 위험이 커진 상황에서 매출채권보험의 위험관리·지원 기능을 확대하려는 움직임으로 해석된다.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13b2ZlT05nYVM3dmtTZkZUVGcxb3J5UWt1d3hDQjk0bDd0aXhxTjRXMUVWV1JDUjFHZlJVVzhfVkpoVFJrMmkxNjNrV0U1alpwbmxoYk9WZHQzVzjSAWBBVV95cUxQX1J0ZDJJdHpOYnNrQkhFdHZjdENmRjdXdHFVbS1yM2FqYU5uVmVtTGZGeVFjVm9FUzdJTDcyZU1vQU5NRzhSMDVrSlg5UjhUdHF1VWZyT3pwYm1VOTJQSE0?oc=5",
-      "source": "연합뉴스"
+      "tag": "자본·건전성",
+      "title": "은행·증권·보험권, 자본확충 위해 신종자본증권 발행 확대",
+      "summary": "은행·증권사에 이어 보험사까지 자본확충을 위한 신종자본증권 발행에 나서는 흐름이 부각됐습니다. 보험업계의 자본관리와 건전성 확보가 시장의 주요 관심사로 제시된 것입니다.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10Q2JKVHdGcnEzUHV2cVlXNzM1UFQ1OW4wZmEyLUtrR0h2MXk3OE1rY1dMMU5tY2dWbVJfc0phVGdZQ2htQ2xGR1VkYWRweFR4a3d0am9YVDJaZw?oc=5",
+      "source": "한국경제"
     },
     {
-      "tag": "자동차보험",
-      "title": "추석 귀성길 사고 증가, 자동차보험 손해율 부담 지속",
-      "summary": "자동차보험 손해율이 84.7%로 악화되거나 여전히 적자 구간에 있다는 보도가 이어졌고, 정비 등 원가 부담과 하반기 계절 요인이 우려 요인으로 제시됐다. 추석 전날 사고가 45% 급증했다는 보도까지 더해지면서 연휴 교통량이 3분기 손해율의 변수로 부상했다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0bExuM0xfN2xieW5GSVBfcXJXaGV4ZG8tUnkwVER4bm9XZUtNTklVbmozX3JvRXY0eHJXTjBtVy1VVFNGQlJOcE5nREJLUmo0RHB4ZW45QkgtMkdTOHNsSXh6aEUxVzFvclQ3c095dw?oc=5",
-      "source": "보험저널"
+      "tag": "상품·판매관리",
+      "title": "변액보험 수익률 격차, 펀드 선택과 계약 관리의 중요성 부각",
+      "summary": "같은 기간 변액보험에서도 펀드에 따라 수익률이 크게 달라진 사례가 소개됐으며, 관련 기사가 중복 보도됐습니다. 변액보험의 성과가 상품 자체뿐 아니라 펀드 선택과 관리에 좌우될 수 있다는 점이 핵심 내용입니다.",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YRXc4UlRrc1lrM2NxYzV1MEFDcks1azc4TGJKUWNJa3B2S2czQWhfcFFSazczWFhMVVJ5bUlDcUFISTBBcWZvcVgycEt3SG8?oc=5",
+      "source": "v.daum.net"
     },
     {
-      "tag": "보험상품·고령화",
-      "title": "추석 맞춤형 보장과 치매·간병보험 관심 확대",
-      "summary": "추석을 계기로 치매·간병·뇌·관절질환을 보장하는 효도보험과 장기요양보험 관련 보도가 집중됐으며, 귀성·여행·혼자 보내는 연휴 등 상황별 특약도 소개됐다. 고령층의 질병·간병 위험과 명절 보험 수요를 겨냥한 상품·보장 안내가 확대되는 흐름이다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zR2tuRzlnYlNOSzF4dkJCeDJGRFJ5T25ZdXdWR0xhamYyVFZDQk93MWZvOWZkR3I3cDNIZU5ndlBmSDNDUndURXUwalFaODZpYWJSQ2pFUHVHYnJmRjJwN21pbVdSYlpq?oc=5",
-      "source": "fetv.co.kr"
+      "tag": "실손보험",
+      "title": "실손보험 보장·이용·청구 체계 변화에 관심",
+      "summary": "워홀·유학 중 실손보험 납입, 응급실 이용 시 보장 범위, 도수치료 제한 이후 치료 이용 변화, 5세대 전환과 전산청구가 함께 다뤄졌습니다. 소비자의 보장 이해와 보험업계의 제도 전환·청구 시스템 정비가 동시에 쟁점으로 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BWHlsT0QyN3Z4OUpNVEp5dF9tUDNWRDYxYi1va0s4clhfMDJXTFZkWW9zdmZ3TndXNWxqR0VaQl9CQXVVbkdoT1BJbnRieVVNenVoT2g5RTRoemkxT0hROU9VNmE?oc=5",
+      "source": "IT조선·보험매일·세계비즈 등"
     },
     {
-      "tag": "판매·규제",
-      "title": "고환급 종신보험 판매 중단과 보험 갈아타기 방지 논의",
-      "summary": "‘7년 뒤 100% 환급’ 종신보험이 막히면서 생명보험사들이 판매를 중단했다는 보도가 나왔다. 설계사 증가에 따른 부당한 보험 갈아타기 권유와 보험판매전문회사 도입을 둘러싼 업권 간 이견도 함께 제기돼 상품 판매와 모집 질서에 대한 규제 관심이 커졌다.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWjkxTmNUM0Z6aERhMl9fUkNDT3lpdjcyZjJxYklpNTc0UEtBMC1jdG9sUDFPNmd0WGk4dlpqbGQ5ZDJ5REQ2bm0tSElSMmpHSE9XR2pzbGhqX0lENE9RaGVVUDBYWUlIRE5oU0RoLVZwMHNWcDFjd09UUG1ZNzVGTkdUVV8?oc=5",
-      "source": "글로벌이코노믹"
+      "tag": "상품 경쟁",
+      "title": "미니·여행·러닝·마음건강 등 맞춤형 보험 보장 확대",
+      "summary": "미니보험이 새로운 먹거리로 부상하고, 여행자보험의 항공 지연 보장 확대와 러닝보험 경쟁, 우울증·공황장애 등 마음건강 보장 확대가 소개됐습니다. 보험사들이 소비자의 활동과 위험 유형에 맞춘 세분화된 상품과 보장을 확대하는 흐름입니다.",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ud3B1blhlZHpiYkY4bVc5d09DQ3JTTnR6ekpRTjREcUtVaDRxd2t6U3hXVllBWktzRE9YcVBOZkE4Vm5ac2pFdXlRdjlvNU81?oc=5",
+      "source": "톱데일리·글로벌이코노믹·v.daum.net·newspim.com"
     },
     {
-      "tag": "신시장·리스크",
-      "title": "AI 데이터센터, 보험업계 성장동력과 대형손실 위험 동시 부각",
-      "summary": "AI 데이터센터 붐이 보험업계의 새로운 성장동력이 될 수 있다는 기대가 제시됐다. 동시에 사고 발생 시 대형 손실이 발생할 수 있다는 우려도 제기돼, 관련 위험의 평가와 보장 설계가 과제로 떠올랐다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85NUdDV0NvbHdhUXBoV0Z1S2U5bWZLVHJaTS1ueXBYNW9xeGJxYlphb0NWb1ZVMW51REV6X3RuV1NPSWVuSGQtT0tiR2tYQ2h5dml3c19Cb21ERFUzQ0Q0ajZWRTl5UmRvYUN1WS15UWM?oc=5",
-      "source": "연합인포맥스"
+      "tag": "소비자 보호",
+      "title": "보험금 지급 조건과 특약·면책 범위 확인 필요성 재조명",
+      "summary": "펫보험, 교대운전 자동차보험, 응급실 실손보험 관련 기사에서 사고나 의료 이용이 발생해도 보험금이 항상 지급되는 것은 아니라는 점이 다뤄졌습니다. 상품별 보장 조건과 제외 사항을 사전에 확인해야 한다는 소비자 유의점이 공통적으로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ubkxma0RNT2o3S3lkR05OY0RoekVWWExnekRmUTBJYkJzMXI2N3hGa2lqdUJxTmxINHpodllEakFtanItMTEwQTVaTkZQeDVJXy1jTVpGRy12NU1DdFcyVWVoeFoxT3F0?oc=5",
+      "source": "보험매일"
     }
   ]
 }
