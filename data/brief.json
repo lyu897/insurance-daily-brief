@@ -1,64 +1,64 @@
 {
-  "updatedAt": "2026-09-25T01:40:38.871Z",
-  "articleCount": 36,
-  "editorNote": "최근 24시간 기사에서 동일하거나 유사한 주제를 묶어 보험사의 자본·상품·소비자 보장 이슈를 중심으로 정리했습니다.",
+  "updatedAt": "2026-09-26T01:46:05.740Z",
+  "articleCount": 41,
+  "editorNote": "제공된 기사 제목과 메타데이터를 기준으로 유사 주제를 통합했으며, 기사 본문에 제시되지 않은 세부 사실은 제외했습니다.",
   "keywords": [
-    "자본확충",
-    "신종자본증권",
-    "실손보험",
-    "변액보험",
-    "맞춤형보험"
+    "여성건강보험",
+    "보험료 할인",
+    "AI 보험심사",
+    "다태아 안심보험",
+    "달러보험"
   ],
-  "marketSummary": "미국 국채금리와 유가 급등, 미국 주간 신규 실업보험 청구의 예상 하회가 함께 제시돼 보험사는 해외채권 운용과 금리 민감 상품, 자본 변동성을 점검할 흐름입니다.",
+  "marketSummary": "미국 장기금리 상승 우려와 원화 강세가 함께 부각되면서 보험사의 채권 운용과 외화보험 상품 수요에 영향을 줄 수 있는 금융시장 변수가 주목받았습니다.",
   "marketContext": [
     {
-      "label": "미국 국채금리·유가",
-      "summary": "미국 국채 금리와 유가 급등 속 인도 증시가 큰 폭으로 하락했고, 보험 수수료 상한 우려가 금융주 약세 요인으로 제시됐습니다. 보험시장에서는 채권금리와 위험자산 변동이 자산운용, 상품가격, 건전성 점검 변수로 연결됩니다.",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SQ3ltNF9rTmtkN3FvMDhfZ2ZsVXJwQWFMcUJSSlF4SG9zd2FTaDRsNnM0OC1mNmxEMlZzZlY0U25udUxMX0q4NnVib0RvR0VNaDRzTGpZOEJ4V1py?oc=5",
-      "source": "newspim.com"
+      "label": "미국 장기금리·채권시장",
+      "summary": "한 기사 제목은 미국 30년물 금리가 6%에 이를 수 있다는 우려와 함께 글로벌 자산시장 충격 가능성을 제기했습니다. 장기금리와 채권시장 변동성은 보험사의 채권 운용 환경과 자산 평가에 연결되는 변수로 볼 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XcWlaQWlsLVpPd2RFbFBlMHJobllPLUl0cUNPVzBwRFVnVXVFOGw1WWwxWk1wRG5ZV2RUSVpDN2l5YXlwRkVWdzJ4eUhTWmtCOE8tMkg3M29sRU9QTDRrdE4wREM1VTFBZldkaTJWWkJhWE1Ubmc?oc=5",
+      "source": "데일리머니"
     },
     {
-      "label": "미국 고용지표",
-      "summary": "미국 주간 신규 실업보험 청구가 19만7천 건으로 예상치를 밑돌았습니다. 미국 고용 흐름은 해외채권 운용과 금리 민감 보험상품의 시장 환경을 점검할 때 참고할 변수입니다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04ZGYwSFlaMzZrbm05eW85NjJid3c3Sk9sWVhFZWlZa1BnWjBYLUVsek02alU5X0xWUG9SYUhtZlQtRW9JMGpHd0xIaEVMaUpMdWtodXRVNDdiT0E4d3FfV3JBV1lYYl9WSmg0ejlHYS0?oc=5",
-      "source": "연합인포맥스"
+      "label": "원화 강세·달러보험",
+      "summary": "원화 강세 국면에서 달러보험이 다시 주목받는다는 기사가 나왔습니다. 환율 흐름은 외화보험에 대한 소비자 관심과 상품 선택에 영향을 줄 수 있는 변수로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81UndjNXNzQzNrN19LTGcxSEo5My15S3Z6SVRXZURYWFhGY3lrOTJIVkZTN0ZfUHhBNWNqMFhzb3FGMUM1MTJveDF2cUZjemM?oc=5",
+      "source": "v.daum.net"
     }
   ],
   "issues": [
     {
-      "tag": "자본·건전성",
-      "title": "은행·증권·보험권, 자본확충 위해 신종자본증권 발행 확대",
-      "summary": "은행·증권사에 이어 보험사까지 자본확충을 위한 신종자본증권 발행에 나서는 흐름이 부각됐습니다. 보험업계의 자본관리와 건전성 확보가 시장의 주요 관심사로 제시된 것입니다.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10Q2JKVHdGcnEzUHV2cVlXNzM1UFQ1OW4wZmEyLUtrR0h2MXk3OE1rY1dMMU5tY2dWbVJfc0phVGdZQ2htQ2xGR1VkYWRweFR4a3d0am9YVDJaZw?oc=5",
-      "source": "한국경제"
+      "tag": "상품·보장",
+      "title": "여성 생애주기 보험, 임신·출산·건강관리로 경쟁 확대",
+      "summary": "여성보험 관련 기사들은 질병 보장에서 임신·출산, 산후조리와 생애주기별 건강관리로 보장 경쟁이 넓어지고 있다고 전했습니다. 동시에 임신·출산 보장 확대에 따른 역선택 과제가 함께 제기돼 상품 설계와 위험관리의 중요성이 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOX2JhcWtlUE5mSjM0eGgzMWtIQlJ5ZFliNEZYcmRCbG5NSFlVRjVEUGZIdjFwMGFjOFlUUEt2blZMV3VLaDRYOFh0a09JR2JvN2thRHRUbFhJMDRUaDlNw?oc=5",
+      "source": "아시아경제"
     },
     {
-      "tag": "상품·판매관리",
-      "title": "변액보험 수익률 격차, 펀드 선택과 계약 관리의 중요성 부각",
-      "summary": "같은 기간 변액보험에서도 펀드에 따라 수익률이 크게 달라진 사례가 소개됐으며, 관련 기사가 중복 보도됐습니다. 변액보험의 성과가 상품 자체뿐 아니라 펀드 선택과 관리에 좌우될 수 있다는 점이 핵심 내용입니다.",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YRXc4UlRrc1lrM2NxYzV1MEFDcks1azc4TGJKUWNJa3B2S2czQWhfcFFSazczWFhMVVJ5bUlDcUFISTBBcWZvcVgycEt3SG8?oc=5",
+      "tag": "자동차보험",
+      "title": "주행거리·배달 활동 기반 보험료 할인 경쟁",
+      "summary": "중소형 손보사가 적게 운전하면 보험료를 할인하는 자동차보험 혜택을 내세우며 경쟁에 나섰다는 기사가 나왔습니다. 배달 공제보험의 할인 소식까지 맞물리면서 운행 특성에 따른 보험료 차별화가 상품 가격 경쟁의 한 축으로 나타났습니다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XbWVXdjFpLU5NbEJQMVg2c3MwMGZiV0FqeE9OLUxHU25BYkVJbzk4aUpQTGZPRlZhSVk4Yl9XNkE2d1MxeUxLYXBDSDMtZGNLYXBuYU9FUUtxOE4yNWUxcDFuOEJ6R29CbGJQUGlkUU_SAXRBVV95cUxPME5YQ3JkMmFkOEFQcy0wdW9HMDRZck8wSmpTaThZa0hPREM1NXlJQXpXMHVzMFNuMFJ6bzFaLVlwRnI1bVNldDl5VWtQcU42cU5Tc3E1VGFjR19KcWZZeWZyRFVkLXVveW5NY0RPcFBEMlR6eA?oc=5",
+      "source": "IT조선"
+    },
+    {
+      "tag": "디지털 전환",
+      "title": "보험사 AI 심사 확대와 거버넌스 과제",
+      "summary": "보험업계에서 AI 심사가 확대되고 있다는 보도가 나왔으며, 관련 거버넌스 구축이 과제로 제시됐습니다. 보험 심사와 보험금 산정에 AI가 활용될 수 있다는 별도 기사와 함께 심사 자동화와 통제 체계가 핵심 쟁점으로 부상했습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VTWZGcy1saHB4Q2RBTVpaeHVZSmgxcW5jNnBWSzlzRk9FQVZsWXNZYWNiTld6SGwxVE1YOHRyYcEdZNFNuemdlTEhFcXIzaDRRRk5qWUdmTXM4QmttbDNnWktyMFNPbjQwWEE?oc=5",
+      "source": "컨슈머타임스"
+    },
+    {
+      "tag": "공공지원보험",
+      "title": "울산시, 다태아 출생 가정에 보험 지원",
+      "summary": "울산시가 다태아 출생 가정에 보험을 지원하고 13개 항목을 보장한다는 기사가 보도됐습니다. 동일한 지원 사업이 복수 매체에 보도되면서 지방자치단체의 출생·가정 대상 보험 지원이 주요 이슈로 나타났습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83UGRVTG1NSGctZ0xLT24yN3RVRHFQSkd5SEhQV3V2SHd2S240SC1kNVBVTDhDWjZLdkFCS3ExY3ZTUTEtc2Z1ZXJ0S2Q4emFNV2dJWk1zWjlhYTd0TFNrWNIBeEFVX3lxTE9UcF8wRmxFcV9QcVBQclVLSkxLaUZVNHFyWVJDeVJXZTRWR3RyWE5ma0tyTUJhdEtjVmJSVm5oNHpuUWhEMnU1R2Frd3RVOUVZRkF6MjlpaFExekVmdWwtZFFFNll1TEdtMU1UODU1S3YtcDc1LWxyXw?oc=5",
+      "source": "뉴시스"
+    },
+    {
+      "tag": "외화보험",
+      "title": "원화 강세에 다시 주목받는 달러보험",
+      "summary": "원화가 강세를 보이는 가운데 달러보험이 다시 관심을 받고 있다는 기사가 나왔습니다. 환율 흐름이 외화보험에 대한 소비자 관심과 상품 수요에 연결될 수 있다는 점이 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81UndjNXNzQzNrN19LTGcxSEo5My15S3Z6SVRXZURYWFhGY3lrOTJIVkZTN0ZfUHhBNWNqMFhzb3FGMUM1MTJveDF2cUZjemM?oc=5",
       "source": "v.daum.net"
-    },
-    {
-      "tag": "실손보험",
-      "title": "실손보험 보장·이용·청구 체계 변화에 관심",
-      "summary": "워홀·유학 중 실손보험 납입, 응급실 이용 시 보장 범위, 도수치료 제한 이후 치료 이용 변화, 5세대 전환과 전산청구가 함께 다뤄졌습니다. 소비자의 보장 이해와 보험업계의 제도 전환·청구 시스템 정비가 동시에 쟁점으로 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BWHlsT0QyN3Z4OUpNVEp5dF9tUDNWRDYxYi1va0s4clhfMDJXTFZkWW9zdmZ3TndXNWxqR0VaQl9CQXVVbkdoT1BJbnRieVVNenVoT2g5RTRoemkxT0hROU9VNmE?oc=5",
-      "source": "IT조선·보험매일·세계비즈 등"
-    },
-    {
-      "tag": "상품 경쟁",
-      "title": "미니·여행·러닝·마음건강 등 맞춤형 보험 보장 확대",
-      "summary": "미니보험이 새로운 먹거리로 부상하고, 여행자보험의 항공 지연 보장 확대와 러닝보험 경쟁, 우울증·공황장애 등 마음건강 보장 확대가 소개됐습니다. 보험사들이 소비자의 활동과 위험 유형에 맞춘 세분화된 상품과 보장을 확대하는 흐름입니다.",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ud3B1blhlZHpiYkY4bVc5d09DQ3JTTnR6ekpRTjREcUtVaDRxd2t6U3hXVllBWktzRE9YcVBOZkE4Vm5ac2pFdXlRdjlvNU81?oc=5",
-      "source": "톱데일리·글로벌이코노믹·v.daum.net·newspim.com"
-    },
-    {
-      "tag": "소비자 보호",
-      "title": "보험금 지급 조건과 특약·면책 범위 확인 필요성 재조명",
-      "summary": "펫보험, 교대운전 자동차보험, 응급실 실손보험 관련 기사에서 사고나 의료 이용이 발생해도 보험금이 항상 지급되는 것은 아니라는 점이 다뤄졌습니다. 상품별 보장 조건과 제외 사항을 사전에 확인해야 한다는 소비자 유의점이 공통적으로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ubkxma0RNT2o3S3lkR05OY0RoekVWWExnekRmUTBJYkJzMXI2N3hGa2lqdUJxTmxINHpodllEakFtanItMTEwQTVaTkZQeDVJXy1jTVpGRy12NU1DdFcyVWVoeFoxT3F0?oc=5",
-      "source": "보험매일"
     }
   ]
 }
