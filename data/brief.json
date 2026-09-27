@@ -1,64 +1,70 @@
 {
-  "updatedAt": "2026-09-26T01:46:05.740Z",
-  "articleCount": 41,
-  "editorNote": "제공된 기사 제목과 메타데이터를 기준으로 유사 주제를 통합했으며, 기사 본문에 제시되지 않은 세부 사실은 제외했습니다.",
+  "updatedAt": "2026-09-27T01:37:00.884Z",
+  "articleCount": 32,
+  "editorNote": "제공된 최근 24시간 기사 메타데이터만 기준으로 중복 보도를 통합했습니다. 금융시장 관련 수치나 방향성은 목록에 포함된 기사에서 확인되지 않아 별도로 단정하지 않았습니다.",
   "keywords": [
-    "여성건강보험",
-    "보험료 할인",
-    "AI 보험심사",
-    "다태아 안심보험",
-    "달러보험"
+    "간병보험 위장청구",
+    "자동차보험 손해율",
+    "펫보험",
+    "건강·간병 보장",
+    "보험사 M&A"
   ],
-  "marketSummary": "미국 장기금리 상승 우려와 원화 강세가 함께 부각되면서 보험사의 채권 운용과 외화보험 상품 수요에 영향을 줄 수 있는 금융시장 변수가 주목받았습니다.",
+  "marketSummary": "제공된 기사 목록에서는 미국 금리·국내외 채권금리·환율·부동산 등 금융시장 흐름을 확인할 수 없어, 이를 보험사의 자산운용·상품가격·건전성과 연결해 판단하기 어렵습니다.",
   "marketContext": [
     {
-      "label": "미국 장기금리·채권시장",
-      "summary": "한 기사 제목은 미국 30년물 금리가 6%에 이를 수 있다는 우려와 함께 글로벌 자산시장 충격 가능성을 제기했습니다. 장기금리와 채권시장 변동성은 보험사의 채권 운용 환경과 자산 평가에 연결되는 변수로 볼 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XcWlaQWlsLVpPd2RFbFBlMHJobllPLUl0cUNPVzBwRFVnVXVFOGw1WWwxWk1wRG5ZV2RUSVpDN2l5YXlwRkVWdzJ4eUhTWmtCOE8tMkg3M29sRU9QTDRrdE4wREM1VTFBZldkaTJWWkJhWE1Ubmc?oc=5",
-      "source": "데일리머니"
+      "label": "미국 금리",
+      "summary": "관련 금리의 변동이나 방향을 다룬 기사가 없어 보험사 자산운용과 상품가격에 미친 영향을 확인할 수 없습니다.",
+      "url": "",
+      "source": "기사 목록 내 관련 보도 없음"
     },
     {
-      "label": "원화 강세·달러보험",
-      "summary": "원화 강세 국면에서 달러보험이 다시 주목받는다는 기사가 나왔습니다. 환율 흐름은 외화보험에 대한 소비자 관심과 상품 선택에 영향을 줄 수 있는 변수로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81UndjNXNzQzNrN19LTGcxSEo5My15S3Z6SVRXZURYWFhGY3lrOTJIVkZTN0ZfUHhBNWNqMFhzb3FGMUM1MTJveDF2cUZjemM?oc=5",
-      "source": "v.daum.net"
+      "label": "국내외 채권금리",
+      "summary": "국내외 채권금리 수준이나 변화에 대한 정보가 없어 보험사의 채권 운용 및 건전성 영향을 평가할 수 없습니다.",
+      "url": "",
+      "source": "기사 목록 내 관련 보도 없음"
+    },
+    {
+      "label": "환율·부동산",
+      "summary": "환율이나 부동산시장 관련 흐름이 제시되지 않아 보험사 자산운용과 건전성에 대한 연결점을 기사 근거로 판단할 수 없습니다.",
+      "url": "",
+      "source": "기사 목록 내 관련 보도 없음"
     }
   ],
   "issues": [
     {
-      "tag": "상품·보장",
-      "title": "여성 생애주기 보험, 임신·출산·건강관리로 경쟁 확대",
-      "summary": "여성보험 관련 기사들은 질병 보장에서 임신·출산, 산후조리와 생애주기별 건강관리로 보장 경쟁이 넓어지고 있다고 전했습니다. 동시에 임신·출산 보장 확대에 따른 역선택 과제가 함께 제기돼 상품 설계와 위험관리의 중요성이 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOX2JhcWtlUE5mSjM0eGgzMWtIQlJ5ZFliNEZYcmRCbG5NSFlVRjVEUGZIdjFwMGFjOFlUUEt2blZMV3VLaDRYOFh0a09JR2JvN2thRHRUbFhJMDRUaDlNw?oc=5",
-      "source": "아시아경제"
+      "tag": "보험사기·건전성",
+      "title": "간병보험 위장청구 급증, 보험금 심사 부담 확대",
+      "summary": "간병보험 위장청구가 4년 사이 적발건수 98배, 적발금액 229배 늘었고 간병인 1명에 최대 5천만원을 청구한 사례도 보도됐습니다. 관련 보도가 집중되면서 간병보험의 지급심사와 보험사기 관리가 핵심 이슈로 부상했습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TbUVpelo1Qkw5MW4wLXFKMXZWUmFqMl9WeWlNN09ucXBkR0pJQWtWNTdRaWItb0xvVUlpMnZsMld6UVJLcGxzZjFkb2RHSUhSSWRKWnprOFI2Nk9T?oc=5",
+      "source": "newspim.com"
     },
     {
       "tag": "자동차보험",
-      "title": "주행거리·배달 활동 기반 보험료 할인 경쟁",
-      "summary": "중소형 손보사가 적게 운전하면 보험료를 할인하는 자동차보험 혜택을 내세우며 경쟁에 나섰다는 기사가 나왔습니다. 배달 공제보험의 할인 소식까지 맞물리면서 운행 특성에 따른 보험료 차별화가 상품 가격 경쟁의 한 축으로 나타났습니다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XbWVXdjFpLU5NbEJQMVg2c3MwMGZiV0FqeE9OLUxHU25BYkVJbzk4aUpQTGZPRlZhSVk4Yl9XNkE2d1MxeUxLYXBDSDMtZGNLYXBuYU9FUUtxOE4yNWUxcDFuOEJ6R29CbGJQUGlkUU_SAXRBVV95cUxPME5YQ3JkMmFkOEFQcy0wdW9HMDRZck8wSmpTaThZa0hPREM1NXlJQXpXMHVzMFNuMFJ6bzFaLVlwRnI1bVNldDl5VWtQcU42cU5Tc3E1VGFjR19KcWZZeWZyRFVkLXVveW5NY0RPcFBEMlR6eA?oc=5",
-      "source": "IT조선"
+      "title": "자동차보험 적자와 손해율 악화 우려 지속",
+      "summary": "통행량과 사고가 줄어도 자동차보험 적자가 이어지고, ‘8주룰’의 초기 성과는 아직 미미하다는 보도가 나왔습니다. 추석 이후 손해율 악화 우려까지 제기되며 자동차보험 수익성 관리가 주요 과제로 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSkVKV0dXVzJjUlEzSDEydkdCcVdYNzA4aGJUME03MDBiUXVIWlFkNi00XzkzV2tRR2RRdjViMFhXMmxVdVUtMzJ2dTFKSWpvREtfQlRQQjJzTEQ0TkdkNnplbm1KalNVNnV2YkJqSGxSeWVRVjZjNHVOdU0zbG5GTVFpa0Q?oc=5",
+      "source": "글로벌이코노믹"
     },
     {
-      "tag": "디지털 전환",
-      "title": "보험사 AI 심사 확대와 거버넌스 과제",
-      "summary": "보험업계에서 AI 심사가 확대되고 있다는 보도가 나왔으며, 관련 거버넌스 구축이 과제로 제시됐습니다. 보험 심사와 보험금 산정에 AI가 활용될 수 있다는 별도 기사와 함께 심사 자동화와 통제 체계가 핵심 쟁점으로 부상했습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VTWZGcy1saHB4Q2RBTVpaeHVZSmgxcW5jNnBWSzlzRk9FQVZsWXNZYWNiTld6SGwxVE1YOHRyYcEdZNFNuemdlTEhFcXIzaDRRRk5qWUdmTXM4QmttbDNnWktyMFNPbjQwWEE?oc=5",
-      "source": "컨슈머타임스"
+      "tag": "상품개발",
+      "title": "중증질환·고령화 겨냥 건강·간병 보장 경쟁",
+      "summary": "암·뇌·심장 치료비를 보장한도 소진 뒤 다시 채우는 ‘리필형 보험’이 등장했고, 암 진단 이후에도 뇌·심장 보장 한도를 확대하는 상품이 소개됐습니다. 장기화된 중증치료와 고령화 수요를 겨냥한 건강·간병 보장 상품 경쟁이 이어지고 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYUxwRWZub01QZkp0dUNXczVCVTJwVVFyaGtWVFMtNWFOcG5qNHh5VXRKaUQ4YW01S1hmSTVSbHRqMUQ2TWUzN1E1Tk5EeXlBRlNzc2VLNWNBREtad3VoYnFHZzMtMXlFVUNXdmM2dEFVU0ZwSnA1eUNMdk0yRTJBbmdtTTJOQVg1SW45QVhn?oc=5",
+      "source": "조선일보"
     },
     {
-      "tag": "공공지원보험",
-      "title": "울산시, 다태아 출생 가정에 보험 지원",
-      "summary": "울산시가 다태아 출생 가정에 보험을 지원하고 13개 항목을 보장한다는 기사가 보도됐습니다. 동일한 지원 사업이 복수 매체에 보도되면서 지방자치단체의 출생·가정 대상 보험 지원이 주요 이슈로 나타났습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83UGRVTG1NSGctZ0xLT24yN3RVRHFQSkd5SEhQV3V2SHd2S240SC1kNVBVTDhDWjZLdkFCS3ExY3ZTUTEtc2Z1ZXJ0S2Q4emFNV2dJWk1zWjlhYTd0TFNrWNIBeEFVX3lxTE9UcF8wRmxFcV9QcVBQclVLSkxLaUZVNHFyWVJDeVJXZTRWR3RyWE5ma0tyTUJhdEtjVmJSVm5oNHpuUWhEMnU1R2Frd3RVOUVZRkF6MjlpaFExekVmdWwtZFFFNll1TEdtMU1UODU1S3YtcDc1LWxyXw?oc=5",
-      "source": "뉴시스"
-    },
-    {
-      "tag": "외화보험",
-      "title": "원화 강세에 다시 주목받는 달러보험",
-      "summary": "원화가 강세를 보이는 가운데 달러보험이 다시 관심을 받고 있다는 기사가 나왔습니다. 환율 흐름이 외화보험에 대한 소비자 관심과 상품 수요에 연결될 수 있다는 점이 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81UndjNXNzQzNrN19LTGcxSEo5My15S3Z6SVRXZURYWFhGY3lrOTJIVkZTN0ZfUHhBNWNqMFhzb3FGMUM1MTJveDF2cUZjemM?oc=5",
+      "tag": "펫보험",
+      "title": "1200억원 규모 펫보험 시장, 후발주자 경쟁 격화",
+      "summary": "펫보험 시장이 1200억원을 넘어선 가운데 메리츠의 선두 구도 속에서 후발 보험사들의 공세가 본격화되고 있다는 보도가 나왔습니다. 시장 확대와 함께 펫보험 상품·판매 경쟁이 주요 이슈로 떠올랐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45WWFVRjBmTmFUc2lFMlZtemFXTE45MVAtZzlrSWplMGRWalJ4NDYxM0dvTnJZQnAwUWFObXA5MUR5ZGZtSzdLVm91bGZ4SVU?oc=5",
       "source": "v.daum.net"
+    },
+    {
+      "tag": "산업재편",
+      "title": "추석 이후 보험사 M&A 분수령 전망",
+      "summary": "추석 이후 KDB생명과 롯데손해보험을 둘러싼 보험업계 M&A가 본격화될 수 있다는 전망이 보도됐습니다. 두 회사의 향후 거래 진행 여부가 보험산업 재편의 주요 변수로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xVDBRVlNVNjdjcGJNUFhxZjM0U3pYbUt5YVBaVlV2anlYODNQSmlVbFZBTHB5TTc1RmhqYlRheGo0LTh2VEQwN25RYkNqbk50bk81X21CcW9TMW82TDhHOEV1MFhiQ0pi?oc=5",
+      "source": "보험매일"
     }
   ]
 }
