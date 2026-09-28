@@ -1,70 +1,70 @@
 {
-  "updatedAt": "2026-09-27T01:37:00.884Z",
-  "articleCount": 32,
-  "editorNote": "제공된 최근 24시간 기사 메타데이터만 기준으로 중복 보도를 통합했습니다. 금융시장 관련 수치나 방향성은 목록에 포함된 기사에서 확인되지 않아 별도로 단정하지 않았습니다.",
+  "updatedAt": "2026-09-28T01:48:51.059Z",
+  "articleCount": 45,
+  "editorNote": "제공된 최근 24시간 기사 메타데이터를 기준으로 제목이 유사한 기사를 통합했습니다. 기사 본문에 없는 금융시장 수치나 등락 정보는 추가하지 않았습니다.",
   "keywords": [
-    "간병보험 위장청구",
-    "자동차보험 손해율",
-    "펫보험",
-    "건강·간병 보장",
-    "보험사 M&A"
+    "간병보험",
+    "보험금 부당청구",
+    "보험업계 AI",
+    "시민안전보험",
+    "판매수수료·상품규제"
   ],
-  "marketSummary": "제공된 기사 목록에서는 미국 금리·국내외 채권금리·환율·부동산 등 금융시장 흐름을 확인할 수 없어, 이를 보험사의 자산운용·상품가격·건전성과 연결해 판단하기 어렵습니다.",
+  "marketSummary": "제공된 기사 메타데이터에는 미국 금리·국내외 채권금리·환율·부동산의 당일 흐름이 없어 금융시장 변수가 보험시장에 미친 영향은 확인할 수 없습니다.",
   "marketContext": [
     {
       "label": "미국 금리",
-      "summary": "관련 금리의 변동이나 방향을 다룬 기사가 없어 보험사 자산운용과 상품가격에 미친 영향을 확인할 수 없습니다.",
-      "url": "",
-      "source": "기사 목록 내 관련 보도 없음"
+      "summary": "제공된 기사에서 미국 금리의 변동이나 보험사 자산운용·상품가격·건전성과의 연결 내용은 확인되지 않습니다.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DOVJxQ2FaV25udEVmaUlzNFBHN2VHZjZSQ3dsNmZGeGxIZTJKaEw2dGxYZnpueEFZZFMxV1JYci1ybDRPSnBqTERjOHBSZ0V1THFIY1JTVnhVak8tbzUyVlRianJ0VGJQZWtEdnd4Tm53WE1qVUZWMDM3bHE?oc=5",
+      "source": "한국금융신문"
     },
     {
       "label": "국내외 채권금리",
-      "summary": "국내외 채권금리 수준이나 변화에 대한 정보가 없어 보험사의 채권 운용 및 건전성 영향을 평가할 수 없습니다.",
-      "url": "",
-      "source": "기사 목록 내 관련 보도 없음"
+      "summary": "채권금리의 수준이나 움직임을 다룬 기사는 포함되지 않았으며, 이에 따라 보험사 자산운용과 상품가격에 대한 당일 영향도 판단할 수 없습니다.",
+      "url": "https://news.google.com/rss/articles/CBMifEFBVV95cUxPcEg0Nm5LZE1WNWVFRmlmU25wejVraFc2Zm1jb3hFRWhCaFp1V2dNXzBFbmd3OXR0RFEwNWpzOTZScldzY3lGb3B6eWhXNmJ0ZXZ6ajhUdmVGUU4zNjZ4T196UFBFSU9ueXNJTW1xRGZVYWZoTUIzT000NVp2NHNuR3ltOTI?oc=5",
+      "source": "글로벌이코노믹"
     },
     {
       "label": "환율·부동산",
-      "summary": "환율이나 부동산시장 관련 흐름이 제시되지 않아 보험사 자산운용과 건전성에 대한 연결점을 기사 근거로 판단할 수 없습니다.",
-      "url": "",
-      "source": "기사 목록 내 관련 보도 없음"
+      "summary": "환율과 부동산 시장의 흐름 또는 보험사 건전성과의 관련성을 제시한 내용은 제공 목록에서 확인되지 않습니다.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51Zy11VkxoWEI2N2lXbGtOYkI4VV80Y1dxTHp1aEMwNjRxUFUyNzctM3piWS05bnRBNXQ0Q0xQeDRCRmV1Zk1oOHhDOWRIaU1ndWE0ZFlHTHNKcmdDbmpjTWdUOUtleU96QVdhRDFPONIBc0FVX3lxTE45UHBwclpUSllEYXhKanV2LWJkZVJ3VU1aZzFKMGJvbHpXMEZETGRHUTcyMVcyWW5NLXM5N1FmNTFORW9YeGhzaVNLR0t0UlFIc0FtbDIydmQ4dC10UVhZOXNvT0hfTWs2V0hYZ0hEQmFzWWM?oc=5",
+      "source": "데일리한국"
     }
   ],
   "issues": [
     {
-      "tag": "보험사기·건전성",
-      "title": "간병보험 위장청구 급증, 보험금 심사 부담 확대",
-      "summary": "간병보험 위장청구가 4년 사이 적발건수 98배, 적발금액 229배 늘었고 간병인 1명에 최대 5천만원을 청구한 사례도 보도됐습니다. 관련 보도가 집중되면서 간병보험의 지급심사와 보험사기 관리가 핵심 이슈로 부상했습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TbUVpelo1Qkw5MW4wLXFKMXZWUmFqMl9WeWlNN09ucXBkR0pJQWtWNTdRaWItb0xvVUlpMnZsMld6UVJLcGxzZjFkb2RHSUhSSWRKWnprOFI2Nk9T?oc=5",
-      "source": "newspim.com"
+      "tag": "간병보험",
+      "title": "치매·간병보험 수요 확대와 위장청구 급증",
+      "summary": "치매·간병인보험 신계약 또는 초회보험료가 2년 새 약 50% 늘어난 가운데, 간병보험 위장청구 적발 건수는 4년 새 98배, 적발 금액은 229배 증가했다는 보도가 나왔습니다. 시장 수요가 커지는 동시에 간병 인정 기준과 보험금 심사의 중요성이 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nXzhaUmZ4SG5sN0JORy0yRHdZQ2lPX3hEdWM3SzFKVGFvdkMyMnpqdDlyRHV6Y0FJZlJ6LVJCYzdsRmJGVmdTMjZ6aEUtVW0tM1RHS0dfVWk3X293dW9oNHc4eG5HYk1Da2c?oc=5",
+      "source": "intn.co.kr"
     },
     {
-      "tag": "자동차보험",
-      "title": "자동차보험 적자와 손해율 악화 우려 지속",
-      "summary": "통행량과 사고가 줄어도 자동차보험 적자가 이어지고, ‘8주룰’의 초기 성과는 아직 미미하다는 보도가 나왔습니다. 추석 이후 손해율 악화 우려까지 제기되며 자동차보험 수익성 관리가 주요 과제로 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSkVKV0dXVzJjUlEzSDEydkdCcVdYNzA4aGJUME03MDBiUXVIWlFkNi00XzkzV2tRR2RRdjViMFhXMmxVdVUtMzJ2dTFKSWpvREtfQlRQQjJzTEQ0TkdkNnplbm1KalNVNnV2YkJqSGxSeWVRVjZjNHVOdU0zbG5GTVFpa0Q?oc=5",
-      "source": "글로벌이코노믹"
+      "tag": "디지털전환",
+      "title": "보험 가입부터 지급·영업까지 AI 적용 확대",
+      "summary": "동양생명은 보험 업무 전반에 AI를 적용하고 자동심사율이 45%로 상승했다고 밝혔으며, 다른 보도에서는 보험영업 현장에 AI를 활용해 생산성과 상담 품질을 높이는 흐름을 전했습니다. AI 활용 범위가 가입 심사뿐 아니라 영업과 보험금 지급 과정으로 넓어지고 있다는 점이 핵심입니다.",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3blRwaVRFTnlSVmFfYjFraVFNLWdCb01kVFM3Q1FBNXRKT0doc2lCNmxWWDluSUlkNm5uQjNhd25aa1ZQUTZ6ZEk4TmFKa0wydU1pQVE3V3U0TU5wY3c?oc=5",
+      "source": "뉴스투데이"
     },
     {
-      "tag": "상품개발",
-      "title": "중증질환·고령화 겨냥 건강·간병 보장 경쟁",
-      "summary": "암·뇌·심장 치료비를 보장한도 소진 뒤 다시 채우는 ‘리필형 보험’이 등장했고, 암 진단 이후에도 뇌·심장 보장 한도를 확대하는 상품이 소개됐습니다. 장기화된 중증치료와 고령화 수요를 겨냥한 건강·간병 보장 상품 경쟁이 이어지고 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYUxwRWZub01QZkp0dUNXczVCVTJwVVFyaGtWVFMtNWFOcG5qNHh5VXRKaUQ4YW01S1hmSTVSbHRqMUQ2TWUzN1E1Tk5EeXlBRlNzc2VLNWNBREtad3VoYnFHZzMtMXlFVUNXdmM2dEFVU0ZwSnA1eUNMdk0yRTJBbmdtTTJOQVg1SW45QVhn?oc=5",
-      "source": "조선일보"
+      "tag": "공공보험",
+      "title": "인천 시민안전보험, 보장 확대 요구 확인",
+      "summary": "인천시민의 94%가 시민안전보험이 필요하다고 답했다는 보도가 여러 매체에서 반복됐고, 47%는 땅꺼짐 사고 보장을 희망한 것으로 나타났습니다. 2027년 보장체계 정비와 보장한도·보장 범위 확대 요구가 주요 과제로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53RjB2VkgyTU1FNEVmcmV3VGhLSmp1QmNJRE5pd3NNdFhNWlJIRWcyZHlnbnVMVk5wZW55M0lZci03VW9aaUV6TWd4QXhZRGVoTU1mQ0F6UHNoUUQtc2twQnFMRTFDeFpSajFtVTUyRQ?oc=5",
+      "source": "인천뉴스"
     },
     {
-      "tag": "펫보험",
-      "title": "1200억원 규모 펫보험 시장, 후발주자 경쟁 격화",
-      "summary": "펫보험 시장이 1200억원을 넘어선 가운데 메리츠의 선두 구도 속에서 후발 보험사들의 공세가 본격화되고 있다는 보도가 나왔습니다. 시장 확대와 함께 펫보험 상품·판매 경쟁이 주요 이슈로 떠올랐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45WWFVRjBmTmFUc2lFMlZtemFXTE45MVAtZzlrSWplMGRWalJ4NDYxM0dvTnJZQnAwUWFObXA5MUR5ZGZtSzdLVm91bGZ4SVU?oc=5",
-      "source": "v.daum.net"
+      "tag": "규제·판매채널",
+      "title": "보험판매수수료 개편과 종신보험 판매 제한",
+      "summary": "개정 보험업감독규정에 따른 보험판매수수료 개편안이 시행됐고, 금융당국의 ‘700 종신보험’ 판매 제한으로 생명보험사들이 새 먹거리를 찾고 있다는 보도가 나왔습니다. 판매 보상체계와 상품 전략이 동시에 바뀌면서 보험사의 영업 방식과 상품 경쟁 구도에 영향을 줄 이슈로 부상했습니다.",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04XzFta05pbUd0MFpDZTV2MWgySGNzZzd6WllTUFVLRjVpSjI2WXJXWDluamxVRnhDMjlRUHQ3dmJ6Rl9ZcDExYXc3aUo3MWdvZXdaM0pXX25mS3BtUjFTbHpGZEtNMjhKdFMxVzV30gFyQVVfeXFMTV9Jb01MMl85c3RuV3FHRE9GOGUyY2pqSGdCaUtuUmVQaHhLLVpwYXJmeVN1OUlRNlEtUTdxRXVnYjRiZlR2ekxiOEFPLUFxWVFlcWpGcGNXc3p1cGVVdEt1a1hCWjNQSnRxcHBYU2NtV25R?oc=5",
+      "source": "법률신문"
     },
     {
-      "tag": "산업재편",
-      "title": "추석 이후 보험사 M&A 분수령 전망",
-      "summary": "추석 이후 KDB생명과 롯데손해보험을 둘러싼 보험업계 M&A가 본격화될 수 있다는 전망이 보도됐습니다. 두 회사의 향후 거래 진행 여부가 보험산업 재편의 주요 변수로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xVDBRVlNVNjdjcGJNUFhxZjM0U3pYbUt5YVBaVlV2anlYODNQSmlVbFZBTHB5TTc1RmhqYlRheGo0LTh2VEQwN25RYkNqbk50bk81X21CcW9TMW82TDhHOEV1MFhiQ0pi?oc=5",
-      "source": "보험매일"
+      "tag": "보험금지급",
+      "title": "보험금 부당지급·미지급 논란 지속",
+      "summary": "보험금을 ‘안 주거나 덜 준’ 사례가 최근 5년간 1천 건에 육박했다는 보도가 나왔으며, 보험금 부당지급 적발과 보험사별 금액 차이도 함께 다뤄졌습니다. 보험금 지급의 공정성과 소비자 신뢰가 보험업계의 지속적인 관리 과제로 제기됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtT2VxX0VXWndzQlRoRVBVQ1BtMFU1Vm9VelVxOUJvd0JUbnFuQ0hIS3BmbjdMTkwxcmgyR0FmaEl5eTVyQ3dvc0VFY2hwUjNBZ3d2cURKZFdHNUFvclBVWms5TUNRYVk?oc=5",
+      "source": "연합뉴스TV"
     }
   ]
 }
