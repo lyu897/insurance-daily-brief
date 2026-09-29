@@ -1,70 +1,64 @@
 {
-  "updatedAt": "2026-09-28T01:48:51.059Z",
+  "updatedAt": "2026-09-29T02:37:53.190Z",
   "articleCount": 45,
-  "editorNote": "제공된 최근 24시간 기사 메타데이터를 기준으로 제목이 유사한 기사를 통합했습니다. 기사 본문에 없는 금융시장 수치나 등락 정보는 추가하지 않았습니다.",
+  "editorNote": "최근 기사에서 반복 보도된 동일 사안은 하나의 이슈로 통합했습니다. 제공된 기사 목록에는 미국 금리·국내외 채권금리·환율의 구체적 흐름이 없어 해당 변수는 제외하고, 기사에 나타난 증시와 전세·주택 관련 변수만 보험시장과 연결했습니다.",
   "keywords": [
-    "간병보험",
-    "보험금 부당청구",
-    "보험업계 AI",
-    "시민안전보험",
-    "판매수수료·상품규제"
+    "보험민원 급증",
+    "보험사기 6200억원",
+    "실손보험 적자",
+    "건강·간병보험",
+    "전세보증 부실"
   ],
-  "marketSummary": "제공된 기사 메타데이터에는 미국 금리·국내외 채권금리·환율·부동산의 당일 흐름이 없어 금융시장 변수가 보험시장에 미친 영향은 확인할 수 없습니다.",
+  "marketSummary": "증시 변동성으로 안정성을 선호하는 일시납 연금보험 수요가 부각되는 가운데, 전세보증 사고와 보험금 관련 민원·사기 증가는 보험사의 상품 운영과 손해율·건전성 관리 부담을 키우는 흐름이다.",
   "marketContext": [
     {
-      "label": "미국 금리",
-      "summary": "제공된 기사에서 미국 금리의 변동이나 보험사 자산운용·상품가격·건전성과의 연결 내용은 확인되지 않습니다.",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DOVJxQ2FaV25udEVmaUlzNFBHN2VHZjZSQ3dsNmZGeGxIZTJKaEw2dGxYZnpueEFZZFMxV1JYci1ybDRPSnBqTERjOHBSZ0V1THFIY1JTVnhVak8tbzUyVlRianJ0VGJQZWtEdnd4Tm53WE1qVUZWMDM3bHE?oc=5",
-      "source": "한국금융신문"
+      "label": "증시 변동성",
+      "summary": "증시가 출렁이자 안정적인 저축성보험을 찾는 수요와 일시납 연금보험 판매 증가가 기사에 나타났다. 시장 변동성이 보험상품 선택에 영향을 주며, 보험사는 저축성·연금상품 수요 변화를 상품 구성과 자산운용 관점에서 살필 필요가 있다.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56STlTMXFjdWd6SVNtQXJYZEd5ckROMG1nalJnR3BBS3pmZVF2TVZQLTZHZjFEZ1NRM3RQQ0lIMUxtcXgxNlhOV2Rpd2QtZjRhaGZ4YXVRbXhyaUx5OTdvN9IBZkFVX3lxTE9wdkozUDl3QXVhSXc4aDQxWllYM0FFWFdCajRNc2xnb1U5Mk5NVW4telg1N3hJbWotbGpmMmZNaDNuU0lXZDluZjVPU0VyWnhBU3pBcE90NWpXdHBGNno4NUJtckx4QQ?oc=5",
+      "source": "뉴스1"
     },
     {
-      "label": "국내외 채권금리",
-      "summary": "채권금리의 수준이나 움직임을 다룬 기사는 포함되지 않았으며, 이에 따라 보험사 자산운용과 상품가격에 대한 당일 영향도 판단할 수 없습니다.",
-      "url": "https://news.google.com/rss/articles/CBMifEFBVV95cUxPcEg0Nm5LZE1WNWVFRmlmU25wejVraFc2Zm1jb3hFRWhCaFp1V2dNXzBFbmd3OXR0RFEwNWpzOTZScldzY3lGb3B6eWhXNmJ0ZXZ6ajhUdmVGUU4zNjZ4T196UFBFSU9ueXNJTW1xRGZVYWZoTUIzT000NVp2NHNuR3ltOTI?oc=5",
-      "source": "글로벌이코노믹"
-    },
-    {
-      "label": "환율·부동산",
-      "summary": "환율과 부동산 시장의 흐름 또는 보험사 건전성과의 관련성을 제시한 내용은 제공 목록에서 확인되지 않습니다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51Zy11VkxoWEI2N2lXbGtOYkI4VV80Y1dxTHp1aEMwNjRxUFUyNzctM3piWS05bnRBNXQ0Q0xQeDRCRmV1Zk1oOHhDOWRIaU1ndWE0ZFlHTHNKcmdDbmpjTWdUOUtleU96QVdhRDFPONIBc0FVX3lxTE45UHBwclpUSllEYXhKanV2LWJkZVJ3VU1aZzFKMGJvbHpXMEZETGRHUTcyMVcyWW5NLXM5N1FmNTFORW9YeGhzaVNLR0t0UlFIc0FtbDIydmQ4dC10UVhZOXNvT0hfTWs2V0hYZ0hEQmFzWWM?oc=5",
-      "source": "데일리한국"
+      "label": "전세·주택시장",
+      "summary": "주택전세보증 규모가 커지는 동안 보증보험에서 회수하지 못한 금액이 더 크게 늘었다는 보도가 나왔다. 전세 관련 손실 확대는 보증보험의 인수·심사와 지급 부담, 나아가 건전성 관리와 연결되는 변수다.",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTF5feldGajNaQmJ0cWZrR3BrYjA5YjhPc3lTb0M4aHphdlM2TXVycHFXWFVpWVVyMDNFV0NhNGdSWlRtM2tLNmNWRy1QQ28zNzk5MUhhNQ?oc=5",
+      "source": "매일경제"
     }
   ],
   "issues": [
     {
-      "tag": "간병보험",
-      "title": "치매·간병보험 수요 확대와 위장청구 급증",
-      "summary": "치매·간병인보험 신계약 또는 초회보험료가 2년 새 약 50% 늘어난 가운데, 간병보험 위장청구 적발 건수는 4년 새 98배, 적발 금액은 229배 증가했다는 보도가 나왔습니다. 시장 수요가 커지는 동시에 간병 인정 기준과 보험금 심사의 중요성이 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nXzhaUmZ4SG5sN0JORy0yRHdZQ2lPX3hEdWM3SzFKVGFvdkMyMnpqdDlyRHV6Y0FJZlJ6LVJCYzdsRmJGVmdTMjZ6aEUtVW0tM1RHS0dfVWk3X293dW9oNHc4eG5HYk1Da2c?oc=5",
-      "source": "intn.co.kr"
+      "tag": "소비자보호",
+      "title": "상반기 보험민원 42% 급증…보험금 지급·면부책 갈등 부각",
+      "summary": "상반기 보험민원이 4만건에 육박하며 전년보다 42% 늘었고, 금융민원에서 보험이 절반을 차지하거나 보험 관련 분쟁 처리 비중이 89%에 달했다는 보도가 이어졌다. 보험금 지급과 면부책을 둘러싼 갈등 증가는 판매·보상 과정의 소비자보호 강화와 민원 관리가 보험사의 핵심 과제로 부상했음을 보여준다.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoV2NYXzJoNU0tVHc4M1I5dHVwMEdTT0xJZmJUSno2SmlMV2dwZVZyZi1VeldnSDluRU0yaThobEl6Q1lPMVNaQjVXTjN0X2RrTVYxOGNsczdXT2MzSmJMTENobUU1Nnp5eTZ2SkVzbw?oc=5",
+      "source": "보험저널"
     },
     {
-      "tag": "디지털전환",
-      "title": "보험 가입부터 지급·영업까지 AI 적용 확대",
-      "summary": "동양생명은 보험 업무 전반에 AI를 적용하고 자동심사율이 45%로 상승했다고 밝혔으며, 다른 보도에서는 보험영업 현장에 AI를 활용해 생산성과 상담 품질을 높이는 흐름을 전했습니다. AI 활용 범위가 가입 심사뿐 아니라 영업과 보험금 지급 과정으로 넓어지고 있다는 점이 핵심입니다.",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3blRwaVRFTnlSVmFfYjFraVFNLWdCb01kVFM3Q1FBNXRKT0doc2lCNmxWWDluSUlkNm5uQjNhd25aa1ZQUTZ6ZEk4TmFKa0wydU1pQVE3V3U0TU5wY3c?oc=5",
-      "source": "뉴스투데이"
-    },
-    {
-      "tag": "공공보험",
-      "title": "인천 시민안전보험, 보장 확대 요구 확인",
-      "summary": "인천시민의 94%가 시민안전보험이 필요하다고 답했다는 보도가 여러 매체에서 반복됐고, 47%는 땅꺼짐 사고 보장을 희망한 것으로 나타났습니다. 2027년 보장체계 정비와 보장한도·보장 범위 확대 요구가 주요 과제로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53RjB2VkgyTU1FNEVmcmV3VGhLSmp1QmNJRE5pd3NNdFhNWlJIRWcyZHlnbnVMVk5wZW55M0lZci03VW9aaUV6TWd4QXhZRGVoTU1mQ0F6UHNoUUQtc2twQnFMRTFDeFpSajFtVTUyRQ?oc=5",
-      "source": "인천뉴스"
-    },
-    {
-      "tag": "규제·판매채널",
-      "title": "보험판매수수료 개편과 종신보험 판매 제한",
-      "summary": "개정 보험업감독규정에 따른 보험판매수수료 개편안이 시행됐고, 금융당국의 ‘700 종신보험’ 판매 제한으로 생명보험사들이 새 먹거리를 찾고 있다는 보도가 나왔습니다. 판매 보상체계와 상품 전략이 동시에 바뀌면서 보험사의 영업 방식과 상품 경쟁 구도에 영향을 줄 이슈로 부상했습니다.",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04XzFta05pbUd0MFpDZTV2MWgySGNzZzd6WllTUFVLRjVpSjI2WXJXWDluamxVRnhDMjlRUHQ3dmJ6Rl9ZcDExYXc3aUo3MWdvZXdaM0pXX25mS3BtUjFTbHpGZEtNMjhKdFMxVzV30gFyQVVfeXFMTV9Jb01MMl85c3RuV3FHRE9GOGUyY2pqSGdCaUtuUmVQaHhLLVpwYXJmeVN1OUlRNlEtUTdxRXVnYjRiZlR2ekxiOEFPLUFxWVFlcWpGcGNXc3p1cGVVdEt1a1hCWjNQSnRxcHBYU2NtV25R?oc=5",
-      "source": "법률신문"
-    },
-    {
-      "tag": "보험금지급",
-      "title": "보험금 부당지급·미지급 논란 지속",
-      "summary": "보험금을 ‘안 주거나 덜 준’ 사례가 최근 5년간 1천 건에 육박했다는 보도가 나왔으며, 보험금 부당지급 적발과 보험사별 금액 차이도 함께 다뤄졌습니다. 보험금 지급의 공정성과 소비자 신뢰가 보험업계의 지속적인 관리 과제로 제기됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtT2VxX0VXWndzQlRoRVBVQ1BtMFU1Vm9VelVxOUJvd0JUbnFuQ0hIS3BmbjdMTkwxcmgyR0FmaEl5eTVyQ3dvc0VFY2hwUjNBZ3d2cURKZFdHNUFvclBVWms5TUNRYVk?oc=5",
+      "tag": "보험사기",
+      "title": "상반기 보험사기 적발금액 6200억원…역대 최대",
+      "summary": "상반기 보험사기 적발금액이 6200억원으로 1년 전보다 9.1% 증가해 역대 최대를 기록했다는 보도가 나왔으며, 적발자 3명 중 1명은 60대 이상이라는 내용도 제시됐다. 금융당국과 손보업계의 유관기관 공조 성과가 언급되는 동시에 기관 간 공조가 허술해 보험사기를 키웠다는 지적도 나와 탐지와 협업 체계가 함께 쟁점이 됐다.",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WWXFXaVVTdS1OYjdzcndPYy1QMVlqdVIwMUEwaE5xRmlWaUZ0d0Vjdi1ER1JYMkJwcVc2WVZqc3FCVm9sOGE3STRqdE4wd0ZWdTdSVGUzNTlkTk00cHAzbG9idEZpVzQ?oc=5",
       "source": "연합뉴스TV"
+    },
+    {
+      "tag": "실손·손해율",
+      "title": "도수치료 관리에도 실손보험 적자 탈출 난항",
+      "summary": "도수치료를 관리했음에도 실손보험이 적자에서 벗어나기 어렵다는 분석이 제기됐다. 보험금 심사 강화와 보장 구조 조정만으로는 실손보험의 수익성 개선이 쉽지 않다는 의미로, 상품 가격과 손해율 관리 부담이 이어질 수 있음을 보여준다.",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lamFESzBVaHg4alpuUU15Unl5UlZZV0gtWkh1bUlqZWRnMWFMU1k2a0h2OF9PLV9LVWtKWDMxMjUwRDNlS0tRc3VWYXFNVG14WUhwYlpCVFItcG9IZXlnRWtB?oc=5",
+      "source": "에너지경제신문"
+    },
+    {
+      "tag": "상품전략",
+      "title": "사망보험 부진 속 건강·간병보험으로 상품 축 이동",
+      "summary": "고령화와 규제로 생명보험사의 사망보험이 부진한 가운데, 치매·간병인보험 신계약은 2년 새 50% 증가했다는 보도가 나왔다. 일부 생보사는 건강보험 비중을 높이고 GA 영업을 강화하고 있어, 보장성보험 중심의 상품 포트폴리오와 판매 채널 경쟁이 확대되는 흐름이다.",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LRHUxS2pnUUZldlNTZlY5cmZ1c0NiS3ZMcjZrOWpSaFdCTjI1eHJLVEFiOFlWdkVVUi1henhvc01iTE9XNVlRRXpabWdWeGR1TTFWS2lqY28?oc=5",
+      "source": "경북신문"
+    },
+    {
+      "tag": "판매규제",
+      "title": "보험 갈아타기·개인정보 이용 제재…판매 책임 논쟁 지속",
+      "summary": "보험설계사의 부당한 갈아타기를 막는 방안이 보도된 가운데, 고객정보 부당 이용과 동의 없는 보험권유로 동양생명과 라이나생명이 제재를 받았다는 기사도 나왔다. 보험판매전문회사 제도를 둘러싸고 판매 책임이 쟁점으로 제기돼, 모집 과정의 책임 배분과 내부통제 강화가 상품 판매에 영향을 줄 전망이다.",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMNnc4Z2RuUnhFNW85WFBoYkdhQ0dzN2t2Q0pDZTBOTkZrZUNrUkhtWVRvc25KVkFmVFhCclZMLUdqNi13UmZHZzVCSEY3cVZ1YVhIWE93?oc=5",
+      "source": "헤럴드경제"
     }
   ]
 }
