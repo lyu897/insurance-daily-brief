@@ -1,70 +1,64 @@
 {
-  "updatedAt": "2026-10-01T02:15:37.163Z",
+  "updatedAt": "2026-10-02T02:22:45.569Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사 중 금융시장 흐름을 직접 다룬 기사는 확인되지 않아 미국 금리·채권금리·환율의 당일 방향과 보험시장 영향을 판단할 수 없습니다.",
+  "editorNote": "최근 24시간 기사에서 동일한 보험사기 사건과 기관 인사·변액보험 브랜드평판 보도를 묶고, 보험금 지급·상품 설계·자본관리·보험시장 변화와 직접 연결되는 이슈를 중심으로 선정했습니다.",
   "keywords": [
-    "보험 방송광고 규제",
-    "실손보험 청구 전산화",
-    "보험상품 건강보장",
-    "보험산업 국정감사",
-    "AI·바이오 보험"
+    "보험사기",
+    "자동차보험 향후치료비",
+    "변액보험·K-ICS",
+    "AI·바이오 보험",
+    "건강보험 지원"
   ],
-  "marketSummary": "금융시장 변수의 당일 흐름을 보여주는 기사는 없었으며, 보험시장에서는 방송광고 규제 강화와 실손보험 청구 전산화 등 소비자 접점 제도 변화가 부각됐습니다.",
+  "marketSummary": "미국 주간 신규 실업보험 청구가 19만7천 건으로 시장 전망을 소폭 하회한 가운데, 국내 보험업계에서는 자동차보험 손해관리와 변액보험 자본관리, AI·바이오 기반 위험평가가 주요 관심사로 부각됐습니다.",
   "marketContext": [
     {
-      "label": "미국 금리",
-      "summary": "제공된 기사 목록에는 미국 금리의 최근 방향이나 변동을 다룬 내용이 없습니다. 미국 금리는 보험사의 해외채권 운용과 상품 가격에 연결될 수 있지만, 기사만으로 오늘의 영향을 판단할 수 없습니다.",
-      "url": "",
-      "source": "제공 기사 목록"
+      "label": "미국 주간 신규 실업보험 청구",
+      "summary": "미국 주간 신규 실업보험 청구는 19만7천 건으로 시장 전망을 소폭 하회했습니다. 미국 고용 관련 지표는 보험사의 해외자산 운용과 금융시장 기대를 점검할 때 참고할 변수지만, 제공된 기사에는 금리나 자산가격의 구체적인 움직임은 제시되지 않았습니다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80VlVOMTg4UUxvOHBiQmE5Wk5JeEQwUWJ5aDdndnhuQWtlM0lhOFF1YndtNmFGeG1aOV81NEduaTQ3bEJjamp6ZWdvRXlWSUVyVl9Wa3lpVGExaEFxbTR3UmFNWGZwTEFoOUEzTEg5NlU?oc=5",
+      "source": "연합인포맥스"
     },
     {
-      "label": "국내외 채권금리",
-      "summary": "국내외 채권금리 수준과 변화를 다룬 기사는 확인되지 않았습니다. 채권금리는 보험사의 자산운용 수익과 건전성, 장기보험 상품 가격에 영향을 줄 수 있으나 이번 기사 목록에서는 구체적인 연결 근거가 없습니다.",
+      "label": "국내외 채권금리·환율·부동산",
+      "summary": "제공된 최근 기사 목록에서는 국내외 채권금리, 환율, 부동산 가격의 방향이나 수준을 확인할 수 없습니다. 따라서 해당 변수들이 보험사 자산운용과 상품가격, 건전성에 미치는 이날의 구체적인 영향은 판단할 수 없습니다.",
       "url": "",
-      "source": "제공 기사 목록"
-    },
-    {
-      "label": "환율·부동산",
-      "summary": "환율이나 부동산 시장의 최근 흐름을 다룬 기사는 제공되지 않았습니다. 두 변수는 해외자산 운용과 부동산 관련 보험·투자자산에 영향을 줄 수 있지만, 당일 보험시장 영향은 확인할 수 없습니다.",
-      "url": "",
-      "source": "제공 기사 목록"
+      "source": "기사 목록 기준"
     }
   ],
   "issues": [
     {
-      "tag": "규제·소비자보호",
-      "title": "금감원, 자극적 보험 방송광고 심의기준 손질",
-      "summary": "금융당국이 ‘받고 또 받고’ 같은 자극적 표현과 공포를 유발하는 보험 방송광고를 문제 삼고, 송출 횟수·시간 공개와 심의기준 구체화 등 건전화 방안을 추진합니다. 방송광고의 불완전판매율이 일반 모집보다 높다는 지적과 함께 업계 자율규제 강화가 예고돼 보험사의 광고·판매 관행에 영향을 줄 이슈입니다.",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BaWF6SGZBZlYtY2t1eGZkUHpUeVQtSnIzV3hnVUUtdWMya1pfdFpUTWRhSG1tVVZnRm1xN0hIdHhMclVjRW9lT241ZVNZSk9JakE?oc=5",
-      "source": "매일경제 마켓·연합인포맥스·v.daum.net·intn.co.kr·보험저널·전자신문 등"
+      "tag": "보험사기",
+      "title": "고의 교통사고 보험사기 일당 11명 송치",
+      "summary": "차선위반 차량 등을 노려 고의로 사고를 내고 보험금 8천만 원을 챙긴 일당 11명이 송치됐다는 보도가 여러 매체에서 반복됐습니다. 동일 사건 보도를 하나로 묶은 것으로, 고의사고와 조직적 보험사기가 보험금 지급 관리와 손해율 관리의 핵심 부담으로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFM1UE5HWXQwRFc0TkQ4VGVCd1JZOVpOLTduOWdVOVFIY0IySUVTZEVPRjFpaUpnbHQzZ242eEk1cUNxTWpqa1F2RDBvM3BsNlZta3J4X3pJdUhfcGZ1X05j0gFkQVVfeXFMTWNjSW9vVjNOSkFvMTlsRE9kUWJqajVvMXJpVk1SNU5pUnM1ZXQtUGxsYW9FcVhRZXRhZVN6RktFRVdTQWhZSWhRSFB4ck51SkJJODBnVXFxUl80VWRtOE5uTXNWRQ?oc=5",
+      "source": "뉴스1"
     },
     {
-      "tag": "디지털 전환",
-      "title": "실손보험 청구, 네이버·토스와 실손24로 확대",
-      "summary": "실손보험 청구가 7일부터 네이버와 토스에서도 가능해지고, 금융당국은 실손24 서비스의 확대 개편을 추진합니다. 청구 과정의 간소화가 소비자 접점과 보험금 청구 방식에 변화를 줄 수 있다는 점에서 실손보험 전산화가 본격적인 서비스 확장 단계로 넘어가는 내용입니다.",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaM2FXblNzamNGUzhQUTl1emxHRHF3azlNV01sNkVFbEJNWllpMlBHcnVsNFRwOG5Vc05lWHJzbUYzcXFUajRDV1pUdm9TOGtjSWJDY2RmcnFFcVV3LWxIT3R1Z2pxTXRzSENxSVZZcllZWHBaZXfSAWZBVV95cUxQclZ1TlJXVUhaZVMzNElkWjNCODI4M28wRmFLdXRERUU5bC1zU2tFSlpXcXlFNEwwWXk0cWc5Z2FGNW4zOHctc1NzN0dJRlBmMFVXeEtrTE0wVDJnUUlicWVLWVF2d2c?oc=5",
-      "source": "동아닷컴·농민신문"
+      "tag": "자동차보험",
+      "title": "자동차보험 향후치료비 1조4천억 원 논쟁",
+      "summary": "자동차보험에서 한방병원 합의금 등으로 지급되는 1조4천억 원 규모의 ‘향후치료비’에 제동이 걸렸다는 보도가 나왔습니다. 향후치료비 조정이 자동차보험료 인하로 이어질지 관심이 제기되면서 보험금 지급 기준과 상품가격의 연결고리가 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CM2pxRXhEenJmYjl0Q0wtdXAtZElYdkgwdlJTNUFkeGFYS2h1Ti1GMEhLeWFKVVE3YUlxRG5DVHl0VnNseWZGbmtYR09ERWNGMzJZb2JDRXFfRW9LZnBZdklDYVFQVHhj?oc=5",
+      "source": "녹색경제신문"
     },
     {
-      "tag": "정책·국정감사",
-      "title": "국감 앞둔 보험업계, 실손·전산화·보험사기 쟁점화",
-      "summary": "올해 국정감사에서 실손보험, 보험금 청구 전산화, 보험사기와 함께 5세대 실손보험과 GA 수수료 등이 주요 현안으로 거론될 전망입니다. 제도의 실효성과 소비자 접점 문제가 점검 대상에 오르면서 실손보험 운영과 모집시장에 대한 정책 논의가 이어질 가능성을 보여줍니다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Pc29wQndsbTQtcTlhWS1odndiUVMwbjBYd2p3TkxhRXZ2Q1o3QXgxczdwc2w0NEpmRFY1anJudllsQkJkbFF4WmtjTkh5WWN3Y2hDMlFmcDZTYUdvZmVnWWdDLTExaHJmTHlIYnlETdIBc0FVX3lxTE5kX1pxMks4Y0tZMkcybzdfU0szRDQxdTdEN3ZCV3hOOEI5WlNDbGtDZzBFUm05X0VxU21fZng1T3djLVRLUE1VOG03YWZKenppZTluRmI2S0VJakdLY0R2SjNtcTNDUnh0QXBPSXE4cTVxS0k?oc=5",
-      "source": "데일리한국·뉴스투데이·한국정경신문"
+      "tag": "자본관리",
+      "title": "변액보험 시장 관심 속 메트라이프 K-ICS 비율 하락",
+      "summary": "미래에셋생명·삼성생명·한화생명 변액보험의 10월 브랜드평판 순위가 보도된 가운데, 메트라이프의 K-ICS 비율이 100%포인트 하락했다는 별도 보도가 나왔습니다. 변액보험 경쟁과 자본관리 이슈가 함께 부각되며 보험사의 건전성과 성장 전략이 주목받았습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HU0FfY0lORnVseF9sRnU5RUxtdldmRmlyNG5OT0JVOE1tRkd0UWRlRTNhVXgtOEtCQ3FtRGpTN3ZmTGZ5bEd1WTlsdC1aVnM?oc=5",
+      "source": "딜사이트"
     },
     {
-      "tag": "보장성·건강보험",
-      "title": "희귀·소외암 치료제 보장 확대와 신약 병용요법 급여 적용",
-      "summary": "10월부터 희귀·소외암 치료제의 건강보험 적용이 확대돼 환자 부담이 완화되고, 파드셉·키트루다 병용요법에는 신약과 신약 조합으로는 처음 건강보험이 적용됩니다. 보장 범위 확대와 신약 급여 적용은 건강보험의 치료비 보장 구조와 관련된 주요 변화로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRWFBQml2N2liekFoclhnWlVzMHdtMjA4LWJLX1RqRG5IQndLSS14UDZ0YkU0QVplRUUwQ2gwWWQyUUpGX21FXy03WjM1MjlwNXZfZEpYVXR0MXo1WWpRSmhMMmdHRjFnb2xmUWdrZmhrcXlLODZZUkJFVE5ZUF8xTVFnYnZsc0RTWEE?oc=5",
-      "source": "korea.kr·doctorsnews.co.kr"
+      "tag": "디지털·신규위험",
+      "title": "AI·바이오가 보험 위험평가와 약관을 바꾼다",
+      "summary": "로봇의 다브랜드 환경을 반영하지 못한 보험 약관, 바이오테크 기반의 새로운 위험평가 변수, AI·바이오 중심의 보험 변화가 잇따라 다뤄졌습니다. 기술 변화가 보험 약관과 위험평가 체계, 사후 보상 중심의 사업모델에 재검토를 요구하는 흐름으로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DLW5tMHVraDF4QXZlQU9KdGQ4WGNEQnRBMXpkZWZGUnBZUW1MWFpDdUFBVlZoZWJrZnlsZ1V5bGtUMEdwZGt4UHNPamFwYzl3S0k2aTg0bHMwRGo1OXNVRA?oc=5",
+      "source": "아시아경제"
     },
     {
-      "tag": "보험산업 전략",
-      "title": "현대해상, 일본 진출 50년 맞아 사이버보험 등 새 시장 공략",
-      "summary": "현대해상이 일본 시장 진출 50주년을 맞아 현지 인력을 늘리고 사이버보험 등 새로운 시장을 공략한다는 내용이 보도됐습니다. 관련 기사들은 일본 사업의 수입보험료와 현지 사업 확대 계획을 함께 조명하며 보험사의 해외사업 및 신시장 진출 전략을 보여줍니다.",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLUZPYTlnX2p1UXhQRXl2S2h2UVkyX0pTODNKWlZITzc4VkxBX1MxZFBWdGk0bzFNMFpLY0pSU3N5eFRiOHRyZGR6VWlfZlVTQXAwN3JRMXl5akRhTVdSa1ExWllIcms2Zk5GMEN2bWgzc3h6OE1EaEE1a29hQlJLS0owTFZqR21Ga3o3TFlR?oc=5",
-      "source": "조선일보·thepowernews.co.kr·라이센스뉴스"
+      "tag": "건강보험·돌봄",
+      "title": "건강보험 지원과 시니어 돌봄 연계 논의 확대",
+      "summary": "임신중지의약품 허가와 함께 건강보험 및 저소득층 지원을 검토해야 한다는 주장이 나왔고, 건강보험을 예방 중심으로 전환하자는 논의도 보도됐습니다. 동시에 시니어보험을 현금 지급에 그치지 않고 돌봄서비스와 연결해야 한다는 제안과 요양인력 양성 계획이 제시돼 보장과 서비스의 결합이 주요 과제로 떠올랐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nM2hVQ2tEejlla3VtNEZRZHdtdngzd2dSWXVqaHFRYVh1MUZiZ0dBcHpzNXRDQjFONkVPTjFGYVJWZXVfWHdSMWlrWUV3M0Y4WEFIRnhjNzhLN19SS3RYSW5kdUIyV1h6WnFpSA?oc=5",
+      "source": "약사공론"
     }
   ]
 }
