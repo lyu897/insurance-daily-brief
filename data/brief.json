@@ -1,70 +1,70 @@
 {
-  "updatedAt": "2026-10-04T02:47:34.342Z",
-  "articleCount": 21,
-  "editorNote": "최근 24시간 기사 중 동일한 기후·농업재해 정책보험 및 안양시 기후보험 관련 보도는 하나의 이슈로 묶었습니다. 제공된 기사 목록에는 미국 금리, 국내외 채권금리, 환율, 부동산 등 금융시장 변수의 방향이나 수치가 없어 보험시장과의 구체적인 연결은 판단할 수 없습니다.",
+  "updatedAt": "2026-10-05T02:11:02.910Z",
+  "articleCount": 45,
+  "editorNote": "최근 24시간 기사 메타데이터의 제목·출처만 기준으로 유사 보도를 통합했습니다. 기사 본문이 제공되지 않아 세부 수치와 시장 방향은 확인 가능한 범위에서만 반영했습니다.",
   "keywords": [
-    "보험광고 규제",
-    "플랫폼 경쟁",
-    "보험계약부채",
-    "자동차보험 할인",
-    "정책보험"
+    "700종신보험",
+    "GA 중심 판매",
+    "금융권 사이버보안",
+    "보험상품 광고심의",
+    "보험사기·손해사정"
   ],
-  "marketSummary": "제공된 기사 목록만으로는 금융시장 흐름을 확인하기 어렵고, 보험시장에서는 광고 규제·플랫폼 경쟁·계약부채 감소·정책보험 지원 이슈가 부각됐습니다.",
+  "marketSummary": "제공된 기사 목록에는 미국 금리·국내외 채권금리·환율·부동산의 당일 흐름을 보여주는 기사가 없어 금융시장 방향성과 보험사의 자산운용·상품가격·건전성 영향을 판단하기 어렵다.",
   "marketContext": [
     {
       "label": "미국 금리·국내외 채권금리",
-      "summary": "기사 목록에 미국 금리나 국내외 채권금리의 수치·방향에 관한 내용이 없어 보험사 자산운용, 상품가격, 건전성과의 연결점을 분석할 수 없습니다.",
+      "summary": "관련 시장 흐름을 다룬 기사가 제공되지 않아 금리 방향은 확인할 수 없다. 금리는 보험사의 채권 중심 자산운용과 금리 연동형 상품 가격, 건전성에 영향을 주는 핵심 변수이지만 오늘의 영향 방향은 판단할 수 없다.",
       "url": "",
       "source": "제공 기사 목록"
     },
     {
       "label": "환율",
-      "summary": "기사 목록에 원화 환율이나 외화자산 관련 내용이 없어 보험사 자산운용 및 건전성에 미치는 영향을 판단할 수 없습니다.",
+      "summary": "환율 변동을 다룬 기사가 제공되지 않아 당일 원화 가치와 외화자산 흐름은 확인할 수 없다. 환율은 외화보험과 보험사의 외화자산 운용에 연결되지만, 이번 기사 목록만으로 실제 영향은 판단할 수 없다.",
       "url": "",
       "source": "제공 기사 목록"
     },
     {
       "label": "부동산",
-      "summary": "기사 목록에 부동산 가격이나 부동산시장 관련 내용이 없어 보험사 자산운용과 건전성에 대한 영향을 확인할 수 없습니다.",
+      "summary": "부동산 가격이나 관련 금융시장 흐름을 다룬 기사가 제공되지 않았다. 따라서 보험사의 부동산·대체투자 자산과 건전성에 미칠 오늘의 영향도 확인할 수 없다.",
       "url": "",
       "source": "제공 기사 목록"
     }
   ],
   "issues": [
     {
-      "tag": "감독·소비자보호",
-      "title": "금감원, 홈쇼핑 보험광고 규제 강화 예고",
-      "summary": "금융감독원이 고령층의 홈쇼핑 보험광고 노출 문제를 심각하게 보고 대응에 나선다는 내용입니다. 보험상품 판매 과정에서 광고 방식과 소비자보호 관리가 핵심 쟁점으로 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mS1NrMEVlY1hNa2Z4Q1NjX3ZQOEFIUXh4WkhqMTVaYUlCZkh2aUNWVEFPbkotN0hZdHhNamFGZm1rMHZlYWlVR3QwYjJOMURrM0F0MVNITHJSaTd2dlhJZWMyMWo?oc=5",
-      "source": "서울경제TV"
+      "tag": "상품전략",
+      "title": "‘700종신’ 판매 중단 여파, 생보사 상품·영업전략 재편",
+      "summary": "‘700종신’ 판매 중단 이후 생명보험업계의 상품·영업전략 재편과 중소 생보사의 부담이 주요 이슈로 제기됐다. GA를 통한 달러보험이 대안으로 언급되면서 판매채널과 상품 포트폴리오 변화가 쟁점이 됐다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1bFNfM1oyUVpCdlJxVXpMRWJvRW9rdWVRYmhUTU4zQzh0aXRRQ1hadUtCMGFHXzg5TEstS2loUVZJRTFkWGtsZ3RENDNoMjB4VDlYZXlsVHo5a0UydHYxMXBXVUI5RFZ5LVR30gFvQVVfeXFMUGNhcGlIN0o3SUFCZEh6NHdob29RRms3ZnFsSnhZV2FubmdLY3RrZUlrcU5Zb1g5ZVVZbVRtZmpkRFU2M09rb1E2SXBST1ZHbFg4MEx1N25RYVNrYlVkcWtiX2R3YjVOS0RPNlZmZHdB?oc=5",
+      "source": "한국보험신문"
     },
     {
-      "tag": "판매채널·디지털",
-      "title": "플랫폼 기업, 설계사 조직과 AI로 보험시장 경쟁 확대",
-      "summary": "플랫폼 기업이 설계사 조직과 인공지능을 차별화 수단으로 내세우며 보험시장에 도전장을 냈다는 내용입니다. 보험 판매채널 경쟁이 플랫폼과 설계사 조직의 결합 및 기술 활용으로 확장되는 흐름을 보여줍니다.",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSdWY5TVZ2aWhaTzBNNWx0R3Z4Z2F2Z3RrNm1yLVlMemxWSnZHamc2dFk4VFdMVWNCZUxBcmhVM3lqU0hkeE1yc2VTd05jTlA3WjExbjJyN2pRUEprYkpCV1JxSmRrdWo1c0E?oc=5",
-      "source": "서울파이낸스"
+      "tag": "판매채널",
+      "title": "설계사 증가에도 직영점포 감소…GA 중심 판매구조 가속",
+      "summary": "보험설계사는 늘어나는 반면 직영 점포는 줄면서 보험업계의 GA 중심 판매구조가 빨라지고 있다는 보도가 나왔다. 보험판매전문회사 도입 필요성에 대한 소비자 조사와 GA의 소비자보호 인증설계사 운영도 같은 흐름에서 제기됐다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yOG54SUxNOVhhWkVtM0NGUlZ1cnlxNG1oUnhKQ0dwQnp3ME1IeXpkdUNlZXJBRGJHczMyT0tBdjhfVXpqQXdlWHFiaGJmdDI2aVhZRndOaW5rZ2RXZEhKMjJGRU9YVkhfOFUxMWMzMHU?oc=5",
+      "source": "연합인포맥스"
     },
     {
-      "tag": "생명보험·건전성",
-      "title": "생보사 보험계약부채 1년 새 87조원 감소",
-      "summary": "생명보험사의 보험계약부채가 1년 사이 87조원 줄었고, 삼성·한화·교보생명 3사에서만 51조원이 감소했다는 내용입니다. 보험계약부채 규모 변화가 생명보험사의 재무상태와 건전성을 가늠하는 주요 이슈로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NRVNFVHhfbE1TVXNXd1JiQ2RiN0VDZzVEWGpkWjlFa0ZGeml2Y1NONnBKS01ieWxPRHRWdExCX2t1N0g5dUZBVHA0VnZPNTZncmVreXpiamtVTUVudTkyTmdXYl9GWEFB?oc=5",
-      "source": "CEO스코어데일리"
+      "tag": "사이버리스크",
+      "title": "보험·증권사까지 번진 금융권 해킹 시도, 취약점 점검",
+      "summary": "은행에 이어 보험·증권사에서도 침투 흔적과 전방위 해킹 시도가 제기되면서 금융권의 보안 점검이 이슈가 됐다. 보험산업은 고객정보와 계약·지급 업무를 보호하기 위한 사이버리스크 관리가 핵심 과제로 부상했다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwb1RuTW93ZlllV01xNlRDUFdBTTVldllrWU1NZWdRX3NTOTlEaWljbmF1aU50Q056U3MzVm1LamQ2V1BGdUs3WUhROEE5ZG1pMEdnSkkyaVhoLXhaQmtmMjJ1Y3EwVGJsNXBV0gFwQVVfeXFMTU1wVEp2Z29JMkpNNGVjdmdjRWhiRXNoUEdwZE1xZzB4aWNYcVNyOU5qNkZTbE45dzQ4aHhsRGllUXZxWEYwVFZacDZrY0lNM0syRUoxSThydF9JZHlLeDJIVXpXMW9kbVpNWTdiNmJIMQ?oc=5",
+      "source": "머니투데이"
     },
     {
-      "tag": "자동차보험·상품가격",
-      "title": "안전운전·주행량 연계 자동차보험 할인 확대",
-      "summary": "자동차보험에서 덜 타고 안전하게 운전할수록 보험료를 낮추는 할인 상품이 늘고 있다는 내용입니다. 운전행태와 주행량을 반영한 가격 차등화가 자동차보험 상품 경쟁의 한 축으로 부각되고 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPOFNpUnF6QUdXOGc3MVFlbFFqUlEtakVadEFMdFRoRFRfT1FobGxndFZIcVVpRDNqaWg1cm9yNW5jUWpyVm92UEIxS0RadlFtS1Z1UWtaSUE4T0FyVWh4WE9SaE14WkR2d0lZaVdOaVo4NjJndkpZSW82c2lWTmFTaF9IYnhiZDNQSXZUeTNxYlNGNEJIT3Q4YzJEakhnMzRyNjJfcjVjdmFXd3c3VzFjUHZJbU00Nl82enVYRDlqLVdTS3ktWTNNQkQyLTZaOXliNDV5czc2SFlMQm96cEZYRWxMNVBnMlNxbFppUnVNeFVhanRVV0RzREJTYy1BZXNfNWJB?oc=5",
-      "source": "데일리안"
+      "tag": "보험금관리",
+      "title": "장기보험 사기·의료비 과다청구 증가…자동차보험 업무 부담도 부각",
+      "summary": "장기보험 보험사기와 의료비 과다청구가 증가세라는 보도와 함께, 자동차 사고 감소에도 보험업계가 웃지 못하는 상황 및 블랙박스 영상 확인업무 부담이 제기됐다. 보험금 지급 관리와 손해사정 업무 효율화가 보험업계의 부담 요인으로 부각됐다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTF16QldaWmgyT0I5b2RhdENtZTI1YXh0MUZxenAtckZTVG1mZEsxRXluci16RTlpLXlhX014VnYyRE5vRkNGa3VyR0oycUxnMDdXOV9Fbm81VnN4X2dkbkFYX2RzN3ZQOV9qUUpZ0gFvQVVfeXFMTU1pcS0tQ0VYRm5ZazVzYlFSdjUteldnMzRnd3ViY0dzMlAtSWc0ek9FQUt0UVByeks3RVg4Qi1GVnZSMUlsMUhXYm13ek9xTmdPaU5jUWNJZWhmZHFNWm5YQ2k0UHNIeHBzdW45MEc0?oc=5",
+      "source": "한국보험신문"
     },
     {
-      "tag": "정책보험·기후위험",
-      "title": "지자체, 기후·농업재해 정책보험 지원 확대",
-      "summary": "강원도는 재해 예방과 농업정책보험 지원에 1470억원을 투입하고, 농가 보험지원 규모로 552억원이 언급됐습니다. 안양시에서는 찾아가는 기후보험 청구 지원을 통해 225건이 접수돼 지역 단위 정책보험의 현장 지원이 함께 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSFpDWWRzdWp4R2ljQ1dyekZaeU5wb2J5Z21qcU9ra1B6MTVQdmk3N0tFVkYzT3JKWVJjbWtpa1E2WlJaVWowNjUzTUJjZzNTc29KdDVLT1RNMUc1bXg5UUhKTF85VE5iSWUxVHN3NE4wZUo0WXZ6U0Q1Tm5TQ0p5ajdFcWpkZlNTR3RMZllLLU9lY2wyU1VtRExQcHJiNlJJLTJLMEdhTU1TUdIBX0FVX3lxTE0xbWt0UV93bURCNUR1NUp5TkVDaGp6MHhyMnRjbkotZWZ4QjdZQVhYNFFaOFlVU095bEZCTi1lV2l0S21uRXl2dG5IdThjU1Rwb185OV9uM3NzTXNDSzlB?oc=5",
-      "source": "경향신문"
+      "tag": "규제·광고",
+      "title": "보험상품 방송광고 급증에 금감원 심의기준 손질",
+      "summary": "보험상품 방송광고가 급증하면서 금융감독원이 광고 심의기준을 손질하는 내용이 주요 이슈로 제시됐다. 상품 판매 경쟁이 확대되는 가운데 광고 표현과 소비자 정보 제공에 대한 규율이 보험사의 영업·마케팅에 영향을 줄 전망이다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DR1A1cmozQnBRYlRIT19zaEtjQlhWdEFrTDZXVV8zc1N6UkYwOFY2Qy1YU3RpZVYwRUdpMF9JZ2hrZHlKZ0hSRk11dnNLOXNkaTY0eWlXSE1Gc3hNU2RycFBYWERFTGNVNGNF0gFvQVVfeXFMUGNOaU1CMkk2YWhYYWl0ek04cFR6NEZyUFhOU2hYdFhZZXB1MDRIeXNNX2twZE5rdGM1UHp3Q2lWQkpEZktUcGF3eGhEMnlwQzhUVW84S0ZFQkJJWGlpeTdLb2lTUWpLSFJXVktzOUlV?oc=5",
+      "source": "한국보험신문"
     }
   ]
 }
