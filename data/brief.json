@@ -1,70 +1,70 @@
 {
-  "updatedAt": "2026-10-05T02:11:02.910Z",
+  "updatedAt": "2026-10-06T03:10:35.935Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사 메타데이터의 제목·출처만 기준으로 유사 보도를 통합했습니다. 기사 본문이 제공되지 않아 세부 수치와 시장 방향은 확인 가능한 범위에서만 반영했습니다.",
+  "editorNote": "최근 24시간 기사 메타데이터를 기준으로 동일 내용을 보도한 기사를 통합했습니다. 기사 본문이 제공되지 않은 항목은 제목에 확인되는 내용만 반영했습니다.",
   "keywords": [
-    "700종신보험",
-    "GA 중심 판매",
-    "금융권 사이버보안",
-    "보험상품 광고심의",
-    "보험사기·손해사정"
+    "무사고 건강보험 할인",
+    "소상공인 종합보험",
+    "보험사 주담대 연체율",
+    "반려동물 보험 API",
+    "AI 해킹 리스크"
   ],
-  "marketSummary": "제공된 기사 목록에는 미국 금리·국내외 채권금리·환율·부동산의 당일 흐름을 보여주는 기사가 없어 금융시장 방향성과 보험사의 자산운용·상품가격·건전성 영향을 판단하기 어렵다.",
+  "marketSummary": "오늘 기사에서는 높은 금리와 보험사 주담대 연체율이 보험사의 자산운용·건전성 변수로 부각됐지만, 금리·환율·채권금리의 구체적인 방향은 제시되지 않았습니다.",
   "marketContext": [
     {
-      "label": "미국 금리·국내외 채권금리",
-      "summary": "관련 시장 흐름을 다룬 기사가 제공되지 않아 금리 방향은 확인할 수 없다. 금리는 보험사의 채권 중심 자산운용과 금리 연동형 상품 가격, 건전성에 영향을 주는 핵심 변수이지만 오늘의 영향 방향은 판단할 수 없다.",
-      "url": "",
-      "source": "제공 기사 목록"
+      "label": "높은 금리와 보험시장 연화",
+      "summary": "AM Best는 높은 금리가 보험시장의 연화를 가속할 수 있다고 경고했습니다. 기사상 높은 금리는 보험시장 경쟁 및 가격 환경과 연결되는 변수로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiTVNuVF9PVm5jdTAzMFZjYURQV2xlMGtjOVFhT3pISGVlZGpDdG9kWkk0dlJrQzZJUGhiQ2hEU0JHaVV4Wlp3VjRRSGpmRTNqbkFVbTdqZkk2cnM2UlN5VVk3S2NoWjdNSnE1SW54Q2c?oc=5",
+      "source": "kr.investing.com"
     },
     {
-      "label": "환율",
-      "summary": "환율 변동을 다룬 기사가 제공되지 않아 당일 원화 가치와 외화자산 흐름은 확인할 수 없다. 환율은 외화보험과 보험사의 외화자산 운용에 연결되지만, 이번 기사 목록만으로 실제 영향은 판단할 수 없다.",
-      "url": "",
-      "source": "제공 기사 목록"
+      "label": "보험사 주담대 연체율·부동산 익스포저",
+      "summary": "보험사 주택담보대출 연체율은 0.4%로 집계됐고, 연체액의 55.8%가 90일 이상 연체로 나타났다는 보도가 나왔습니다. 보험사별 연체율 격차도 보도돼 주담대 자산의 건전성과 보험사 리스크 관리가 연결되는 변수로 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nU0ZTb21UWW1WczZPVGdaY1FaaEZGeW0tVU1LS2c5Qk5GOFZkQ2FPeUJsWnZPUGtCT3BoSjgzS1YwcDhwcWxMbFBYckZBN2RiSFkxMllXeVJFSlYtcVJEbkhfUGtxWnEzZ2d1SVdKNA?oc=5",
+      "source": "보험저널"
     },
     {
-      "label": "부동산",
-      "summary": "부동산 가격이나 관련 금융시장 흐름을 다룬 기사가 제공되지 않았다. 따라서 보험사의 부동산·대체투자 자산과 건전성에 미칠 오늘의 영향도 확인할 수 없다.",
-      "url": "",
-      "source": "제공 기사 목록"
+      "label": "ABL생명 주담대 연체율",
+      "summary": "ABL생명의 주택담보대출 연체율이 2.76%로 보험업계 평균의 7배라는 보도가 나왔습니다. 이는 개별 보험사의 대출자산 건전성과 자산운용 관리 이슈를 보여주는 사례로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFVlM0TG9yTzAtMEg1RGFyLUx5cU5ERjdEZ1QyakwxOWU3ZVJzd0p3NUQ5ZkFTT1pieW9jQm00dTZkOWhMM0FyeFY3czJkRjZoNmMwSHFHcFhETGNGX01LVnZnNldQblZEdWFkTFpSRUN5QWtu?oc=5",
+      "source": "파이낸셜리뷰"
     }
   ],
   "issues": [
     {
-      "tag": "상품전략",
-      "title": "‘700종신’ 판매 중단 여파, 생보사 상품·영업전략 재편",
-      "summary": "‘700종신’ 판매 중단 이후 생명보험업계의 상품·영업전략 재편과 중소 생보사의 부담이 주요 이슈로 제기됐다. GA를 통한 달러보험이 대안으로 언급되면서 판매채널과 상품 포트폴리오 변화가 쟁점이 됐다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1bFNfM1oyUVpCdlJxVXpMRWJvRW9rdWVRYmhUTU4zQzh0aXRRQ1hadUtCMGFHXzg5TEstS2loUVZJRTFkWGtsZ3RENDNoMjB4VDlYZXlsVHo5a0UydHYxMXBXVUI5RFZ5LVR30gFvQVVfeXFMUGNhcGlIN0o3SUFCZEh6NHdob29RRms3ZnFsSnhZV2FubmdLY3RrZUlrcU5Zb1g5ZVVZbVRtZmpkRFU2M09rb1E2SXBST1ZHbFg4MEx1N25RYVNrYlVkcWtiX2R3YjVOS0RPNlZmZHdB?oc=5",
-      "source": "한국보험신문"
+      "tag": "공공보험·보장 확대",
+      "title": "전북, 소상공인 24만8000명 대상 종합보험 시행",
+      "summary": "전북자치도가 소상공인을 대상으로 별도 신청 없이 사고·화재 등의 피해를 보장하는 종합보험을 시행한다는 보도가 이어졌습니다. 지자체가 보험료 부담 없이 상해·화재 보장을 지원하는 방식으로 소상공인의 보험 접근성을 높이는 내용입니다.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81N0RLQ0o3MThlSHk2QjItaFo1QlJBX2hNcWxUUFhqR2FabkowdzdPdWJabGhFUkVQb3B3SVVzdE5pcG84aWJZb1RiOEw5ZU1TRUVsZDNIVC1NcG5JeHNzM9IBYEFVX3lxTE81N0RLQ0o3MThlSHk2QjItaFo1QlJBX2hNcWxUUFhqR2FabkowdzdPdWJabGhFUkVQb3B3SVVzdE5pcG84aWJZb1RiOEw5ZU1TRUVsZDNIVC1NcG5JeHNzMw?oc=5",
+      "source": "연합뉴스"
     },
     {
-      "tag": "판매채널",
-      "title": "설계사 증가에도 직영점포 감소…GA 중심 판매구조 가속",
-      "summary": "보험설계사는 늘어나는 반면 직영 점포는 줄면서 보험업계의 GA 중심 판매구조가 빨라지고 있다는 보도가 나왔다. 보험판매전문회사 도입 필요성에 대한 소비자 조사와 GA의 소비자보호 인증설계사 운영도 같은 흐름에서 제기됐다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yOG54SUxNOVhhWkVtM0NGUlZ1cnlxNG1oUnhKQ0dwQnp3ME1IeXpkdUNlZXJBRGJHczMyT0tBdjhfVXpqQXdlWHFiaGJmdDI2aVhZRndOaW5rZ2RXZEhKMjJGRU9YVkhfOFUxMWMzMHU?oc=5",
-      "source": "연합인포맥스"
+      "tag": "상품·소비자 편의",
+      "title": "무사고 건강보험 할인 절차 간소화",
+      "summary": "금융감독원이 무사고 건강보험료 할인 절차를 간소화하고, 소비자가 전화 한 통으로 전환할 수 있도록 관련 절차를 개편한다는 보도가 나왔습니다. 보험사가 먼저 할인 혜택을 안내·적용하는 방향으로 소비자의 이용 편의성이 높아질 수 있다는 의미입니다.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU0VSRTJxYm9yRE1zNFlUNWxYc2VLR2JYNWxXSk12MnlCYUQ0ckI5bnV3V2g1eDNhMS1DSlFNb0psZHNiaWxZVlZuMDVyOWtoTFpFYjFCdmpBN0h6QTNaQ0VSNjVTVlByWm96MVhveE54ZXhBME5sUlRZcUh4c0hnYnB6a2hPU2Z5UFI4?oc=5",
+      "source": "chosun.com"
     },
     {
-      "tag": "사이버리스크",
-      "title": "보험·증권사까지 번진 금융권 해킹 시도, 취약점 점검",
-      "summary": "은행에 이어 보험·증권사에서도 침투 흔적과 전방위 해킹 시도가 제기되면서 금융권의 보안 점검이 이슈가 됐다. 보험산업은 고객정보와 계약·지급 업무를 보호하기 위한 사이버리스크 관리가 핵심 과제로 부상했다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwb1RuTW93ZlllV01xNlRDUFdBTTVldllrWU1NZWdRX3NTOTlEaWljbmF1aU50Q056U3MzVm1LamQ2V1BGdUs3WUhROEE5ZG1pMEdnSkkyaVhoLXhaQmtmMjJ1Y3EwVGJsNXBV0gFwQVVfeXFMTU1wVEp2Z29JMkpNNGVjdmdjRWhiRXNoUEdwZE1xZzB4aWNYcVNyOU5qNkZTbE45dzQ4aHhsRGllUXZxWEYwVFZacDZrY0lNM0syRUoxSThydF9JZHlLeDJIVXpXMW9kbVpNWTdiNmJIMQ?oc=5",
-      "source": "머니투데이"
+      "tag": "건전성",
+      "title": "보험사 주담대 연체율 0.4%…장기연체 비중도 부각",
+      "summary": "보험사 주택담보대출 연체율이 0.4%로 집계됐으며, 연체액의 55.8%가 90일 이상 연체라는 보도가 나왔습니다. ABL생명의 연체율이 2.76%로 업계 평균의 7배라는 별도 보도까지 나오면서 보험사의 대출자산 건전성 관리가 주목받았습니다.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFVlM0TG9yTzAtMEg1RGFyLUx5cU5ERjdEZ1QyakwxOWU3ZVJzd0p3NUQ5ZkFTT1pieW9jQm00dTZkOWhMM0FyeFY3czJkRjZoNmMwSHFHcFhETGNGX01LVnZnNldQblZEdWFkTFpSRUN5QWtu?oc=5",
+      "source": "파이낸셜리뷰"
     },
     {
-      "tag": "보험금관리",
-      "title": "장기보험 사기·의료비 과다청구 증가…자동차보험 업무 부담도 부각",
-      "summary": "장기보험 보험사기와 의료비 과다청구가 증가세라는 보도와 함께, 자동차 사고 감소에도 보험업계가 웃지 못하는 상황 및 블랙박스 영상 확인업무 부담이 제기됐다. 보험금 지급 관리와 손해사정 업무 효율화가 보험업계의 부담 요인으로 부각됐다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTF16QldaWmgyT0I5b2RhdENtZTI1YXh0MUZxenAtckZTVG1mZEsxRXluci16RTlpLXlhX014VnYyRE5vRkNGa3VyR0oycUxnMDdXOV9Fbm81VnN4X2dkbkFYX2RzN3ZQOV9qUUpZ0gFvQVVfeXFMTU1pcS0tQ0VYRm5ZazVzYlFSdjUteldnMzRnd3ViY0dzMlAtSWc0ek9FQUt0UVByeks3RVg4Qi1GVnZSMUlsMUhXYm13ek9xTmdPaU5jUWNJZWhmZHFNWm5YQ2k0UHNIeHBzdW45MEc0?oc=5",
-      "source": "한국보험신문"
+      "tag": "디지털 리스크",
+      "title": "AI 해킹, 보험사·증권사·인터넷은행까지 공격 대상",
+      "summary": "AI를 활용한 해킹이 보험사·증권사·인터넷은행을 노리고 있다는 보도가 나왔습니다. 금융권 해킹 사례와 정보보호 관련 법안의 계류 상황이 함께 거론되며 보험사의 사이버 보안과 관련 위험 관리가 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbnktMHVwMGZiUy1VdjlBZm13OXk0NTQtdmx6VjQtX2NmSHhsVkdiN0lxQzhWTG4yeXNCT3lrQXNzSWNYTFdKeTV0eGJKLXVhNVRUX2E3VnljOFhacG9IUHYzejc0VXhoRzRTbzRQaTNhR2RjU25lSnRYcEZOYUdhYnhtZEQwbmozckF4SEtn?oc=5",
+      "source": "chosun.com"
     },
     {
-      "tag": "규제·광고",
-      "title": "보험상품 방송광고 급증에 금감원 심의기준 손질",
-      "summary": "보험상품 방송광고가 급증하면서 금융감독원이 광고 심의기준을 손질하는 내용이 주요 이슈로 제시됐다. 상품 판매 경쟁이 확대되는 가운데 광고 표현과 소비자 정보 제공에 대한 규율이 보험사의 영업·마케팅에 영향을 줄 전망이다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DR1A1cmozQnBRYlRIT19zaEtjQlhWdEFrTDZXVV8zc1N6UkYwOFY2Qy1YU3RpZVYwRUdpMF9JZ2hrZHlKZ0hSRk11dnNLOXNkaTY0eWlXSE1Gc3hNU2RycFBYWERFTGNVNGNF0gFvQVVfeXFMUGNOaU1CMkk2YWhYYWl0ek04cFR6NEZyUFhOU2hYdFhZZXB1MDRIeXNNX2twZE5rdGM1UHp3Q2lWQkpEZktUcGF3eGhEMnlwQzhUVW84S0ZFQkJJWGlpeTdLb2lTUWpLSFJXVktzOUlV?oc=5",
-      "source": "한국보험신문"
+      "tag": "펫보험·데이터",
+      "title": "쿠콘, 현대해상 펫보험에 반려동물 등록정보 조회 API 공급",
+      "summary": "쿠콘이 현대해상 펫보험에 반려동물 등록정보를 자동 조회하는 API를 공급하고, 해당 API가 현대해상 상품에 처음 적용됐다는 보도가 여러 건 나왔습니다. 가입 과정에서 등록정보 조회를 간편하게 하는 데이터 활용 사례로 펫보험의 디지털 가입 편의성이 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JbVA1S25IanVodkRXakYxOXpBYV9EYTNhRm5EU09kTFVaNWhuME9vQUwxSWpNQU5JYlJYUXZrYUVZSC1RQkhueVNCUUxyXzA1R3VfYi1NOFNic0NvU25ESzRPZFVoMzN4dXc?oc=5",
+      "source": "intn.co.kr"
     }
   ]
 }
