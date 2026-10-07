@@ -1,70 +1,70 @@
 {
-  "updatedAt": "2026-10-06T03:10:35.935Z",
+  "updatedAt": "2026-10-07T02:33:02.286Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사 메타데이터를 기준으로 동일 내용을 보도한 기사를 통합했습니다. 기사 본문이 제공되지 않은 항목은 제목에 확인되는 내용만 반영했습니다.",
+  "editorNote": "동일한 사실을 다룬 중복 기사는 하나의 이슈로 묶었습니다. 제공된 기사 메타데이터에는 미국 금리, 국내외 채권금리, 환율, 부동산 등 금융시장 흐름을 직접 다룬 내용이 없어 해당 변수의 당일 방향과 보험시장 영향을 판단할 수 없습니다.",
   "keywords": [
-    "무사고 건강보험 할인",
-    "소상공인 종합보험",
-    "보험사 주담대 연체율",
-    "반려동물 보험 API",
-    "AI 해킹 리스크"
+    "자녀보험 보험금 지급 급증",
+    "실손보험 5세대 전환·청구 전산화",
+    "AI 책임·보안",
+    "보험상품 차별화",
+    "산재보험 적용 확대"
   ],
-  "marketSummary": "오늘 기사에서는 높은 금리와 보험사 주담대 연체율이 보험사의 자산운용·건전성 변수로 부각됐지만, 금리·환율·채권금리의 구체적인 방향은 제시되지 않았습니다.",
+  "marketSummary": "제공된 기사 목록에는 미국 금리·채권금리·환율·부동산 등 금융시장 흐름에 관한 정보가 없어 오늘의 금융시장 변수가 보험사 자산운용·상품가격·건전성에 미친 영향은 확인되지 않습니다.",
   "marketContext": [
     {
-      "label": "높은 금리와 보험시장 연화",
-      "summary": "AM Best는 높은 금리가 보험시장의 연화를 가속할 수 있다고 경고했습니다. 기사상 높은 금리는 보험시장 경쟁 및 가격 환경과 연결되는 변수로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiTVNuVF9PVm5jdTAzMFZjYURQV2xlMGtjOVFhT3pISGVlZGpDdG9kWkk0dlJrQzZJUGhiQ2hEU0JHaVV4Wlp3VjRRSGpmRTNqbkFVbTdqZkk2cnM2UlN5VVk3S2NoWjdNSnE1SW54Q2c?oc=5",
-      "source": "kr.investing.com"
+      "label": "미국 금리",
+      "summary": "관련 금융시장 흐름이나 수치가 기사 목록에 없어 방향을 확인할 수 없으며, 이에 따른 보험사 자산운용·상품가격·건전성의 연결점도 판단할 수 없습니다.",
+      "url": "",
+      "source": "제공 기사 목록"
     },
     {
-      "label": "보험사 주담대 연체율·부동산 익스포저",
-      "summary": "보험사 주택담보대출 연체율은 0.4%로 집계됐고, 연체액의 55.8%가 90일 이상 연체로 나타났다는 보도가 나왔습니다. 보험사별 연체율 격차도 보도돼 주담대 자산의 건전성과 보험사 리스크 관리가 연결되는 변수로 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nU0ZTb21UWW1WczZPVGdaY1FaaEZGeW0tVU1LS2c5Qk5GOFZkQ2FPeUJsWnZPUGtCT3BoSjgzS1YwcDhwcWxMbFBYckZBN2RiSFkxMllXeVJFSlYtcVJEbkhfUGtxWnEzZ2d1SVdKNA?oc=5",
-      "source": "보험저널"
+      "label": "국내외 채권금리",
+      "summary": "국내외 채권금리 변동을 다룬 기사가 없어 보험사의 채권 운용이나 보험부채 관련 영향은 확인되지 않습니다.",
+      "url": "",
+      "source": "제공 기사 목록"
     },
     {
-      "label": "ABL생명 주담대 연체율",
-      "summary": "ABL생명의 주택담보대출 연체율이 2.76%로 보험업계 평균의 7배라는 보도가 나왔습니다. 이는 개별 보험사의 대출자산 건전성과 자산운용 관리 이슈를 보여주는 사례로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFVlM0TG9yTzAtMEg1RGFyLUx5cU5ERjdEZ1QyakwxOWU3ZVJzd0p3NUQ5ZkFTT1pieW9jQm00dTZkOWhMM0FyeFY3czJkRjZoNmMwSHFHcFhETGNGX01LVnZnNldQblZEdWFkTFpSRUN5QWtu?oc=5",
-      "source": "파이낸셜리뷰"
+      "label": "환율·부동산",
+      "summary": "환율 또는 부동산시장 흐름에 관한 정보가 기사 목록에 없어 보험시장과의 구체적인 연결점을 판단할 수 없습니다.",
+      "url": "",
+      "source": "제공 기사 목록"
     }
   ],
   "issues": [
     {
-      "tag": "공공보험·보장 확대",
-      "title": "전북, 소상공인 24만8000명 대상 종합보험 시행",
-      "summary": "전북자치도가 소상공인을 대상으로 별도 신청 없이 사고·화재 등의 피해를 보장하는 종합보험을 시행한다는 보도가 이어졌습니다. 지자체가 보험료 부담 없이 상해·화재 보장을 지원하는 방식으로 소상공인의 보험 접근성을 높이는 내용입니다.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81N0RLQ0o3MThlSHk2QjItaFo1QlJBX2hNcWxUUFhqR2FabkowdzdPdWJabGhFUkVQb3B3SVVzdE5pcG84aWJZb1RiOEw5ZU1TRUVsZDNIVC1NcG5JeHNzM9IBYEFVX3lxTE81N0RLQ0o3MThlSHk2QjItaFo1QlJBX2hNcWxUUFhqR2FabkowdzdPdWJabGhFUkVQb3B3SVVzdE5pcG84aWJZb1RiOEw5ZU1TRUVsZDNIVC1NcG5JeHNzMw?oc=5",
-      "source": "연합뉴스"
+      "tag": "보험금 지급·손해율",
+      "title": "독감 확산 관련 자녀보험 치료비 지급 급증",
+      "summary": "카카오페이손해보험의 자녀보험에서 독감 치료비 지급이 한 달 사이 초중학생 5.9배, 영유아 4.2배 늘었다는 내용이 여러 매체에서 반복 보도됐습니다. 계절성 질환의 확산이 특정 보장 담보의 보험금 지급 증가로 이어진 사례로, 관련 상품의 손해 관리와 보장 설계가 주요 관심사로 부상했습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNUnlrUnd4LXlzaU01UTVmT0VXTFQ1akZ3X2ZCMTg5VTlhNDdvTEd3cndaT3NMNkRYN01IaHU4cFhtdVZwX1dza3Vncm0yZw?oc=5",
+      "source": "전자신문"
     },
     {
-      "tag": "상품·소비자 편의",
-      "title": "무사고 건강보험 할인 절차 간소화",
-      "summary": "금융감독원이 무사고 건강보험료 할인 절차를 간소화하고, 소비자가 전화 한 통으로 전환할 수 있도록 관련 절차를 개편한다는 보도가 나왔습니다. 보험사가 먼저 할인 혜택을 안내·적용하는 방향으로 소비자의 이용 편의성이 높아질 수 있다는 의미입니다.",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU0VSRTJxYm9yRE1zNFlUNWxYc2VLR2JYNWxXSk12MnlCYUQ0ckI5bnV3V2g1eDNhMS1DSlFNb0psZHNiaWxZVlZuMDVyOWtoTFpFYjFCdmpBN0h6QTNaQ0VSNjVTVlByWm96MVhveE54ZXhBME5sUlRZcUh4c0hnYnB6a2hPU2Z5UFI4?oc=5",
-      "source": "chosun.com"
+      "tag": "실손보험 제도",
+      "title": "5세대 실손 전환과 청구 전산화 현안 부각",
+      "summary": "국정감사를 계기로 5세대 실손 전환과 청구 전산화가 주요 보험 현안으로 제시됐고, 실손24 EMR 업체 지원금과 낮은 연계율을 둘러싼 보도도 나왔습니다. 네이버페이의 간편청구 대상 병원 확대와 소비자의 재가입·전환 점검 이슈가 함께 다뤄져 제도 전환과 이용 편의성이 동시에 주목받았습니다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOZDlzd1NQMUw4UVFyWXBLMjZNenVSTmdOU0M3ZU1iaFVRYkh0TExMTzZvMjltQnVjS08wbGU5dkJvTkgyNTFSOENqemk4ODVUM3FZUm5PN1V3RXdFN2lRUGpwY01sRVl6MXJRRW9ScDbSAXRBVV95cUxNTGZ3VmozR0ktZUtCcmd4QmVOYkxBNDVsdDJpMmpzLWtHUE5qRVNUVG9rT3dmN2J3R0czdVBIUUdraEkzTW5taUNoVXdFOTdnaEdHNEs3M2JiUTlBanpBYURDbU9YX2xQa3hxMVBVYlZXTG84ZA?oc=5",
+      "source": "주간한국"
     },
     {
-      "tag": "건전성",
-      "title": "보험사 주담대 연체율 0.4%…장기연체 비중도 부각",
-      "summary": "보험사 주택담보대출 연체율이 0.4%로 집계됐으며, 연체액의 55.8%가 90일 이상 연체라는 보도가 나왔습니다. ABL생명의 연체율이 2.76%로 업계 평균의 7배라는 별도 보도까지 나오면서 보험사의 대출자산 건전성 관리가 주목받았습니다.",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFVlM0TG9yTzAtMEg1RGFyLUx5cU5ERjdEZ1QyakwxOWU3ZVJzd0p3NUQ5ZkFTT1pieW9jQm00dTZkOWhMM0FyeFY3czJkRjZoNmMwSHFHcFhETGNGX01LVnZnNldQblZEdWFkTFpSRUN5QWtu?oc=5",
-      "source": "파이낸셜리뷰"
+      "tag": "AI 리스크",
+      "title": "AI 사고 책임과 보험·보안 대응 논의 확대",
+      "summary": "AI 통제 실패와 잇따른 AI 사고를 계기로 개발사 CEO 등 경영진의 배상 책임에 대해 보험·법조계가 검토에 착수했다는 보도가 나왔습니다. 보험서류 위변조 탐지 실증과 GA 보안 취약고리 우려도 함께 제기돼 AI 활용 확대와 책임·보안 관리가 동시에 과제로 떠올랐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmRmpiVVRpajFwbWg0RjIzNFNWQkVPazZjckxDTm1nelgyQng5dE9leExsbGNsc21kY2hNS09HTmRIODA5ZW8zOEV3LVdsRGtMQThhRWxDRVpsQ3NtMUxDQzdwak8tQlp5YmhKNU00TWF5V0x20gF0QVVfeXFMUGxwa0p3QUpOTEptaHQxMm95Y25NLWE4aXBtR1BkNGxDQVE5TU92MTJyOGlYVWM5NC1wVlVkTXBGb2ZjRDRrbG00eDJ6NTctR3hQaEJQZVBpenJyQTVJMFV6M1Y2M2hDRGplWGpfZHM1b3EwZzA?oc=5",
+      "source": "MBC 뉴스"
     },
     {
-      "tag": "디지털 리스크",
-      "title": "AI 해킹, 보험사·증권사·인터넷은행까지 공격 대상",
-      "summary": "AI를 활용한 해킹이 보험사·증권사·인터넷은행을 노리고 있다는 보도가 나왔습니다. 금융권 해킹 사례와 정보보호 관련 법안의 계류 상황이 함께 거론되며 보험사의 사이버 보안과 관련 위험 관리가 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbnktMHVwMGZiUy1VdjlBZm13OXk0NTQtdmx6VjQtX2NmSHhsVkdiN0lxQzhWTG4yeXNCT3lrQXNzSWNYTFdKeTV0eGJKLXVhNVRUX2E3VnljOFhacG9IUHYzejc0VXhoRzRTbzRQaTNhR2RjU25lSnRYcEZOYUdhYnhtZEQwbmozckF4SEtn?oc=5",
-      "source": "chosun.com"
+      "tag": "상품·수익성",
+      "title": "보장성보험 차별화와 생보사 보험손익 악화가 병존",
+      "summary": "한화손해보험의 신담보 중심 보장성보험 상품 차별화와 삼성생명의 설계사 확대 및 보장성보험 성장 관련 분석이 보도됐습니다. 동시에 삼성생명의 보험손익이 36% 급감했다는 내용과 연금보험의 재평가 논의가 나와 상품 확대와 수익성 관리가 함께 과제로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fNXdqeVY3cjdQVzRyVzJvY2x1bmVfaG1pM040ZjFvbmF2dTR4a21zMXFmTVJyNVh4TEVYcV9OQkwtMmdLdThtb2hLbndoZERfVnZOUTFzWUtVckVhLTFmemdVZGQxSmtP?oc=5",
+      "source": "녹색경제신문"
     },
     {
-      "tag": "펫보험·데이터",
-      "title": "쿠콘, 현대해상 펫보험에 반려동물 등록정보 조회 API 공급",
-      "summary": "쿠콘이 현대해상 펫보험에 반려동물 등록정보를 자동 조회하는 API를 공급하고, 해당 API가 현대해상 상품에 처음 적용됐다는 보도가 여러 건 나왔습니다. 가입 과정에서 등록정보 조회를 간편하게 하는 데이터 활용 사례로 펫보험의 디지털 가입 편의성이 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JbVA1S25IanVodkRXakYxOXpBYV9EYTNhRm5EU09kTFVaNWhuME9vQUwxSWpNQU5JYlJYUXZrYUVZSC1RQkhueVNCUUxyXzA1R3VfYi1NOFNic0NvU25ESzRPZFVoMzN4dXc?oc=5",
-      "source": "intn.co.kr"
+      "tag": "사회보험·공공성",
+      "title": "산재보험 적용 확대와 취약계층 지원 논의 지속",
+      "summary": "특수고용직종에 대한 산재보험 확대와 전 국민 적용을 당분간 병행하는 방안, 보험설계사·예술인 등 취약계층의 산재보험료 지원이 보도됐습니다. 간병노동자 산재보험 적용 요구와 지자체의 지원·가입 독려 사례도 이어져 사회보험의 적용 범위와 보호 수준이 이슈가 됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTcTN6SEczSGJ6WlZ6QVN4ckI4WlM2WXVoX2hFLU9FcmNScC1IZm42WGU3NHhxZ3R3S0phYWxhLVRhRHJmeGZsdldFcDNadmc?oc=5",
+      "source": "Daum"
     }
   ]
 }
