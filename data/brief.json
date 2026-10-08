@@ -1,70 +1,70 @@
 {
-  "updatedAt": "2026-10-07T02:33:02.286Z",
+  "updatedAt": "2026-10-08T02:48:00.326Z",
   "articleCount": 45,
-  "editorNote": "동일한 사실을 다룬 중복 기사는 하나의 이슈로 묶었습니다. 제공된 기사 메타데이터에는 미국 금리, 국내외 채권금리, 환율, 부동산 등 금융시장 흐름을 직접 다룬 내용이 없어 해당 변수의 당일 방향과 보험시장 영향을 판단할 수 없습니다.",
+  "editorNote": "최근 24시간 기사 중 동일 발표를 반복 보도한 기사는 하나의 이슈로 통합했습니다. 제공된 기사 메타데이터에는 미국 금리·채권금리·환율·부동산 등 금융시장 수치나 방향을 다룬 내용이 없어 시장 변수의 실제 흐름과 보험시장 영향을 단정하지 않았습니다.",
   "keywords": [
-    "자녀보험 보험금 지급 급증",
-    "실손보험 5세대 전환·청구 전산화",
-    "AI 책임·보안",
-    "보험상품 차별화",
-    "산재보험 적용 확대"
+    "자동차보험 8주룰",
+    "실손보험 청구·보장",
+    "보험 GA 소비자보호",
+    "손해보험업 진출",
+    "종신보험 신상품"
   ],
-  "marketSummary": "제공된 기사 목록에는 미국 금리·채권금리·환율·부동산 등 금융시장 흐름에 관한 정보가 없어 오늘의 금융시장 변수가 보험사 자산운용·상품가격·건전성에 미친 영향은 확인되지 않습니다.",
+  "marketSummary": "제공된 기사 목록에는 금융시장 흐름을 확인할 수 있는 금리·환율·부동산 관련 정보가 없어, 이를 보험사의 자산운용·상품가격·건전성과 연결해 판단하기 어렵습니다.",
   "marketContext": [
     {
       "label": "미국 금리",
-      "summary": "관련 금융시장 흐름이나 수치가 기사 목록에 없어 방향을 확인할 수 없으며, 이에 따른 보험사 자산운용·상품가격·건전성의 연결점도 판단할 수 없습니다.",
+      "summary": "제공된 기사에 미국 금리의 변동이나 전망에 관한 내용이 없어 보험사 자산운용 및 상품가격에 미치는 영향을 판단할 수 없습니다.",
       "url": "",
       "source": "제공 기사 목록"
     },
     {
       "label": "국내외 채권금리",
-      "summary": "국내외 채권금리 변동을 다룬 기사가 없어 보험사의 채권 운용이나 보험부채 관련 영향은 확인되지 않습니다.",
+      "summary": "국내외 채권금리 수준이나 방향을 다룬 기사가 없어 보험사의 채권 평가와 건전성에 대한 연결점을 확인할 수 없습니다.",
       "url": "",
       "source": "제공 기사 목록"
     },
     {
       "label": "환율·부동산",
-      "summary": "환율 또는 부동산시장 흐름에 관한 정보가 기사 목록에 없어 보험시장과의 구체적인 연결점을 판단할 수 없습니다.",
+      "summary": "환율 또는 부동산 시장의 움직임을 다룬 기사가 없어 보험사 운용자산과 건전성에 미치는 영향을 기사 근거만으로 설명할 수 없습니다.",
       "url": "",
       "source": "제공 기사 목록"
     }
   ],
   "issues": [
     {
-      "tag": "보험금 지급·손해율",
-      "title": "독감 확산 관련 자녀보험 치료비 지급 급증",
-      "summary": "카카오페이손해보험의 자녀보험에서 독감 치료비 지급이 한 달 사이 초중학생 5.9배, 영유아 4.2배 늘었다는 내용이 여러 매체에서 반복 보도됐습니다. 계절성 질환의 확산이 특정 보장 담보의 보험금 지급 증가로 이어진 사례로, 관련 상품의 손해 관리와 보장 설계가 주요 관심사로 부상했습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNUnlrUnd4LXlzaU01UTVmT0VXTFQ1akZ3X2ZCMTg5VTlhNDdvTEd3cndaT3NMNkRYN01IaHU4cFhtdVZwX1dza3Vncm0yZw?oc=5",
-      "source": "전자신문"
+      "tag": "자동차보험",
+      "title": "자동차보험 ‘8주룰’ 시행과 경상환자 보상 피해 신고센터 운영",
+      "summary": "손해보험협회가 자동차보험 경상환자 보상처리와 관련한 피해 신고센터를 운영하며 ‘8주룰’의 정착을 지원합니다. 여러 매체가 같은 내용을 보도한 가운데, 제도 시행 과정에서의 부당한 보상처리 신고와 소비자 보호가 주요 쟁점으로 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qWGFzOUx0UEg0a0UwaHdSWEhuelA4VGVyMklJQnppeHpra0FWSnF1U1lxQ01MOWR4alo5TzNPMllYNGxNdm5tUDhrZk1QWk14OWx5dUwzcGJEMHRZRjlOU9IBYEFVX3lxTE5qWGFzOUx0UEg0a0UwaHdSWEhuelA4VGVyMklJQnppeHpra0FWSnF1U1lxQ01MOWR4alo5TzNPMllYNGxNdm5tUDhrZk1QWk14OWx5dUwzcGJEMHRZRjlOUw?oc=5",
+      "source": "연합뉴스 등"
     },
     {
-      "tag": "실손보험 제도",
-      "title": "5세대 실손 전환과 청구 전산화 현안 부각",
-      "summary": "국정감사를 계기로 5세대 실손 전환과 청구 전산화가 주요 보험 현안으로 제시됐고, 실손24 EMR 업체 지원금과 낮은 연계율을 둘러싼 보도도 나왔습니다. 네이버페이의 간편청구 대상 병원 확대와 소비자의 재가입·전환 점검 이슈가 함께 다뤄져 제도 전환과 이용 편의성이 동시에 주목받았습니다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOZDlzd1NQMUw4UVFyWXBLMjZNenVSTmdOU0M3ZU1iaFVRYkh0TExMTzZvMjltQnVjS08wbGU5dkJvTkgyNTFSOENqemk4ODVUM3FZUm5PN1V3RXdFN2lRUGpwY01sRVl6MXJRRW9ScDbSAXRBVV95cUxNTGZ3VmozR0ktZUtCcmd4QmVOYkxBNDVsdDJpMmpzLWtHUE5qRVNUVG9rT3dmN2J3R0czdVBIUUdraEkzTW5taUNoVXdFOTdnaEdHNEs3M2JiUTlBanpBYURDbU9YX2xQa3hxMVBVYlZXTG84ZA?oc=5",
-      "source": "주간한국"
+      "tag": "실손보험",
+      "title": "실손보험 청구·보장 범위를 둘러싼 관리 강화 논의",
+      "summary": "마운자로의 실손보험 청구가 1년 새 30배 증가했다는 보도와 당뇨병 코드 우회 청구 의혹이 제기됐습니다. 3차 종합병원 쏠림, 건강보험과 실손보험의 중복 보상 차단, 실손보험 적용 배제 재검토 및 자동차보험 향후치료비 반환액의 실손 보상 제외 판결 등 보장과 청구 기준을 둘러싼 논의가 이어졌습니다.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWElpS1VOcThWOHJXRk9XZGVCb21YRFloRDRhSEJlTFFMeXFRMi01ZnNZZGlyQ2w3MlNMRmVaS1duRWVkOEtUQXR0Z25oSlExdGgxeUhVTlNVcm4xYlM3LTN6akE2bl9IcmFWc0xncFlabF94QW95WnppakRFYk9mb3cxY1dWV0XSAZsBQVVfeXFMTzlITVg4UzZtcHhLWXJETlIzd0FMVUxpWElrZDlhMG9oRm9PLVdqWDdtdVozWXREdmZRTVIzWmt6N1psSHQ4OXBITVhsTXlOQ3NUSVFxNlpzZjRXdEQyMlY4eHpPUEZTVE1CUUhtblcwUmlsdzUyMmFKeXlyeUNXOFc2aXdJdjlVT2RSa3JEeVQzUjRlMW1IaS1HbkU?oc=5",
+      "source": "조선비즈 등"
     },
     {
-      "tag": "AI 리스크",
-      "title": "AI 사고 책임과 보험·보안 대응 논의 확대",
-      "summary": "AI 통제 실패와 잇따른 AI 사고를 계기로 개발사 CEO 등 경영진의 배상 책임에 대해 보험·법조계가 검토에 착수했다는 보도가 나왔습니다. 보험서류 위변조 탐지 실증과 GA 보안 취약고리 우려도 함께 제기돼 AI 활용 확대와 책임·보안 관리가 동시에 과제로 떠올랐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmRmpiVVRpajFwbWg0RjIzNFNWQkVPazZjckxDTm1nelgyQng5dE9leExsbGNsc21kY2hNS09HTmRIODA5ZW8zOEV3LVdsRGtMQThhRWxDRVpsQ3NtMUxDQzdwak8tQlp5YmhKNU00TWF5V0x20gF0QVVfeXFMUGxwa0p3QUpOTEptaHQxMm95Y25NLWE4aXBtR1BkNGxDQVE5TU92MTJyOGlYVWM5NC1wVlVkTXBGb2ZjRDRrbG00eDJ6NTctR3hQaEJQZVBpenJyQTVJMFV6M1Y2M2hDRGplWGpfZHM1b3EwZzA?oc=5",
-      "source": "MBC 뉴스"
+      "tag": "모집질서",
+      "title": "보험 GA 불법영업 제재와 소비자보호 인증제 병행",
+      "summary": "최근 3년간 대형 GA의 제재 42건과 과태료 규모가 국정감사에서 거론되며 부당승환 등 불법영업 문제가 지속되고 있다는 지적이 나왔습니다. 한편 보험 GA협회와 한국손해사정사회는 소비자보호인증설계사 제도와 교육을 본격 시행했습니다.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xbldMeXZMV0ZrVHktN3NJLUNUNlY3RnpKWFVXMW1SaTIxLWhhVFJSb1JFdjBpU3dqU2otTzhiRVlWSnE0UnlucXdHZFhWaktuUXNZTDh2cEN0aVhfQnRoczBmekZ3c0M5cXZ3a1NRUQ?oc=5",
+      "source": "조세일보 등"
     },
     {
-      "tag": "상품·수익성",
-      "title": "보장성보험 차별화와 생보사 보험손익 악화가 병존",
-      "summary": "한화손해보험의 신담보 중심 보장성보험 상품 차별화와 삼성생명의 설계사 확대 및 보장성보험 성장 관련 분석이 보도됐습니다. 동시에 삼성생명의 보험손익이 36% 급감했다는 내용과 연금보험의 재평가 논의가 나와 상품 확대와 수익성 관리가 함께 과제로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fNXdqeVY3cjdQVzRyVzJvY2x1bmVfaG1pM040ZjFvbmF2dTR4a21zMXFmTVJyNVh4TEVYcV9OQkwtMmdLdThtb2hLbndoZERfVnZOUTFzWUtVckVhLTFmemdVZGQxSmtP?oc=5",
-      "source": "녹색경제신문"
+      "tag": "업계재편",
+      "title": "OK금융그룹, 예별손보 인수 위한 주식매매계약 체결",
+      "summary": "OK금융그룹이 예별손보 주식매매계약을 체결하고 손해보험업 진출 및 종합금융그룹 도약을 추진한다는 보도가 나왔습니다. 이번 거래는 OK금융그룹의 보험사업 확대 계획과 관련된 이슈로 묶였습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QLWRqZGY2Q0JkTzdtVWEtSVY3SjJEN3MwWXB2WUxQb3NOa1RCZ3VGYTVwcHo1TkRTSVI3LXQweWt4LW9TX2doSUs1RkZpZXVpOHdEOWZYYkstM1Bv?oc=5",
+      "source": "뉴스핌 등"
     },
     {
-      "tag": "사회보험·공공성",
-      "title": "산재보험 적용 확대와 취약계층 지원 논의 지속",
-      "summary": "특수고용직종에 대한 산재보험 확대와 전 국민 적용을 당분간 병행하는 방안, 보험설계사·예술인 등 취약계층의 산재보험료 지원이 보도됐습니다. 간병노동자 산재보험 적용 요구와 지자체의 지원·가입 독려 사례도 이어져 사회보험의 적용 범위와 보호 수준이 이슈가 됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTcTN6SEczSGJ6WlZ6QVN4ckI4WlM2WXVoX2hFLU9FcmNScC1IZm42WGU3NHhxZ3R3S0phYWxhLVRhRHJmeGZsdldFcDNadmc?oc=5",
-      "source": "Daum"
+      "tag": "상품",
+      "title": "ABL생명, 암·뇌·심 진단 시 사망보험금 선지급 종신보험 출시",
+      "summary": "ABL생명이 암·뇌·심 진단 시 사망보험금 100%를 선지급하는 ‘우리WON더채움종신보험’을 출시했다는 보도가 나왔습니다. 질병 진단과 종신보험 사망보장을 결합한 상품 구조가 신상품의 핵심 내용입니다.",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIVWNFZUhKVGdnN1NQODJjTExTbktaeU5yWl85UXlyYm9XNS03N2FCVUpwVlBobzM4VWhCMGNpM3FVRVl4dDRCRzZIcHRsQQ?oc=5",
+      "source": "전자신문 등"
     }
   ]
 }
