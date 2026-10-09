@@ -1,70 +1,64 @@
 {
-  "updatedAt": "2026-10-08T02:48:00.326Z",
+  "updatedAt": "2026-10-09T03:00:15.432Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사 중 동일 발표를 반복 보도한 기사는 하나의 이슈로 통합했습니다. 제공된 기사 메타데이터에는 미국 금리·채권금리·환율·부동산 등 금융시장 수치나 방향을 다룬 내용이 없어 시장 변수의 실제 흐름과 보험시장 영향을 단정하지 않았습니다.",
+  "editorNote": "오늘은 15세 미만 미성년자의 재난보험 보장 공백을 해소하려는 정부·보험업계 논의가 가장 큰 이슈로 부각됐습니다. 소상공인 고용보험 해지, 자동차보험 경상환자 진료비 증가, 진료 우선권 논란과 보험사의 금리·투자손익 흐름도 함께 주목할 만합니다.",
   "keywords": [
-    "자동차보험 8주룰",
-    "실손보험 청구·보장",
-    "보험 GA 소비자보호",
-    "손해보험업 진출",
-    "종신보험 신상품"
+    "15세 미만 재난보험",
+    "소상공인 고용보험",
+    "자동차보험 경상환자",
+    "실손보험",
+    "보험사 투자손익"
   ],
-  "marketSummary": "제공된 기사 목록에는 금융시장 흐름을 확인할 수 있는 금리·환율·부동산 관련 정보가 없어, 이를 보험사의 자산운용·상품가격·건전성과 연결해 판단하기 어렵습니다.",
+  "marketSummary": "미국 주간 신규 실업보험 청구가 전망치를 밑돈 가운데 국내 금리 상승과 생명보험사 투자손익 혼조가 부각되며, 보험시장에서는 자산운용 성과와 자본 부담 점검이 핵심 흐름으로 나타났습니다.",
   "marketContext": [
     {
-      "label": "미국 금리",
-      "summary": "제공된 기사에 미국 금리의 변동이나 전망에 관한 내용이 없어 보험사 자산운용 및 상품가격에 미치는 영향을 판단할 수 없습니다.",
-      "url": "",
-      "source": "제공 기사 목록"
+      "label": "미국 고용지표",
+      "summary": "미국 주간 신규 실업보험 청구가 19만7천 건으로 시장 전망치를 밑돌았습니다. 미국 고용 흐름은 향후 금리와 채권시장 판단의 변수로 연결될 수 있어 보험사의 채권 운용 환경과 관련해 주목할 지표입니다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84dkpGdUt5dFQxZFpPTWVFeWNpLWdqYU8weklZMGJzZGpabVpMOHJoc1BuXzRlYUpsNE85ZU1qMmJxWDN5SXdSVFU1aVVmSnFIS0JwU0RFN3hKZm1oM3lNNXJzR0I4SF83bXYzV2sxeVU?oc=5",
+      "source": "연합인포맥스"
     },
     {
-      "label": "국내외 채권금리",
-      "summary": "국내외 채권금리 수준이나 방향을 다룬 기사가 없어 보험사의 채권 평가와 건전성에 대한 연결점을 확인할 수 없습니다.",
-      "url": "",
-      "source": "제공 기사 목록"
-    },
-    {
-      "label": "환율·부동산",
-      "summary": "환율 또는 부동산 시장의 움직임을 다룬 기사가 없어 보험사 운용자산과 건전성에 미치는 영향을 기사 근거만으로 설명할 수 없습니다.",
-      "url": "",
-      "source": "제공 기사 목록"
+      "label": "국내 금리와 생보 투자손익",
+      "summary": "금리가 오른 가운데 생명보험사 8곳 중 3곳은 본업과 투자가 함께 감소한 것으로 보도됐습니다. 금리 변화는 보험사의 투자손익과 자산운용 성과에 영향을 주는 변수로, 상품가격과 건전성 점검에도 연결됩니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92UVlnVk9uZEhMU1laZTVZaDRqck9fczU5QTJxNndDVXctYjZHMkJ0bEI4am5Vc3RCeHlmbzFoRGplSGtNZkZYOHFVVkZXUTdwUDdTbnA5MzV6WVk4M0ZpcmlYVU5LVlkt?oc=5",
+      "source": "녹색경제신문"
     }
   ],
   "issues": [
     {
+      "tag": "제도·보장",
+      "title": "15세 미만 재난보험 보장 공백 해소 추진",
+      "summary": "정부와 보험업계가 15세 미만 미성년자의 재난보험 보장 공백을 해소하기 위해 상법 개정과 제한적 예외 허용을 논의하고 있습니다. 재난 단체보험에서 어린이 보장을 인정할 수 있는 제도적 예외가 핵심 쟁점입니다.",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtSUhKR0VWeG44bWFWRTNyanM3Vm1QaENQenREcU5iSk5VQ1g4cWhZSVBBN1RNbDBiUjk0M2kzR3hPejhwNzkzek1mWUREMGNjQUg5b1BEZFFfXzYx?oc=5",
+      "source": "티제이비"
+    },
+    {
+      "tag": "사회보험",
+      "title": "지원 종료 뒤 소상공인 고용보험 해지 증가",
+      "summary": "중소벤처기업부의 고용보험 지원이 끝난 소상공인 가운데 10명 중 6명이 보험을 해지했다는 보도가 나왔습니다. 소상공인의 보험 유지와 최소한의 사회안전망을 둘러싼 부담이 핵심 문제로 제기됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUb0lubmxHeHlzaW52VmJGYWZpUzhmRnZVT3hKZDRDOWlLdk00Mk9ZWHExQ2R3azl0NmxVSWYzZ3RsdkR4NkdNZEdLRGJhd1BfUWhuS0xEVFJRd3dPSkp0atIBYEFVX3lxTFBUb0lubmxHeHlzaW52VmJGYWZpUzhmRnZVT3hKZDRDOWlLdk00Mk9ZWHExQ2R3azl0NmxVSWYzZ3RsdkR4NkdNZEdLRGJhd1BfUWhuS0xEVFJRd3dPSkp0ag?oc=5",
+      "source": "연합뉴스"
+    },
+    {
       "tag": "자동차보험",
-      "title": "자동차보험 ‘8주룰’ 시행과 경상환자 보상 피해 신고센터 운영",
-      "summary": "손해보험협회가 자동차보험 경상환자 보상처리와 관련한 피해 신고센터를 운영하며 ‘8주룰’의 정착을 지원합니다. 여러 매체가 같은 내용을 보도한 가운데, 제도 시행 과정에서의 부당한 보상처리 신고와 소비자 보호가 주요 쟁점으로 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qWGFzOUx0UEg0a0UwaHdSWEhuelA4VGVyMklJQnppeHpra0FWSnF1U1lxQ01MOWR4alo5TzNPMllYNGxNdm5tUDhrZk1QWk14OWx5dUwzcGJEMHRZRjlOU9IBYEFVX3lxTE5qWGFzOUx0UEg0a0UwaHdSWEhuelA4VGVyMklJQnppeHpra0FWSnF1U1lxQ01MOWR4alo5TzNPMllYNGxNdm5tUDhrZk1QWk14OWx5dUwzcGJEMHRZRjlOUw?oc=5",
-      "source": "연합뉴스 등"
+      "title": "경상환자 진료비 증가와 ‘8주 룰’ 시행",
+      "summary": "자동차보험 경상환자 진료비가 32% 늘었고 증가액의 74%가 한방 진료에서 발생했다는 국감 자료가 보도됐습니다. 손해보험협회는 ‘8주 룰’ 시행과 함께 보상처리 피해 신고센터를 운영합니다.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwQVhNSnZIY1ZMWUdVQ3lkS1FmMUtRR0dBVEVFSHFURThYWldwTWdNLVhUQ3dsUHprcTVYMGNkUW5tVGZvWXhTclR5SW5rblRaNGZ1XzZ3TUdDbkk?oc=5",
+      "source": "뉴스1"
     },
     {
-      "tag": "실손보험",
-      "title": "실손보험 청구·보장 범위를 둘러싼 관리 강화 논의",
-      "summary": "마운자로의 실손보험 청구가 1년 새 30배 증가했다는 보도와 당뇨병 코드 우회 청구 의혹이 제기됐습니다. 3차 종합병원 쏠림, 건강보험과 실손보험의 중복 보상 차단, 실손보험 적용 배제 재검토 및 자동차보험 향후치료비 반환액의 실손 보상 제외 판결 등 보장과 청구 기준을 둘러싼 논의가 이어졌습니다.",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWElpS1VOcThWOHJXRk9XZGVCb21YRFloRDRhSEJlTFFMeXFRMi01ZnNZZGlyQ2w3MlNMRmVaS1duRWVkOEtUQXR0Z25oSlExdGgxeUhVTlNVcm4xYlM3LTN6akE2bl9IcmFWc0xncFlabF94QW95WnppakRFYk9mb3cxY1dWV0XSAZsBQVVfeXFMTzlITVg4UzZtcHhLWXJETlIzd0FMVUxpWElrZDlhMG9oRm9PLVdqWDdtdVozWXREdmZRTVIzWmt6N1psSHQ4OXBITVhsTXlOQ3NUSVFxNlpzZjRXdEQyMlY4eHpPUEZTVE1CUUhtblcwUmlsdzUyMmFKeXlyeUNXOFc2aXdJdjlVT2RSa3JEeVQzUjRlMW1IaS1HbkU?oc=5",
-      "source": "조선비즈 등"
+      "tag": "실손·의료서비스",
+      "title": "보험 가입자 진료 우선권 논란과 당국 실태 파악",
+      "summary": "보험 가입자에게 대형병원 진료 우선권을 제공하는 것처럼 보이는 서비스와 광고를 두고 논란이 제기됐습니다. 보건복지부가 보험사의 관련 실태를 파악하고 환자 유인 여부를 단속할 계획이라는 보도가 나왔습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxVGZCLUNIckJST2JfeGhjVUozb1JzdU1DVURyNUVYY2NxNEhZQVJLMWVEclRYd1BYb0U5XzRRSHc2Tlh5Y1JWclQ1dnA3ZE9mQ2FHcGRjZmllVEZZM2lMU0t4dHhqTWpfSFE?oc=5",
+      "source": "의학신문"
     },
     {
-      "tag": "모집질서",
-      "title": "보험 GA 불법영업 제재와 소비자보호 인증제 병행",
-      "summary": "최근 3년간 대형 GA의 제재 42건과 과태료 규모가 국정감사에서 거론되며 부당승환 등 불법영업 문제가 지속되고 있다는 지적이 나왔습니다. 한편 보험 GA협회와 한국손해사정사회는 소비자보호인증설계사 제도와 교육을 본격 시행했습니다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xbldMeXZMV0ZrVHktN3NJLUNUNlY3RnpKWFVXMW1SaTIxLWhhVFJSb1JFdjBpU3dqU2otTzhiRVlWSnE0UnlucXdHZFhWaktuUXNZTDh2cEN0aVhfQnRoczBmekZ3c0M5cXZ3a1NRUQ?oc=5",
-      "source": "조세일보 등"
-    },
-    {
-      "tag": "업계재편",
-      "title": "OK금융그룹, 예별손보 인수 위한 주식매매계약 체결",
-      "summary": "OK금융그룹이 예별손보 주식매매계약을 체결하고 손해보험업 진출 및 종합금융그룹 도약을 추진한다는 보도가 나왔습니다. 이번 거래는 OK금융그룹의 보험사업 확대 계획과 관련된 이슈로 묶였습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QLWRqZGY2Q0JkTzdtVWEtSVY3SjJEN3MwWXB2WUxQb3NOa1RCZ3VGYTVwcHo1TkRTSVI3LXQweWt4LW9TX2doSUs1RkZpZXVpOHdEOWZYYkstM1Bv?oc=5",
-      "source": "뉴스핌 등"
-    },
-    {
-      "tag": "상품",
-      "title": "ABL생명, 암·뇌·심 진단 시 사망보험금 선지급 종신보험 출시",
-      "summary": "ABL생명이 암·뇌·심 진단 시 사망보험금 100%를 선지급하는 ‘우리WON더채움종신보험’을 출시했다는 보도가 나왔습니다. 질병 진단과 종신보험 사망보장을 결합한 상품 구조가 신상품의 핵심 내용입니다.",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIVWNFZUhKVGdnN1NQODJjTExTbktaeU5yWl85UXlyYm9XNS03N2FCVUpwVlBobzM4VWhCMGNpM3FVRVl4dDRCRzZIcHRsQQ?oc=5",
-      "source": "전자신문 등"
+      "tag": "수익성·건전성",
+      "title": "금리 상승 속 생보 투자손익과 보험권 콜옵션 점검",
+      "summary": "금리가 오른 가운데 생명보험사 8곳 중 3곳은 본업과 투자 부문이 함께 감소한 것으로 나타났습니다. 별도 보도에서는 연내 콜옵션 부담이 없는 보험권 상황과 IBK연금·롯데손보의 물량 보유가 거론돼 수익성과 자본시장 부담이 함께 주목받았습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92UVlnVk9uZEhMU1laZTVZaDRqck9fczU5QTJxNndDVXctYjZHMkJ0bEI4am5Vc3RCeHlmbzFoRGplSGtNZkZYOHFVVkZXUTdwUDdTbnA5MzV6WVk4M0ZpcmlYVU5LVlkt?oc=5",
+      "source": "녹색경제신문"
     }
   ]
 }
