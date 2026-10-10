@@ -1,63 +1,63 @@
 {
-  "updatedAt": "2026-10-09T03:00:15.432Z",
-  "articleCount": 45,
-  "editorNote": "오늘은 15세 미만 미성년자의 재난보험 보장 공백을 해소하려는 정부·보험업계 논의가 가장 큰 이슈로 부각됐습니다. 소상공인 고용보험 해지, 자동차보험 경상환자 진료비 증가, 진료 우선권 논란과 보험사의 금리·투자손익 흐름도 함께 주목할 만합니다.",
+  "updatedAt": "2026-10-10T02:29:52.170Z",
+  "articleCount": 20,
+  "editorNote": "제공된 최근 24시간 기사 메타데이터만을 기준으로 유사 주제를 통합했습니다. 금리·채권금리·환율·부동산 시장의 구체적 흐름은 목록에 제시되지 않아 관련 판단은 제외했습니다.",
   "keywords": [
-    "15세 미만 재난보험",
-    "소상공인 고용보험",
-    "자동차보험 경상환자",
-    "실손보험",
-    "보험사 투자손익"
+    "자동차보험 적자",
+    "해외이익",
+    "간병보험",
+    "사이버보험",
+    "보험사 인수"
   ],
-  "marketSummary": "미국 주간 신규 실업보험 청구가 전망치를 밑돈 가운데 국내 금리 상승과 생명보험사 투자손익 혼조가 부각되며, 보험시장에서는 자산운용 성과와 자본 부담 점검이 핵심 흐름으로 나타났습니다.",
+  "marketSummary": "제공된 기사에서는 미국 보험주가 개별 재료에 따라 엇갈린 흐름을 보였고, 국내 보험시장에서는 자동차보험 손익 악화와 해외사업·신상품 확대가 주요 관심사로 나타났습니다.",
   "marketContext": [
     {
-      "label": "미국 고용지표",
-      "summary": "미국 주간 신규 실업보험 청구가 19만7천 건으로 시장 전망치를 밑돌았습니다. 미국 고용 흐름은 향후 금리와 채권시장 판단의 변수로 연결될 수 있어 보험사의 채권 운용 환경과 관련해 주목할 지표입니다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84dkpGdUt5dFQxZFpPTWVFeWNpLWdqYU8weklZMGJzZGpabVpMOHJoc1BuXzRlYUpsNE85ZU1qMmJxWDN5SXdSVFU1aVVmSnFIS0JwU0RFN3hKZm1oM3lNNXJzR0I4SF83bXYzV2sxeVU?oc=5",
-      "source": "연합인포맥스"
+      "label": "미국 보험주",
+      "summary": "휴마나는 메디케어 등급 상향 소식으로 12% 상승한 반면 얼라인먼트는 12% 하락했다는 보도가 나왔습니다. 보험사의 주가가 상품·사업 부문의 평가와 개별 뉴스에 따라 차별화될 수 있음을 보여주는 사례로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSm43aWRjNnJ6bGFFY1FKcFBLN3FoQ21hWU5LdHVLYkR3ZUp6YlJGTm9yR0lxSHRWd0tVMUE4TVY2VGJDYURHaGdDRFJQcGFRSUF3Vkp6VmJJUnBnelVRN1lpVUJmT0RwZFJiYll1X1lIWTFpVWdjSGxqYTBlWGF0MA?oc=5",
+      "source": "이데일리"
     },
     {
-      "label": "국내 금리와 생보 투자손익",
-      "summary": "금리가 오른 가운데 생명보험사 8곳 중 3곳은 본업과 투자가 함께 감소한 것으로 보도됐습니다. 금리 변화는 보험사의 투자손익과 자산운용 성과에 영향을 주는 변수로, 상품가격과 건전성 점검에도 연결됩니다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92UVlnVk9uZEhMU1laZTVZaDRqck9fczU5QTJxNndDVXctYjZHMkJ0bEI4am5Vc3RCeHlmbzFoRGplSGtNZkZYOHFVVkZXUTdwUDdTbnA5MzV6WVk4M0ZpcmlYVU5LVlkt?oc=5",
-      "source": "녹색경제신문"
+      "label": "자동차보험 손익·가격",
+      "summary": "자동차보험의 적자 전환과 손해율 관리, 제도 개선 및 특약 재편이 보도됐습니다. 한화손해보험의 캐롯 합병 이후 외형 확대에도 적자 구조가 여전하다는 기사와 함께 보험료·특약 가격 설계가 손익과 직결되는 이슈로 나타났습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jdlRyQ1lBY2VzdTFRWERxTW91b2g5Q3ZJQjhJUDQ2YWZST1Q0eHltSjl3aC1HcUU4YnA1VkhYWks4aEZNN24yVVY3RnpqOHZBbUdUclJLcw?oc=5",
+      "source": "세계비즈"
     }
   ],
   "issues": [
     {
-      "tag": "제도·보장",
-      "title": "15세 미만 재난보험 보장 공백 해소 추진",
-      "summary": "정부와 보험업계가 15세 미만 미성년자의 재난보험 보장 공백을 해소하기 위해 상법 개정과 제한적 예외 허용을 논의하고 있습니다. 재난 단체보험에서 어린이 보장을 인정할 수 있는 제도적 예외가 핵심 쟁점입니다.",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtSUhKR0VWeG44bWFWRTNyanM3Vm1QaENQenREcU5iSk5VQ1g4cWhZSVBBN1RNbDBiUjk0M2kzR3hPejhwNzkzek1mWUREMGNjQUg5b1BEZFFfXzYx?oc=5",
-      "source": "티제이비"
-    },
-    {
-      "tag": "사회보험",
-      "title": "지원 종료 뒤 소상공인 고용보험 해지 증가",
-      "summary": "중소벤처기업부의 고용보험 지원이 끝난 소상공인 가운데 10명 중 6명이 보험을 해지했다는 보도가 나왔습니다. 소상공인의 보험 유지와 최소한의 사회안전망을 둘러싼 부담이 핵심 문제로 제기됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUb0lubmxHeHlzaW52VmJGYWZpUzhmRnZVT3hKZDRDOWlLdk00Mk9ZWHExQ2R3azl0NmxVSWYzZ3RsdkR4NkdNZEdLRGJhd1BfUWhuS0xEVFJRd3dPSkp0atIBYEFVX3lxTFBUb0lubmxHeHlzaW52VmJGYWZpUzhmRnZVT3hKZDRDOWlLdk00Mk9ZWHExQ2R3azl0NmxVSWYzZ3RsdkR4NkdNZEdLRGJhd1BfUWhuS0xEVFJRd3dPSkp0ag?oc=5",
-      "source": "연합뉴스"
-    },
-    {
       "tag": "자동차보험",
-      "title": "경상환자 진료비 증가와 ‘8주 룰’ 시행",
-      "summary": "자동차보험 경상환자 진료비가 32% 늘었고 증가액의 74%가 한방 진료에서 발생했다는 국감 자료가 보도됐습니다. 손해보험협회는 ‘8주 룰’ 시행과 함께 보상처리 피해 신고센터를 운영합니다.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwQVhNSnZIY1ZMWUdVQ3lkS1FmMUtRR0dBVEVFSHFURThYWldwTWdNLVhUQ3dsUHprcTVYMGNkUW5tVGZvWXhTclR5SW5rblRaNGZ1XzZ3TUdDbkk?oc=5",
-      "source": "뉴스1"
+      "title": "자동차보험 외형 확대에도 적자 구조와 손해율 관리 부담 지속",
+      "summary": "한화손해보험은 캐롯 합병 1년 동안 자동차보험 몸집을 키웠지만 적자 구조가 여전하다는 평가를 받았습니다. 자동차보험 업계 전반의 적자 전환 보도와 제도 개선·특약 재편 논의가 맞물리며 외형 성장보다 손해율과 가격 체계 관리가 핵심 과제로 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iZlYzbjQtRG9UbWJxWG1jckxKV21UN21yaDcxYldHSzZMZGZsUmJMWndUcWV1RVdRVFI5YjhORVpJaHYxd3RjdjR6WXcwU3BjVlVackVaTnZqVWF3UG9mWlpiQTVvWkQ4Z0lGSw?oc=5",
+      "source": "이코노미톡뉴스"
     },
     {
-      "tag": "실손·의료서비스",
-      "title": "보험 가입자 진료 우선권 논란과 당국 실태 파악",
-      "summary": "보험 가입자에게 대형병원 진료 우선권을 제공하는 것처럼 보이는 서비스와 광고를 두고 논란이 제기됐습니다. 보건복지부가 보험사의 관련 실태를 파악하고 환자 유인 여부를 단속할 계획이라는 보도가 나왔습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxVGZCLUNIckJST2JfeGhjVUozb1JzdU1DVURyNUVYY2NxNEhZQVJLMWVEclRYd1BYb0U5XzRRSHc2Tlh5Y1JWclQ1dnA3ZE9mQ2FHcGRjZmllVEZZM2lMU0t4dHhqTWpfSFE?oc=5",
-      "source": "의학신문"
+      "tag": "해외사업",
+      "title": "국내 성장 한계 속 보험사 해외이익 확대",
+      "summary": "국내에서 성장에 제약을 받는 보험사들의 해외이익이 두 배로 늘었다는 보도가 나왔습니다. 해외사업이 국내 사업을 보완하는 수익원으로 주목받고 있다는 의미지만, 기사 메타데이터에는 증가 배경이나 세부 실적은 제시되지 않았습니다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lR3JhenA5SWJfQUNLUVV5TFQtNlBiYnQ2OEp3YWdJMXFndVQ3MjVhSUZQRUNDb0g1QzRHZkt5MzFIQ2llN004LTNwbVNXdjdfd2FiX2J6anpxZVNqUFN4dXZmc3JsZ3k3R2RV0gFvQVVfeXFMT3hZZUxxQkdjQzBfYlM1aUtXWkdTTGZJUVRxd0ltZVpuREJsQWI2SmpmelZVNklya3NMR1NHSkluZmJuM2xBM2UtWUhfUXhmMGpUeUk2TjdQRlBSN1JQd0l1WUEzdjdkUlBZWWFhM0Mw?oc=5",
+      "source": "투데이신문"
     },
     {
-      "tag": "수익성·건전성",
-      "title": "금리 상승 속 생보 투자손익과 보험권 콜옵션 점검",
-      "summary": "금리가 오른 가운데 생명보험사 8곳 중 3곳은 본업과 투자 부문이 함께 감소한 것으로 나타났습니다. 별도 보도에서는 연내 콜옵션 부담이 없는 보험권 상황과 IBK연금·롯데손보의 물량 보유가 거론돼 수익성과 자본시장 부담이 함께 주목받았습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92UVlnVk9uZEhMU1laZTVZaDRqck9fczU5QTJxNndDVXctYjZHMkJ0bEI4am5Vc3RCeHlmbzFoRGplSGtNZkZYOHFVVkZXUTdwUDdTbnA5MzV6WVk4M0ZpcmlYVU5LVlkt?oc=5",
+      "tag": "상품",
+      "title": "고령화로 간병보험 확대…장기 수익성 관리가 관건",
+      "summary": "고령화에 따라 간병보험 시장이 확대되고 있다는 분석이 제기됐습니다. 시장 확대에도 장기 상품 특성상 수익성 관리가 주요 과제로 거론됐으며, 같은 기간 ABL생명은 종신보험 신상품을 출시했습니다.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KSWtOVkdOTy1OeTgwVHFDSW9BdlYzVlhiSlIwMDVTNFBjUDZsUVZMd080S252SkpBLXFxWkxGZG9ZUFBETkY2ZVgzeW8yQUtPVWRXNk9tNzhwMlVvNDV1bVRGdFBOVnhKX1hkbw?oc=5",
+      "source": "스마트비즈"
+    },
+    {
+      "tag": "사이버보험",
+      "title": "해킹 피해 확산에도 국내 사이버보험 시장은 제한적",
+      "summary": "해킹 증가에 대응하는 사이버보험 시장의 규모가 일본과 비교해 작다는 보도가 나왔습니다. 사이버 위험에 대한 관심은 커지고 있지만, 기사 제목상 국내 시장의 성장 수준은 아직 제한적인 것으로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXWWQwV3JKUTBkWXp3bXQyMlJZWFE0Q3Q1YlNfcnJlaDVMeXRPYlNZMHppcDNXUDFvWlJaYXl1N3B2STgyOWc2OG0wZ3ZoWmhGdEI3LWtR?oc=5",
+      "source": "중앙일보"
+    },
+    {
+      "tag": "M&A·건전성",
+      "title": "OK금융의 예별손해보험 인수, 승인과 자본 여력 검증 주목",
+      "summary": "OK금융의 예별손해보험 인수가 금융당국 승인 절차와 예금보험공사 지원 여부, 인수 주체의 자본 여력 검증 단계에 들어섰다는 보도가 나왔습니다. 거래 성사 여부와 함께 인수 이후 건전성을 뒷받침할 자본 기반이 핵심 쟁점으로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sTmtmczc5TjI4Vl95cXo0ZTdNcU93ZlZQdUM3aG1xck1aY0twS1FZOTZGMVRMMHhxR1lGWHp1NE9BY1JKZnZKWmdXbGZ5T0hpWHNlaGlOMjB4M25yWFU5WEowNThMcDZH?oc=5",
       "source": "녹색경제신문"
     }
   ]
