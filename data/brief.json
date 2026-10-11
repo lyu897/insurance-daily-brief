@@ -1,64 +1,70 @@
 {
-  "updatedAt": "2026-10-10T02:29:52.170Z",
-  "articleCount": 20,
-  "editorNote": "제공된 최근 24시간 기사 메타데이터만을 기준으로 유사 주제를 통합했습니다. 금리·채권금리·환율·부동산 시장의 구체적 흐름은 목록에 제시되지 않아 관련 판단은 제외했습니다.",
+  "updatedAt": "2026-10-11T02:01:41.045Z",
+  "articleCount": 24,
+  "editorNote": "제공된 최근 24시간 기사 메타데이터의 제목과 출처만 기준으로 중복 이슈를 통합했습니다. 기사 본문이나 메타데이터에 없는 금융시장 수치·방향은 별도로 추정하지 않았습니다.",
   "keywords": [
-    "자동차보험 적자",
-    "해외이익",
+    "양식보험",
+    "사이버보험·AI 해킹",
     "간병보험",
-    "사이버보험",
-    "보험사 인수"
+    "계약유지율",
+    "보험금 지급"
   ],
-  "marketSummary": "제공된 기사에서는 미국 보험주가 개별 재료에 따라 엇갈린 흐름을 보였고, 국내 보험시장에서는 자동차보험 손익 악화와 해외사업·신상품 확대가 주요 관심사로 나타났습니다.",
+  "marketSummary": "제공된 기사 목록에는 미국 금리·국내외 채권금리·환율·부동산의 당일 흐름이 없어 금융시장 방향은 판단할 수 없으며, 보험시장에서는 기후재해 보장과 사이버 리스크, 간병보험 경쟁 및 계약유지 관리가 부각됐습니다.",
   "marketContext": [
     {
-      "label": "미국 보험주",
-      "summary": "휴마나는 메디케어 등급 상향 소식으로 12% 상승한 반면 얼라인먼트는 12% 하락했다는 보도가 나왔습니다. 보험사의 주가가 상품·사업 부문의 평가와 개별 뉴스에 따라 차별화될 수 있음을 보여주는 사례로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSm43aWRjNnJ6bGFFY1FKcFBLN3FoQ21hWU5LdHVLYkR3ZUp6YlJGTm9yR0lxSHRWd0tVMUE4TVY2VGJDYURHaGdDRFJQcGFRSUF3Vkp6VmJJUnBnelVRN1lpVUJmT0RwZFJiYll1X1lIWTFpVWdjSGxqYTBlWGF0MA?oc=5",
-      "source": "이데일리"
+      "label": "미국 금리",
+      "summary": "제공된 기사 메타데이터에는 미국 금리의 상승·하락이나 수준에 관한 정보가 없습니다. 따라서 보험사 자산운용·상품가격·건전성에 미친 영향을 이 자료만으로 확인할 수 없습니다.",
+      "url": "",
+      "source": "제공 기사 메타데이터 미포함"
     },
     {
-      "label": "자동차보험 손익·가격",
-      "summary": "자동차보험의 적자 전환과 손해율 관리, 제도 개선 및 특약 재편이 보도됐습니다. 한화손해보험의 캐롯 합병 이후 외형 확대에도 적자 구조가 여전하다는 기사와 함께 보험료·특약 가격 설계가 손익과 직결되는 이슈로 나타났습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jdlRyQ1lBY2VzdTFRWERxTW91b2g5Q3ZJQjhJUDQ2YWZST1Q0eHltSjl3aC1HcUU4YnA1VkhYWks4aEZNN24yVVY3RnpqOHZBbUdUclJLcw?oc=5",
-      "source": "세계비즈"
+      "label": "국내외 채권금리",
+      "summary": "국내외 채권금리 흐름과 관련한 수치나 변동 내용이 기사에 제시되지 않았습니다. 이에 따라 보험사의 채권 운용 및 금리 민감 상품에 대한 연결점도 판단할 수 없습니다.",
+      "url": "",
+      "source": "제공 기사 메타데이터 미포함"
+    },
+    {
+      "label": "환율·부동산",
+      "summary": "환율이나 부동산 시장의 당일 움직임에 관한 내용은 제공된 기사 목록에서 확인되지 않습니다. 따라서 보험사의 자산운용과 건전성에 대한 영향은 이 자료만으로 평가할 수 없습니다.",
+      "url": "",
+      "source": "제공 기사 메타데이터 미포함"
     }
   ],
   "issues": [
     {
-      "tag": "자동차보험",
-      "title": "자동차보험 외형 확대에도 적자 구조와 손해율 관리 부담 지속",
-      "summary": "한화손해보험은 캐롯 합병 1년 동안 자동차보험 몸집을 키웠지만 적자 구조가 여전하다는 평가를 받았습니다. 자동차보험 업계 전반의 적자 전환 보도와 제도 개선·특약 재편 논의가 맞물리며 외형 성장보다 손해율과 가격 체계 관리가 핵심 과제로 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iZlYzbjQtRG9UbWJxWG1jckxKV21UN21yaDcxYldHSzZMZGZsUmJMWndUcWV1RVdRVFI5YjhORVpJaHYxd3RjdjR6WXcwU3BjVlVackVaTnZqVWF3UG9mWlpiQTVvWkQ4Z0lGSw?oc=5",
-      "source": "이코노미톡뉴스"
+      "tag": "기후·정책",
+      "title": "기후재해에도 양식보험 가입률 40%대…고수온 피해 보상 지연 개선 요구",
+      "summary": "기후재해로 매년 수백억 원대 어업 피해가 발생하는 가운데 양식보험 가입률은 40%대에 그치고, 고수온 피해 보상에 6개월이 걸린다는 보도가 나왔습니다. 관련 보도들은 낮은 가입률과 긴 보상 기간을 지적하며 양식보험 제도 개선을 촉구했습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zTXhEc3huV0hMUW8wbjRzcE1DVEo2NXQyZjF2SXNpNEREaUV0NDE1Tkpzd0FheEZkOUI4ZlJ2Rm45Sy1xZmxvRHROaTV1dnVOVjV4WEhJOG91M3fSAWBBVV95cUxNZ3VIYjh5ZV9TWGNEY0xENXJDNEtQM1BndDVrYWZ0cVhWMkRpT1JTQUFtU1Z4Vmx1UUtHRm5XTE5NNFJGcGlMRGpCbEZ0UlcyRU9vWGI2bUVwOGUtNmZqV1I?oc=5",
+      "source": "연합뉴스"
     },
     {
-      "tag": "해외사업",
-      "title": "국내 성장 한계 속 보험사 해외이익 확대",
-      "summary": "국내에서 성장에 제약을 받는 보험사들의 해외이익이 두 배로 늘었다는 보도가 나왔습니다. 해외사업이 국내 사업을 보완하는 수익원으로 주목받고 있다는 의미지만, 기사 메타데이터에는 증가 배경이나 세부 실적은 제시되지 않았습니다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lR3JhenA5SWJfQUNLUVV5TFQtNlBiYnQ2OEp3YWdJMXFndVQ3MjVhSUZQRUNDb0g1QzRHZkt5MzFIQ2llN004LTNwbVNXdjdfd2FiX2J6anpxZVNqUFN4dXZmc3JsZ3k3R2RV0gFvQVVfeXFMT3hZZUxxQkdjQzBfYlM1aUtXWkdTTGZJUVRxd0ltZVpuREJsQWI2SmpmelZVNklya3NMR1NHSkluZmJuM2xBM2UtWUhfUXhmMGpUeUk2TjdQRlBSN1JQd0l1WUEzdjdkUlBZWWFhM0Mw?oc=5",
-      "source": "투데이신문"
+      "tag": "사이버 리스크",
+      "title": "금융권 AI 해킹에 보험업계 비상…사이버보험은 아직 걸음마",
+      "summary": "금융권 연쇄 해킹과 AI 해킹 관련 보도가 이어지면서 보험업계가 비상대응체계를 가동했습니다. 동시에 사이버보험의 보장 수준과 보상 범위에 대한 관심이 커졌지만, 관련 시장은 아직 초기 단계라는 지적이 제기됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aRW5ZUnlOSDBZUWk0clpMbHFqNlNvQlZLZnpweDhITkxTUVFkclQxSG1LeEJHOHpxeDRzbW9IZW1mbHNFSW9KQ2psRU1LN1dXQUVZU051cmNHVlIyZXlrZ3lkVFozSHZVSnFDaGtOaWRJNFl1N3hJZkN3M0h0ZzQ?oc=5",
+      "source": "TV조선뉴스"
     },
     {
-      "tag": "상품",
-      "title": "고령화로 간병보험 확대…장기 수익성 관리가 관건",
-      "summary": "고령화에 따라 간병보험 시장이 확대되고 있다는 분석이 제기됐습니다. 시장 확대에도 장기 상품 특성상 수익성 관리가 주요 과제로 거론됐으며, 같은 기간 ABL생명은 종신보험 신상품을 출시했습니다.",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KSWtOVkdOTy1OeTgwVHFDSW9BdlYzVlhiSlIwMDVTNFBjUDZsUVZMd080S252SkpBLXFxWkxGZG9ZUFBETkY2ZVgzeW8yQUtPVWRXNk9tNzhwMlVvNDV1bVRGdFBOVnhKX1hkbw?oc=5",
-      "source": "스마트비즈"
+      "tag": "상품 경쟁",
+      "title": "간병인 일당 20만원 보장 확산…보험사 간 보장기간·금액 경쟁",
+      "summary": "간병인 일당 20만원 보장이 다시 확산되면서 보험사들이 보장기간과 보장금액을 놓고 경쟁하고 있습니다. 보도는 간병 관련 보장이 상품 경쟁의 주요 영역으로 부상하고 있음을 보여줍니다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNZU1RVG8tQ0dvY0JIUTBMdjVVNDhwSFd0cFJWOUxISzkydUJQTmJCaGtEN0Q4Rk9ua1Y1b1JQZXZDUms5VmVWVGpBak5EWTNZM2QwbEs3S3M5TU56VExTVmcxem9lTVVhQjNnaDVRM1o?oc=5",
+      "source": "신아일보"
     },
     {
-      "tag": "사이버보험",
-      "title": "해킹 피해 확산에도 국내 사이버보험 시장은 제한적",
-      "summary": "해킹 증가에 대응하는 사이버보험 시장의 규모가 일본과 비교해 작다는 보도가 나왔습니다. 사이버 위험에 대한 관심은 커지고 있지만, 기사 제목상 국내 시장의 성장 수준은 아직 제한적인 것으로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXWWQwV3JKUTBkWXp3bXQyMlJZWFE0Q3Q1YlNfcnJlaDVMeXRPYlNZMHppcDNXUDFvWlJaYXl1N3B2STgyOWc2OG0wZ3ZoWmhGdEI3LWtR?oc=5",
-      "source": "중앙일보"
+      "tag": "소비자 보호",
+      "title": "보험금 부당 미지급 적발과 서류 위조 대응…보험금 심사 신뢰 이슈",
+      "summary": "금융감독원의 보험금 부당 미지급 적발액이 DB손해보험에서 가장 컸다는 보도가 나왔고, 고객 서류 위조를 AI로 잡겠다는 대응도 함께 언급됐습니다. 보험금 지급 과정의 적정성과 사기·위조 탐지가 소비자 보호와 심사 체계의 핵심 과제로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOUXlISmFfMFdrSWxKdTM4ZnBVanhpZ2JnbWxYY1R6QWFqMF93YWY2VDJHdktsUHIxNXJweHQxelRoNU5GNFZYMXpPVEZtcVdYTjFHY0ZjRnB3a3d5algxZmpvdFdja0NhNmktSlZVTTRKMk9iYkYzQllpUGhuMFo0NkpER1VGUXYwZ05xby1HX2xKYUQ2WFo3elNQNlpLbE04cUpsTXFhblZqZV9aWDJ4R3BTXzdMMV9teWRiVTVPS0FNYmNvSFF0Ny1CT0pKVkY0Umh4QXl6QWl3UWw0YXQtSzBpVUdEYzRRSjV1NllUT0VMNjJORWlnMlh3OGpMR2p4TkJLaGFlVlFiWmhncFJMRkhUbU02ZjNIRmxYRnQ0YTlZYTQ3WlV6ZDM1RzNVMk4xak9ydEZn?oc=5",
+      "source": "뉴스필드"
     },
     {
-      "tag": "M&A·건전성",
-      "title": "OK금융의 예별손해보험 인수, 승인과 자본 여력 검증 주목",
-      "summary": "OK금융의 예별손해보험 인수가 금융당국 승인 절차와 예금보험공사 지원 여부, 인수 주체의 자본 여력 검증 단계에 들어섰다는 보도가 나왔습니다. 거래 성사 여부와 함께 인수 이후 건전성을 뒷받침할 자본 기반이 핵심 쟁점으로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sTmtmczc5TjI4Vl95cXo0ZTdNcU93ZlZQdUM3aG1xck1aY0twS1FZOTZGMVRMMHhxR1lGWHp1NE9BY1JKZnZKWmdXbGZ5T0hpWHNlaGlOMjB4M25yWFU5WEowNThMcDZH?oc=5",
-      "source": "녹색경제신문"
+      "tag": "계약 관리",
+      "title": "생명보험 3년 계약유지율 1년 새 17%포인트 상승…유지 관리 중요성 부각",
+      "summary": "생명보험 3년 계약유지율이 1년 사이 17%포인트 상승했다는 보도가 나왔습니다. 신계약 확보뿐 아니라 계약을 유지하는 관리가 중요하다는 점이 보험영업의 주요 과제로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zVURQS3hOWmdaek1iNFVldXdHQWVtSnpjY01YTkd4b3ZiN195ejRCbk5jdlNydlp0WTJQVE5DUERrMFlLM0tzS1FyamZ3eFlQRDFkQ0FKQjhnWVdCMmMtYQ?oc=5",
+      "source": "아시아경제"
     }
   ]
 }
