@@ -1,70 +1,70 @@
 {
-  "updatedAt": "2026-10-12T02:32:22.855Z",
+  "updatedAt": "2026-10-13T03:41:56.089Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사 중 동일한 보험광고 위반, 새마을금고보험 비대면 서비스 개편 관련 보도는 하나의 이슈로 통합했습니다. 제공된 기사 메타데이터에는 미국 금리·국내외 채권금리·환율·부동산시장 흐름에 대한 직접적인 정보가 없어 해당 변수의 방향과 영향은 판단하지 않았습니다.",
+  "editorNote": "최근 24시간 기사 중 동일 사안을 다룬 보도는 하나의 이슈로 통합했습니다. 제공된 메타데이터에 금융시장 수치나 흐름이 포함되지 않은 경우에는 판단 불가로 표시했습니다.",
   "keywords": [
-    "보험광고 규제",
-    "펫보험 통계",
-    "비대면 보험",
-    "보험계약 유지율",
-    "보험영업·AI"
+    "건강보험 재정",
+    "골든종신보험",
+    "사이버보험",
+    "보이스피싱 보상보험",
+    "실손보험"
   ],
-  "marketSummary": "제공된 메타데이터상 국내 보험시장에서는 DB손해보험 주가와 보험사 실적 전망, 상품 보장한도 조정이 관찰됐지만 미국 금리·채권금리·환율·부동산 등 금융시장 흐름은 확인되지 않습니다.",
+  "marketSummary": "제공된 기사 목록에는 미국 금리·국내외 채권금리·환율·부동산 등 금융시장 흐름을 보여주는 정보가 없어, 이를 보험시장 관점에서 평가하기 어렵습니다.",
   "marketContext": [
     {
-      "label": "국내 보험주 주가",
-      "summary": "DB손해보험이 외국인 6일 연속 순매수와 함께 주가 2.20% 상승을 기록했다는 기사가 나왔습니다. 보험사 주가 흐름은 투자자 관심을 보여주는 지표지만, 제공된 기사만으로 상승 배경이나 보험산업 전반의 방향을 판단할 수는 없습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RMlJsd29pb0FQTDV3WEZnTXVjcm1OOUpfYlNqSDJ5Y0pCekJzNmJ2MUxXd3EwUVVqbDJfUmxjNjR4QjNFdUY0UWw4NkRwR05TVjBfOGxyZTVZUnJq?oc=5",
-      "source": "뉴스핌"
+      "label": "미국 금리",
+      "summary": "제공된 기사 메타데이터에는 미국 금리의 변동이나 전망이 언급되지 않았습니다. 따라서 보험사의 자산운용과 상품가격에 미친 당일 영향은 판단할 수 없습니다.",
+      "url": "",
+      "source": "제공 기사 목록"
     },
     {
-      "label": "보험사 실적 전망",
-      "summary": "한화손해보험과 DB손해보험의 2026년 3분기 실적 전망 및 목표주가 관련 리포트가 소개됐습니다. 실적 전망은 보험사의 수익성과 건전성 평가에 연결될 수 있지만, 기사 메타데이터에는 전망의 세부 근거가 제시되지 않았습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42MlJFclB3T21vUUNiU044M3Y3MUFwVU1tV3pPQnFNX1M5N0llajhENkVzNjVvTTFxR05Jd25KWk5hR1dnY290eTlsdXFuZUF1YmEwWW5VZnpCejl4?oc=5",
-      "source": "뉴스핌"
+      "label": "국내외 채권금리",
+      "summary": "국내외 채권금리 관련 기사나 수치가 제공되지 않았습니다. 이에 따라 보험사의 채권 운용 및 건전성에 대한 당일 연결고리는 확인되지 않습니다.",
+      "url": "",
+      "source": "제공 기사 목록"
     },
     {
-      "label": "보험상품 보장한도",
-      "summary": "하나손해보험이 담보 가입한도를 하향 조정했다는 보도가 나왔습니다. 이는 소비자가 이용할 수 있는 보장 규모와 상품 설계에 직접 연결되는 변화지만, 조정 대상과 배경은 제공된 메타데이터만으로 확인되지 않습니다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTF53NGluWHlUdGIweXFiTDFvYmhrZFdkRFFSbXdFWDVCNERiUVVZN2NvaFctc2ZQUzJkUUpiNW1NS195Wl9Ibzk1OXNYY1Z5RU1UcHAyWndLUmhyeDV6SGNhTEJpRXVEV2ozYW9F?oc=5",
-      "source": "보험신보"
+      "label": "환율·부동산",
+      "summary": "환율이나 부동산시장 흐름을 다룬 기사가 없어 관련 변수가 보험사의 자산운용·상품가격·건전성에 미친 영향은 판단할 수 없습니다.",
+      "url": "",
+      "source": "제공 기사 목록"
     }
   ],
   "issues": [
     {
-      "tag": "규제·소비자보호",
-      "title": "보험광고 규정위반 4만7000건에도 제재금 부과는 10건",
-      "summary": "최근 4년 반 동안 보험광고 규정 위반이 4만7000건 이상 발생했지만 협회 제재금 부과는 10건에 그쳤다는 보도가 여러 매체에서 반복됐습니다. 위반 규모와 제재 건수의 격차가 온라인 보험광고 심의와 제재의 실효성 논란으로 이어지고 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFM1ZDkwa3llTUxYNEpOOGR6MmEzZHpZWEtKWmx4OERWdjlMSFNINE82WGZydzhyQmlObS1UWjNLdmw2X0RpWEpNeWhraG5tS21ac1RoNDh0ZmtRSEJHWUJiVXFDUHFjMnFSakI1RjkzQQ?oc=5",
-      "source": "보험저널·연합뉴스·아시아경제·조세일보·TBS·인더스트리뉴스·브릿지경제"
+      "tag": "공공보험 재정",
+      "title": "건강보험, 2030년 부채비율 100% 초과 전망…재정 악화 우려",
+      "summary": "여러 보도에서 보험료 동결과 의료비 증가 등의 영향으로 2030년 건강보험 부채비율이 100%를 넘을 수 있다는 전망이 제시됐습니다. 건강보험 재정의 지속가능성과 보험료·지출 관리가 핵심 쟁점으로 부상했습니다.",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BQU04ZTNNbzlVWm1OcGJjbUlaM1FydzNxMno0TU1lVVlwVm9oa0FqbUpEZnhNQ2xnakt3U1F3UURHalNLeHVTMnlIYVpLZ1J2Xzh2MTRST1V4ZTM3Sml5X0hqbnZ5VkVVdTJ5blJn?oc=5",
+      "source": "아시아투데이·BBS불교방송·글로벌이코노믹·연합뉴스"
     },
     {
-      "tag": "펫보험",
-      "title": "성장한 펫보험 시장, 가입률과 기초 통계는 여전히 불명확",
-      "summary": "펫보험 시장 규모가 1000억원에 이르지만 가입률 2%대는 추산치이고 관련 기초 통계가 기관별로 분산돼 있다는 지적이 나왔습니다. 동시에 펫보험을 치료비 보상뿐 아니라 반려동물 생애주기 관리로 확장해야 한다는 주장과 데이터 인프라 공급 소식도 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLRFhGZEIzakdHc3R5OVFVYndlai0yVmFhbzB5eTR6Ujl5UVNiU09fUXVQdDB6dlhJVl9mX3RKVkZOdGkxYnlFZlJXU3J4M2t5dkJLdzM5MGt2bWRwNkltVmVfcnNfU01i?oc=5",
-      "source": "녹색경제신문·보험저널·보험신보"
+      "tag": "생명보험 상품",
+      "title": "삼성생명, 암 보장·인출 기능을 강화한 골든종신보험 개정 출시",
+      "summary": "삼성생명은 골든종신보험에 암 보장과 인출 기능 등을 강화한 개정 상품을 출시했습니다. 종신보험에 생존 혜택을 결합해 신규 수요를 겨냥하는 상품 경쟁이 이어지고 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IWVBiWXIxdHp1YUV6RUlFQmdpbTJlalhoTTFNR2hhTm53QVZFQXV2eWZ4Q0UxYmlBUWF6UmpjbHhiOTdxekZ6Mk5uWURzZ0xuNVF4VXVzTm4ySm03ZzF3dTJoX1cyRVNobk1N?oc=5",
+      "source": "보험신보·머니투데이·연합뉴스·뉴스핌·아시아경제·녹색경제신문"
     },
     {
-      "tag": "디지털 전환",
-      "title": "새마을금고보험, 모바일 앱·홈페이지 UX·UI 전면 개편",
-      "summary": "새마을금고보험이 모바일 앱과 보험 홈페이지의 사용자경험·사용자환경을 개선하고 비대면 보험 서비스를 전면 개편했다는 보도가 여러 매체에서 나왔습니다. 이번 개편은 보험 업무를 더 쉽고 편리하게 이용하도록 하는 디지털 접점 강화 움직임으로 소개됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BZ1U4Ny05WWRXVzNxZmdRSWVUSUYzN3RGbER3ZmF4YUVFR045bjQ4UjJEV2ZmdGVqYlFzWU01eUtQbjI2S1pYZFlVLTBzZlF4ZzVZOG5YVXdQaldCV1NvMTlmamc?oc=5",
-      "source": "서울경제TV·전자신문·메트로신문·리드경제·일간투데이"
+      "tag": "사이버 리스크",
+      "title": "AI·금융권 해킹 확산에 사이버보험 가입 증가",
+      "summary": "AI 해킹과 금융권 연쇄 해킹을 배경으로 기업의 패키지형 사이버보험 가입이 늘고 있다는 보도가 나왔습니다. 사이버 위험이 기업 보장 수요와 보험상품 확대의 배경으로 부각되고 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnYW9VenNSMjgzaGxLejJqa3dMMHlzNkVnSnBPOU5zR2o4emlXajF1dURkTGVHUDhlTTJDZTkzMlJmWnBMNmpBeXFUdEVIRndlOGNENWVyaVJtUlJXT3JEbE5qeXN0MjVIV0FKYUd1eDE?oc=5",
+      "source": "연합인포맥스·농민신문"
     },
     {
-      "tag": "생명보험 상품·유지율",
-      "title": "생명보험, 계약 유지와 연금 중심의 노후소득 경쟁 부상",
-      "summary": "생명보험 3년 계약유지율이 1년 새 17%포인트 상승했다는 보도와 함께 계약 유지가 신계약 확보만큼 중요하다는 분석이 나왔습니다. 종신보험 상품 변화와 연금보험 부상도 함께 언급되며 생명보험사의 노후소득 상품 경쟁이 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zVURQS3hOWmdaek1iNFVldXdHQWVtSnpJY01YTkd4b3ZiN195ejRCbk5jdlNydlp0WTJQVE5DUERrMFlLM0tzS1FyamZ3eFlQRDFkQ0FKQjhnWVdCMmMtYQ?oc=5",
-      "source": "아시아경제·한국보험신문"
+      "tag": "보이스피싱 보상",
+      "title": "NH농협은행 보이스피싱 보상보험 가입자 18만명 돌파",
+      "summary": "NH농협은행이 고령층을 대상으로 지원한 보이스피싱 보상보험의 가입자가 18만명을 넘어섰다는 보도가 여러 매체에서 나왔습니다. 금융사와 보험을 결합한 피해보상 지원이 확대되고 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBielJDR2F1eFBHbG1kZF9acnFVcWx2NkxrNU9YdlBpLWJqU3I5NnBNNUMyaVdPMk1KWVdpQV9rZURaRDNRa3lXUnV2MTZNR3I2dlp6aWRlZXZhc1FodGFJZTVFWG8?oc=5",
+      "source": "서울경제TV·팍스경제TV·뉴스퀘스트·연합뉴스 한민족센터·헤드라인제주"
     },
     {
-      "tag": "보험영업·AI",
-      "title": "보험 판매전문회사와 AI 활용을 둘러싼 영업 혁신 논의",
-      "summary": "설계사 10명 중 7명이 보험판매전문회사 도입이 필요하다고 응답했다는 조사와 보험영업 규제 변화 관련 칼럼이 소개됐습니다. GA의 영업지원·내부통제 및 보험계리·약관 업무에서 AI 활용이 확대되는 흐름도 함께 나타났습니다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3cTNnMWNUUkJnZHUtS2JTU2hJSDlUVzlyQWJwYjJ0dTluQjd6bEtUMEFnckRxMFVidjVCSzdnZ1lxb2cyUTQ1bGRheWg2Qno4Z1RkZFk1RHZueGQ1YWQ4NEVLOVhjNzljdDJV0gFvQVVfeXFMTW1RR1VjTUhwLWR4WXRrLTQ1WkZUYTJuRlEwd0l6LVNyLVZoMUtIR1ExV3BLS2RtN2NHMm9XM2F5aU03bjJJcGhHUTcwODZzbHNob3dkTmtBb3ZjenJOTk52aEFidFJuMTNWbmlFTkVB?oc=5",
-      "source": "한국보험신문·보험신보·머니투데이"
+      "tag": "실손·소비자 보호",
+      "title": "실손 보장 차등화와 보험 판매·청구 기준을 둘러싼 논의",
+      "summary": "실손보험 보장 차등화가 중증환자의 상급병원 쏠림을 부추길 수 있다는 지적이 나왔고, 하지정맥류 수술은 의학적 필요성이 판단 기준으로 제시됐습니다. 고령 소비자의 기존 보험 해지 피해와 일본의 보험대리점 비교·추천 규제 강화 사례도 함께 보도돼 상품 설계와 판매 관행의 소비자 보호 이슈가 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE16aHhTX2pzWUFOdFR1cFhXb00tMzVMdzROcWVVejRfMTl1X09mOXNGamc2VjVCd1g2TTAxUVZjazQwWGxt?oc=5",
+      "source": "후생신보·경북매일·보험저널"
     }
   ]
 }
