@@ -1,70 +1,70 @@
 {
-  "updatedAt": "2026-10-13T03:41:56.089Z",
+  "updatedAt": "2026-10-14T02:01:27.585Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사 중 동일 사안을 다룬 보도는 하나의 이슈로 통합했습니다. 제공된 메타데이터에 금융시장 수치나 흐름이 포함되지 않은 경우에는 판단 불가로 표시했습니다.",
+  "editorNote": "최근 24시간 기사 메타데이터를 기준으로 제목과 주제가 겹치는 보도를 하나의 이슈로 통합했습니다. 제공된 목록에는 미국 금리·국내외 채권금리·환율·부동산 등 전통적 금융시장 지표를 직접 다룬 기사가 없어, 보험주 주가와 보험사 실적·자본 이슈를 보험시장 관련 시장 변수로 정리했습니다.",
   "keywords": [
-    "건강보험 재정",
-    "골든종신보험",
-    "사이버보험",
-    "보이스피싱 보상보험",
-    "실손보험"
+    "생활자금형 종신보험",
+    "건강관리 서비스",
+    "기후·지수형 보험",
+    "롯데손해보험 인수",
+    "보험손익 개선"
   ],
-  "marketSummary": "제공된 기사 목록에는 미국 금리·국내외 채권금리·환율·부동산 등 금융시장 흐름을 보여주는 정보가 없어, 이를 보험시장 관점에서 평가하기 어렵습니다.",
+  "marketSummary": "제공된 기사에서는 보험주 주가와 보험사 실적, 인수에 따른 추가 증자 가능성이 부각됐으며 미국 금리·채권금리·환율·부동산 흐름은 확인되지 않습니다.",
   "marketContext": [
     {
-      "label": "미국 금리",
-      "summary": "제공된 기사 메타데이터에는 미국 금리의 변동이나 전망이 언급되지 않았습니다. 따라서 보험사의 자산운용과 상품가격에 미친 당일 영향은 판단할 수 없습니다.",
-      "url": "",
-      "source": "제공 기사 목록"
+      "label": "보험주 주가와 주주환원 기대",
+      "summary": "DB손해보험은 실적 변동에도 주주환원 기대가 거론됐고, 롯데손해보험은 신한지주 피인수 소식에 주가가 상승했다는 보도가 나왔습니다. 보험시장에서는 개별 보험사의 실적과 인수 기대가 주가와 투자심리에 연결되는 흐름으로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lS1BKMFFXdHllRkk3ampSVjdsOVIxNjBkVTA3c1ZLVmtvZ3hENGdNdi1QZEQ0dUhtSDJhTGpMYkp3RmNrMHdjX3BnLU0zMEI2WmdpREVhSHc4OTFJRUItSUNJeDdtX1htZ2gxZGEzdEtTeGU0?oc=5",
+      "source": "조세일보"
     },
     {
-      "label": "국내외 채권금리",
-      "summary": "국내외 채권금리 관련 기사나 수치가 제공되지 않았습니다. 이에 따라 보험사의 채권 운용 및 건전성에 대한 당일 연결고리는 확인되지 않습니다.",
-      "url": "",
-      "source": "제공 기사 목록"
+      "label": "보험손익과 순이익 전망",
+      "summary": "한화손해보험은 보험손익 개선세가 뚜렷하다는 평가와 함께 3분기 순이익이 전망치를 밑돌 수 있다는 보도가 함께 나왔습니다. 보험손익과 순이익 전망의 차이는 보험사의 수익성과 주가 평가를 좌우하는 핵심 변수로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjUllUV1FJM3J1NDFKbTc3RUQ3VWJHcjc5bF9ENjdCeU1rM0JZaDM3OXJvaEMwaVhoLWFBYlRJelM0TTA3VTFaYmpiT3BnQ0U1a0t0Uy1hNmVEVno5?oc=5",
+      "source": "뉴스핌"
     },
     {
-      "label": "환율·부동산",
-      "summary": "환율이나 부동산시장 흐름을 다룬 기사가 없어 관련 변수가 보험사의 자산운용·상품가격·건전성에 미친 영향은 판단할 수 없습니다.",
-      "url": "",
-      "source": "제공 기사 목록"
+      "label": "인수와 추가 증자 가능성",
+      "summary": "신한금융의 롯데손해보험 인수와 관련해 기대와 우려가 공존하며 추가 증자 가능성을 해소해야 한다는 분석이 보도됐습니다. 인수 이후 자본 확충 여부는 보험사의 재무 부담과 건전성에 영향을 줄 수 있는 쟁점으로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZSm5rRkRpUnRhcVRYd0pmdWIyWGNnNUFqMWE5RXlaSEYtN3ZvUGFYX01IYkxhLVk4OFd4RVBJbUJtcEw5SjRaLWZ4aE1jSEZnbUtSdWcxdnRuQU5VMk1JRVVjODEwWExhQnctWWdWcFNnLXc?oc=5",
+      "source": "비즈니스포스트"
     }
   ],
   "issues": [
     {
-      "tag": "공공보험 재정",
-      "title": "건강보험, 2030년 부채비율 100% 초과 전망…재정 악화 우려",
-      "summary": "여러 보도에서 보험료 동결과 의료비 증가 등의 영향으로 2030년 건강보험 부채비율이 100%를 넘을 수 있다는 전망이 제시됐습니다. 건강보험 재정의 지속가능성과 보험료·지출 관리가 핵심 쟁점으로 부상했습니다.",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BQU04ZTNNbzlVWm1OcGJjbUlaM1FydzNxMno0TU1lVVlwVm9oa0FqbUpEZnhNQ2xnakt3U1F3UURHalNLeHVTMnlIYVpLZ1J2Xzh2MTRST1V4ZTM3Sml5X0hqbnZ5VkVVdTJ5blJn?oc=5",
-      "source": "아시아투데이·BBS불교방송·글로벌이코노믹·연합뉴스"
+      "tag": "상품전환",
+      "title": "종신보험, 사망보장에서 생전 생활자금·반복 보장으로 확장",
+      "summary": "한화생명은 납입 보험료를 생활자금으로 활용하는 종신보험을 출시했고, NH농협생명은 사망보험금을 당겨 쓰고 보장을 다시 채우는 상품을 내놨다는 보도가 나왔습니다. 종신보험이 사망 이후 보험금 중심에서 가입자가 생전에 활용할 수 있는 보장과 자금 기능을 강화하는 방향으로 바뀌고 있다는 의미입니다.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Sd3NFazYtTzZUdzlXd1FUS2NLbEVsMlNPVzhSaEY0Q18tLU5iZDRJaXotNTlqSy1GVUtqSTNBX0kxc2h3elJrUEdxQ2hnbEpOWHFjR2dQMjc4THd3Q0xv?oc=5",
+      "source": "경향신문"
     },
     {
-      "tag": "생명보험 상품",
-      "title": "삼성생명, 암 보장·인출 기능을 강화한 골든종신보험 개정 출시",
-      "summary": "삼성생명은 골든종신보험에 암 보장과 인출 기능 등을 강화한 개정 상품을 출시했습니다. 종신보험에 생존 혜택을 결합해 신규 수요를 겨냥하는 상품 경쟁이 이어지고 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IWVBiWXIxdHp1YUV6RUlFQmdpbTJlalhoTTFNR2hhTm53QVZFQXV2eWZ4Q0UxYmlBUWF6UmpjbHhiOTdxekZ6Mk5uWURzZ0xuNVF4VXVzTm4ySm03ZzF3dTJoX1cyRVNobk1N?oc=5",
-      "source": "보험신보·머니투데이·연합뉴스·뉴스핌·아시아경제·녹색경제신문"
+      "tag": "헬스케어",
+      "title": "보험 가입 이후 건강관리 서비스 경쟁 확대",
+      "summary": "교보생명은 보험 가입 후 건강관리 프로그램인 ‘평생든든서비스’를 확대·론칭했다는 보도가 여러 매체에서 반복됐습니다. 보험사가 보장 제공에 그치지 않고 가입 이후 건강활동과 고객 접점을 관리하는 서비스 경쟁으로 영역을 넓히고 있다는 의미입니다.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WZUtzSHdzUzNqWEp4cGRZY09oTjQzSmtMZXlkb3JEMExfYzhKSndhZk16aDhZdk9xS1BhbFU1NkNuaGVTT1IteWlZQnVXRmZFdmhiVXdJLThzZw?oc=5",
+      "source": "브릿지경제"
     },
     {
-      "tag": "사이버 리스크",
-      "title": "AI·금융권 해킹 확산에 사이버보험 가입 증가",
-      "summary": "AI 해킹과 금융권 연쇄 해킹을 배경으로 기업의 패키지형 사이버보험 가입이 늘고 있다는 보도가 나왔습니다. 사이버 위험이 기업 보장 수요와 보험상품 확대의 배경으로 부각되고 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnYW9VenNSMjgzaGxLejJqa3dMMHlzNkVnSnBPOU5zR2o4emlXajF1dURkTGVHUDhlTTJDZTkzMlJmWnBMNmpBeXFUdEVIRndlOGNENWVyaVJtUlJXT3JEbE5qeXN0MjVIV0FKYUd1eDE?oc=5",
-      "source": "연합인포맥스·농민신문"
+      "tag": "기후보험",
+      "title": "기후재난 보장 공백에 지수형 보험 확대 논의",
+      "summary": "기후재난으로 인한 복구비 부담과 보장 공백을 배경으로 지수형 보험을 대안으로 활용해야 한다는 보도가 이어졌습니다. 보험업계가 기후위험에 대응하려면 위험평가와 보험금 지급체계 개선이 필요하다는 과제가 함께 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80VVBhTkhpcUZqUGpwNjFmR0V6MnpFN0w1RXI0SWNJRHZPY1ZJVDRya190RENwbjFUTWhKUlRPdDVzYnlPVEFUaUZkS1M1UUFySFEyWEw5S2h2R2w1LVNQ?oc=5",
+      "source": "보험매일"
     },
     {
-      "tag": "보이스피싱 보상",
-      "title": "NH농협은행 보이스피싱 보상보험 가입자 18만명 돌파",
-      "summary": "NH농협은행이 고령층을 대상으로 지원한 보이스피싱 보상보험의 가입자가 18만명을 넘어섰다는 보도가 여러 매체에서 나왔습니다. 금융사와 보험을 결합한 피해보상 지원이 확대되고 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBielJDR2F1eFBHbG1kZF9acnFVcWx2NkxrNU9YdlBpLWJqU3I5NnBNNUMyaVdPMk1KWVdpQV9rZURaRDNRa3lXUnV2MTZNR3I2dlp6aWRlZXZhc1FodGFJZTVFWG8?oc=5",
-      "source": "서울경제TV·팍스경제TV·뉴스퀘스트·연합뉴스 한민족센터·헤드라인제주"
+      "tag": "업계재편",
+      "title": "신한금융의 롯데손해보험 인수, 기대와 우려 교차",
+      "summary": "신한지주가 롯데손해보험을 인수한다는 소식에 롯데손해보험 주가는 상승했지만 신한지주 주가는 하락했다는 보도가 나왔습니다. 인수 자체의 기대감과 함께 추가 증자 가능성을 해소해야 한다는 분석이 제기되며 거래 이후 자본 부담이 주요 쟁점으로 부상했습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbUNPMHdnYkE5bk52cTZUS0ZxODZHWERhVEZDenBnbTROV29TWDVXb1NtcDY2QWljYUR3ZDlmSTJmb0p4NlZqQzVlOTI4SlVBQVd5MHpJdE9ZbTd0OTZJbktkazE3OXhwSENjYURldGd0UzVyT25uZnk1S0pxMUNsWGdBUUZRRDJs?oc=5",
+      "source": "글로벌이코노믹"
     },
     {
-      "tag": "실손·소비자 보호",
-      "title": "실손 보장 차등화와 보험 판매·청구 기준을 둘러싼 논의",
-      "summary": "실손보험 보장 차등화가 중증환자의 상급병원 쏠림을 부추길 수 있다는 지적이 나왔고, 하지정맥류 수술은 의학적 필요성이 판단 기준으로 제시됐습니다. 고령 소비자의 기존 보험 해지 피해와 일본의 보험대리점 비교·추천 규제 강화 사례도 함께 보도돼 상품 설계와 판매 관행의 소비자 보호 이슈가 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE16aHhTX2pzWUFOdFR1cFhXb00tMzVMdzROcWVVejRfMTl1X09mOXNGamc2VjVCd1g2TTAxUVZjazQwWGxt?oc=5",
-      "source": "후생신보·경북매일·보험저널"
+      "tag": "수익성",
+      "title": "한화손해보험, 보험손익 개선과 순이익 전망 엇갈려",
+      "summary": "한화손해보험의 보험손익이 개선됐다는 평가가 나왔지만 3분기 순이익은 전망치를 밑돌 수 있다는 보도도 함께 나왔습니다. 보험영업의 개선세와 전체 순이익의 차이가 보험사의 실적 평가에서 핵심적으로 살펴볼 지점으로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjUllUV1FJM3J1NDFKbTc3RUQ3VWJHcjc5bF9ENjdCeU1rM0JZaDM3OXJvaEMwaVhoLWFBYlRJelM0TTA3VTFaYmpiT3BnQ0U1a0t0Uy1hNmVEVno5?oc=5",
+      "source": "뉴스핌"
     }
   ]
 }
