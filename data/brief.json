@@ -1,64 +1,64 @@
 {
-  "updatedAt": "2026-10-17T01:23:16.427Z",
-  "articleCount": 45,
-  "editorNote": "최근 24시간 기사 중 동일한 건강보험 재정·실손보험 연계 이슈와 종신보험 상품 개편 이슈는 각각 하나의 이슈로 통합했습니다. 제공된 기사 목록에는 미국 금리·국내외 채권금리·환율·부동산 가격의 구체적 흐름이 포함되지 않아 해당 변수에 대해서는 확인 가능한 범위만 반영했습니다.",
+  "updatedAt": "2026-10-18T01:17:59.582Z",
+  "articleCount": 20,
+  "editorNote": "최근 24시간 기사 기준으로 상품 출시·판매 경쟁, 실손보험 제도 변화, 건강보험 재정, 펫보험 수익성, 보험금 청구·유동성 이슈를 중심으로 중복·연관 기사를 묶었습니다. 제공된 기사 메타데이터에서는 환율·부동산의 구체적인 흐름은 확인되지 않습니다.",
   "keywords": [
-    "건강보험 재정 누수",
-    "실손보험 개편",
-    "종신보험 생전 보장",
-    "보험판매 수수료",
-    "풍수해보험 지급"
+    "종신보험",
+    "실손보험",
+    "펫보험",
+    "건강보험 재정",
+    "금리·유동성"
   ],
-  "marketSummary": "제공된 기사 목록에서는 금리·환율·부동산 등 금융시장 흐름보다 건강보험 재정 안정화, 실손보험 연계 개편, 보험상품 및 판매채널 변화가 두드러져 보험시장 관심이 제도·상품·소비자 보호 이슈에 집중된 것으로 나타났습니다.",
+  "marketSummary": "오늘 기사에서 확인되는 금융시장 연결고리는 금리 상승 시 저축성보험 해지와 보험사 유동성 관리 부담이 커질 수 있다는 점이며, 별도의 환율·부동산 흐름은 제시되지 않았습니다.",
   "marketContext": [
     {
-      "label": "재해·기후 위험",
-      "summary": "글로벌 방재·보험 산업의 패러다임 전환, 제주 레드향 피해에 따른 농작물보험 가입 증가, 풍수해보험 보험금 미지급 문제가 함께 제기됐습니다. 재해 위험은 보험의 보장 범위와 보험금 지급 이슈, 상품 설계와 연결되는 변수로 볼 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3IzYUw5WVV2cExSelBoR0x2am1RekVYSjBIdnh0SkhhakRySms3RWRCWHJIenVGZThIdWdZX1IydVJCeDgwcmZVdXUzOTBUMHhpSTExMnJpYjlnV25XZldOUHVUbkJiemNRTzRabWVJc1BQbXE0dDYtSnpnaTF6WWN0dU9QZDNoOGMwal8tREhqbHZ4dEdON0J2VVBlX0VlSzJzTFpLaw?oc=5",
-      "source": "Deloitte"
+      "label": "금리 상승",
+      "summary": "금리가 오르면 저축성보험 해지가 늘어날 수 있다는 분석이 제기됐다. 이는 보험사의 자산운용과 유동성 관리 부담, 상품의 유지율에 연결되는 변수다.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWVdlNllKMEJnSmgwR1hvdFZCNkNrazNSSUc5XzY0MDc1alZVNXdxU2pzd0RSRGNFRVVqV0p5NkU2N0FGeVB4dE9BWXVLOXZZbjc4bkZuVGhDckl3dGluVlB1dGw3U3NyMVMwNzhEOFc4d2xfb09pZkRRRUg3TVJBUw?oc=5",
+      "source": "이데일리"
     },
     {
-      "label": "금리·채권·환율·부동산",
-      "summary": "제공된 기사 목록에는 미국 금리, 국내외 채권금리, 환율 또는 부동산 가격의 최근 움직임에 대한 구체적 정보가 없습니다. 따라서 보험사의 자산운용 수익률, 상품가격, 지급여력에 미치는 해당 변수의 방향성은 이번 자료만으로 판단할 수 없습니다.",
-      "url": "",
-      "source": "제공 기사 목록"
+      "label": "보험사 유동성",
+      "summary": "금리 상승에 따른 저축성보험 해지 가능성이 보험사의 유동성 관리 필요성을 높이는 요인으로 언급됐다. 해지 흐름은 보험사의 자산 매각 및 현금성 자산 관리와 연결될 수 있다.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWVdlNllKMEJnSmgwR1hvdFZCNkNrazNSSUc5XzY0MDc1alZVNXdxU2pzd0RSRGNFRVVqV0p5NkU2N0FGeVB4dE9BWXVLOXZZbjc4bkZuVGhDckl3dGluVlB1dGw3U3NyMVMwNzhEOFc4d2xfb09pZkRRRUg3TVJBUw?oc=5",
+      "source": "이데일리"
     }
   ],
   "issues": [
     {
-      "tag": "건강보험 재정",
-      "title": "건강보험 적자·재정 누수 대응, 국고지원과 관리 강화 요구",
-      "summary": "국감과 관련 보도에서 건강보험 적자 확대 및 2029년 적립금 소진 전망, 국고지원 미지급액, 실손보험 사기와 비급여 등에 따른 재정 누수가 집중적으로 다뤄졌습니다. 특사경 도입, 약가·유통 개선, 안정적 국고지원 확대 등이 재정 안정화 방안으로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtdUhBMVN5cWtaa1dKWDV1WWJTbzlSUE5TY2J3YnBjSDNMb2lDWHNwTkZQeW5nY0o4SEl1dWpzTGQzUVRkVVFEUGF6Y1k1c053VDJwSld6MVpucHJUalZxZUVBaENUdmRodDVZ?oc=5",
-      "source": "메디파나뉴스 외"
+      "tag": "상품·판매",
+      "title": "종신보험 신상품 출시와 판매 경쟁 확대",
+      "summary": "한화생명은 생애자금 인출이 가능한 ‘필요 종신보험’을 출시했고, 흥국생명은 보험료 페이백과 건강보장을 결합한 ‘리턴 종신보험’을 내놨다. ‘700종신’ 판매 중단 이후에도 종신보험 시장에서 신상품을 통한 판매 경쟁이 이어지는 흐름이다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEV2xSZnBpUDFtdURJbDdoa0dLQjB0MlZYUE1XYTRmTHRCUUh4R0lhcTg0OFJYLW9xRm92TUp3dUtZZlEwOFNIQzhiMFhPV0NWTVdtYXoyVXYtVmpjQk9QddIBeEFVX3lxTFBKOFEycGJqV3p1UTlqN2xCRnRlNFpVaW1yWGZteFRad1R6bm4yYy1iTkhpSS13cTJBQjNaaW91aVdNaWdhZktMVTRHMkVJZTVtQnFneVY3SUlRU2JRWUp5dkZsVDlNTjhJTHY3dDNiSF9MVG1WRFIwWg?oc=5",
+      "source": "뉴시스"
     },
     {
-      "tag": "실손·건보 연계",
-      "title": "본인부담상한제·실손보험 연계 개편과 부정 등록 관리",
-      "summary": "건보공단의 본인부담상한제와 실손보험 연계구조 개편 추진, 실손보험 사기와 건보 재정 누수 차단 방안이 제기됐습니다. 임플란트의 동의 없는 등록·변경 사례와 관리 부실도 함께 지적돼 제도 운영과 데이터 관리 개선 필요성이 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wcWVoNXo5N2tCOEhULWRhbmxWel9XbEVDMkw3QkhZZDZwQzBadmxWQlUwSlpaWU8tYW0zREhnVXR3eUI0cE40eG5hNlV3UVVoem5yVVh3dFBHRlBMSlVTYWJsOVJ2NGZ0QXc?oc=5",
-      "source": "의학신문 외"
+      "tag": "제도·가격",
+      "title": "실손보험 할인형 특약·세대 전환 도입 임박",
+      "summary": "실손보험료를 낮출 수 있는 할인형 특약과 세대 전환이 다음 달 도입될 예정이라는 내용이 보도됐다. 제도 변화는 가입자의 보험료 부담과 기존 계약의 유지·전환 선택에 영향을 줄 수 있다.",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUU3NaTi1LZV9ycHluMHBCbGRUdi1Xc2JmTWlmVlN0WEg2VzdTVHdtdG9MLTdKMlhVcXI5V2Z0YTI4blhyYWx0bmljcmswYXlISzhMNg?oc=5",
+      "source": "매일경제"
     },
     {
-      "tag": "생명보험 상품",
-      "title": "고환급 경쟁 이후 종신보험, 생전 자금·건강 보장으로 전환",
-      "summary": "종신보험이 사망보장 중심에서 생전 자금 활용과 건강 보장을 강화하는 방향으로 개편되고 있으며, 삼성생명은 인출 시점을 단축한 개정 상품을 선보였습니다. 고환급 경쟁이 제한된 상황에서 상품의 보장 방식과 고객 활용성을 바꾸려는 흐름으로 보도됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IMVVhaW5mOG8xY1VkXzFQaWtETkNVRUdUcndNWHE3ajBWZnpnWlE2WUgwUEE0OHVReWxDM0cxV0JEQmN2dDVIVnIyWTV0NUg1czBuNEJBODlZYjVoVlgyWl9xSXhiSm9yTFFtMUg1?oc=5",
-      "source": "IT조선 외"
+      "tag": "공공보험·재정",
+      "title": "건강보험 당기수지 적자 전환과 국고지원 논란",
+      "summary": "올해 건강보험 당기수지가 5년 만에 적자로 전환했다는 내용과 함께, 2027년 예산에서 국고지원율 14%를 준수해야 한다는 촉구가 나왔다. 건강보험 재정수지와 국고지원 규모가 향후 제도 운영의 핵심 쟁점으로 부각됐다.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15aTBXSWNKbF9mZG8tTEc4bm5CUGxOT2xjQTZDbFhNWXJqWXpMMlhaSklQRHoxdWdjSlEtNndqVHhoWndQVWhMZVZWRlN0NmJ6WHRSYXRnWTd1VkFjZTJMRW1zZXVvMEJJR2c?oc=5",
+      "source": "Daily NTN"
     },
     {
-      "tag": "판매채널·수수료",
-      "title": "보험상품 수수료 공개와 GA 판매전문회사 논의",
-      "summary": "보험상품 수수료 공개가 확산되는 가운데 한 핀테크가 GA 시장에서 정찰제 수수료를 고수하는 사례가 소개됐습니다. GA업계에서는 성장한 조직 규모를 바탕으로 보험판매전문회사 도입을 추진하고 있어 판매채널의 역할과 가격 투명성이 주요 쟁점으로 떠올랐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83Wm9haDVNcHR1QXVtWHFQZTdhZDZkRVc4a3RyNjMxakJfRVkzSTJtdGJ3YlliYjFJNjV6VXVYbFZKd1h1VE5iNkZSY2JIdG1JVkNWR3lIbVdKbjBkQTQ4dFR2aUhnaUFmUVZn0gFwQVVfeXFMTkRvX3pmbmx5eWNERUhoSUNkZm9MRHVEdnJMcWk4cG5HOUp3Z3ROdjlBUnBDTThFOWlnVWdFZTh1NEdGbTBydnBHVjhZSmZ4NzRUa2xjTVZ6Rzhaa3BSRTNqWlBVY2lRMURFX0NvQXRscw?oc=5",
-      "source": "머니투데이"
+      "tag": "신시장·수익성",
+      "title": "펫보험 가입 증가에도 수익성은 미지수",
+      "summary": "펫보험 가입은 늘고 있지만 수익성은 아직 미지수라는 평가가 나왔다. 행동교정 효과가 펫보험의 수익성을 좌우할 수 있는 관심 요인으로 제시됐다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qNkhveEEyUlpZR19PRTZJdzZIQmE1VEFxMHZHYkNTLUFkT3pQd29RSFluZmNnU3UtU2RXUzNySmo4RjhWMUNZN3RYckZuQmpxczdyR0xOUEhZOHI0TEdzcFFOdjV3dW1XWEQw?oc=5",
+      "source": "라이센스뉴스"
     },
     {
-      "tag": "재해보험·지급",
-      "title": "풍수해보험 미지급과 농작물 피해, 재해보험 보장 사각지대",
-      "summary": "풍수해보험에서 다수의 보험금 미지급 사례가 발생했다는 보도와 함께 보장 사각지대가 국감에서 지적됐습니다. 제주 레드향의 열과 피해로 관련 보험 가입이 급증한 사례도 소개돼 재해 위험 확대와 보험금 지급 기준이 함께 주목받았습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BMEFvd3JiRVpuQVRoZ3RhWDg0YVNHcVNHYnBuQ1pIRVRsaGJXbmVXeEZKTTUtYWM2aHNvbkY2cmxiMmh1TDV6R2ZHY3A5cldaSlNOUERuZkswbHZyVzFfUC1BOHdsRkIzVmc?oc=5",
-      "source": "금융소비자뉴스 외"
+      "tag": "소비자·건전성",
+      "title": "생명보험 ‘잠자는 보험’ 5.5조원 증가",
+      "summary": "생명보험업계의 ‘잠자는 보험’ 규모가 5조5000억원 늘었고, ABL생명은 증가 폭이 두 배에 육박한 것으로 보도됐다. 계약자에게 돌아가지 않은 보험 관련 자금의 규모와 관리가 소비자 보호 및 보험사의 건전성 이슈로 이어지고 있다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yRWRrQ3ZXbTlJVkJGOHZqcmduZ0VEVl9SZ0lCUmw0WkRVYTczcXhGMDVHdlVXZDJhVktOQy0ycXAwa1RsTC1jNEVVV2hENFFXTTBQcFh4VUNyTXNKa1BBWTNhbXlqVWctd3g0?oc=5",
+      "source": "CEO스코어데일리"
     }
   ]
 }
