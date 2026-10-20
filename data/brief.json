@@ -1,64 +1,70 @@
 {
-  "updatedAt": "2026-10-19T01:27:30.973Z",
+  "updatedAt": "2026-10-20T01:57:28.725Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사 중 동일 상품·사건을 다룬 보도는 하나의 이슈로 통합했으며, 기사 제목과 제공된 메타데이터에 확인되는 내용만 반영했습니다.",
+  "editorNote": "최근 24시간 기사 중 동일한 사안을 다룬 보도는 하나의 이슈로 묶었습니다. 제공된 기사 목록에는 미국 금리·국내외 채권금리·환율·부동산의 구체적인 움직임이 없어 금융시장 방향성은 판단하지 않았습니다.",
   "keywords": [
-    "보험사기",
-    "맞춤형·특화보험",
-    "AI 보험설계",
-    "사이버·기후 보장공백",
-    "부동산 건전성"
+    "취약어르신",
+    "시니어건강보험",
+    "정기보험·변액보험",
+    "예보료",
+    "전기차 수리비"
   ],
-  "marketSummary": "부동산 위험과 보험사 사옥 매각을 둘러싼 자산 효율화 흐름이 부각되면서, 보험업계의 자산운용과 건전성 관리가 주요 과제로 나타났다.",
+  "marketSummary": "제공된 최근 24시간 기사에는 미국 금리·국내외 채권금리·환율·부동산의 방향성이 제시되지 않아 보험시장 관점의 금융시장 흐름은 판단할 수 없습니다.",
   "marketContext": [
     {
-      "label": "부동산 위험",
-      "summary": "보험·은행이 부동산 위험에 직면했으며 건전성 관리가 과제로 제시됐다. 부동산 관련 위험은 보험사의 자산운용과 재무 건전성 관리 이슈로 연결된다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TWndZdlJfZ0oxYXdCc1lNZmJxTkVYRFdicDREaXluUDNSbTVjWnB0T3hGcVp3ZERZcmtQN0p4OUhocDBUeUc5clhpMnJhT3JyY1YySXBtY3ktQXRuUFNvcHpUaFczbGIxRjlR0gFvQVVfeXFMTTE4QWlTVV9BN2FaRGdfMTlyTlI4b1NwSm9uVkI0eUhYNm5DOWpiblpzTzVHVk1sUHo5c2I0NTR5MWNjdDJjUmhka2JHMXVmWVBMUVRlZ3MtSVFpSmxWRHpuRFAzclpldE10NGJuQnlR?oc=5",
-      "source": "한국보험신문"
+      "label": "미국 금리",
+      "summary": "관련 금융시장 동향은 제공된 기사에 포함되지 않았습니다. 미국 금리는 보험사의 해외채권 운용과 변액보험 펀드 성과에 연결될 수 있는 변수지만, 이날 방향성은 확인할 수 없습니다.",
+      "url": "",
+      "source": "제공 기사 내 관련 보도 없음"
     },
     {
-      "label": "보험사 사옥 매각",
-      "summary": "보험사 사옥 매각이 확산되고 있으며, 기사에서는 이를 자산 효율화와 자본 부담 완화 흐름으로 설명했다. 사옥 매각은 보험사의 보유 부동산과 자본 부담 관리에 영향을 주는 자산운용 이슈다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZS0lBWDhscXZSZW9ROHdTMUlNN1FKc2pLb1hvTm9aaDdadjdtQmxRSXlYb0ZxNG81aDBoWHIzWVdMTXQ3OWw4dC1iRmtxMENRQnhqSGpfdmt3V1hudElGTFBESVQwbUJLZ1Qw0gFvQVVfeXFMUFM0Zjc2aFdGX3BybFFLd3hScXFtNW83cTBFa01xWEhqNkJfYzJvbnJLU2RJd1Z1UEhIYVR5WUt1NWkyWDNUdDdhUGlubVhPWWxYWlk2N0xFbDRTX3E2VVRpaWk1bklfSF9UVFNVQmFN?oc=5",
-      "source": "한국보험신문"
+      "label": "국내외 채권금리",
+      "summary": "국내외 채권금리 움직임에 관한 기사는 확인되지 않았습니다. 채권금리는 보험사의 자산운용과 장기 보험상품의 가격·건전성에 연결되는 변수이므로, 금리 방향이 제시되지 않은 상태에서는 영향을 판단하기 어렵습니다.",
+      "url": "",
+      "source": "제공 기사 내 관련 보도 없음"
+    },
+    {
+      "label": "환율",
+      "summary": "환율 관련 동향은 제공된 기사에 나타나지 않았습니다. 환율은 해외자산 운용과 변액보험 성과에 영향을 줄 수 있는 변수지만, 최근 24시간의 변동 방향은 확인되지 않습니다.",
+      "url": "",
+      "source": "제공 기사 내 관련 보도 없음"
     }
   ],
   "issues": [
     {
-      "tag": "건전성·소비자보호",
-      "title": "입원 이력 미고지 보험사기 사건과 소비자보호 균형 논의",
-      "summary": "과거 입원 사실을 숨기고 보험에 가입해 1억4000만원대 보험금을 받은 60대가 실형을 선고받았다는 보도가 여러 매체에서 나왔다. 관련 시론은 보험사기 방지와 소비자보호 사이의 균형을 과제로 제시했다.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BNklTc0xERHBKYjdzcGNLdnR3cjBwTE9PVkRVZVkwUEdVakd2TGpwMy1yZ005eGtqZThvRm5zMlJvTWlZZXV3anQ0dUFEMkFMV1R0TE9lRzZBOThNaXlNbtIBYEFVX3lxTE9BNklTc0xERHBKYjdzcGNLdnR3cjBwTE9PVkRVZVkwUEdVakd2TGpwMy1yZ005eGtqZThvRm5zMlJvTWlZZXV3anQ0dUFEMkFMV1R0TE9lRzZBOThNaXlNbg?oc=5",
+      "tag": "보험의 사회적 역할",
+      "title": "보험업권, 취약어르신 65만명에 낙상 치료비·치매배상책임보험 무료 지원",
+      "summary": "대한민국 정책브리핑을 비롯한 여러 매체는 보험업권이 취약어르신 65만명에게 낙상사고 치료비와 치매배상책임보험을 무료로 제공한다고 보도했습니다. 대규모 취약계층 지원이 보험업계의 사회적 역할과 보장 사각지대 해소 이슈로 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vZzdXWDRVMDMtOFNKQmNHS3NkRGE1WHRGRVdBZ1M2NjdRd1BpZkd6TGJRek81a210WWNTYmRwdVYtMm52aWxlMEtkWHJFT0tNOTVYb1VGeGN0MUxfdDdSX1VfNmJfa0F4Tk4xYQ?oc=5",
+      "source": "대한민국 정책브리핑"
+    },
+    {
+      "tag": "고령층 보장",
+      "title": "삼성생명, 폐렴·로봇 인공관절수술 보장 강화한 시니어건강보험 개정",
+      "summary": "삼성생명은 시니어대표건강보험을 개정해 폐렴과 로봇 인공관절수술 등 보장을 강화했다고 여러 매체가 전했습니다. 고령층의 건강 수요를 겨냥한 보장 확대가 생명보험 상품 경쟁의 주요 축으로 나타났습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKbVNybVlETXB1TlF3eTRwZjRfOVJIZEtqNmk5eVc5Uk4zYngweklsV1ZFalZxWU5HQ3NrWXBjYk5DVGZZRlRzUHlVdXlENVJFcldXSEtNSjhRdknSAWBBVV95cUxOaTZCTUN0Z0NkR2x4OU5pV0trRFg0UEUtQmFoMXFFSFRKeG56VHdoOXg1QlJWQ08zQVNLcl94V1g4Y3hTd0JUNWI5bTZXTGZtUmt5Yk9qdzhwcjJZRHRYYTM?oc=5",
       "source": "연합뉴스"
     },
     {
-      "tag": "상품전략",
-      "title": "임산부·건강·반려동물·농업수입 등 맞춤형 특화보험 출시 확대",
-      "summary": "한화손해보험은 임신·출산과 산후 회복을 보장하는 임산부보험을, 삼성화재는 고객 건강과 생애주기에 맞춘 건강보험을 출시했다. 롯데손해보험의 반려견 여행보험과 NH농협손해보험의 양파·마늘 농업수입안정보험도 판매가 시작되며, 고객·위험별 상품 세분화가 이어졌다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kSWJ1YTVTOTJzT3lQZUxjREJZNEZQd09zZUxiSFR1bFgyN205OXdGYTFIbXhCQzFSa29aWGhKU2FJLTNaV3doUHFJT3lPdVQ1QmRlSUYycVdGTU9oZHZ6ZjloQ1FLbVlRY05Z?oc=5",
-      "source": "보험신보"
+      "tag": "생명보험 상품전략",
+      "title": "종신보험에서 정기보험·생전 혜택·변액 기능으로 상품 경쟁 이동",
+      "summary": "기사들은 ‘700 종신’ 판매가 막힌 뒤 생보사들이 생전 혜택으로 눈을 돌리고, 소비자 수요가 평생 보장보다 가성비 중심의 정기보험으로 이동하는 흐름을 전했습니다. 메트라이프생명은 정기보험에 변액펀드와 전환 기능을 결합한 상품을 출시해 보장과 투자 기능을 함께 제시했습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DOVM0c1g1OVUyOThLZEphSThoUGJ0UmRidEMyU2RGT1Z0R3ZPQnNQcFZuZmZIWnlDWUpDZjA0STV2S1lod0NBMDhsVHpWcmZERnBETDQwZw?oc=5",
+      "source": "브릿지경제"
     },
     {
-      "tag": "디지털·AI",
-      "title": "AI 기반 보험설계와 보험연수원 AI 합작법인 투자 논란",
-      "summary": "신한라이프는 AI 기반 보험설계 시스템 ‘리코 2.0’을 가동해 설계 고도화에 나섰다. 반면 보험연수원의 AI 합작법인 투자에는 금융위의 ‘불가’ 결론이 내려졌다는 보도가 나와, 보험업의 AI 활용과 금융당국 판단이 함께 주목받았다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDRF95Rmc5MVl6SW40M3JJMUZSLVdlTVRhUENnWEJBYkNWOXcwZDFEOHBsZXlDSzMwSW5BdkNQakVDYkNoWU1hQmxhdTR3dFVMaDBEQnVsTFUtTHVOMlBwTw?oc=5",
-      "source": "아시아경제"
+      "tag": "보험료·제도",
+      "title": "예보료 인상안에 보험업계 우려…예보 사장, 의견 반영해 조율 방침",
+      "summary": "예보료 인상안에 대해 보험업계가 우려를 나타냈고, 김성식 예금보험공사 사장은 업계 의견을 반영해 조율하겠다고 밝혔습니다. 예보료 인상 여부와 조정 과정이 보험사의 비용 부담과 업계 제도 대응의 핵심 변수로 떠올랐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXSG9DS3RzSk9hcXFwdVBRMGMtTkpzYVhyRTRXcHJIMmZER1UwT2NxYXpoZEZPR1BfZ2ItQUE4THFzaGRMT0Y3WHNiM2FRa1J3V2VtLVFVNnNFNlhtZGRJb2JlbmRVdFFwNDlQR2ZDVE9sbUVs?oc=5",
+      "source": "조세일보"
     },
     {
-      "tag": "신규위험·보장공백",
-      "title": "사이버보험과 기후보험의 보장공백 및 위험관리 체계 논의",
-      "summary": "해킹이 잇따르는 가운데 사이버보험 가입이 어렵거나 부족한 현실이 지적됐다. 기후보험 역시 공급 확대만으로는 보장공백을 메우기 어렵고 위험관리 체계의 변화가 필요하다는 분석이 제시됐다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TVTRxOGctajNmMXV3VE9nN3MwOWlCLU5seDR2TmplY3hsXy1sYjNPQmhOSkhnRGItQzRDRkFzVWdUbjd4a1FZV2lzY1U1c1p6c1JfWWRIb3VERnV5WE8zdU9vQ2d0Wmxod1Fj0gFvQVVfeXFMTnVRVkl1Szl2cWFzc3pmQ3ZGemZyOVMzRE1oNDAtVWY2Ym00ZUthckU1S3lGdXdpSkNOSUVYM2RHSjBUYWZJcXlLaDF2b0xxUXRMQlJpZk1JN1pvRXJ5dlJ0VDZzWFhNeVk0cVdvbXFZ?oc=5",
-      "source": "한국보험신문"
-    },
-    {
-      "tag": "자산운용·건전성",
-      "title": "부동산 위험과 보험사 사옥 매각으로 본 건전성 관리",
-      "summary": "보험·은행이 부동산 위험에 직면했으며 건전성 관리가 과제로 제시됐다. 보험사 사옥 매각이 자산 효율화와 자본 부담 완화 차원에서 확산되고 있다는 보도까지 더해져, 부동산 익스포저와 보유자산 관리가 보험사의 핵심 과제로 부각됐다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TWndZdlJfZ0oxYXdCc1lNZmJxTkVYRFdicDREaXluUDNSbTVjWnB0T3hGcVp3ZERZcmtQN0p4OUhocDBUeUc5clhpMnJhT3JyY1YySXBtY3ktQXRuUFNvcHpUaFczbGIxRjlR0gFvQVVfeXFMTTE4QWlTVV9BN2FaRGdfMTlyTlI4b1NwSm9uVkI0eUhYNm5DOWpiblpzTzVHVk1sUHo5c2I0NTR5MWNjdDJjUmhka2JHMXVmWVBMUVRlZ3MtSVFpSmxWRHpuRFAzclpldE10NGJuQnlR?oc=5",
-      "source": "한국보험신문"
+      "tag": "자동차보험 손해율",
+      "title": "수리비 비싼 전기차 급증에 보험업계 부담 확대",
+      "summary": "중앙일보는 수리비가 비싼 전기차가 올해 75% 급증하면서 보험업계의 부담이 커지고 있다고 보도했습니다. 전기차 증가와 높은 수리비가 자동차보험의 손해 및 상품가격 이슈로 연결되고 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BVTBOUTlYTF9wRGVrdGd0ZTRIeUNrUGlPZkt6Rl9jSFpVc1F1OWgzOTlTYjh3OUpEMVdld3hvZEppTEdzcW5xblc1MVVuN3hLVEF2N093?oc=5",
+      "source": "중앙일보"
     }
   ]
 }
