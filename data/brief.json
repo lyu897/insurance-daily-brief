@@ -1,70 +1,64 @@
 {
-  "updatedAt": "2026-10-20T01:57:28.725Z",
+  "updatedAt": "2026-10-21T01:46:14.795Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사 중 동일한 사안을 다룬 보도는 하나의 이슈로 묶었습니다. 제공된 기사 목록에는 미국 금리·국내외 채권금리·환율·부동산의 구체적인 움직임이 없어 금융시장 방향성은 판단하지 않았습니다.",
+  "editorNote": "최근 24시간 기사 중 동일한 제휴·협력 발표와 상품·판매 규제 관련 보도는 하나의 이슈로 묶었습니다. 금융시장 변수는 기사에 직접 언급된 투자손익과 신용위험만 반영했으며, 미국 금리·채권금리·환율·부동산 흐름은 확인되지 않습니다.",
   "keywords": [
-    "취약어르신",
-    "시니어건강보험",
-    "정기보험·변액보험",
-    "예보료",
-    "전기차 수리비"
+    "사이버보험",
+    "GA 판매·수수료 규제",
+    "모빌리티 데이터",
+    "종신보험 재편",
+    "손보 투자손익"
   ],
-  "marketSummary": "제공된 최근 24시간 기사에는 미국 금리·국내외 채권금리·환율·부동산의 방향성이 제시되지 않아 보험시장 관점의 금융시장 흐름은 판단할 수 없습니다.",
+  "marketSummary": "손보 본업 회복 전망에도 투자손익 부진과 빅테크 신용위험 부각이 보험사의 실적과 위험관리 관심을 키운 하루였다.",
   "marketContext": [
     {
-      "label": "미국 금리",
-      "summary": "관련 금융시장 동향은 제공된 기사에 포함되지 않았습니다. 미국 금리는 보험사의 해외채권 운용과 변액보험 펀드 성과에 연결될 수 있는 변수지만, 이날 방향성은 확인할 수 없습니다.",
-      "url": "",
-      "source": "제공 기사 내 관련 보도 없음"
+      "label": "손보사 투자손익",
+      "summary": "증권가가 손해보험사의 3분기 실적 기대치를 낮추는 가운데, 보험 본업은 회복세가 전망되지만 투자손익 부진이 변수로 제시됐다. 보험시장에서는 보험영업 성과와 투자 성과가 실적을 함께 좌우하는 흐름으로 읽힌다.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MVXppejloTEt1LVE5VjlSWmZlbFhNdWxsMW1nZmg3ZHd3a3pHeHlYR1pXYUozNFBYemRJYVYzLUVsSVdzOWRBTjhhQW1pb3hmUU9oQlU3YXFvdUZiQ2c2OGJFZzAzM2lNbmc?oc=5",
+      "source": "서울파이낸스"
     },
     {
-      "label": "국내외 채권금리",
-      "summary": "국내외 채권금리 움직임에 관한 기사는 확인되지 않았습니다. 채권금리는 보험사의 자산운용과 장기 보험상품의 가격·건전성에 연결되는 변수이므로, 금리 방향이 제시되지 않은 상태에서는 영향을 판단하기 어렵습니다.",
-      "url": "",
-      "source": "제공 기사 내 관련 보도 없음"
-    },
-    {
-      "label": "환율",
-      "summary": "환율 관련 동향은 제공된 기사에 나타나지 않았습니다. 환율은 해외자산 운용과 변액보험 성과에 영향을 줄 수 있는 변수지만, 최근 24시간의 변동 방향은 확인되지 않습니다.",
-      "url": "",
-      "source": "제공 기사 내 관련 보도 없음"
+      "label": "빅테크 신용위험·부도보험 거래",
+      "summary": "AI 부채 불안 속에서 부도보험 거래가 급증하고 빅테크 신용위험 확산이 거론됐다. 보험시장과의 연결점은 신용위험을 이전하는 보험 관련 거래가 시장 불안의 신호로 부각됐다는 점이다.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VM0hmQVA1QXpvZk5KMUVwWnpmQnEwck5XNlZtclllQWFVNnhuSUtGN29ZRC1SNVhFdU5oVnN1TnNaN0lhMVZwRXVPeWY5SnVQc0pldDVQOWQ5QQ?oc=5",
+      "source": "한국경제"
     }
   ],
   "issues": [
     {
-      "tag": "보험의 사회적 역할",
-      "title": "보험업권, 취약어르신 65만명에 낙상 치료비·치매배상책임보험 무료 지원",
-      "summary": "대한민국 정책브리핑을 비롯한 여러 매체는 보험업권이 취약어르신 65만명에게 낙상사고 치료비와 치매배상책임보험을 무료로 제공한다고 보도했습니다. 대규모 취약계층 지원이 보험업계의 사회적 역할과 보장 사각지대 해소 이슈로 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vZzdXWDRVMDMtOFNKQmNHS3NkRGE1WHRGRVdBZ1M2NjdRd1BpZkd6TGJRek81a210WWNTYmRwdVYtMm52aWxlMEtkWHJFT0tNOTVYb1VGeGN0MUxfdDdSX1VfNmJfa0F4Tk4xYQ?oc=5",
-      "source": "대한민국 정책브리핑"
+      "tag": "사이버보험",
+      "title": "이노비즈 기업 대상 사이버보험·보안 협력 확대",
+      "summary": "DB손해보험과 이노비즈협회, SK쉴더스가 중소기업 사이버위험 대응과 보안 강화를 위한 협력에 나섰으며, 이노비즈 기업 2만3000곳의 사이버보험 공동가입 길이 열렸다는 보도가 나왔다. 보험과 보안 서비스를 결합한 대응체계가 중소기업 사이버위험 보장 확대의 핵심으로 제시됐다.",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zR1ZKZVpKMjljRjgzbF9qakM0OUJNbWl2YUxYVU8xSlBrbmExR3lySFBUSndCWC1Pc2p4YmtadHRnN0hITGZibGhxbkw4SVJNNGhuN3QtWXplU1FQMFE3TVU1ckM?oc=5",
+      "source": "서울경제TV"
     },
     {
-      "tag": "고령층 보장",
-      "title": "삼성생명, 폐렴·로봇 인공관절수술 보장 강화한 시니어건강보험 개정",
-      "summary": "삼성생명은 시니어대표건강보험을 개정해 폐렴과 로봇 인공관절수술 등 보장을 강화했다고 여러 매체가 전했습니다. 고령층의 건강 수요를 겨냥한 보장 확대가 생명보험 상품 경쟁의 주요 축으로 나타났습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKbVNybVlETXB1TlF3eTRwZjRfOVJIZEtqNmk5eVc5Uk4zYngweklsV1ZFalZxWU5HQ3NrWXBjYk5DVGZZRlRzUHlVdXlENVJFcldXSEtNSjhRdknSAWBBVV95cUxOaTZCTUN0Z0NkR2x4OU5pV0trRFg0UEUtQmFoMXFFSFRKeG56VHdoOXg1QlJWQ08zQVNLcl94V1g4Y3hTd0JUNWI5bTZXTGZtUmt5Yk9qdzhwcjJZRHRYYTM?oc=5",
-      "source": "연합뉴스"
+      "tag": "모빌리티",
+      "title": "SK렌터카·삼성화재, 차량 운영·보험 데이터 결합",
+      "summary": "SK렌터카와 삼성화재가 차량 운영 데이터와 보험 데이터를 결합해 위험관리 서비스를 공동 개발하고 미래 모빌리티·자율주행 관련 사업모델을 발굴하기로 했다. 차량 데이터와 보험 데이터의 결합이 자동차보험의 위험관리와 신규 모빌리티 사업 확장 수단으로 부상했다.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5T3Eyc0dsa1p0Y1Q2cFItZW5sblMyaXhybzJyQXdaeUxaS0FKSTVFVjBvUTEwLWNMLU5qS0pqU3V3N3N5NTA3OVBQa0dycjZHSFgtc2tmaFBQa0c1VHNsZkMzcWNPeTlGR2lOOW5jTmtLbWViUkRmMXFn0gF_QVVfeXFMT25qU2RqM01fdlZsaDV5OVprNEFwVHJIZkN5ZmExNHdLRFQ2UGlnTkx4MDFoa2RqVE45WnE1aTJBWWxhZk1vQlgwWXUtUmhURVg3Y3hjQWJ2d1lmYVZabnd0eEpDZEg5NEJpQmdBTFh6dXZ1YjRWa2t6UHFFcjRsOA?oc=5",
+      "source": "머니투데이"
     },
     {
-      "tag": "생명보험 상품전략",
-      "title": "종신보험에서 정기보험·생전 혜택·변액 기능으로 상품 경쟁 이동",
-      "summary": "기사들은 ‘700 종신’ 판매가 막힌 뒤 생보사들이 생전 혜택으로 눈을 돌리고, 소비자 수요가 평생 보장보다 가성비 중심의 정기보험으로 이동하는 흐름을 전했습니다. 메트라이프생명은 정기보험에 변액펀드와 전환 기능을 결합한 상품을 출시해 보장과 투자 기능을 함께 제시했습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DOVM0c1g1OVUyOThLZEphSThoUGJ0UmRidEMyU2RGT1Z0R3ZPQnNQcFZuZmZIWnlDWUpDZjA0STV2S1lod0NBMDhsVHpWcmZERnBETDQwZw?oc=5",
-      "source": "브릿지경제"
+      "tag": "판매규제",
+      "title": "보험판매전문회사·GA 수수료·환수 규제 논의 지속",
+      "summary": "금융당국은 보험판매전문회사 도입을 시기상조로 보고 사실상 반대 입장을 보였고, GA 설계사에 대한 120% 환수는 폐지됐다는 보도가 나왔다. GA와 보험사 간 계약에 대한 보험사의 통제·개입 한계와 4년 분급 수수료의 허용 범위가 판매채널 관리의 쟁점으로 남았다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oYnpMV2dEMzk0Z2FnTnJGLWxVaHVCMkczV0JOaUdFMHVlUTZhWjlxYnVSN0VINzZNUENGd2NaRXRBb3U3TWQ0QmtxZHZHdl8wVXNPZE9hRnNUT01xeklHNzBHMDJ2MGNiLWtEanhJRTc?oc=5",
+      "source": "연합인포맥스"
     },
     {
-      "tag": "보험료·제도",
-      "title": "예보료 인상안에 보험업계 우려…예보 사장, 의견 반영해 조율 방침",
-      "summary": "예보료 인상안에 대해 보험업계가 우려를 나타냈고, 김성식 예금보험공사 사장은 업계 의견을 반영해 조율하겠다고 밝혔습니다. 예보료 인상 여부와 조정 과정이 보험사의 비용 부담과 업계 제도 대응의 핵심 변수로 떠올랐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXSG9DS3RzSk9hcXFwdVBRMGMtTkpzYVhyRTRXcHJIMmZER1UwT2NxYXpoZEZPR1BfZ2ItQUE4THFzaGRMT0Y3WHNiM2FRa1J3V2VtLVFVNnNFNlhtZGRJb2JlbmRVdFFwNDlQR2ZDVE9sbUVs?oc=5",
-      "source": "조세일보"
+      "tag": "생명보험",
+      "title": "700종신보험 판매 중단 이후 종신보험 시장 재편",
+      "summary": "‘700종신’ 판매 중단 이후 DB생명과 동양생명의 GA 매출 목표가 하향됐고, 생명보험사들이 새 상품으로 시장을 공략하며 종신보험 재편에 나섰다는 보도가 나왔다. 특정 상품 판매 중단이 GA 영업 목표와 생보사의 상품 전략 변화로 이어지고 있다.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhRGpnUHhtMm45d3lfc1RkMkU5MGJOcjdiTDcySGVDN1lvZ3QtQkhzclo2eUlnWmRzb3RrRWFZa2VyT2hEc0g2Q1pSeUZES2hub3dQbHN1Vzl0UGpoVEd2Qm1rVmZiVjBDcU5sbtIBcEFVX3lxTE1DQTh3OUprZkdTeUJOV09KYUhRUmFQaldkNWRzdmo2b0s3SE1qUWpURFR2eDE1UWpxMDhSNkQ5RlZxUG52NTZkLWk0dmRiYjZrTmlIcll1WUlyM0c2NjZ5RjdVQTFwcm0tbjZUUTdueW8?oc=5",
+      "source": "DFT 대한금융신문"
     },
     {
-      "tag": "자동차보험 손해율",
-      "title": "수리비 비싼 전기차 급증에 보험업계 부담 확대",
-      "summary": "중앙일보는 수리비가 비싼 전기차가 올해 75% 급증하면서 보험업계의 부담이 커지고 있다고 보도했습니다. 전기차 증가와 높은 수리비가 자동차보험의 손해 및 상품가격 이슈로 연결되고 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BVTBOUTlYTF9wRGVrdGd0ZTRIeUNrUGlPZkt6Rl9jSFpVc1F1OWgzOTlTYjh3OUpEMVdld3hvZEppTEdzcW5xblc1MVVuN3hLVEF2N093?oc=5",
-      "source": "중앙일보"
+      "tag": "실적",
+      "title": "손보사 3분기 실적 기대치 하향…본업 회복에도 투자손익 변수",
+      "summary": "증권가는 손해보험사의 3분기 실적 기대치를 낮추고 있으며, 손보 본업은 회복세가 예상되지만 투자손익 부진이 변수로 거론됐다. 보험영업의 회복만으로는 실적 개선을 단정하기 어려워 투자 부문의 성과가 주요 관전 포인트가 됐다.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tSnZkM3l5LTJZWTRlRWtVMXZpZXlUWHRqUHpGT0E0Zm0yRUItaFBsaUlhbTl2ZXZsX0g3Mjd4UHJPMFQ5V2c5cko3a012RllKekh4V1NtY20yMXVmckhUdw?oc=5",
+      "source": "아시아경제"
     }
   ]
 }
