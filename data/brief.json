@@ -1,70 +1,70 @@
 {
-  "updatedAt": "2026-10-22T01:40:03.383Z",
+  "updatedAt": "2026-10-23T01:42:40.438Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사 메타데이터 기준으로 동일한 보험연구원 전망 보도는 하나의 이슈로 통합했습니다. 제공 목록에는 미국 금리·채권금리·환율·부동산의 실제 변동 수치나 방향이 제시되지 않아 시장 흐름은 확인 가능한 범위만 반영했습니다.",
+  "editorNote": "최근 24시간 기사 메타데이터를 기준으로 동일한 전망·정책 이슈를 묶었습니다. 금융시장 관련 내용은 기사에 명시된 미국 고용지표를 중심으로 정리했으며, 국내외 금리·환율·부동산의 구체적인 흐름은 확인되지 않습니다.",
   "keywords": [
     "보험산업 성장률 3.5%",
-    "본업 수익성·자본의 질",
-    "퇴직연금·장수연금",
-    "취약계층 치매보험",
-    "보험 소비자보호"
+    "성장의 질",
+    "보장성·장기보험",
+    "기후보험",
+    "디지털·AI 보험"
   ],
-  "marketSummary": "제공된 기사에는 미국 금리와 국내외 채권금리·환율·부동산의 구체적 흐름이 없어 금융시장 방향은 확인되지 않으며, 보험시장에서는 내년 성장 둔화와 본업 수익성 저하 전망이 부각됐습니다.",
+  "marketSummary": "미국 주간 신규 실업보험 청구가 시장 전망치를 밑돈 가운데, 국내 보험업계는 내년 성장률 둔화와 수익성·자본구조 개선 과제를 동시에 마주한 것으로 보인다.",
   "marketContext": [
     {
-      "label": "미국 금리",
-      "summary": "제공 기사 목록에는 미국 금리의 현재 수준이나 변동 방향이 담겨 있지 않습니다. 미국 금리는 보험사의 해외채권 운용수익과 금리위험 관리에 연결되는 변수지만, 이번 자료만으로 보험시장 영향을 판단할 수 없습니다.",
-      "url": "",
-      "source": "제공 기사 목록"
+      "label": "미국 고용지표",
+      "summary": "미국 주간 신규 실업보험 청구는 19만4천건으로 시장 전망치를 하회했다. 고용지표는 향후 금리 경로와 연결될 수 있는 변수지만, 해당 기사에는 금리 변화나 보험사 자산운용 영향이 제시되지 않았다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xOGdFMVJwQzE0STZBUi1KbHVUQ25wS25WeGJhQzRmMHJMS19HeVRfQ05MSVc2RlNfLWgxMmxoVjByWTczazVjT1FoQzBOQ2tkM3J3V1g0TGxIWnNELTlwSmRtY0tPWW9SYXYtSmphLU0?oc=5",
+      "source": "연합인포맥스"
     },
     {
       "label": "국내외 채권금리",
-      "summary": "국내외 채권금리의 구체적인 수치나 등락도 기사 목록에서 확인되지 않습니다. 채권금리는 보험사의 자산운용 수익과 장기 보험상품의 가격·부채 평가에 연결되지만, 당일 방향성은 제시된 자료에 없습니다.",
+      "summary": "기사 목록에는 국내외 채권금리의 상승·하락이나 수준에 관한 내용이 없다. 따라서 보험사의 채권 운용수익, 부채 평가, 상품가격 및 건전성에 미친 영향은 이 자료만으로 판단할 수 없다.",
       "url": "",
-      "source": "제공 기사 목록"
+      "source": "관련 기사 없음"
     },
     {
       "label": "환율·부동산",
-      "summary": "환율과 부동산 시장의 움직임 또는 관련 손익 정보는 제공된 기사에 나타나지 않습니다. 두 변수는 해외자산 평가와 부동산 관련 투자·담보 위험에 연결될 수 있으나, 이번 기사 목록만으로 보험사 건전성 영향을 특정할 수 없습니다.",
+      "summary": "기사 목록에는 원화·외화 환율이나 부동산시장 흐름에 관한 내용이 없다. 이에 따라 해외사업 실적, 외화자산 운용 또는 부동산 관련 건전성에 대한 시장 연결점도 확인되지 않는다.",
       "url": "",
-      "source": "제공 기사 목록"
+      "source": "관련 기사 없음"
     }
   ],
   "issues": [
     {
       "tag": "성장·수익성",
-      "title": "보험연구원, 내년 보험산업 성장률 3.5% 전망…성장 둔화와 본업 수익성 저하",
-      "summary": "보험연구원은 내년 보험산업 성장률을 3.5%로 전망했으며, 여러 보도는 이를 올해 예상치의 절반 수준이자 2년째 하락세로 전했습니다. 이익 증가 전망과 별개로 본업 수익성과 이익·자본의 질 저하가 거론돼, 보장성·장기인보험 중심의 성장과 신성장 영역으로의 자원 재배분 필요성이 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lMGdCN2tMM2l3elFqdldGVS03SnVyb0NwTGFDQ2NPR2h4Si12UkI2a195eFF0c1JlQmJvV1UxbGcxSFZia3NBMHUzckt2V1BYMi1LbmdwM1JsLURnT3p2ak1XeE5XbDJPSWtIS1hmRUw?oc=5",
-      "source": "연합인포맥스"
+      "title": "내년 보험산업 성장률 3.5%…성장의 질과 자본구조가 과제",
+      "summary": "보험연구원 전망을 인용한 기사들은 내년 보험산업 성장률을 3.5%로 제시하면서 올해보다 성장세가 둔화되고 신계약 기여도도 낮아질 수 있다고 전했다. 보험료 규모가 늘더라도 이익과 내실이 불확실하다는 평가가 이어져 수익성·자본구조 개선이 핵심 과제로 부상했다.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15eWxiTlhpQkgzWWZoVkJTVnRmTzlCUmRqNUM1SFFEWTMwVVZ2R0N2NjFUbWFTOEtVNDVKX0RRMV9OOG9uaENjVnFCRjBCOTZPT1RZRkJFdUJBX2dxVzV2aXMzOUNsTk0wd2UxZkRFQWd1cVJMdnk3eXZPaGs?oc=5",
+      "source": "한국금융신문 외"
     },
     {
-      "tag": "퇴직연금·연금",
-      "title": "퇴직연금 경쟁력 강화 방안으로 ‘퇴직연금+장수연금’ 결합 제안",
-      "summary": "보험업계의 퇴직연금 경쟁력을 높이기 위해 퇴직연금과 장수연금을 결합하자는 제안이 나왔습니다. 이는 퇴직연금과 장수 위험을 함께 다루는 상품 구상으로, 저성장 국면에서 연금 분야의 경쟁력 강화 방안으로 제시됐다는 의미가 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UdHdEbTlnd05ZRURKd1lvSjUwNjlwVnB5d3RNRGdCaWZQMFMxUjhtQ3g5WHFzWHpoaFZONDJnVUJGS1c5T3lCbHpMdXZqQ2lXckdHNU1HRWg4QQ?oc=5",
-      "source": "이투데이"
+      "tag": "기후·공공보험",
+      "title": "기후보험, 보상 실효성과 대상 확대 요구 커져",
+      "summary": "제주 국감에서는 건설현장 기후보험의 예산 대비 지급 실적이 문제로 제기됐고, 별도 기사에서는 보상 조건 완화와 대상 확대가 주문됐다. 기후위험 보장의 필요성뿐 아니라 실제 보상 접근성과 제도 설계가 쟁점으로 부각됐다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTUndUMXRpaUdIWlNPdDBmbmlQemY0alFlTldjclNTQnVWSXF2MzVwQXNHVFQ5WmRmMjJCR3BrM0p2M3Z3ZUNnWUxoVjQ0WEoxRlhObHowRERQdi1wZ1g5VGFHQl9nNFVzYW93b3Nacm8?oc=5",
+      "source": "안전신문 외"
     },
     {
-      "tag": "사회공헌·노인보장",
-      "title": "보험업권, 취약계층 노인 65만 명 지원…무료 치매배상보험 등 제공",
-      "summary": "보험업권이 취약계층 노인 65만 명을 대상으로 낙상 치료비 지원과 무료 치매배상보험 등을 포함한 105억원 규모의 통합 지원에 나선다는 보도가 나왔습니다. 보험의 사회안전망 역할을 확대하고 취약계층의 노인성 위험 보장을 지원하는 내용입니다.",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWjU0MXJaczFTMWJYNnpxaFRYWG91ZmFxTHJtdU05bktzQ3ZvVGQ5eURLaVFZaGppemVvTVRtbDRqR3BJVzllMVhqenc4OGdSNEhJbzYtbkphejNwRUdUVWxjOUxRbDFBdm5adUdScWRPUHpuYkpFLVlWR2U2QWM3Q29ob1NEbmhhM0t3?oc=5",
-      "source": "대한민국 정책브리핑"
+      "tag": "소비자보호·감독",
+      "title": "보험 갈아타기 불이익 관리와 금감원 감독 실효성 논란",
+      "summary": "국감 관련 기사에서는 보험계약 갈아타기 과정에서 발생할 수 있는 소비자 불이익을 누가 점검하는지에 대한 문제가 제기됐다. 상품 이동이 소비자에게 미치는 영향을 관리하는 감독 체계의 실효성이 쟁점이 됐다.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01emdJVFJ5cS01bUhEeW1NV0M1emR1UzJaMnBiT3N5RTJzVmNoaF9vczdiWHRWQmNJWkJkRHBqMHVIRi1QUzFqdTNYVFNwRzF5ZFpGa2tpTDJFZThBTkdWUTFZendMZm1fZVlicnBmeGdjb2xG?oc=5",
+      "source": "조세일보"
     },
     {
-      "tag": "소비자보호",
-      "title": "부당승환·연금보험 지급·실손 입원 필요성 등 보험 소비자 쟁점 부각",
-      "summary": "부당승환 제재에도 피해 구제가 어렵다는 지적과 함께, 연금보험 가입자가 예상보다 크게 낮은 금액을 받았다는 사례가 보도됐습니다. 실손보험금 지급에서 입원 필요성을 따지는 문제도 제기돼 판매 설명과 보험금 지급 기준에 대한 소비자 보호 이슈가 이어졌습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UUVFqWE4zZUdqd3NBdU5pRVJTVEtJbzlLa0tSS0pzYnpuZk14Z0F1VXZ5YUJQbmtNU2ZjOVl3dmFWY2l3dVhzUDFiYk5xZDJGaTRITzZRZDdZYzBSS2lYeNIBeEFVX3lxTE5lb2VDSEFxUVpIbGRyRzJ1WkhnWG5hUWF5eGttQ3ViUVlXVWl6a2g1LUZPWXVfYnRmb2tYX0RvdlNQb3B6WEZJZXpmSHF0UXpUMTVMeDlkdVk3ZTFhY3N4VlgzbG1PaG02enlQRW40dEZRUFZHeGo2bQ?oc=5",
-      "source": "뉴시스"
+      "tag": "디지털·판매채널",
+      "title": "디지털·플랫폼 기반 보험 판매와 고객경험 경쟁 확대",
+      "summary": "디지털 보험의 성패를 고객 경험으로 보는 분석과 함께, 플랫폼의 고객 데이터베이스를 활용한 보험사업 확대 및 AI 기반 업무혁신 사례가 소개됐다. 통신 3사의 아이폰 전용 보험·보상 경쟁까지 더해지며 보험사의 판매·서비스 경쟁이 디지털 접점으로 넓어지고 있다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yRHlMU093aXNETVlXeTlYQUdxTFpTUVZGblgwUDRLQVA5aTN3MHY5a2FLRmlYODdYZ09rOXdTbFdmbFZNNDNpTUZ1RU9LQXFWMXNyekZMQlVRenFyZkVpM2NXQVduNXVP?oc=5",
+      "source": "FETV 외"
     },
     {
-      "tag": "신시장·사이버위험",
-      "title": "중소기업 사이버보험 공략과 사이버보험 의무화 제안",
-      "summary": "DB손해보험이 중소기업 사이버보험 시장 공략에 나선다는 보도가 나왔고, 공공기관 개인정보 유출 배상책임과 관련해 사이버보험 의무화 제안도 제기됐습니다. 기업의 개인정보 유출 위험을 보험으로 보장하는 시장 확대 가능성과 제도 논의가 함께 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3X2M0S3NCY3ZGZktvSDY5LXR4YmdEXzEyS2dYN0VwOThPSW1wQ3ZMV2FGb3hieUR5WFZuVHNkMEF4b2N1cFFnQ1RJc1VidnFvRkhRYTMtQzBJcTh3Si14cnFIcW1teU14MGx4VA?oc=5",
-      "source": "데일리시큐"
+      "tag": "해외사업",
+      "title": "생명보험사 해외 현지 영업 확대 지속",
+      "summary": "한화생명은 해외실적을 견인한 현지 맞춤형 전략이 소개됐고, 삼성생명 태국법인은 현지 금융 엑스포 참가를 통해 영업 확대에 나섰다. 두 사례는 국내 보험사의 해외시장 확장이 현지 영업과 고객 접점 확대를 중심으로 진행되고 있음을 보여준다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42Q0l1YUNfMXlTYTVyRjR2c2k3aGltc0Fmd0I3bVFRYnUwYVlLdi1Na19LRnI2MEg0OEh2VUxQa3BYaF9HZVZTMmpmQUVLblkwUHNTeGpIQTVqV29EZmc5TE9aS0hWblho?oc=5",
+      "source": "녹색경제신문 외"
     }
   ]
 }
