@@ -1,70 +1,70 @@
 {
-  "updatedAt": "2026-10-23T01:42:40.438Z",
+  "updatedAt": "2026-10-24T01:45:24.475Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사 메타데이터를 기준으로 동일한 전망·정책 이슈를 묶었습니다. 금융시장 관련 내용은 기사에 명시된 미국 고용지표를 중심으로 정리했으며, 국내외 금리·환율·부동산의 구체적인 흐름은 확인되지 않습니다.",
+  "editorNote": "최근 24시간 기사 중 동일 사실을 다룬 자동차보험 손해율, 필수의료 배상보험, 건강보험 명의도용, 불조심 행사 보도는 각각 하나의 이슈로 통합했습니다. 기사 메타데이터에 금융시장 수치가 제시되지 않은 경우 금리·자산운용 관련 연결도 제목에서 확인되는 범위로만 정리했습니다.",
   "keywords": [
-    "보험산업 성장률 3.5%",
-    "성장의 질",
-    "보장성·장기보험",
-    "기후보험",
-    "디지털·AI 보험"
+    "보험산업 성장률 둔화",
+    "자동차보험 손해율",
+    "필수의료 배상보험",
+    "건강보험 명의도용",
+    "금리 리셋·투자손익"
   ],
-  "marketSummary": "미국 주간 신규 실업보험 청구가 시장 전망치를 밑돈 가운데, 국내 보험업계는 내년 성장률 둔화와 수익성·자본구조 개선 과제를 동시에 마주한 것으로 보인다.",
+  "marketSummary": "금리 리셋 관련 보도에서 보험·연기금과 TLT·VNQ의 성과가 엇갈린 것으로 제시되면서, 보험사의 금리 민감 자산 운용과 투자손익이 보험시장 주요 변수로 부각됐다.",
   "marketContext": [
     {
-      "label": "미국 고용지표",
-      "summary": "미국 주간 신규 실업보험 청구는 19만4천건으로 시장 전망치를 하회했다. 고용지표는 향후 금리 경로와 연결될 수 있는 변수지만, 해당 기사에는 금리 변화나 보험사 자산운용 영향이 제시되지 않았다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xOGdFMVJwQzE0STZBUi1KbHVUQ25wS25WeGJhQzRmMHJMS19HeVRfQ05MSVc2RlNfLWgxMmxoVjByWTczazVjT1FoQzBOQ2tkM3J3V1g0TGxIWnNELTlwSmRtY0tPWW9SYXYtSmphLU0?oc=5",
-      "source": "연합인포맥스"
+      "label": "금리 리셋·채권금리",
+      "summary": "금리 리셋 기사들은 보험·연기금은 웃고 TLT·VNQ는 우는 상황을 다뤘다. 금리 변화에 따른 채권 및 금리 민감 자산의 성과 차이는 보험사의 자산운용 수익과 건전성 관리에 연결되는 변수다.",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OTHphdE9vNXpvYmVYZElzZXhrTWU0U0NYb3lNRDhRV0xVQmtuMTA5bFVUY3dFX0IwTEpvQ1EyYlU5Sms2OVNYLWJQNHJ2WkUwclUtWjVBZ3pJTHZp",
+      "source": "뉴스핌"
     },
     {
-      "label": "국내외 채권금리",
-      "summary": "기사 목록에는 국내외 채권금리의 상승·하락이나 수준에 관한 내용이 없다. 따라서 보험사의 채권 운용수익, 부채 평가, 상품가격 및 건전성에 미친 영향은 이 자료만으로 판단할 수 없다.",
-      "url": "",
-      "source": "관련 기사 없음"
+      "label": "TLT·VNQ 등 금리 민감 자산",
+      "summary": "관련 보도는 금리 리셋 국면에서 보험·연기금과 TLT·VNQ의 성과가 서로 다르게 나타나는 이유를 설명했다. 이는 보험사의 투자자산 구성과 금리 환경이 투자손익에 영향을 줄 수 있음을 보여주는 시장 연결점이다.",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hajRkV25tZ2dRQWdwenJmdkF0N3VoV2g0RU41MTZaRFQ0TWVCUDNuODVMSmtxOGRkOTJjcmpxVW1JbHlHLXVd1ZmNXB6RlcydWxSNVJ3MEN4emll",
+      "source": "뉴스핌"
     },
     {
-      "label": "환율·부동산",
-      "summary": "기사 목록에는 원화·외화 환율이나 부동산시장 흐름에 관한 내용이 없다. 이에 따라 해외사업 실적, 외화자산 운용 또는 부동산 관련 건전성에 대한 시장 연결점도 확인되지 않는다.",
-      "url": "",
-      "source": "관련 기사 없음"
+      "label": "보험사 투자손익",
+      "summary": "동양생명 관련 보도에서는 보험손익이 41.1~41.4% 증가했지만 투자손익은 적자를 기록한 것으로 제시됐다. 보험사의 실적과 자산운용 성과가 엇갈릴 수 있어 금리와 투자자산 흐름이 손익 및 자본 관리의 핵심 변수로 연결된다.",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FNWtsa0hLREVlcWpKMGZSSmNvVnRya3JIMUQ3U1Z0RTY5RDNwUlhWbmhEaG9RZTlnUXU5M28zWGJVM3Vfb0VQdDZZNm9QUzBwUDRvR2tBRHBCRnUzY0NYb25qc0pnZDQ",
+      "source": "자본시장뉴스"
     }
   ],
   "issues": [
     {
-      "tag": "성장·수익성",
-      "title": "내년 보험산업 성장률 3.5%…성장의 질과 자본구조가 과제",
-      "summary": "보험연구원 전망을 인용한 기사들은 내년 보험산업 성장률을 3.5%로 제시하면서 올해보다 성장세가 둔화되고 신계약 기여도도 낮아질 수 있다고 전했다. 보험료 규모가 늘더라도 이익과 내실이 불확실하다는 평가가 이어져 수익성·자본구조 개선이 핵심 과제로 부상했다.",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15eWxiTlhpQkgzWWZoVkJTVnRmTzlCUmRqNUM1SFFEWTMwVVZ2R0N2NjFUbWFTOEtVNDVKX0RRMV9OOG9uaENjVnFCRjBCOTZPT1RZRkJFdUJBX2dxVzV2aXMzOUNsTk0wd2UxZkRFQWd1cVJMdnk3eXZPaGs?oc=5",
-      "source": "한국금융신문 외"
+      "tag": "산업전망",
+      "title": "내년 보험산업 성장률 3.5% 전망…수익성과 자본의 질에도 경고등",
+      "summary": "관련 보도는 내년 보험산업 성장률을 3.5%로 제시하며 올해보다 둔화할 것으로 전망했고, 수익성과 자본의 질에도 경고가 필요하다고 전했다. 성장 둔화와 수익·자본 질 저하는 보험사의 상품 전략과 건전성 관리 부담을 함께 키우는 요인으로 제시된다.",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TVnRZTi1xeENhSlVSY29Sc3NLOVctdUdRZ2NUMGd0cUhNdVEtU1R4OGlLTTNHUU1qUk1xcFNrd3hFUnY0V0NMWlMwUjlXOVhyWld6V0E5YkNvNjNMWnZxMGJFMXE",
+      "source": "서울경제TV"
     },
     {
-      "tag": "기후·공공보험",
-      "title": "기후보험, 보상 실효성과 대상 확대 요구 커져",
-      "summary": "제주 국감에서는 건설현장 기후보험의 예산 대비 지급 실적이 문제로 제기됐고, 별도 기사에서는 보상 조건 완화와 대상 확대가 주문됐다. 기후위험 보장의 필요성뿐 아니라 실제 보상 접근성과 제도 설계가 쟁점으로 부각됐다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTUndUMXRpaUdIWlNPdDBmbmlQemY0alFlTldjclNTQnVWSXF2MzVwQXNHVFQ5WmRmMjJCR3BrM0p2M3Z3ZUNnWUxoVjQ0WEoxRlhObHowRERQdi1wZ1g5VGFHQl9nNFVzYW93b3Nacm8?oc=5",
-      "source": "안전신문 외"
+      "tag": "자동차보험",
+      "title": "9월 자동차보험 손해율 84.3~85.0%…개선에도 적자 구간 지속",
+      "summary": "여러 보도에서 9월 자동차보험 손해율은 84.3~85.0% 수준으로 전년보다 하락했으며, 누적 손해율도 소폭 개선된 것으로 나타났다. 다만 대형 손보사의 손해율이 여전히 80%를 웃돌고 적자 구간이 지속돼 자동차보험 수익성 개선은 제한적이라는 의미다.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82azJvOUJCblJ3NjFVaVRza0Q5S2UwaS1iRnhPVVhTWm9EMVpVREhUMnVMZW5PRjZoWVhrNGV2SElaNnF1R1NvbVdkRFhqVW53RXl3eFVVUVNGcG_SAWBBVV95cUxOUzRCNGpBYjByZ2xRcjJCUnhka2xjTFhNcUhxYjdUeW9FSVZwUEFnSHNDcXBmR3dSRF9xaGoxakM5SmtkNDZ5OHJjZ05jV0FHTldLWjBULXNSWmZIb3NQT0E",
+      "source": "연합뉴스"
     },
     {
-      "tag": "소비자보호·감독",
-      "title": "보험 갈아타기 불이익 관리와 금감원 감독 실효성 논란",
-      "summary": "국감 관련 기사에서는 보험계약 갈아타기 과정에서 발생할 수 있는 소비자 불이익을 누가 점검하는지에 대한 문제가 제기됐다. 상품 이동이 소비자에게 미치는 영향을 관리하는 감독 체계의 실효성이 쟁점이 됐다.",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01emdJVFJ5cS01bUhEeW1NV0M1emR1UzJaMnBiT3N5RTJzVmNoaF9vczdiWHRWQmNJWkJkRHBqMHVIRi1QUzFqdTNYVFNwRzF5ZFpGa2tpTDJFZThBTkdWUTFZendMZm1fZVlicnBmeGdjb2xG?oc=5",
-      "source": "조세일보"
+      "tag": "의료배상",
+      "title": "필수의료 고액배상보험 가입률 90%…가입 확대 총력",
+      "summary": "의료배상공제조합 관련 기사들은 필수의료 고액배상보험 가입률이 90%에 이르렀으며, 가입 확대를 위해 의료기관 부담금 면제 등 지원이 추진되고 있다고 전했다. 필수의료 영역의 배상 위험을 보험으로 보완하려는 움직임이 이어지고 있어 의료기관의 보험 접근성과 보장 공백이 주요 과제로 부각된다.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiZWF5YWtxX3p0czZnS09KMlpINlB6QTJGanloOEFFTTlxMlZ6QnBwVS02bV9Xd2ZxcEhfdS1oV1liWjM3N0VubEgwc2UxQ3ctb2hGNENtSk9MZThOQXBETzlOSlU4bWhDVWc",
+      "source": "의학신문"
     },
     {
-      "tag": "디지털·판매채널",
-      "title": "디지털·플랫폼 기반 보험 판매와 고객경험 경쟁 확대",
-      "summary": "디지털 보험의 성패를 고객 경험으로 보는 분석과 함께, 플랫폼의 고객 데이터베이스를 활용한 보험사업 확대 및 AI 기반 업무혁신 사례가 소개됐다. 통신 3사의 아이폰 전용 보험·보상 경쟁까지 더해지며 보험사의 판매·서비스 경쟁이 디지털 접점으로 넓어지고 있다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yRHlMU093aXNETVlXeTlYQUdxTFpTUVZGblgwUDRLQVA5aTN3MHY5a2FLRmlYODdYZ09rOXdTbFdmbFZNNDNpTUZ1RU9LQXFWMXNyekZMQlVRenFyZkVpM2NXQVduNXVP?oc=5",
-      "source": "FETV 외"
+      "tag": "건강보험",
+      "title": "건강보험 명의도용 부정수급…23억원 환급 못 해",
+      "summary": "보도에 따르면 타인의 건강보험 명의를 도용해 간암 치료를 105차례 받고 7,878만원을 사용한 사례가 발생했으며, 건강보험공단은 명의도용 부정수급액 23억원을 환급받지 못하고 있다. 반복적인 부정수급 사례는 건강보험 자격 확인과 사후 환수 체계의 중요성을 보여주는 이슈다.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOG1nazdXYmg5cHNxRFlmMEs0N1FEcXkyMFR6WVZmaENFMnQ4WFM0WkE5VzM3d3dlQ1l2V2I1b3EzTC1wMnk4b0FjdFJvdHcxRmV5Y1BBcXBSSDdzMURuVnlncnRrQ0ZCNGZMZTFMNFdTWFl4d0kzVlJhSjNwS2FtN3Z0NXc1aWpKX1h3YVRGSQ",
+      "source": "조선일보"
     },
     {
-      "tag": "해외사업",
-      "title": "생명보험사 해외 현지 영업 확대 지속",
-      "summary": "한화생명은 해외실적을 견인한 현지 맞춤형 전략이 소개됐고, 삼성생명 태국법인은 현지 금융 엑스포 참가를 통해 영업 확대에 나섰다. 두 사례는 국내 보험사의 해외시장 확장이 현지 영업과 고객 접점 확대를 중심으로 진행되고 있음을 보여준다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42Q0l1YUNfMXlTYTVyRjR2c2k3aGltc0Fmd0I3bVFRYnUwYVlLdi1Na19LRnI2MEg0OEh2VUxQa3BYaF9HZVZTMmpmQUVLblkwUHNTeGpIQTVqV29EZmc5TE9aS0hWblho?oc=5",
-      "source": "녹색경제신문 외"
+      "tag": "보험사실적",
+      "title": "보험손익 개선에도 투자손익·계리적 가정 부담 부각",
+      "summary": "동양생명은 3분기 순익이 6.4% 증가하고 보험손익이 약 41% 늘었지만 투자손익은 적자로 보도됐다. 하나손해보험은 CM채널 중심 자동차보험 성장세에도 계리적 가정의 영향으로 순익이 적자를 기록해, 보험영업 성장과 최종 손익 사이의 차이가 드러났다.",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxSFRpZ3RHMzNqY05BY2RBNGlsSFQ1ZHk5SXNFSURBU2g4b3ppbXZRdjdJMnpXTGtPcFNRYVNlSlUwMmpDNTQyZ096UG9LQXN6ZVJ5N3ZoQWxIZjV5cF8ta1gyRnJqRWliSTRTSUxn",
+      "source": "아시아투데이"
     }
   ]
 }
