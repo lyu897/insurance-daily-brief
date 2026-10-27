@@ -1,64 +1,70 @@
 {
-  "updatedAt": "2026-10-26T01:26:10.771Z",
+  "updatedAt": "2026-10-27T02:13:40.338Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사 가운데 동일한 경기 기후보험·온열질환 지급 보도는 하나의 이슈로 통합했으며, 중국 보험시장 변화와 AI 활용 관련 기사도 주제별로 묶었습니다.",
+  "editorNote": "최근 24시간 기사 중 동일 사안을 반복 보도한 기사는 하나의 이슈로 통합했습니다. 제공된 기사 목록에는 미국 금리·국내외 채권금리·환율·부동산 가격의 구체적 흐름이 없어 해당 변수에 대한 별도 판단은 제외했습니다.",
   "keywords": [
-    "기후보험",
-    "보험 해지",
-    "AI 보험",
+    "숨은보험금",
     "실손보험",
-    "보험금 지급 기준"
+    "태아·어린이보험 세액공제",
+    "기후보험",
+    "해양 사이버보험"
   ],
-  "marketSummary": "보험 해지 급증과 관련해 증시·금리가 자산시장 파장 변수로 거론되는 가운데, 일본 생보사의 운용수익 급증 사례도 전해져 보험사의 자산운용 환경이 주요 관심사로 부각됐다.",
+  "marketSummary": "오늘 보험시장은 숨은보험금 환급과 실손보험 선택 문제처럼 소비자 접점 이슈가 부각되는 가운데, 기후·사이버 위험 등 새로운 보장 영역의 확대와 보험사의 투자·비용 부담이 함께 주목받았다.",
   "marketContext": [
     {
-      "label": "증시",
-      "summary": "보험 해지 급증과 함께 증시가 보험사의 자산시장 파장에 영향을 줄 수 있는 변수로 거론됐다. 기사에서는 증시 흐름이 보험 해지 및 자산시장 영향과 연결돼 주목받고 있다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZLTN5TVgway1wbEY5cTN2WWZ1dnc5ZndxaC1nMDJ6SlJzVUJZQkhJQVk4aXRUWXVSYjktYlMtXzMwWUctTnpYVWNkakJoMHlMRVFrZ1B6MzdNYS1ETG5IaTcxQlJhTDlaR1V30gFvQVVfeXFMT0xaUU02UFcydGMtNFhDSmJYQVFfaWJleldhWWVUNjZlUWpmcW9CNGk3LXlWSVVjQ1ZkWU1EUmZWMlRCQ2lTcWF1cmpmNEt1SXYyZTlLa2FQNFE3MUN1bzZKTzVIbmZzZFlKX1pQem5Z?oc=5",
-      "source": "한국보험신문"
+      "label": "보험사의 투자손익",
+      "summary": "DB손해보험 관련 보도는 투자손익이 부진했지만 본업 개선은 긍정적이라고 평가했다. 보험사 실적을 볼 때 보험영업 성과와 자산운용 성과를 나누어 살펴볼 필요성을 보여준다.",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNV1gtczBXdkR5T0dXcmR6WVdlQTFBQ3RTbUlPdUxHR2pid0RYcE1ZS3JxVGhGSDhQODkwYlJmRkl1V29rdVFUS0RSQnh1VXRrdjZZUUw0UFg3akVTMUUtZEd5RTFCUXlka3dteFR3?oc=5",
+      "source": "알파경제"
     },
     {
-      "label": "금리",
-      "summary": "금리 역시 보험 해지 증가와 자산시장 파장을 좌우할 변수로 기사에서 언급됐다. 금리 환경은 기사 맥락상 보험사의 자산운용과 해지 흐름을 함께 살펴야 하는 요인으로 제시됐다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZLTN5TVgway1wbEY5cTN2WWZ1dnc5ZndxaC1nMDJ6SlJzVUJZQkhJQVk4aXRUWXVSYjktYlMtXzMwWUctTnpYVWNkakJoMHlMRVFrZ1B6MzdNYS1ETG5IaTcxQlJhTDlaR1V30gFvQVVfeXFMT0xaUU02UFcydGMtNFhDSmJYQVFfaWJleldhWWVUNjZlUWpmcW9CNGk3LXlWSVVjQ1ZkWU1EUmZWMlRCQ2lTcWF1cmpmNEt1SXYyZTlLa2FQNFE3MUN1bzZKTzVIbmZzZFlKX1pQem5Z?oc=5",
-      "source": "한국보험신문"
+      "label": "예금보험료 부담",
+      "summary": "보험업계가 예보료 인상으로 연간 1조5000억원의 추가 부담을 우려한다는 보도가 나왔다. 예보료 증가는 보험사의 비용과 이익, 자본 여력에 영향을 줄 수 있는 업계 부담 요인으로 제시됐다.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qLWV2M3VucGhJSFNQNXBrc2I4MDUyQk5PbzlJR1RTVGk2bG84b2xDcExPVjl1YS10eXBEVXUyNHRFWXdjS0VvUU9VcEhlVUZ2b1Q5VHFHa2RPOWZpaGpPSS00X0JsdXZGRXU5UjFtc9IBc0FVX3lxTE04SlVZaFZvNk5FOTBVM0JDbks2U2VLU0N1MEFlZndidkVFS0ZTanJyajhUTWlOSWJQbWZwZHdET24yT1BaaWxvaklCVXZxLVA0Q0hZSjluTXVWQXR5V3IzRUhaNHhkT1RBd1FEYUFMQkZ4Nmc?oc=5",
+      "source": "데일리한국"
+    },
+    {
+      "label": "석탄 관련 보험·투자",
+      "summary": "시민단체가 삼성화재와 삼성생명에 석탄 사업에 대한 보험·투자 중단을 촉구했다. 이는 보험사의 자산운용과 인수정책에서 환경·사회적 책임에 대한 외부 요구가 이어지고 있음을 보여준다.",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0TUd4RlJWU3BlNXI4YkVDNkhfU1JIZUpkZ3VVM2ZEaENhUWhxd2IwZGFUVDdaVDhQUUl5OGR1dUV5MjJ2dkxCM3N6UVVZRGZvdWc?oc=5",
+      "source": "더나은미래"
     }
   ],
   "issues": [
     {
-      "tag": "기후보험",
-      "title": "경기 기후보험 온열질환 지급 1,472건…전년보다 2.2배",
-      "summary": "경기 기후보험의 온열질환 진단비 지급 건수가 올해 1,472건으로 지난해 누적 실적의 2.2배에 이르렀다는 보도가 잇따랐다. 폭염에 따른 보험금 지급 확대가 기후위험의 보험 손해와 상품 운영에 미치는 영향을 부각했다.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sSFFXUlNlbDBDX04zUUVra1RfVmEtQkd3M1VoTlFWaENxZDdNTXAyejFiOE1QME92R0h5SVc5bFdqZW8wNFhKb0JrVlBqTTZZNUM3NHEtRno1TTDSAWBBVV95cUxQbklGc3ZMdWZObmhzd3VVMHdjTTQyOVNNazFzZHJaZUhmX21lMDN1ZFpCa1JyUnJPM045ZmhfS0JzcTdFdjV2R0VHUW9GelJvSG8wLVZyMXk0eG4xZF9pZFU?oc=5",
+      "tag": "소비자보호",
+      "title": "생보협회·서금원·보험사, ‘숨은보험금’ 찾아주기 캠페인",
+      "summary": "생명보험협회와 서민금융진흥원, 보험사 등이 휴면·숨은보험금의 지급을 안내하는 대국민 캠페인을 진행한다. 반복적으로 발생한 동일 캠페인 보도는 보험금 청구와 소비자 환급을 보험업계의 주요 접점으로 부각했다.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fZUpIQ2NGQ05xdE9tY21IZ0g4R1RreXRuYWFnTXduTU1ZUWlwZ1FNaGFqLTZqNE1fOGd4Zno4WFNtcUlSNUFFcDJXd21vMDlnX2JGSGJUWWMwSjDSAWBBVV95cUxPbnFyLURZS1RvWkdj?oc=5",
       "source": "연합뉴스"
     },
     {
-      "tag": "건전성·자산시장",
-      "title": "보험 해지 급증…증시·금리 변수로 자산시장 파장 경계",
-      "summary": "보험 해지 급증 현상이 증시에 이어 금리와도 연결되며 자산시장 파장에 대한 경계감이 제기됐다. 해지 흐름과 금융시장 변수가 보험사의 자산운용 및 시장 영향에 함께 작용할 수 있다는 점이 핵심이다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZLTN5TVgway1wbEY5cTN2WWZ1dnc5ZndxaC1nMDJ6SlJzVUJZQkhJQVk4aXRUWXVSYjktYlMtXzMwWUctTnpYVWNkakJoMHlMRVFrZ1B6MzdNYS1ETG5IaTcxQlJhTDlaR1V30gFvQVVfeXFMT0xaUU02UFcydGMtNFhDSmJYQVFfaWJleldhWWVUNjZlUWpmcW9CNGk3LXlWSVVjQ1ZkWU1EUmZWMlRCQ2lTcWF1cmpmNEt1SXYyZTlLa2FQNFE3MUN1bzZKTzVIbmZzZFlKX1pQem5Z?oc=5",
-      "source": "한국보험신문"
+      "tag": "세제·상품",
+      "title": "태아·어린이보험 세액공제 신설 추진",
+      "summary": "태아·어린이보험에 대한 세액공제 신설이 추진되며, 세 자녀 이상 다자녀 가구에는 최대 60만원 공제가 거론됐다. 제도가 실제 도입될 경우 가족 단위 보험 가입의 세제 유인이 상품 수요와 판매 전략에 영향을 줄 수 있는 사안이다.",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GRUNxUmdwWXZsOFhBc3RSbGN2SFdoOEROOHFpWTBmcHE3OU5mdndWMC1hbEZWY0ZDYm5VZERXS1czVmVCSnJBYWc5c2J4WnZYNXdSMGtOVFB4SEE0bEZTeUxTU0I?oc=5",
+      "source": "한국세정신문"
     },
     {
-      "tag": "상품·성장전략",
-      "title": "중국 보험, 사망보장에서 노후소득·통합돌봄으로 확장",
-      "summary": "중국 보험업계가 치매 예방과 재택돌봄을 포함한 통합관리로 영역을 넓히고, 생명보험은 사망보장에서 노후소득과 자산관리 중심으로 전환하고 있다는 보도가 나왔다. 보험의 역할이 보장 중심에서 노후·돌봄 서비스를 결합한 형태로 확대되는 흐름을 보여준다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPOXdibHRYZF9pWjNoNThZVkRxdnJvd1BLQkJtSThOdWpwOTlBaGc0TnlkdHFTVXhRanFhME5GNW9adHZhZThfbWpvTVZ5U1lJMDY1cjE3TzNLLW1NdFVCQXdKWUdxWmVDaHN6VC1NWWxuQQ?oc=5",
-      "source": "KB Think"
+      "tag": "실손보험",
+      "title": "실손보험 할인 앞두고 기존 계약 유지·전환 선택 쟁점",
+      "summary": "실손보험료 할인 시행을 앞두고 오래된 계약을 유지할지, 보험료가 낮은 상품으로 갈아탈지에 대한 소비자 판단이 쟁점으로 제시됐다. 보험료 부담과 보장 범위 사이의 선택이 커지면서 상품 전환 안내와 비교 설명의 중요성이 부각됐다.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KMFRDcGc2ZUp6NlZsbHp1NW1HVU8wU3VnQ0VGbzVqVTExa3g4eEdKSWZwZjB6WTgzSVNYWmRBcWFiTFBVekdMNndFSW0yak5KZ2oxYnFTcDVzcnkweUdXektLd2dTRmhMZ1M2RDJybnBzUWFERUHSAWZBVV95cUxNQ3NTb3k2aHNXVEViNzBSbDFLWjZiTDVfUWtwSU9VMUlCdmxPeXQ0c0ZEQ0owMG5PZ3dKQlFNZ0lzdXFWSkJUbDJFMUlLREo5VHlnVGY3NmRZUmpoTGhQdjVnMGw4emc?oc=5",
+      "source": "동아일보"
     },
     {
-      "tag": "디지털·AI",
-      "title": "AI, 보험 가입부터 계약관리·사기 대응까지 확산",
-      "summary": "AI가 보험 갈아타기와 보험금 청구를 지원하고, 고객 특성 분석을 통한 계약관리와 생성형 AI 조작 이미지 탐지에도 활용되고 있다. AI 적용 범위가 판매·고객관리·보험사기 대응으로 동시에 넓어지며 보험 유통과 업무 방식의 변화를 촉진하고 있다.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xMWtLTjdTUUQ1SmRyYVBqMGtMeVNHZVMwUnpWdU9ycDJvYnV1YUZfWTlrQWU2SHJIWURYclhJOVN3UFlRRUVvTTcwc2N0ZGl4aHpnYm11bTEtRHRwZ2ZsWQ?oc=5",
+      "tag": "신성장 보장",
+      "title": "한화손보·싸이터, 해양 사이버보험 공동사업 추진",
+      "summary": "한화손해보험과 싸이터가 선박 보안 데이터와 보험을 연계한 해양 사이버보험 공동사업 및 상품 개발을 추진한다. 선박의 사이버 위험을 보안 데이터로 관리하고 보험 보장으로 연결하려는 시도로, 새로운 위험에 대한 전문상품 개발이 진행되고 있음을 보여준다.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NaDBOQ1hYaEctY1RvUkNFYjlkWVRLd3VGeUxkNUFEd3UwenhBTzZqb0Y1S1NkVU1UeVp0ZDBBNEZCWVpJRUxYTkhnemhXSmF3c0hJdGJ0UXpLOWxEQko5Xw?oc=5",
       "source": "뉴스1"
     },
     {
-      "tag": "제도·보험금",
-      "title": "실손 본인부담상한 사후정산법·보험금 지급 기준 이슈 부상",
-      "summary": "실손보험과 환자 본인부담상한제의 사후정산을 위한 법안 추진이 보도됐고, 비의료인의 수술에 대한 보험금 청구 가능 여부를 둘러싼 판결도 나왔다. 보험금 지급 여부와 보장금액 한도 산정 기준을 둘러싼 제도·판결 이슈가 동시에 부각됐다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Jdi1tXzR0RHR3LUVWRktmUk5CU1hPUlZFRXVtYjVNcVBfclFPVG9ULVRKa1BNS0poR2kzSEFmMmdKSDJCcmhKdzBsdVBlNmI5X2pfUFBJdElrSThWalpqajVPWkNKZS1z?oc=5",
-      "source": "데일리메디"
+      "tag": "기후·재해보험",
+      "title": "지자체 중심 기후보험 확대와 운영사 선정 기준 논란",
+      "summary": "극한 날씨에 대응하는 기후보험이 지자체를 중심으로 확산되는 가운데, 일부 지자체의 운영사 선정 기준과 기후 책임 반영 여부가 논란이 됐다. 제주시는 농작물재해보험료의 최대 85%를 지원하고, 민관 협력 형태의 풍수해·지진재해보험 지원사업도 보도돼 공공 지원과 운영 투명성이 함께 쟁점이 됐다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBY21lcHpobGE2cG43Uk5hcFNid2Rqb2pvRENMUXZQZS02OHJIcWNFS09DSzVpbXNKSExuaGFYdDJpSG1vekVha2dtMnRCOUtCS0VXZndnQk0xUURrR1NNRTdzcHM0NEpH?oc=5",
+      "source": "녹색경제신문"
     }
   ]
 }
