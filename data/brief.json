@@ -1,70 +1,70 @@
 {
-  "updatedAt": "2026-10-27T02:13:40.338Z",
+  "updatedAt": "2026-10-28T02:28:45.433Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사 중 동일 사안을 반복 보도한 기사는 하나의 이슈로 통합했습니다. 제공된 기사 목록에는 미국 금리·국내외 채권금리·환율·부동산 가격의 구체적 흐름이 없어 해당 변수에 대한 별도 판단은 제외했습니다.",
+  "editorNote": "제공된 최근 24시간 기사 메타데이터와 제목만 기준으로 중복 보도는 하나의 이슈로 통합했습니다. 기사 본문이나 별도 시장 데이터에 없는 사실·수치는 추가하지 않았습니다.",
   "keywords": [
-    "숨은보험금",
-    "실손보험",
-    "태아·어린이보험 세액공제",
-    "기후보험",
-    "해양 사이버보험"
+    "금융권 정보유출",
+    "소공인 화재보험",
+    "스위칭 저축보험",
+    "디지털 보험",
+    "장기요양보험 재정"
   ],
-  "marketSummary": "오늘 보험시장은 숨은보험금 환급과 실손보험 선택 문제처럼 소비자 접점 이슈가 부각되는 가운데, 기후·사이버 위험 등 새로운 보장 영역의 확대와 보험사의 투자·비용 부담이 함께 주목받았다.",
+  "marketSummary": "제공된 기사 목록에는 미국 금리·국내외 채권금리·환율·부동산 등 금융시장 흐름을 보여주는 구체적인 정보가 없어, 이를 보험사의 자산운용·상품가격·건전성과 연결해 판단하기 어렵습니다.",
   "marketContext": [
     {
-      "label": "보험사의 투자손익",
-      "summary": "DB손해보험 관련 보도는 투자손익이 부진했지만 본업 개선은 긍정적이라고 평가했다. 보험사 실적을 볼 때 보험영업 성과와 자산운용 성과를 나누어 살펴볼 필요성을 보여준다.",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNV1gtczBXdkR5T0dXcmR6WVdlQTFBQ3RTbUlPdUxHR2pid0RYcE1ZS3JxVGhGSDhQODkwYlJmRkl1V29rdVFUS0RSQnh1VXRrdjZZUUw0UFg3akVTMUUtZEd5RTFCUXlka3dteFR3?oc=5",
-      "source": "알파경제"
+      "label": "미국 금리",
+      "summary": "기사 목록에 미국 금리의 방향이나 수준이 언급되지 않아 보험사의 해외채권 운용이나 상품가격과의 연결점을 확인할 수 없습니다.",
+      "url": "",
+      "source": "제공 기사 목록"
     },
     {
-      "label": "예금보험료 부담",
-      "summary": "보험업계가 예보료 인상으로 연간 1조5000억원의 추가 부담을 우려한다는 보도가 나왔다. 예보료 증가는 보험사의 비용과 이익, 자본 여력에 영향을 줄 수 있는 업계 부담 요인으로 제시됐다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qLWV2M3VucGhJSFNQNXBrc2I4MDUyQk5PbzlJR1RTVGk2bG84b2xDcExPVjl1YS10eXBEVXUyNHRFWXdjS0VvUU9VcEhlVUZ2b1Q5VHFHa2RPOWZpaGpPSS00X0JsdXZGRXU5UjFtc9IBc0FVX3lxTE04SlVZaFZvNk5FOTBVM0JDbks2U2VLU0N1MEFlZndidkVFS0ZTanJyajhUTWlOSWJQbWZwZHdET24yT1BaaWxvaklCVXZxLVA0Q0hZSjluTXVWQXR5V3IzRUhaNHhkT1RBd1FEYUFMQkZ4Nmc?oc=5",
-      "source": "데일리한국"
+      "label": "국내외 채권금리",
+      "summary": "국내외 채권금리 관련 수치나 변동 내용이 없어 보험사의 자산운용 수익률과 건전성에 미치는 영향을 판단할 수 없습니다.",
+      "url": "",
+      "source": "제공 기사 목록"
     },
     {
-      "label": "석탄 관련 보험·투자",
-      "summary": "시민단체가 삼성화재와 삼성생명에 석탄 사업에 대한 보험·투자 중단을 촉구했다. 이는 보험사의 자산운용과 인수정책에서 환경·사회적 책임에 대한 외부 요구가 이어지고 있음을 보여준다.",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0TUd4RlJWU3BlNXI4YkVDNkhfU1JIZUpkZ3VVM2ZEaENhUWhxd2IwZGFUVDdaVDhQUUl5OGR1dUV5MjJ2dkxCM3N6UVVZRGZvdWc?oc=5",
-      "source": "더나은미래"
+      "label": "환율·부동산",
+      "summary": "환율과 부동산 시장의 움직임을 다룬 기사가 없어 외화자산 운용이나 부동산 관련 보험상품·건전성과의 연관성을 확인할 수 없습니다.",
+      "url": "",
+      "source": "제공 기사 목록"
     }
   ],
   "issues": [
     {
-      "tag": "소비자보호",
-      "title": "생보협회·서금원·보험사, ‘숨은보험금’ 찾아주기 캠페인",
-      "summary": "생명보험협회와 서민금융진흥원, 보험사 등이 휴면·숨은보험금의 지급을 안내하는 대국민 캠페인을 진행한다. 반복적으로 발생한 동일 캠페인 보도는 보험금 청구와 소비자 환급을 보험업계의 주요 접점으로 부각했다.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fZUpIQ2NGQ05xdE9tY21IZ0g4R1RreXRuYWFnTXduTU1ZUWlwZ1FNaGFqLTZqNE1fOGd4Zno4WFNtcUlSNUFFcDJXd21vMDlnX2JGSGJUWWMwSjDSAWBBVV95cUxPbnFyLURZS1RvWkdj?oc=5",
-      "source": "연합뉴스"
+      "tag": "사이버보안",
+      "title": "은행·보험·증권·가상자산 업계로 정보유출 이슈 확산",
+      "summary": "은행에 이어 보험·증권·가상자산 거래소에서도 해킹과 정보 유출이 확인됐다는 보도가 이어졌습니다. 금융권 전반의 고객정보 보호와 사이버보안 대응이 보험업계의 주요 현안으로 부각됐다는 의미입니다.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnaDdCNFZET0RMc0cyZm1DR0xfeE9fbkprcHA0WUlMaTdXQ19fOXRyZDhHMzdLUFU3T1hWbEhCSEJRM1NrX0xVcGxBa2JsQlNydmF3UE9GV1d0QQ?oc=5",
+      "source": "이투데이·메트로신문·매일경제"
     },
     {
-      "tag": "세제·상품",
-      "title": "태아·어린이보험 세액공제 신설 추진",
-      "summary": "태아·어린이보험에 대한 세액공제 신설이 추진되며, 세 자녀 이상 다자녀 가구에는 최대 60만원 공제가 거론됐다. 제도가 실제 도입될 경우 가족 단위 보험 가입의 세제 유인이 상품 수요와 판매 전략에 영향을 줄 수 있는 사안이다.",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GRUNxUmdwWXZsOFhBc3RSbGN2SFdoOEROOHFpWTBmcHE3OU5mdndWMC1hbEZWY0ZDYm5VZERXS1czVmVCSnJBYWc5c2J4WnZYNXdSMGtOVFB4SEE0bEZTeUxTU0I?oc=5",
-      "source": "한국세정신문"
+      "tag": "상품개발",
+      "title": "NH농협손보, 소공인 전용 화재보험 출시·보급",
+      "summary": "NH농협손해보험이 소진공과 협력해 소공인·제조 소상공인을 대상으로 한 화재보험을 출시하고, 무심사·소액 보험료·통합한도 보장 등의 내용이 보도됐습니다. 화재 위험으로 보험 가입이 어려웠던 소공인의 가입 문턱을 낮추는 상품이라는 점이 핵심입니다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzbnFtNG1CNm1ZdmhiZXdrS3dnWFBmLWR0SWYxNXo1R1pDTXc5aHdweDVCN2dFak00QU14blRjR2pBSXVSVVhhd3RfMGh0X2FfdlUwQzE5YnRHa3RoY2xZOXk2TEItV096Y3Jj?oc=5",
+      "source": "보험신보·전자신문·아시아경제 등"
     },
     {
-      "tag": "실손보험",
-      "title": "실손보험 할인 앞두고 기존 계약 유지·전환 선택 쟁점",
-      "summary": "실손보험료 할인 시행을 앞두고 오래된 계약을 유지할지, 보험료가 낮은 상품으로 갈아탈지에 대한 소비자 판단이 쟁점으로 제시됐다. 보험료 부담과 보장 범위 사이의 선택이 커지면서 상품 전환 안내와 비교 설명의 중요성이 부각됐다.",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KMFRDcGc2ZUp6NlZsbHp1NW1HVU8wU3VnQ0VGbzVqVTExa3g4eEdKSWZwZjB6WTgzSVNYWmRBcWFiTFBVekdMNndFSW0yak5KZ2oxYnFTcDVzcnkweUdXektLd2dTRmhMZ1M2RDJybnBzUWFERUHSAWZBVV95cUxNQ3NTb3k2aHNXVEViNzBSbDFLWjZiTDVfUWtwSU9VMUlCdmxPeXQ0c0ZEQ0owMG5PZ3dKQlFNZ0lzdXFWSkJUbDJFMUlLREo5VHlnVGY3NmRZUmpoTGhQdjVnMGw4emc?oc=5",
-      "source": "동아일보"
+      "tag": "생명보험",
+      "title": "신한라이프, 저축과 건강보장을 전환하는 스위칭보험 출시",
+      "summary": "신한라이프가 저축 중 필요할 때 보장으로 전환할 수 있는 ‘라이프스위칭저축보험’을 출시한다는 보도가 여러 매체에서 나왔습니다. 보장 종류·금액·시점을 선택하거나 저축과 건강보장을 전환하는 구조가 상품의 주요 특징으로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uMldJQi1FcHVaNmRaVnRMTFpXQkdqYVMzNGwtQS1tUUFlWTNzc0Jibm9pWjFSZ3RIVDFJOGNUTVFPMzBqQXdEUWNPT2xVLU9LUWpIemtJdU42bzRKa08zejBfdVNJa2ItQ2tJ0gFwQVVfeXFMT1lqcFlpcFFPWm9GSW9kWGF0ZVR3NFpzSFRNejQ5NXdqV1llRXY3X2RnYlE5dXNuV1FuSFlPRjhNTFQ1MFk4X1RoMFgwSWhkdHU3OUdPMWstb29PX0ttelZ3Zm9XWlBoamcwTURYZnFRMw?oc=5",
+      "source": "머니투데이·전자신문·아시아경제 등"
     },
     {
-      "tag": "신성장 보장",
-      "title": "한화손보·싸이터, 해양 사이버보험 공동사업 추진",
-      "summary": "한화손해보험과 싸이터가 선박 보안 데이터와 보험을 연계한 해양 사이버보험 공동사업 및 상품 개발을 추진한다. 선박의 사이버 위험을 보안 데이터로 관리하고 보험 보장으로 연결하려는 시도로, 새로운 위험에 대한 전문상품 개발이 진행되고 있음을 보여준다.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NaDBOQ1hYaEctY1RvUkNFYjlkWVRLd3VGeUxkNUFEd3UwenhBTzZqb0Y1S1NkVU1UeVp0ZDBBNEZCWVpJRUxYTkhnemhXSmF3c0hJdGJ0UXpLOWxEQko5Xw?oc=5",
-      "source": "뉴스1"
+      "tag": "디지털보험",
+      "title": "카카오페이손보, 누적 가입자 1000만명 돌파",
+      "summary": "카카오페이손해보험이 출범 4년 만에 누적 가입자 1000만명을 넘어섰고, 해외여행보험 가입자의 70%가 재가입했다는 보도가 나왔습니다. 디지털 기반 보험사의 가입자 확대와 해외여행보험의 재가입 성과가 핵심 내용입니다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10QkhuZ3VkSnl5U1E2clQzYTFwZGlBY3RUdHFrU3dMMVUzRW8weGlycWlRZ21YZlVva3hFX0VrN2w2ZV9fcENMcHFmZ3d?oc=5",
+      "source": "연합인포맥스·마켓인·전자신문"
     },
     {
-      "tag": "기후·재해보험",
-      "title": "지자체 중심 기후보험 확대와 운영사 선정 기준 논란",
-      "summary": "극한 날씨에 대응하는 기후보험이 지자체를 중심으로 확산되는 가운데, 일부 지자체의 운영사 선정 기준과 기후 책임 반영 여부가 논란이 됐다. 제주시는 농작물재해보험료의 최대 85%를 지원하고, 민관 협력 형태의 풍수해·지진재해보험 지원사업도 보도돼 공공 지원과 운영 투명성이 함께 쟁점이 됐다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBY21lcHpobGE2cG43Uk5hcFNid2Rqb2pvRENMUXZQZS02OHJIcWNFS09DSzVpbXNKSExuaGFYdDJpSG1vekVha2dtMnRCOUtCS0VXZndnQk0xUURrR1NNRTdzcHM0NEpH?oc=5",
-      "source": "녹색경제신문"
+      "tag": "공적보험",
+      "title": "장기요양보험 흑자 급감과 초고령사회 재정 부담",
+      "summary": "장기요양보험의 흑자가 2년 사이 85% 감소했다는 보도가 나오며 수지 균형과 돌봄 재정에 대한 우려가 제기됐습니다. 초고령사회에서 장기요양보험 재정의 지속 가능성이 쟁점으로 부상했다는 의미입니다.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RcDNXWGlZVHVtNGdHRExpa0lmNTFBTjhnalVHbGVjeXlaSFNsLW9id3pZRkFsbVVBRDRoc0ZJNTI3bmpQWG4xY3cyV1dlWnVCQU5YMjB1MzdmMzlNZGQwQ1JuZXhBVVBIaVFQZ3N3WQ?oc=5",
+      "source": "진일보·서울경제TV"
     }
   ]
 }
