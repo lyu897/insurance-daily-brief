@@ -1,70 +1,64 @@
 {
-  "updatedAt": "2026-10-28T02:28:45.433Z",
+  "updatedAt": "2026-10-29T02:35:27.597Z",
   "articleCount": 45,
-  "editorNote": "제공된 최근 24시간 기사 메타데이터와 제목만 기준으로 중복 보도는 하나의 이슈로 통합했습니다. 기사 본문이나 별도 시장 데이터에 없는 사실·수치는 추가하지 않았습니다.",
+  "editorNote": "최근 24시간 기사 중 동일한 보험사기 제재 보도와 AXA손보·농협손보·교보라이프플래닛 관련 중복 보도는 하나의 이슈로 묶었습니다. 제공된 기사 목록에는 미국 금리·국내외 채권금리·환율·부동산 관련 구체적 흐름이 없어 확인 가능한 주식시장 변수만 반영했습니다.",
   "keywords": [
-    "금융권 정보유출",
-    "소공인 화재보험",
-    "스위칭 저축보험",
-    "디지털 보험",
-    "장기요양보험 재정"
+    "보험사기 제재",
+    "실손24",
+    "상품 차별화",
+    "운전자보험",
+    "AI 부정행위"
   ],
-  "marketSummary": "제공된 기사 목록에는 미국 금리·국내외 채권금리·환율·부동산 등 금융시장 흐름을 보여주는 구체적인 정보가 없어, 이를 보험사의 자산운용·상품가격·건전성과 연결해 판단하기 어렵습니다.",
+  "marketSummary": "4대 기금의 최근 주식 투자 손실이 보도된 가운데, 제공된 기사 목록에서는 보험사의 자산운용과 직접 연결되는 금리·환율·부동산 흐름은 확인되지 않았습니다.",
   "marketContext": [
     {
-      "label": "미국 금리",
-      "summary": "기사 목록에 미국 금리의 방향이나 수준이 언급되지 않아 보험사의 해외채권 운용이나 상품가격과의 연결점을 확인할 수 없습니다.",
-      "url": "",
-      "source": "제공 기사 목록"
+      "label": "주식시장·기금 운용 손실",
+      "summary": "산재·고용보험 등 4대 기금이 3개월 반 동안 주식 투자로 3조8000억원의 손실을 냈다는 보도와 관련해 정책브리핑이 설명 자료를 냈습니다. 기사상 보험사 운용자산의 손익이나 건전성에 대한 직접적인 내용은 확인되지 않지만, 주식시장 변동이 금융권 기금 운용 성과의 변수로 부각됐다는 점이 보험시장과의 연결 지점입니다.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vRjdxUjNDaWdkVzVPQVJhb19wLW82SEw0T2Y3ZzA4VVltWDJ4ZG54SDU1VFY3aEJQb1hRYUY2djRBSlNFUloxbFQyUGZ3Wkl0NDhwbkhyOWF1YjQtSnBfXy05dk9iRlJ1YkxCZ3NZNA?oc=5",
+      "source": "대한민국 정책브리핑"
     },
     {
-      "label": "국내외 채권금리",
-      "summary": "국내외 채권금리 관련 수치나 변동 내용이 없어 보험사의 자산운용 수익률과 건전성에 미치는 영향을 판단할 수 없습니다.",
+      "label": "금리·환율·부동산",
+      "summary": "제공된 최근 기사 목록에서는 미국 금리, 국내외 채권금리, 원·달러 환율, 부동산 가격의 구체적인 변동이나 보험사 자산운용·상품가격·건전성에 미친 영향이 확인되지 않았습니다.",
       "url": "",
-      "source": "제공 기사 목록"
-    },
-    {
-      "label": "환율·부동산",
-      "summary": "환율과 부동산 시장의 움직임을 다룬 기사가 없어 외화자산 운용이나 부동산 관련 보험상품·건전성과의 연관성을 확인할 수 없습니다.",
-      "url": "",
-      "source": "제공 기사 목록"
+      "source": "기사 목록 미확인"
     }
   ],
   "issues": [
     {
-      "tag": "사이버보안",
-      "title": "은행·보험·증권·가상자산 업계로 정보유출 이슈 확산",
-      "summary": "은행에 이어 보험·증권·가상자산 거래소에서도 해킹과 정보 유출이 확인됐다는 보도가 이어졌습니다. 금융권 전반의 고객정보 보호와 사이버보안 대응이 보험업계의 주요 현안으로 부각됐다는 의미입니다.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnaDdCNFZET0RMc0cyZm1DR0xfeE9fbkprcHA0WUlMaTdXQ19fOXRyZDhHMzdLUFU3T1hWbEhCSEJRM1NrX0xVcGxBa2JsQlNydmF3UE9GV1d0QQ?oc=5",
-      "source": "이투데이·메트로신문·매일경제"
+      "tag": "보험사기·내부통제",
+      "title": "고의사고·허위입원 보험사기 연루 보험업 종사자 29명 제재",
+      "summary": "고의 교통사고와 허위입원 등 보험사기에 연루된 보험설계사·손해사정사 등 29명이 제재를 받았고, 보도별로 19명 등록취소와 10명 업무정지가 언급됐습니다. 보험사기 연루 종사자에 대한 등록취소와 업무정지 사례가 잇따르며 모집·손해사정 과정의 내부통제가 핵심 쟁점으로 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VUno4SnY2NDQzam81dlFtVGtEYUMtSDdqbmxsMWNDOGN0VEdMcWhDWV85MWo1TWU0TFBCNWtoYVh6ckV3ODZkWDJMUXpkck9TdGdYT2hLS2hoMGRWY05WQWViajlrd0xSUVpTVnRPN19Fb3pO?oc=5",
+      "source": "연합뉴스 한민족센터"
     },
     {
-      "tag": "상품개발",
-      "title": "NH농협손보, 소공인 전용 화재보험 출시·보급",
-      "summary": "NH농협손해보험이 소진공과 협력해 소공인·제조 소상공인을 대상으로 한 화재보험을 출시하고, 무심사·소액 보험료·통합한도 보장 등의 내용이 보도됐습니다. 화재 위험으로 보험 가입이 어려웠던 소공인의 가입 문턱을 낮추는 상품이라는 점이 핵심입니다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzbnFtNG1CNm1ZdmhiZXdrS3dnWFBmLWR0SWYxNXo1R1pDTXc5aHdweDVCN2dFak00QU14blRjR2pBSXVSVVhhd3RfMGh0X2FfdlUwQzE5YnRHa3RoY2xZOXk2TEItV096Y3Jj?oc=5",
-      "source": "보험신보·전자신문·아시아경제 등"
+      "tag": "실손보험·디지털",
+      "title": "실손24 개편과 미참여 의료기관 과태료 논란",
+      "summary": "정책브리핑은 실손보험 청구를 간편하게 하는 ‘실손24’ 개편 내용을 소개했고, 치협은 실손24 미참여기관에 대한 과태료 부과에 반대했습니다. 청구 편의성 개선과 의료기관의 참여 방식·책임을 둘러싼 논의가 함께 진행되고 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMlVGdFpVdjdrRTYxRmNRaGQ2WnFld0lILWJpVGk4RlBwVTBKOWwtYU9UMGdWbjVJUVNWaUhfWkJPd3pHaUFlWVF6bkstYmxfN1lrZlRKZmZCM0NwNU5IbHc2LW5jY1RTMmpEZ0s3WExjNXE5dzZRZXZLZGtMNHM2M3I5Q3QzOFE?oc=5",
+      "source": "대한민국 정책브리핑"
     },
     {
-      "tag": "생명보험",
-      "title": "신한라이프, 저축과 건강보장을 전환하는 스위칭보험 출시",
-      "summary": "신한라이프가 저축 중 필요할 때 보장으로 전환할 수 있는 ‘라이프스위칭저축보험’을 출시한다는 보도가 여러 매체에서 나왔습니다. 보장 종류·금액·시점을 선택하거나 저축과 건강보장을 전환하는 구조가 상품의 주요 특징으로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uMldJQi1FcHVaNmRaVnRMTFpXQkdqYVMzNGwtQS1tUUFlWTNzc0Jibm9pWjFSZ3RIVDFJOGNUTVFPMzBqQXdEUWNPT2xVLU9LUWpIemtJdU42bzRKa08zejBfdVNJa2ItQ2tJ0gFwQVVfeXFMT1lqcFlpcFFPWm9GSW9kWGF0ZVR3NFpzSFRNejQ5NXdqV1llRXY3X2RnYlE5dXNuV1FuSFlPRjhNTFQ1MFk4X1RoMFgwSWhkdHU3OUdPMWstb29PX0ttelZ3Zm9XWlBoamcwTURYZnFRMw?oc=5",
-      "source": "머니투데이·전자신문·아시아경제 등"
+      "tag": "상품전략",
+      "title": "맞춤형·스위칭·미니보험으로 상품 차별화 경쟁",
+      "summary": "손보사들이 맞춤형 보장을 내세우고, 신한라이프는 스위칭플랜을 탑재한 저축보험 출시를 예고했으며 교보라이프플래닛은 미니보험 패스트트랙을 선보였습니다. 농협손보의 소공인 전용 화재보험 등 특정 고객층과 수요를 겨냥한 상품 차별화가 이어지고 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTEBOdC1jVDl0by0zYlVNMEltTk42SHlfS3ZxSFFVV0diSHNtM2NvR29FUEJnd2ZaakdFWE1QLWhlQkFyQ2xEdWlyblJuWExPek9oak1obmZRMlBHZlFhb1drRQ?oc=5",
+      "source": "아시아경제"
     },
     {
-      "tag": "디지털보험",
-      "title": "카카오페이손보, 누적 가입자 1000만명 돌파",
-      "summary": "카카오페이손해보험이 출범 4년 만에 누적 가입자 1000만명을 넘어섰고, 해외여행보험 가입자의 70%가 재가입했다는 보도가 나왔습니다. 디지털 기반 보험사의 가입자 확대와 해외여행보험의 재가입 성과가 핵심 내용입니다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10QkhuZ3VkSnl5U1E2clQzYTFwZGlBY3RUdHFrU3dMMVUzRW8weGlycWlRZ21YZlVva3hFX0VrN2w2ZV9fcENMcHFmZ3d?oc=5",
-      "source": "연합인포맥스·마켓인·전자신문"
+      "tag": "자동차보험·운전자보험",
+      "title": "변호사 비용 보장 축소 여파로 운전자보험 판매량 감소",
+      "summary": "변호사 비용 보장이 축소되면서 운전자보험 판매량이 44% 줄었다는 보도가 나왔습니다. 보장 내용의 변화가 상품 판매 규모에 직접 영향을 준 사례로, 운전자보험 시장의 상품 매력도와 수요 변화를 보여줍니다.",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5akQwTndCN3N6ODE5V1lJVHNDdmhOSTV1Y0lERzNIcjc1RUUxZEJXSnQwOUFKanhkY3RFcFpwb2Nkd1ZDQ1NDMWdvY1FWdw?oc=5",
+      "source": "전자신문"
     },
     {
-      "tag": "공적보험",
-      "title": "장기요양보험 흑자 급감과 초고령사회 재정 부담",
-      "summary": "장기요양보험의 흑자가 2년 사이 85% 감소했다는 보도가 나오며 수지 균형과 돌봄 재정에 대한 우려가 제기됐습니다. 초고령사회에서 장기요양보험 재정의 지속 가능성이 쟁점으로 부상했다는 의미입니다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RcDNXWGlZVHVtNGdHRExpa0lmNTFBTjhnalVHbGVjeXlaSFNsLW9id3pZRkFsbVVBRDRoc0ZJNTI3bmpQWG4xY3cyV1dlWnVCQU5YMjB1MzdmMzlNZGQwQ1JuZXhBVVBIaVFQZ3N3WQ?oc=5",
-      "source": "진일보·서울경제TV"
+      "tag": "보험업계·자격시험",
+      "title": "AI 안경 활용 부정행위 적발로 시험 감독 강화",
+      "summary": "보험연수원 시험에서 AI 안경을 활용한 부정행위가 적발됐고, 관련 보도는 보험권 자격시험의 감독 강화 필요성을 제기했습니다. 시험 공정성과 자격관리 체계가 보험업계의 새로운 관리 과제로 떠올랐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IUDlodFZNRng3WmJac0tfUXVqYlBCcmdWcm1nNzYwWTRtTDllN2lHLWFVaHM3Q1hZb0kteGNNdk1zYUhTQjRUZjNRUVgxWlc5WnIyX0ZmZDB1eFJKVFd0dGhmbGh6V0J4VFE1MA?oc=5",
+      "source": "이코노미톡뉴스"
     }
   ]
 }
