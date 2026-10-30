@@ -1,64 +1,70 @@
 {
-  "updatedAt": "2026-10-29T02:35:27.597Z",
+  "updatedAt": "2026-10-30T02:44:36.153Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사 중 동일한 보험사기 제재 보도와 AXA손보·농협손보·교보라이프플래닛 관련 중복 보도는 하나의 이슈로 묶었습니다. 제공된 기사 목록에는 미국 금리·국내외 채권금리·환율·부동산 관련 구체적 흐름이 없어 확인 가능한 주식시장 변수만 반영했습니다.",
+  "editorNote": "최근 24시간 보도는 보험 본업 수익성 강화, 생보사의 생산적 금융 확대와 자산운용 규제 개선 요구, AI 기반 영업 효율화에 집중됐습니다. 동일 내용을 반복 보도한 기사는 하나의 이슈로 통합했습니다.",
   "keywords": [
+    "보험 본업 수익성",
+    "생산적 금융 6.2조원",
+    "AI 보험설계",
     "보험사기 제재",
-    "실손24",
-    "상품 차별화",
-    "운전자보험",
-    "AI 부정행위"
+    "자산운용 규제"
   ],
-  "marketSummary": "4대 기금의 최근 주식 투자 손실이 보도된 가운데, 제공된 기사 목록에서는 보험사의 자산운용과 직접 연결되는 금리·환율·부동산 흐름은 확인되지 않았습니다.",
+  "marketSummary": "미국 주간 신규 실업보험 청구가 전망치를 밑돈 가운데 국내 보험업계에서는 생산적 금융 확대와 자산운용 규제 개선 논의가 부각돼 보험사의 운용전략과 수익성에 대한 관심이 커졌습니다.",
   "marketContext": [
     {
-      "label": "주식시장·기금 운용 손실",
-      "summary": "산재·고용보험 등 4대 기금이 3개월 반 동안 주식 투자로 3조8000억원의 손실을 냈다는 보도와 관련해 정책브리핑이 설명 자료를 냈습니다. 기사상 보험사 운용자산의 손익이나 건전성에 대한 직접적인 내용은 확인되지 않지만, 주식시장 변동이 금융권 기금 운용 성과의 변수로 부각됐다는 점이 보험시장과의 연결 지점입니다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vRjdxUjNDaWdkVzVPQVJhb19wLW82SEw0T2Y3ZzA4VVltWDJ4ZG54SDU1VFY3aEJQb1hRYUY2djRBSlNFUloxbFQyUGZ3Wkl0NDhwbkhyOWF1YjQtSnBfXy05dk9iRlJ1YkxCZ3NZNA?oc=5",
-      "source": "대한민국 정책브리핑"
+      "label": "미국 고용지표",
+      "summary": "미국 주간 신규 실업보험 청구는 19만4천건으로 시장 전망치를 밑돌았습니다. 해당 고용지표가 보험사 자산운용·상품가격·건전성에 미치는 구체적인 연결고리는 기사에 제시되지 않았습니다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1RzNTbHVuRVA0U0NtRnZmT19GQ3FQQ0puQlBFSnFBT2hlWlRLSkZoUEpRUmdvVm1pN0F4SnU3QUZnNjk3LVdpSC1pbHpBcUliallpWV9QczVkZHZ2X3NOZnNJbkxwMDI0bjBGdGQtQUw?oc=5",
+      "source": "연합인포맥스"
     },
     {
-      "label": "금리·환율·부동산",
-      "summary": "제공된 최근 기사 목록에서는 미국 금리, 국내외 채권금리, 원·달러 환율, 부동산 가격의 구체적인 변동이나 보험사 자산운용·상품가격·건전성에 미친 영향이 확인되지 않았습니다.",
-      "url": "",
-      "source": "기사 목록 미확인"
+      "label": "생보사 자산운용·규제 환경",
+      "summary": "생명보험업계는 올해 1~3분기 생산적 금융에 6조2000억원을 공급했으며, 관련 보도에서 자산운용 및 장기투자 규제 개선 필요성이 함께 제기됐습니다. 규제 개선 논의는 보험사의 생산적 금융 공급과 자산운용 범위에 영향을 줄 수 있는 보험시장 변수로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82aGtnRHk4OG5lbXl0UnZTVko3bWZtalk1V3pkU0ZwT1YzVVpxUUZ5b3pzcWhsTG5POTB4V01ya2Z2LVYxaWhHSWJrbm5nOFFQSElMVm9sNjEwdXFKQUNaMlJ3WQ?oc=5",
+      "source": "조세금융신문"
+    },
+    {
+      "label": "변액보험과 금융시황",
+      "summary": "교보생명은 변액보험 가입자에게 매일 금융시황을 제공하는 AI 기반 사후관리 서비스를 시작했습니다. 변액보험 관련 보도와 금융시황 제공 서비스는 금융시장 흐름이 상품 사후관리와 고객 대응에 연결되는 지점을 보여줍니다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIY1EwUXNOOHV4M092bm5lQW1XNzZOUjhpTFRFcFhJRGszQnlJWlEtRXU4aFBwMjFIc0Nvc0J0TEhCZnF4d1d5aE44cm9UTzlKbUVDZzlURXRLU2x6bzFNMFZmVVlKcDVLZWZn?oc=5",
+      "source": "라이센스뉴스"
     }
   ],
   "issues": [
     {
-      "tag": "보험사기·내부통제",
-      "title": "고의사고·허위입원 보험사기 연루 보험업 종사자 29명 제재",
-      "summary": "고의 교통사고와 허위입원 등 보험사기에 연루된 보험설계사·손해사정사 등 29명이 제재를 받았고, 보도별로 19명 등록취소와 10명 업무정지가 언급됐습니다. 보험사기 연루 종사자에 대한 등록취소와 업무정지 사례가 잇따르며 모집·손해사정 과정의 내부통제가 핵심 쟁점으로 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VUno4SnY2NDQzam81dlFtVGtEYUMtSDdqbmxsMWNDOGN0VEdMcWhDWV85MWo1TWU0TFBCNWtoYVh6ckV3ODZkWDJMUXpkck9TdGdYT2hLS2hoMGRWY05WQWViajlrd0xSUVpTVnRPN19Fb3pO?oc=5",
-      "source": "연합뉴스 한민족센터"
+      "tag": "실적",
+      "title": "KB손해보험, 3분기 순이익 2023억원…보험 본업 수익성 강화",
+      "summary": "KB손해보험의 3분기 순이익이 2023억원으로 집계됐고, 보험 본업 수익성이 강화됐다는 내용이 보도됐습니다. 투자이익보다 보험 본업의 수익성 개선이 실적의 핵심으로 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLLVBsbE8tSHA0V1pSdW44Mi1rWmwxanBEUGFPQ2hLSjBtQWI5LUg4YVlvcEYtc01OSWtKZHRMY0F1MTFhYlgyREtiM09TWENuN3JPVllqdnR2RklXYnRoS3NtNGd5UUQtSWRGVHE1cw?oc=5",
+      "source": "조세일보"
     },
     {
-      "tag": "실손보험·디지털",
-      "title": "실손24 개편과 미참여 의료기관 과태료 논란",
-      "summary": "정책브리핑은 실손보험 청구를 간편하게 하는 ‘실손24’ 개편 내용을 소개했고, 치협은 실손24 미참여기관에 대한 과태료 부과에 반대했습니다. 청구 편의성 개선과 의료기관의 참여 방식·책임을 둘러싼 논의가 함께 진행되고 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMlVGdFpVdjdrRTYxRmNRaGQ2WnFld0lILWJpVGk4RlBwVTBKOWwtYU9UMGdWbjVJUVNWaUhfWkJPd3pHaUFlWVF6bkstYmxfN1lrZlRKZmZCM0NwNU5IbHc2LW5jY1RTMmpEZ0s3WExjNXE5dzZRZXZLZGtMNHM2M3I5Q3QzOFE?oc=5",
-      "source": "대한민국 정책브리핑"
+      "tag": "자산운용",
+      "title": "생보업계, 생산적 금융 6.2조원 공급…자산운용 규제 개선 논의",
+      "summary": "생명보험업계가 올해 1~3분기 생산적 금융에 6조2000억원을 공급했다는 보도가 여러 매체에서 나왔습니다. 업계는 생산적 금융 확대와 함께 자산운용·장기투자 관련 규제 손질이 필요하다는 목소리를 내고 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xRURfSHEzZ0t1MU5pRlZwNmdqY0N1a3kxVGdLaDNsTDZOUEhlZ010RS02aDJzNkx3S1pMTGFkSncyWF9GWmtjQVlWNzhKUVRaTFNlVElFNGt0V2VQRG5sM2g2X3JOUVlkeGg2T3pxeHdBNknSAXdBVV95cUxNSXZVVHYzMVlzLXM3UExXYkZkZXp0d1V4TkRfUUgtajhodVN4OFBZMnhXbW91R3R5cmZWd1ZTMklvOER6NlEtWDhIdEp5bFhTdEFnOHJyUnRnQ3p5VThSbFpXRGU3TG5nSGZDMUYxY3R0NVdfR0JpNA?oc=5",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "tag": "디지털 전환",
+      "title": "현대해상, AI로 1분 만에 맞춤형 보험설계안 생성",
+      "summary": "현대해상은 AI 기반 보험설계 지원 시스템 ‘Hi-헬퍼’를 도입해 고객별 맞춤형 설계안 3종을 1분 만에 생성하도록 했습니다. 여러 매체의 보도는 이 시스템이 보험 영업의 설계 속도와 효율성 확대를 겨냥한다는 점에 초점을 맞췄습니다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XYzdVbGpORUpWRzkzUW5QR3AxQXRCaWFuR04tT255R095VC1sZUpsUXRnb0FMbi1UMmVwTmRFdGNKdlVraEU4NGNrNXFYWmRRaXdhaEl0REtTeUxtcmtKVmJfUXlNTWFxcmJzRTJjZGc?oc=5",
+      "source": "신아일보"
+    },
+    {
+      "tag": "소비자보호·감독",
+      "title": "보험사기 가담 보험업종사자 29명 제재…19명 등록취소",
+      "summary": "금융위원회가 보험사기에 연루된 보험업종사자 29명을 제재하고 이 가운데 19명의 등록을 취소했다는 보도가 나왔습니다. 설계사와 손해사정사 등 업종사자의 보험사기 가담에 대해 강한 제재가 결정됐다는 의미입니다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nYXpXQjBJbm5hQWRYbUpSZC1na2JHa3FoRGNyWng0MkpLelNLVVpJTzkyQ3pZR1RRejZBU0VkX1B0eVdXX0FjbUtMNEQ3ZWZkdXZCeUNMeDZUVzFfd1JOR2tPVFpkcFZoOWkw0gFvQVVfeXFMT0VPTDRwcWlOYnhjdThRaFZxcWlTanMxN1p4SU1qYkRtQmQxcjNiaHhSdFN6QjdLSlgwYWsyd2NlLW9yVXZ3UXFDUml6VXR5NnJwcEpNYURkd290YmxxMkpGMm1QYzlpeUMzTGZJVnU4?oc=5",
+      "source": "한국보험신문"
     },
     {
       "tag": "상품전략",
-      "title": "맞춤형·스위칭·미니보험으로 상품 차별화 경쟁",
-      "summary": "손보사들이 맞춤형 보장을 내세우고, 신한라이프는 스위칭플랜을 탑재한 저축보험 출시를 예고했으며 교보라이프플래닛은 미니보험 패스트트랙을 선보였습니다. 농협손보의 소공인 전용 화재보험 등 특정 고객층과 수요를 겨냥한 상품 차별화가 이어지고 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTEBOdC1jVDl0by0zYlVNMEltTk42SHlfS3ZxSFFVV0diSHNtM2NvR29FUEJnd2ZaakdFWE1QLWhlQkFyQ2xEdWlyblJuWExPek9oak1obmZRMlBHZlFhb1drRQ?oc=5",
-      "source": "아시아경제"
-    },
-    {
-      "tag": "자동차보험·운전자보험",
-      "title": "변호사 비용 보장 축소 여파로 운전자보험 판매량 감소",
-      "summary": "변호사 비용 보장이 축소되면서 운전자보험 판매량이 44% 줄었다는 보도가 나왔습니다. 보장 내용의 변화가 상품 판매 규모에 직접 영향을 준 사례로, 운전자보험 시장의 상품 매력도와 수요 변화를 보여줍니다.",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5akQwTndCN3N6ODE5V1lJVHNDdmhOSTV1Y0lERzNIcjc1RUUxZEJXSnQwOUFKanhkY3RFcFpwb2Nkd1ZDQ1NDMWdvY1FWdw?oc=5",
-      "source": "전자신문"
-    },
-    {
-      "tag": "보험업계·자격시험",
-      "title": "AI 안경 활용 부정행위 적발로 시험 감독 강화",
-      "summary": "보험연수원 시험에서 AI 안경을 활용한 부정행위가 적발됐고, 관련 보도는 보험권 자격시험의 감독 강화 필요성을 제기했습니다. 시험 공정성과 자격관리 체계가 보험업계의 새로운 관리 과제로 떠올랐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IUDlodFZNRng3WmJac0tfUXVqYlBCcmdWcm1nNzYwWTRtTDllN2lHLWFVaHM3Q1hZb0kteGNNdk1zYUhTQjRUZjNRUVgxWlc5WnIyX0ZmZDB1eFJKVFd0dGhmbGh6V0J4VFE1MA?oc=5",
-      "source": "이코노미톡뉴스"
+      "title": "생보사, 수익성 중심으로 종신·저축보험 상품 재편",
+      "summary": "흥국생명은 수익성 중심의 체질개선과 종신보험 신규 수요 확대를 추진하고 있으며, 다른 보도에서는 저축·종신보험에 암 보장과 목돈 기능을 더하는 상품 전략이 소개됐습니다. 신한라이프의 스위칭저축보험 출시까지 더해지며 생보업계가 상품 기능과 수익성 중심으로 돌파구를 모색하는 흐름이 나타났습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzRGYxRkh6ZGFqaVU1NjRWRWVoeklJdU16YUxoaGtWN04xdDdDZUhNWGkxYXg1ejF0N1dRUEI2QWtkWXZ2VF9RaDVsWExVNVFsdEwtX1l1V2YzZkFjVnRWR3k1cm51UUU0?oc=5",
+      "source": "녹색경제신문"
     }
   ]
 }
