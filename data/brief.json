@@ -1,64 +1,70 @@
 {
-  "updatedAt": "2026-11-01T02:24:04.164Z",
-  "articleCount": 35,
-  "editorNote": "최근 24시간 기사 제목과 메타데이터를 기준으로 동일 사건·동일 실적 이슈를 통합했습니다. 금융시장 변수는 제공된 기사에서 확인되는 범위로만 정리했으며, 미국 금리·환율·부동산 관련 내용은 확인되지 않았습니다.",
+  "updatedAt": "2026-11-02T02:38:41.474Z",
+  "articleCount": 45,
+  "editorNote": "최근 24시간 기사 가운데 동일 상품 출시·동일 사건·동일 제도 안내 기사는 하나의 이슈로 묶었습니다. 금융시장 변수는 기사에 언급된 범위에서만 보험시장과의 연결점을 정리했습니다.",
   "keywords": [
-    "사망보험",
-    "금리 상승·투자손익",
-    "자동차보험",
-    "미니보험",
-    "보험 보안"
+    "모집질서 건전화",
+    "시민안전보험 청구",
+    "치매·장기요양 보장",
+    "보험상품 세분화",
+    "AI 신용위험"
   ],
-  "marketSummary": "금리 상승에 따른 보험사 투자손익과 순익 압박이 부각된 가운데, 자동차보험 손익 개선 기대와 저축·미니보험 등 상품 다변화 흐름이 함께 나타났습니다.",
+  "marketSummary": "증시 변동성에도 보험주는 금리와 배당의 영향을 받았고, 빅테크 신용위험 우려는 보험 수요와 보험사의 자산운용 리스크에 대한 관심을 키우는 흐름으로 나타났습니다.",
   "marketContext": [
     {
-      "label": "금리 상승",
-      "summary": "보험사 3분기 실적 관련 기사에서 금리 상승으로 투자손익이 악화되고 순익이 하락했다고 보도했습니다. 금리 흐름은 보험사의 자산운용 성과와 실적에 직접 연결되는 변수로 제시됐지만, 기사 목록에는 구체적인 미국·국내외 채권금리 수준은 담기지 않았습니다.",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kSUNIN3JNRXFjUVpOZGlsU2RWVDlIa1M2ZjZRbDM1MjNJdXFSMUNtcHRkNkR5cGpYOVNPM3ZRRlVyMHZqaGhmczhLNmZZUkF5VjZzbkJLOVdZRFE4a0xpZFJsMEEtc1RqU1ZraE9LQjFDZw?oc=5",
-      "source": "KB Think"
+      "label": "금리·배당",
+      "summary": "기사에서는 증시가 흔들리는 가운데 보험주를 지지한 요인으로 금리와 배당이 거론됐습니다. 금리와 배당에 대한 시장 관심은 보험사의 투자수익과 주가 평가에 연결될 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VTzE1WExObW1ieHNJWTBOanNLRmk4ZmItaDY3cEtKaGJNeUdwa2lUWVVSUDN1SWRGb0h1ZzVfWHN3RVpTb1NVbm9IUnQzRmR0NHF3Uml6VHJJRURPc1hocTdn?oc=5",
+      "source": "매일신문"
     },
     {
-      "label": "투자손익",
-      "summary": "금융지주 보험 계열사의 투자손익 악화와 금리 상승에 따른 보험사 순익 하락이 함께 보도됐습니다. 따라서 이번 기사 흐름에서 투자손익은 금리 변동이 보험사 실적과 건전성에 연결되는 핵심 경로로 확인되며, 환율·부동산의 영향은 기사에서 확인되지 않았습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOMmExZmxhVGtPQlVMRW03ODk2alVfQlNCb0lJQ0ZaREZaNGZ4WEYwSC1sNFB1WDdSOE5qTXFxNDR1VmdBZDlKVm9MZTh1LXhhcDhvX3FxMk1pZnJHcEszdlBTT3gxQkR3WlVIaE5IRUJsQl81LTRoOXlldGFDZ0hBYnNhTmNBNXpSY0E2OGJlYm50eFNIVWNCRkRnZmlfTk8yZGNjUV9RUkNLQXNhZ19hZlVZWEhBU1BtWTY0QURkQ3VaYkxYWkJjR0ViZkx2U053QkZHQWlKVFNqbXhvelF4VU95TXdYdTF6T0dmWks1OFJkbzNwRXFBYkxpWDNMdWJzUUZhaHhPUUtwc1QydklCWFJoRHR6b3ZHM1I4SHk3QWowQmc?oc=5",
-      "source": "데일리안"
+      "label": "빅테크 신용위험·AI 투자",
+      "summary": "AI 투자 열풍 속 빅테크의 신용위험 우려가 확산하면서 월가에서 보험을 찾는 움직임과 AI 관련 위험을 보장·헤지하려는 금융상품이 소개됐습니다. 이는 보험사의 기업·기술 관련 위험 인수와 투자자산의 신용위험 관리 이슈로 이어질 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BUkJUTFFBczZ5SHNMYVZvc0dMM1B0T3kzRFlYbmhZdkJScDREUnF3dVRwRzZBLVRqNnBrbVYtYkJrWS0wd3hZeVAySF9ldFVvTWZra1NXR1g2M2_SAWBBVV95cUxPa1hhSklRRTJHQlJlRW02a1d2blhockFWZVdLMFZRMTkxUjdIZ2s3MnpLWThITHpBNWYwdzVKUkVLSDYtRFgtUEdnbElkbXZNMnQyODlYbGZtUEVLYk9TaHU?oc=5",
+      "source": "연합뉴스"
+    },
+    {
+      "label": "환율·부동산",
+      "summary": "제공된 기사 목록에서는 환율과 부동산의 구체적인 흐름이나 변동이 직접 언급되지 않았습니다. 따라서 이날 보험시장과의 연결점을 별도로 확인할 수 있는 근거는 기사 메타데이터에 없습니다.",
+      "url": "",
+      "source": ""
     }
   ],
   "issues": [
     {
-      "tag": "소비자보호·보험범죄",
-      "title": "아들 방치 후 사망보험 가입한 친모, 징역 3년…항소 보도도",
-      "summary": "아들이 피를 토하는 상황에서 병원에 데려가지 않고 사망보험에 가입한 친모가 징역 3년을 선고받았다는 보도가 여러 매체에서 반복됐으며, 일부 기사에서는 검찰과 피고인 모두 항소했다고 전했습니다. 동일 사건 보도가 집중되면서 사망보험 가입 과정과 보험 관련 행위의 형사상 책임이 핵심 쟁점으로 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oRVZpUngyd2NfdTZrNUZUeGNyX1Jzb25kZ3Z0U3lHUGlrWkJmSGZ6eVJDQl9QUF8yRzN4R2k3dG1fSlJZSmNUcW1SRlU0XzJrVzlqSURVMS1GRzJiQnJMV9IBeEFVX3lxTE1uRXM3WWN6aU1sYzhUbW51aHM5UHVLYUowMlFtVnFSRmJ1SDZxbERSM05lUGMtMXpxMWtEWVVHSzdqWWZXMkJyTXhsbXVNOW9HT21XR0J0Y01sa3pzRDI4RjdoVS1XR01ZM1BiXy1iX3l5ZUs0b0Q5Wg?oc=5",
-      "source": "뉴시스"
+      "tag": "모집질서·소비자보호",
+      "title": "중증 증상 방치 후 사망보험 가입 사건과 모집질서 건전화 논의",
+      "summary": "아들이 피를 토하는 상황에서 병원 대신 사망보험에 가입하고 보험금을 받은 친모가 징역 3년을 선고받은 사건이 여러 매체에 보도됐으며, 보험연구원과 국회는 과열 영업과 소비자 보호를 주제로 정책토론회를 열었습니다. 보험 모집 과정의 적정성·불완전판매 방지와 모집질서 관리 강화가 소비자 신뢰와 직결되는 이슈로 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fVTc3T3Z6RzFJekNXMDVGbk9zTkJCVi1RMGtCeEpjdDh2NExEUDVhQjQtNDJWbndtRC1SdlRiaFNNV1YxRnpvZjJXX0I0d25vMFJjNmVKbkpwQdIBX0FVX3lxTFBKa3dSZlFVUkJOR3dLVDRMQW9ZYmtIZnZycUxyR05BbFVzckUwcnFvMUljYXBpejVJS28zeVh4RTMxUTRLcWQzQnhwNTMzdG94LVBHQ2hKak43Mk42TDJZ?oc=5",
+      "source": "경향신문"
     },
     {
-      "tag": "자동차보험",
-      "title": "손보사 자동차보험, ‘8주룰’·비급여 관리로 손익 개선 기대",
-      "summary": "자동차보험에서 ‘8주룰’과 비급여 관리가 손해보험사의 손익 개선 요인으로 거론됐습니다. 관련 제도와 관리 강화가 자동차보험 적자 탈출의 계기가 될 수 있다는 기대가 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd2h0QmlMaWhZd2FFUjZsVWgwdE1fRWtMdzFzSFF5UEJxYUFzM1ROVEQ3eWJvSUpMOTdhUm1kQkdpUmstMzZkd1V0SjVoRW94b2R0ZW5SamxuOFNvWnhEV2p2Zk9WdExLbnA2emUtMHB1UHlqWWtWOTJfdTYxNzVCcEFybzE?oc=5",
-      "source": "글로벌이코노믹"
+      "tag": "공공보험·소비자권리",
+      "title": "자동가입 시민안전보험, 직접 청구해야 보험금 지급",
+      "summary": "시민안전보험은 자동가입되지만 보험금은 가입자가 보험사에 직접 청구해야 하며, 기사들은 청구기한이 3년이라고 안내했습니다. 제도 인지도와 청구 절차에 대한 정보 부족으로 받을 수 있는 보험금을 놓치는 문제를 줄이는 것이 핵심 과제로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lNGlmeEcyRjRUMXcxLUFCSENQY3lxVHNmNlJmN014YTJsSWtZUW9nLWZBZHRNOUpseEdxQjJCRzBjTlNfcWxSXzJwU3VvQzI4ekp4X3FSWmpmZ9IBX0FVX3lxTE9iTE51cWYxbC1yUS1xakhhTjI4c0pXaHZ4MG1YTmF5dXVNcmxqUUNTVEZhXzZQZklXNzBkUk9BVDZEaW9lSWx1ZXVISnlrRFB5azdWYWE3UmM3QUdsV0FZ?oc=5",
+      "source": "경향신문"
     },
     {
-      "tag": "실적·건전성",
-      "title": "금리 상승과 투자손익 악화, 보험사 순익에 부담",
-      "summary": "보험사 3분기 실적 기사에서 금리 상승으로 투자손익이 악화돼 순이익이 하락했다는 분석이 나왔습니다. 금융지주 보험 계열사의 투자손익 악화와 농협생명의 손실계약비용 증가도 함께 거론돼 자산운용 성과와 비용 관리가 실적의 주요 변수로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kSUNIN3JNRXFjUVpOZGlsU2RWVDlIa1M2ZjZRbDM1MjNJdXFSMUNtcHRkNkR5cGpYOVNPM3ZRRlVyMHZqaGhmczhLNmZZUkF5VjZsbkJLOVdZRFE4a0xpZFJsMEEtc1RqU1ZraE9LQjFDZw?oc=5",
-      "source": "KB Think"
+      "tag": "신상품·보장확대",
+      "title": "치매·장기요양과 종신·연금 보장 결합 상품 잇따라 출시",
+      "summary": "하나손해보험은 검사부터 장기요양까지 보장하는 치매보험을, ABL생명은 자금 인출과 사망보장 선택을 확대한 종신보험을, KDB생명은 치매·장기요양 시 연금이 1.5배가 되는 연금보험을 선보였습니다. 고령·장기요양 수요를 겨냥하면서 보장 범위와 자금 활용 선택지를 넓히는 상품 경쟁이 이어지고 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsMjNWc2V5cld3bThtR0xDRHNUY0lMZDRMOUlnRld5bG1wOS1YTlRGdHRmS1oxeUlrX2FJTmVCaHlIb3JRYUxzZW41elhDaVRmMVFUQWlFUno4Q21x?oc=5",
+      "source": "뉴스핌"
     },
     {
-      "tag": "상품·판매채널",
-      "title": "저축·미니보험·변액보험 관리 등 상품과 서비스 다변화",
-      "summary": "신한라이프는 저축보험에 스위칭플랜을 적용한 상품을 출시했고, 레저 미니보험과 변액보험 펀드 관리 서비스 관련 보도도 나왔습니다. 상품 구조와 가입·관리 서비스를 세분화하는 흐름이 이어졌다는 점에서 보험사의 상품 경쟁과 소비자 접점 확대가 확인됩니다.",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFM1aFRjR3FjcGxVUkVhWUhLb3JVWUdKQklPcTZ2VkRLdC1wN0RzMkVaMW9UNU00dFNHTEk2aE5yOHdDUEJQdHJBdEk1OGFJVm1NNjB5dV9BUzl0MVlPWG9kS1FfT0RqNXpIejBYQ3c?oc=5",
-      "source": "비즈월드"
+      "tag": "특화보험·소액단기",
+      "title": "여행·교직원·반려동물 등 생활밀착형 보험 세분화",
+      "summary": "현대해상은 연간 횟수 제한 없이 보장하는 해외여행보험을, 한화손해보험은 교권침해·법률비용·마음건강을 보장하는 교직원 전용 플랜을 출시했습니다. 소액단기전문보험사 마이브라운의 펫보험 영역 확장까지 더해져 특정 고객군과 일상 위험을 겨냥한 상품 세분화가 두드러졌습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TZFZxUEc5NklySGxHZlgwVTVxZ2VvendDTXR3blVVTzNPYjZSTDE3VGY4T254cGYxVTI4LTgyWmZKTGlUQThnUHhEbFJfQlhJRFlCSWVyYk1yTk5FTkhiWdIBYEFVX3lxTE1TZFZxUEc5NklySGxHZlgwVTVxZ2VvendDTXR3blVVTzNPYjZSTDE3VGY4T254cGYxVTI4LTgyWmZKTGlUQThnUHhEbFJfQlhJRFlCSWVyYk1yTk5FTkhiWQ?oc=5",
+      "source": "연합뉴스"
     },
     {
-      "tag": "디지털·사이버보안",
-      "title": "금융권 해킹 확산에 보험업계 보안 강화·AI 대응 추진",
-      "summary": "금융권 해킹 확산에 대응해 보험업계가 보안을 강화하고, 금융당국이 AI 대응책 마련에 속도를 내고 있다는 보도가 나왔습니다. 사이버 위험이 보험사의 운영과 보안 관리 과제로 부상하면서 관련 대응 역량 강화가 주요 이슈로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YVjQxaXBrS0sydkx2LTVKRDROS1RLa1VmNVhkV3ZNREo2RXl1VTQwVTlpOXJRcWhxZEo3ejVRajJzRVIyWG15SDI2SmJwanFudm05eTNsY0hoWDctWlJ5Q2hoaEF4ZTNE?oc=5",
-      "source": "보험매일"
+      "tag": "보험실적·지배구조",
+      "title": "KB손보·라이프, 순익 감소에도 보험 본업 반등…우리금융 보험 시너지 시험대",
+      "summary": "KB손해보험과 KB라이프는 순이익이 줄었지만 보험 본업은 반등한 것으로 보도됐고, 동양생명과 ABL생명을 둘러싼 우리금융 보험 부문의 시너지가 시험대에 올랐다는 분석이 나왔습니다. 금융그룹 보험 계열사의 수익성은 순이익뿐 아니라 보험 본업의 회복과 계열사 간 시너지 창출 여부로 평가받고 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oekhzNjgySVZEamc1aklsdDZPZnF6LTFkMTl1RllQT1laVmZRODJfUGdtSjBxOXBUYmhCQzlRdW5pNzB4NkdkUGVENzRMRDg?oc=5",
+      "source": "딜사이트"
     }
   ]
 }
