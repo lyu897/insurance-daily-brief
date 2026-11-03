@@ -1,70 +1,64 @@
 {
-  "updatedAt": "2026-11-02T02:38:41.474Z",
+  "updatedAt": "2026-11-03T03:58:24.351Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사 가운데 동일 상품 출시·동일 사건·동일 제도 안내 기사는 하나의 이슈로 묶었습니다. 금융시장 변수는 기사에 언급된 범위에서만 보험시장과의 연결점을 정리했습니다.",
+  "editorNote": "최근 24시간 기사 중 동일 상품 출시·동일 사건·동일 캠페인 보도는 하나의 이슈로 통합했습니다. 금융시장 변수는 제공된 기사에서 채권 관련 내용만 확인돼 해당 변수만 반영했습니다.",
   "keywords": [
-    "모집질서 건전화",
-    "시민안전보험 청구",
-    "치매·장기요양 보장",
-    "보험상품 세분화",
-    "AI 신용위험"
+    "종신보험",
+    "5세대 실손보험",
+    "사이버보험",
+    "보험사기",
+    "소비자보호"
   ],
-  "marketSummary": "증시 변동성에도 보험주는 금리와 배당의 영향을 받았고, 빅테크 신용위험 우려는 보험 수요와 보험사의 자산운용 리스크에 대한 관심을 키우는 흐름으로 나타났습니다.",
+  "marketSummary": "채권 관련 부담이 금융지주 보험사의 실적 변수로 부각되면서 보험사의 자산운용 성과와 실적 흐름에 시장 관심이 커진 하루였습니다.",
   "marketContext": [
     {
-      "label": "금리·배당",
-      "summary": "기사에서는 증시가 흔들리는 가운데 보험주를 지지한 요인으로 금리와 배당이 거론됐습니다. 금리와 배당에 대한 시장 관심은 보험사의 투자수익과 주가 평가에 연결될 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VTzE1WExObW1ieHNJWTBOanNLRmk4ZmItaDY3cEtKaGJNeUdwa2lUWVVSUDN1SWRGb0h1ZzVfWHN3RVpTb1NVbm9IUnQzRmR0NHF3Uml6VHJJRURPc1hocTdn?oc=5",
-      "source": "매일신문"
+      "label": "채권시장",
+      "summary": "본업이 회복돼도 채권이 금융지주 보험사 실적을 제약할 수 있다는 보도가 나왔습니다. 보험시장에서는 채권 관련 성과가 보험사의 실적 흐름과 연결되는 변수로 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nNm1CaUQzdFRyOXdjVEREMlFGeTNsSE56SHl1ZnVfb2ViR1AzT3ZoYjdxdjF6UGF5ZmpMTWstZVBlQjRhLVhRMFRTS0gwM3BDeVotelhGbE5ORzF2MTk3b1lmUDVucmUtSFVHV3dVUQ?oc=5",
+      "source": "조세일보"
     },
     {
-      "label": "빅테크 신용위험·AI 투자",
-      "summary": "AI 투자 열풍 속 빅테크의 신용위험 우려가 확산하면서 월가에서 보험을 찾는 움직임과 AI 관련 위험을 보장·헤지하려는 금융상품이 소개됐습니다. 이는 보험사의 기업·기술 관련 위험 인수와 투자자산의 신용위험 관리 이슈로 이어질 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BUkJUTFFBczZ5SHNMYVZvc0dMM1B0T3kzRFlYbmhZdkJScDREUnF3dVRwRzZBLVRqNnBrbVYtYkJrWS0wd3hZeVAySF9ldFVvTWZra1NXR1g2M2_SAWBBVV95cUxPa1hhSklRRTJHQlJlRW02a1d2blhockFWZVdLMFZRMTkxUjdIZ2s3MnpLWThITHpBNWYwdzVKUkVLSDYtRFgtUEdnbElkbXZNMnQyODlYbGZtUEVLYk9TaHU?oc=5",
-      "source": "연합뉴스"
-    },
-    {
-      "label": "환율·부동산",
-      "summary": "제공된 기사 목록에서는 환율과 부동산의 구체적인 흐름이나 변동이 직접 언급되지 않았습니다. 따라서 이날 보험시장과의 연결점을 별도로 확인할 수 있는 근거는 기사 메타데이터에 없습니다.",
-      "url": "",
-      "source": ""
+      "label": "채권과 보험사 실적",
+      "summary": "금융지주 보험사의 실적이 본업뿐 아니라 채권 성과에도 영향을 받을 수 있다는 점이 제시됐습니다. 이는 보험사의 자산운용 결과가 손익과 함께 주목받고 있음을 보여줍니다.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tT0p5UnE4ejdQN1NGdzFtcjdaYkR4aE1lME5uMHVFQUwzRGFaczZqRS1kYlpTX2trQS01VUxLZ3hzeEtPWXFtWDBPREFkZEoxdW1ZS1RRYWp0MHRYbVhmWkJsTGliWXpJTHFLU1ZFeFhzcDJKOE5CSXFsSWw?oc=5",
+      "source": "금융신문"
     }
   ],
   "issues": [
     {
-      "tag": "모집질서·소비자보호",
-      "title": "중증 증상 방치 후 사망보험 가입 사건과 모집질서 건전화 논의",
-      "summary": "아들이 피를 토하는 상황에서 병원 대신 사망보험에 가입하고 보험금을 받은 친모가 징역 3년을 선고받은 사건이 여러 매체에 보도됐으며, 보험연구원과 국회는 과열 영업과 소비자 보호를 주제로 정책토론회를 열었습니다. 보험 모집 과정의 적정성·불완전판매 방지와 모집질서 관리 강화가 소비자 신뢰와 직결되는 이슈로 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fVTc3T3Z6RzFJekNXMDVGbk9zTkJCVi1RMGtCeEpjdDh2NExEUDVhQjQtNDJWbndtRC1SdlRiaFNNV1YxRnpvZjJXX0I0d25vMFJjNmVKbkpwQdIBX0FVX3lxTFBKa3dSZlFVUkJOR3dLVDRMQW9ZYmtIZnZycUxyR05BbFVzckUwcnFvMUljYXBpejVJS28zeVh4RTMxUTRLcWQzQnhwNTMzdG94LVBHQ2hKak43Mk42TDJZ?oc=5",
-      "source": "경향신문"
+      "tag": "상품전환",
+      "title": "고령화·건강보장 수요에 종신보험이 ‘사후 보장’에서 생전 보장 중심으로 확장",
+      "summary": "고령화 흐름 속에서 종신보험에 건강보장과 의료비 지원을 결합하는 상품 변화가 소개됐습니다. 동양생명과 처브라이프의 신상품 출시가 이어지며 종신보험 경쟁이 보장 범위 확대 방향으로 전개되고 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HamhMSEtDYVNPWWdGMmdSbFc4anlDamd5M2VNT0hqaVZRNmRFTE9lYWtBN1d2UGhXek5NSENjZWFLX2tTUVNUb3hUbFFfem1EMzZUQw?oc=5",
+      "source": "매일경제"
     },
     {
-      "tag": "공공보험·소비자권리",
-      "title": "자동가입 시민안전보험, 직접 청구해야 보험금 지급",
-      "summary": "시민안전보험은 자동가입되지만 보험금은 가입자가 보험사에 직접 청구해야 하며, 기사들은 청구기한이 3년이라고 안내했습니다. 제도 인지도와 청구 절차에 대한 정보 부족으로 받을 수 있는 보험금을 놓치는 문제를 줄이는 것이 핵심 과제로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lNGlmeEcyRjRUMXcxLUFCSENQY3lxVHNmNlJmN014YTJsSWtZUW9nLWZBZHRNOUpseEdxQjJCRzBjTlNfcWxSXzJwU3VvQzI4ekp4X3FSWmpmZ9IBX0FVX3lxTE9iTE51cWYxbC1yUS1xakhhTjI4c0pXaHZ4MG1YTmF5dXVNcmxqUUNTVEZhXzZQZklXNzBkUk9BVDZEaW9lSWx1ZXVISnlrRFB5azdWYWE3UmM3QUdsV0FZ?oc=5",
-      "source": "경향신문"
+      "tag": "실손개편",
+      "title": "5세대 실손보험, 보험료 인하와 기존 계약 유지 여부가 쟁점",
+      "summary": "5세대 실손보험의 보험료가 기존보다 30% 저렴해졌다는 내용이 보도됐습니다. 소비자에게는 신상품으로 갈아탈지 기존 계약을 유지할지가 주요 선택 과제로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sOHhaMFVlQVdxR2xUSnlUNkZhZ3J5SzNrY29rc1R6WjBBZGUzekthWU5WQWV2MzNfdjdDRkU3aXZBSXhwZzZRamhBWmVpSHBkSHc?oc=5",
+      "source": "네이버페이 머니스토리"
     },
     {
-      "tag": "신상품·보장확대",
-      "title": "치매·장기요양과 종신·연금 보장 결합 상품 잇따라 출시",
-      "summary": "하나손해보험은 검사부터 장기요양까지 보장하는 치매보험을, ABL생명은 자금 인출과 사망보장 선택을 확대한 종신보험을, KDB생명은 치매·장기요양 시 연금이 1.5배가 되는 연금보험을 선보였습니다. 고령·장기요양 수요를 겨냥하면서 보장 범위와 자금 활용 선택지를 넓히는 상품 경쟁이 이어지고 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsMjNWc2V5cld3bThtR0xDRHNUY0lMZDRMOUlnRld5bG1wOS1YTlRGdHRmS1oxeUlrX2FJTmVCaHlIb3JRYUxzZW41elhDaVRmMVFUQWlFUno4Q21x?oc=5",
-      "source": "뉴스핌"
+      "tag": "신시장",
+      "title": "해킹 피해 증가에 사이버보험 문의 급증",
+      "summary": "해킹 피해가 늘면서 사이버보험에 대한 문의도 급증했다는 보도가 나왔습니다. 사이버 위험에 대한 관심 확대가 보험시장 성장 가능성과 함께 언급됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSMGZLRTlEek1Uc2pJQXNGOGZmZ2JtRFVjSzhXTmpzZFNtMW9RbVdGR09fOXV0UTZKMHJ0VHVVa1FBQndCaURmaFNUZW1IV2RtbjRMNTVOUWdYdFZkS0dJZDlIZ3RyQXNfa1ZkR0NBcGg?oc=5",
+      "source": "연합인포맥스"
     },
     {
-      "tag": "특화보험·소액단기",
-      "title": "여행·교직원·반려동물 등 생활밀착형 보험 세분화",
-      "summary": "현대해상은 연간 횟수 제한 없이 보장하는 해외여행보험을, 한화손해보험은 교권침해·법률비용·마음건강을 보장하는 교직원 전용 플랜을 출시했습니다. 소액단기전문보험사 마이브라운의 펫보험 영역 확장까지 더해져 특정 고객군과 일상 위험을 겨냥한 상품 세분화가 두드러졌습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TZFZxUEc5NklySGxHZlgwVTVxZ2VvendDTXR3blVVTzNPYjZSTDE3VGY4T254cGYxVTI4LTgyWmZKTGlUQThnUHhEbFJfQlhJRFlCSWVyYk1yTk5FTkhiWdIBYEFVX3lxTE1TZFZxUEc5NklySGxHZlgwVTVxZ2VvendDTXR3blVVTzNPYjZSTDE3VGY4T254cGYxVTI4LTgyWmZKTGlUQThnUHhEbFJfQlhJRFlCSWVyYk1yTk5FTkhiWQ?oc=5",
+      "tag": "보험사기",
+      "title": "보험설계사 연루 고의 자해 보험사기 일당 검거",
+      "summary": "보험설계사가 연루된 일당이 고의 자해로 약 9억원의 보험금을 챙긴 혐의로 검거됐고 일부는 구속됐습니다. 모집채널에 대한 내부통제와 보험사기 관리 필요성이 다시 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vU2VLR0ZWWUo0N2dBMTk0MkN3djBxRkctbDBRU050MldFSHdpclVKM3h0eV9kcWlkZ2hsWWljLXF0S1lLYkhfMTNWYW1nY0x4dHN2djJ1RGlMNzTSAWBBVV95cUxPVE5fS3hRdEVDaWFPREt1WlV3NnFoeWNDRzljMzlOcEppbXpYWVZJTEc3dHJ6WTY4aDR3a1Q4ZkpkZ0syWk5HZmR0UGxzelN3VUtyQmpOcHo1UlNzZmRVTWw?oc=5",
       "source": "연합뉴스"
     },
     {
-      "tag": "보험실적·지배구조",
-      "title": "KB손보·라이프, 순익 감소에도 보험 본업 반등…우리금융 보험 시너지 시험대",
-      "summary": "KB손해보험과 KB라이프는 순이익이 줄었지만 보험 본업은 반등한 것으로 보도됐고, 동양생명과 ABL생명을 둘러싼 우리금융 보험 부문의 시너지가 시험대에 올랐다는 분석이 나왔습니다. 금융그룹 보험 계열사의 수익성은 순이익뿐 아니라 보험 본업의 회복과 계열사 간 시너지 창출 여부로 평가받고 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oekhzNjgySVZEamc1aklsdDZPZnF6LTFkMTl1RllQT1laVmZRODJfUGdtSjBxOXBUYmhCQzlRdW5pNzB4NkdkUGVENzRMRDg?oc=5",
-      "source": "딜사이트"
+      "tag": "소비자보호",
+      "title": "판매수수료 관행·보험금 지급을 둘러싼 소비자보호 과제 부상",
+      "summary": "보험 판매수수료 중심 영업관행을 개선하고 GA 책임을 강화해야 한다는 논의가 제기됐습니다. 카카오페이손보의 가입자 증가와 함께 보험금 부지급률 및 민원 증가도 보도돼 성장과 소비자보호를 함께 관리해야 할 과제로 나타났습니다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQbUdrdFY1aXZoRFgzZ29Vd01VNVZGZlZnYkhvdVZKY1lQRDlUUEU4cTA1aGpQWlM2bk9hb3hKcGppbjJhclZoMFN2M0xRRDBfQjNMcFRPRHd0QUx1OEFVY1h6OTdGOWw1NkdV?oc=5",
+      "source": "라이센스뉴스"
     }
   ]
 }
