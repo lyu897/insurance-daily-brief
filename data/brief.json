@@ -1,64 +1,70 @@
 {
-  "updatedAt": "2026-11-03T03:58:24.351Z",
+  "updatedAt": "2026-11-04T03:04:27.582Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사 중 동일 상품 출시·동일 사건·동일 캠페인 보도는 하나의 이슈로 통합했습니다. 금융시장 변수는 제공된 기사에서 채권 관련 내용만 확인돼 해당 변수만 반영했습니다.",
+  "editorNote": "최근 24시간 기사 중 동일 사안을 반복 보도한 기사는 하나의 이슈로 통합했습니다. 기사 제목과 제공된 메타데이터에 확인되는 내용만 반영했습니다.",
   "keywords": [
-    "종신보험",
-    "5세대 실손보험",
-    "사이버보험",
-    "보험사기",
-    "소비자보호"
+    "보험 할인율",
+    "생존혜택형 종신보험",
+    "해외 진출",
+    "실손보험 민원",
+    "환율·달러보험"
   ],
-  "marketSummary": "채권 관련 부담이 금융지주 보험사의 실적 변수로 부각되면서 보험사의 자산운용 성과와 실적 흐름에 시장 관심이 커진 하루였습니다.",
+  "marketSummary": "장기선도금리와 신용위험 스프레드의 보수적 적용 논의가 이어지는 가운데 원·달러 환율 1300원대에서 달러보험 관심이 커져 보험부채·상품 수요·자산운용 여건이 함께 주목받고 있다.",
   "marketContext": [
     {
-      "label": "채권시장",
-      "summary": "본업이 회복돼도 채권이 금융지주 보험사 실적을 제약할 수 있다는 보도가 나왔습니다. 보험시장에서는 채권 관련 성과가 보험사의 실적 흐름과 연결되는 변수로 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nNm1CaUQzdFRyOXdjVEREMlFGeTNsSE56SHl1ZnVfb2ViR1AzT3ZoYjdxdjF6UGF5ZmpMTWstZVBlQjRhLVhRMFRTS0gwM3BDeVotelhGbE5ORzF2MTk3b1lmUDVucmUtSFVHV3dVUQ?oc=5",
-      "source": "조세일보"
+      "label": "장기선도금리·보험 할인율",
+      "summary": "내년 보험 할인율과 관련해 장기선도금리 4.3% 유지 방안이 보도됐다. 할인율은 보험부채 부담과 연결되는 변수로 제시돼 생명보험사의 부채 평가와 건전성에 영향을 줄 수 있다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FWVZNSW5BNTN4M2ZpaFhVS25VTGNMZEhuLWpzTGtXc0hjaXJZUlJZS2oxUU5aTGxuNWxDX2dpRnEwRU4zTUhsdkpOczhsTmtDMzhxSk1GcGVjNVZJa1NYY09PNDJiYnBNbktpZS1NMXXSAXRBVV95cUxOYm9HNHJrM1ZVRUVkaWd2NzB3VG9mWDZCc193VWItdTZPX1ZWNHRDRVAtR0paS29RT05hTG5ZNHVvdEsxQ2dBZDBwbDlkSmQ2SDYzUUtwTWc4eEFJOW9iOVlsOFk1czlHazVvZWdMeUVPVTlCRg?oc=5",
+      "source": "연합인포맥스"
     },
     {
-      "label": "채권과 보험사 실적",
-      "summary": "금융지주 보험사의 실적이 본업뿐 아니라 채권 성과에도 영향을 받을 수 있다는 점이 제시됐습니다. 이는 보험사의 자산운용 결과가 손익과 함께 주목받고 있음을 보여줍니다.",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tT0p5UnE4ejdQN1NGdzFtcjdaYkR4aE1lME5uMHVFQUwzRGFaczZqRS1kYlpTX2trQS01VUxLZ3hzeEtPWXFtWDBPREFkZEoxdW1ZS1RRYWp0MHRYbVhmWkJsTGliWXpJTHFLU1ZFeFhzcDJKOE5CSXFsSWw?oc=5",
-      "source": "금융신문"
+      "label": "신용위험 스프레드",
+      "summary": "내년 보험 할인율 산정에서 신용위험 스프레드에도 하한을 설정하고 보수적인 LP를 적용한다는 내용이 보도됐다. 이는 보험부채 평가에 보수성이 반영되는 금융시장 변수로 보험사의 건전성 관리와 연결된다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWanBjclVISjdpdDdrenZBczY1YTdNbG9tSDVReFJvUlZTS2Q5dEJ2Q3UzdW9pcFZ3WWJBRjI4UGhDY3o0RGp3Tk0yRWN6c1RsWXh2ZEZwYWhMNlVpTUc2RmV3dF9HQXJ1SWc2M1daWW7SAXRBVV95cUxOeUxnb2UzLXl3Y1FoTnJsNW9HSlhhV0NxY2ppWkhrOFB6MVgtUEdwNmpORm4yU0lfQ1JWOW05bml5T2NZdUptTDV5czI5aXZVVjVXa2ZMa1RtWm1qck03cnlqX2dFLVBNOExxUVc2aGZXUk9rMg?oc=5",
+      "source": "연합인포맥스"
+    },
+    {
+      "label": "원·달러 환율",
+      "summary": "원·달러 환율이 1300원대에 형성되면서 달러보험에 대한 문의가 급증했다는 보도가 나왔다. 환율은 달러보험에 대한 소비자 관심과 상품 수요에 영향을 주는 변수로 기사에서 다뤄졌다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UTF9sODFKcTdFUjhEXzZnSG81T2hUTFZfUlJDYkJrcEVOUVUzR0VNQlV5em4xbExUNEpZQnNpUk1OQU4wRF9hakFfUlBfWmF2b3R6dDU5MmhycDJoQUVzSE95WVYwQ212?oc=5",
+      "source": "녹색경제신문"
     }
   ],
   "issues": [
     {
-      "tag": "상품전환",
-      "title": "고령화·건강보장 수요에 종신보험이 ‘사후 보장’에서 생전 보장 중심으로 확장",
-      "summary": "고령화 흐름 속에서 종신보험에 건강보장과 의료비 지원을 결합하는 상품 변화가 소개됐습니다. 동양생명과 처브라이프의 신상품 출시가 이어지며 종신보험 경쟁이 보장 범위 확대 방향으로 전개되고 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HamhMSEtDYVNPWWdGMmdSbFc4anlDamd5M2VNT0hqaVZRNmRFTE9lYWtBN1d2UGhXek5NSENjZWFLX2tTUVNUb3hUbFFfem1EMzZUQw?oc=5",
-      "source": "매일경제"
-    },
-    {
-      "tag": "실손개편",
-      "title": "5세대 실손보험, 보험료 인하와 기존 계약 유지 여부가 쟁점",
-      "summary": "5세대 실손보험의 보험료가 기존보다 30% 저렴해졌다는 내용이 보도됐습니다. 소비자에게는 신상품으로 갈아탈지 기존 계약을 유지할지가 주요 선택 과제로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sOHhaMFVlQVdxR2xUSnlUNkZhZ3J5SzNrY29rc1R6WjBBZGUzekthWU5WQWV2MzNfdjdDRkU3aXZBSXhwZzZRamhBWmVpSHBkSHc?oc=5",
-      "source": "네이버페이 머니스토리"
-    },
-    {
-      "tag": "신시장",
-      "title": "해킹 피해 증가에 사이버보험 문의 급증",
-      "summary": "해킹 피해가 늘면서 사이버보험에 대한 문의도 급증했다는 보도가 나왔습니다. 사이버 위험에 대한 관심 확대가 보험시장 성장 가능성과 함께 언급됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSMGZLRTlEek1Uc2pJQXNGOGZmZ2JtRFVjSzhXTmpzZFNtMW9RbVdGR09fOXV0UTZKMHJ0VHVVa1FBQndCaURmaFNUZW1IV2RtbjRMNTVOUWdYdFZkS0dJZDlIZ3RyQXNfa1ZkR0NBcGg?oc=5",
+      "tag": "보험부채·할인율",
+      "title": "내년 보험 할인율, 장기선도금리 4.3% 유지·신용위험 스프레드 하한 설정",
+      "summary": "내년 보험 할인율과 관련해 장기선도금리 4.3%를 유지하고 신용위험 스프레드에 하한을 설정하는 방안이 보도됐다. 장기선도금리 유지로 보험부채 부담은 덜 수 있지만, 신용위험 스프레드에는 보수적 LP를 적용하는 내용이 함께 제시됐다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FWVZNSW5BNTN4M2ZpaFhVS25VTGNMZEhuLWpzTGtXc0hjaXJZUlJZS2oxUU5aTGxuNWxDX2dpRnEwRU4zTUhsdkpOczhsTmtDMzhxSk1GcGVjNVZJa1NYY09PNDJiYnBNbktpZS1NMXXSAXRBVV95cUxOYm9HNHJrM1ZVRUVkaWd2NzB3VG9mWDZCc193VWItdTZPX1ZWNHRDRVAtR0paS29RT05hTG5ZNHVvdEsxQ2dBZDBwbDlkSmQ2SDYzUUtwTWc4eEFJOW9iOVlsOFk1czlHazVvZWdMeUVPVTlCRg?oc=5",
       "source": "연합인포맥스"
     },
     {
-      "tag": "보험사기",
-      "title": "보험설계사 연루 고의 자해 보험사기 일당 검거",
-      "summary": "보험설계사가 연루된 일당이 고의 자해로 약 9억원의 보험금을 챙긴 혐의로 검거됐고 일부는 구속됐습니다. 모집채널에 대한 내부통제와 보험사기 관리 필요성이 다시 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vU2VLR0ZWWUo0N2dBMTk0MkN3djBxRkctbDBRU050MldFSHdpclVKM3h0eV9kcWlkZ2hsWWljLXF0S1lLYkhfMTNWYW1nY0x4dHN2djJ1RGlMNzTSAWBBVV95cUxPVE5fS3hRdEVDaWFPREt1WlV3NnFoeWNDRzljMzlOcEppbXpYWVZJTEc3dHJ6WTY4aDR3a1Q4ZkpkZ0syWk5HZmR0UGxzelN3VUtyQmpOcHo1UlNzZmRVTWw?oc=5",
-      "source": "연합뉴스"
+      "tag": "생명보험 상품",
+      "title": "생존 중 인출 가능한 종신보험, 2030 가입 비중 31%",
+      "summary": "한화생명이 생전에 보험금을 인출해 생활자금으로 활용할 수 있는 종신보험을 선보였고, 관련 보도에서 2030세대 가입 비중이 31%로 제시됐다. 사망 보장 중심이던 종신보험에서 생존 혜택과 노후 생활자금 활용을 강조하는 상품 흐름이 부각됐다.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LRzFGcC1xRzBvMEZLcUJNYjVKclAyUTF5eUNBOTRtYUdHcmxJVnk4UTJPbmstT3piMExmeFptWmpPODNvVmt6b2MxMUctSnUwaVVzRmJOZVFqU1lHQ2dXcw?oc=5",
+      "source": "아시아경제"
     },
     {
-      "tag": "소비자보호",
-      "title": "판매수수료 관행·보험금 지급을 둘러싼 소비자보호 과제 부상",
-      "summary": "보험 판매수수료 중심 영업관행을 개선하고 GA 책임을 강화해야 한다는 논의가 제기됐습니다. 카카오페이손보의 가입자 증가와 함께 보험금 부지급률 및 민원 증가도 보도돼 성장과 소비자보호를 함께 관리해야 할 과제로 나타났습니다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQbUdrdFY1aXZoRFgzZ29Vd01VNVZGZlZnYkhvdVZKY1lQRDlUUEU4cTA1aGpQWlM2bk9hb3hKcGppbjJhclZoMFN2M0xRRDBfQjNMcFRPRHd0QUx1OEFVY1h6OTdGOWw1NkdV?oc=5",
-      "source": "라이센스뉴스"
+      "tag": "감독·해외 진출",
+      "title": "금감원, 베트남·인도네시아 보험당국 초청해 국내 보험사 해외 진출 지원",
+      "summary": "금융감독원이 베트남·인도네시아 보험감독당국을 초청해 인허가와 현지 영업 관련 협조를 요청하고 규제 환경을 공유했다. 이번 협력은 국내 보험사의 베트남·인도네시아 진출을 지원하는 감독당국 간 소통으로 보도됐다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EV282T3h0UHNDbkRPTnhTNi1zVXdJOFY0MkRrM3dkZGtjZHZfLXFqNjJOTlJfS2lJT20zNGd5dlEzMkhldnQ0NHhILTF3R0h1clVSaFFSTVhFZ200X29GVGJ0SUhjdlVF?oc=5",
+      "source": "www.intn.co.kr"
+    },
+    {
+      "tag": "소비자 보호",
+      "title": "실손보험 보험금 지급 관련 민원 연 1만여건…보험업권 전체 민원은 3분기 감소",
+      "summary": "실손보험 가입자의 보험금 지급 관련 민원이 해마다 1만여건에 이른다는 보도가 나왔다. 반면 별도 보도에서는 생명·손해보험의 3분기 민원이 모두 감소해 실손보험 지급 체감 문제와 업권 전체 민원 흐름이 엇갈렸다.",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Yb3R1cVV3TV9tWVE3a2dTNlN1YmNRVEpDeHFZWU5GWnhsUW5HQVdYUVBqcnYyNWgyMjZhNFJrOEtMeWwyNWY5Z21UdW1YbGFraHYyNg?oc=5",
+      "source": "매일경제"
+    },
+    {
+      "tag": "디지털 보험",
+      "title": "AI 기반 시니어 통합돌봄·보험 문서 자동화 확산",
+      "summary": "삼성생명은 AI 기반 시니어 통합돌봄 모델을 선보였고, 에프에이솔루션은 현대해상의 보험 문서 AI 자동화 시스템 구축을 완료했다. AI가 고령자 돌봄 모델과 보험 문서 업무에 각각 적용되는 사례가 같은 기간 보도됐다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YSFlyQ0NXVGhyZGNVbWNxU0M4WXNVcF9Oc2FYT3MwUGV6OXo1UkFvdFl0VDlhbU1oV3g0ODJ5dVh3aERneEdZSDQwSEdTSnkyLVlkNlBGNVVZNjFqMFlmbkg4TnJHV2NrT1840gFvQVVfeXFMT05NRHNOZUdtOU9nUDBpeTVkUzhXdGdwVTM0RGxya2tuU3JyOV9fbmNTZXh2SkFsWXN4UWtrbU1lTnBfU3cybWhNNjdLV2drZVg2YlRHbVlKa25VdDg5MF9uUkpYVWlRN1h1TFA1TzlF?oc=5",
+      "source": "한국보험신문"
     }
   ]
 }
