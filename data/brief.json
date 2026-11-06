@@ -1,70 +1,64 @@
 {
-  "updatedAt": "2026-11-05T03:35:32.090Z",
+  "updatedAt": "2026-11-06T03:30:23.230Z",
   "articleCount": 45,
-  "editorNote": "유사한 제목과 동일 사안을 묶어 5개 이슈로 정리했습니다. 제공된 기사 메타데이터에는 미국 금리·국내외 채권금리·환율의 당일 방향을 직접 보여주는 내용이 없어, 확인 가능한 시장 변수와 보험산업 연결점만 반영했습니다.",
+  "editorNote": "최근 24시간 기사 메타데이터에서 동일 사안을 다룬 보도는 하나의 이슈로 통합했습니다. 기사 본문이 제공되지 않은 경우 제목과 메타데이터에 확인되는 내용만 반영했으며, 금융시장 변수는 제공 목록에서 확인 가능한 범위로 제한했습니다.",
   "keywords": [
-    "보험부채·GA 책임",
-    "소비자보호·보험분쟁",
-    "희귀·난치질환 건강보험",
-    "해외 특화보험",
-    "실손·종신보험 상품 변화"
+    "보험판매전문회사",
+    "종신·간병보험",
+    "건강보험 빅데이터",
+    "기후보험",
+    "보험 AI"
   ],
-  "marketSummary": "제공된 기사 메타데이터만으로는 미국 금리·채권금리·환율의 당일 방향을 확인할 수 없으며, 보험시장에서는 기후보험·모기지보험·글로벌 보험자본 관련 이슈가 부각됐습니다.",
+  "marketSummary": "미국 주간 신규 실업보험 청구가 전망치를 밑돈 가운데, 보험시장에서는 장기보험 상품 재편과 판매채널 관리, 데이터·AI 활용 확대가 동시에 부각됐다.",
   "marketContext": [
     {
-      "label": "부동산·모기지 보험",
-      "summary": "미국 모기지 보험업계가 행정명령에 촉각을 곤두세운다는 보도가 나왔습니다. 모기지 보험 관련 정책 변화가 보험업계의 보장과 사업 환경에 연결될 수 있다는 점이 시장 변수로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtdzA4ZkE0TDZkVDJZUjdPbU9iRTI3NjJ5Q1E0WmZ5MW95ckxMNXdTb1hVX2l4NDFVd2dhaXdScFRvZVVod1praEt5MjVvd1pOUVBDcFRoTzJvS1Q5UXRlN3BwVUc5Mzcteml3?oc=5",
-      "source": "Investing.com 한국어"
+      "label": "미국 고용지표",
+      "summary": "미국 주간 신규 실업보험 청구는 18만9천건으로 시장 전망치를 밑돌았다. 고용 관련 지표는 금융시장 금리 기대와 연결될 수 있지만, 제공 기사에는 미국 금리 수준이나 변동 내용이 제시되지 않아 보험사 자산운용에 대한 구체적 영향은 판단하기 어렵다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0qYlZrZmdNSVl6dG16X25hMTd0azdMTUJEOExhaTRNSXNNdjVrRVo3MUdacWg5TW1UZTVyVllBb1JCcENTQ1hrLUgtLXRRd09YbUdrZWdnUDloaDF4SXNTLWVZNkNEREVJR0hrNm5rWUY?oc=5",
+      "source": "연합인포맥스"
     },
     {
-      "label": "글로벌 보험자본·투자",
-      "summary": "글로벌 보험자본이 재보험을 넘어 보험사 지분 투자까지 확대하며 위험과 투자를 동시에 확보한다는 기사가 보도됐습니다. 이는 보험사의 자산운용과 자본 조달 전략이 보험사업 확장과 함께 논의되고 있음을 보여줍니다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VaGg5aTdnYzNrUmxNV01oMmxUMlR6bzZ3aGV3c1pvUlFrUHlpam16YWxRd2U1eGE2blA2TXR0czV4NVQtbDBDdTNQTEdTZnU3c01nQS1GUURydHlFTDlHTmJsM2JLT3pB?oc=5",
-      "source": "보험매일"
-    },
-    {
-      "label": "기후보험·전력망 투자",
-      "summary": "ECB 총재가 COP31을 앞두고 기후보험과 전력망 투자 확대를 촉구했다는 보도가 나왔습니다. 유럽 정책 논의에서 기후위험 보장과 인프라 투자가 함께 다뤄지고 있다는 점이 보험상품과 투자 방향의 접점입니다.",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzRmJJQVZuNWQwM3UwT05aWXJmbjBNaExDMkU4bUhBUVNCMEVtS0s2UVplaVU0dkFSTFlDMGfSAW5BVV95cUxNXzVWVUNhVzlVbUVWdV9ObUszb1hVUVRyRkNmUk5hcW83Z2ZndXlBeFFLWkduZGhFbkZRbGVyd25JamJJeXY2Rl95U05BQjRZcDFkV3hDTXNVbHFocGpEZmxjbDJvMGQwZGZCUE11dw?oc=5",
-      "source": "넷제로뉴스"
+      "label": "채권금리·환율·부동산",
+      "summary": "제공된 기사 목록에는 국내외 채권금리, 원·달러 환율, 부동산 가격이나 거래 흐름을 직접 다룬 내용이 확인되지 않는다. 따라서 이 변수들이 보험사 자산운용, 상품가격, 건전성에 미친 당일 영향은 이번 브리핑에서 평가하지 않는다.",
+      "url": "",
+      "source": "제공 기사 목록"
     }
   ],
   "issues": [
     {
-      "tag": "건전성·판매채널",
-      "title": "보험부채 산출과 GA 관리 책임 강화",
-      "summary": "보험사 보험부채의 부실 산출을 막고 GA 관리 책임을 강화하는 방안이 보도됐습니다. 보험부채 산출과 판매채널 관리에 대한 감독 책임이 보험사의 건전성과 내부통제 과제로 부각됐다는 의미입니다.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4YUo1V0lnTGJUUEFVa1NXMmtNOUM5S0VuRXdhVzhWZ2ZPZ0pTQUpZVThsTEloTHdPREo0Wlo3a29iNFBNaVRIZGdaQ29QZHFsa25ITFM1b0dkRDTSAWBBVV95cUxQTFJwWFZCdkhVQmFoREhkOXJ3dnNpZHYxMW9kVDlTUGkzQ3c4eGV4MG9PeHNOLUVCak1IMERxY2lFS1NsTFpaalk4U0t5TVJncjJ5YjR4QTJiYlRoYmtoY3E?oc=5",
-      "source": "연합뉴스"
+      "tag": "판매채널",
+      "title": "GA 법적 지위 요구와 대리점 제재가 함께 부각",
+      "summary": "보험GA 업계는 대형화에 맞는 법적 위상으로 보험판매전문회사 도입이 시급하다고 주장했고, 보험대리점에 대한 무더기 제재와 특정 업체로의 과태료 집중 보도도 나왔다. 판매채널의 제도적 역할 확대 논의와 함께 내부통제·법규 준수 부담도 동시에 커지는 흐름으로 읽힌다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xeUs3WlNSUDctX0M0VHF3ZWV0ZnN5U2dYNDhZLUdSY01xdWVWUGttQjJMbzZreDZHcHBSWW41SjVxenNLZldIWm1tREFSTkRwY1IwRHpmWW5FaHFRMmFvamNxRUpxb1NN?oc=5",
+      "source": "녹색경제신문"
     },
     {
-      "tag": "소비자보호·분쟁",
-      "title": "보험사, 민원·분쟁 대응 체계 정비",
-      "summary": "보험금 판결문 제출, 외부 전문가의 분쟁 심의 참여, 보험 안내와 민원 처리 절차 개선 관련 보도가 이어졌습니다. 보험사들이 분쟁을 줄이고 소비자보호 심의와 대응 체계를 강화하는 흐름으로 묶입니다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MOWJTMkkxY01fd0dhSmpaWFNWMko5NWJ3dlJYSW1NRTR2VEIyeUxSVHhzaDZHdGtOR1RsbWxRTk1jRlc1VFR1MnllS0ZBdWtZZDdBci13M0ZNVkNlNmhjTEowN3hCVktVODZJ0gFvQVVfeXFMTWt2aWZGR250TnFSYVBUM0RrZFdqQ1JDc2I5c01IRTIxenBHMVdubGZCNmg1X1J0ekdYX0JSdTM2aU5IbWVLc3pIQURNYzIxOVZyVzlsRnh6emE2SEtJSXVXZllwWEJIaF9TZklLdjA4?oc=5",
-      "source": "금융경제신문"
+      "tag": "상품·건전성",
+      "title": "생보업계, 종신보험을 생활비·치료비 상품으로 재편",
+      "summary": "‘700종신’ 제동 속 생명보험사들이 생활비·치료비를 내세운 종신보험 경쟁을 이어가고, 일부 회사는 연금보험과 치매·간병보험으로 수익원을 넓히려는 전략을 내놨다. 종신보험의 보장 활용도를 앞세운 상품 경쟁과 고령·간병 수요 대응이 상품 포트폴리오 재편의 핵심으로 부상했다.",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtRFU2M3Q5d2VCdVo1bkFWek1zZFlYVlE3QUVQV0RLc3RkbFBLNGNpS0U4VzYzQU9uM0haSEN0R0RZcEJwMTlybDdnUFhvcFh0dGstTGdNclNJa2ZVZ2xleXV6NA?oc=5",
+      "source": "쿠키뉴스"
     },
     {
-      "tag": "건강보험",
-      "title": "희귀·중증난치질환 건강보험 본인부담률 10%에서 7%로 인하",
-      "summary": "희귀·중증난치질환자의 건강보험 본인부담률을 10%에서 7%로 낮추는 내용이 보도됐습니다. 해당 질환자의 의료비 부담 완화를 겨냥한 건강보장 정책 변화가 핵심입니다.",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aMzZ6c0p5SjZBNVNHbFRvcjY3cGMza2NhUHBwdDRmaERmaVVCUHNlRW5LbUNsOEliRkVINVJ1aUg4bHZQX1NyU3NualpsRndrbnptYndTZ3RQcDk5UU9pUWRIUV9wc0FmMUFFWA?oc=5",
-      "source": "대한민국 정책브리핑"
+      "tag": "건강보험 데이터",
+      "title": "건강보험 빅데이터 분석센터 전국 확대",
+      "summary": "국민건강보험공단이 분당차병원 등을 포함한 4개 분석센터를 새로 열어 분석센터를 전국 19곳으로 확대했다는 보도가 여러 매체에서 반복됐다. 의료·건강보험 데이터의 지역 거점 확대와 AI·빅데이터 활용 기반 강화가 이번 발표의 핵심이다.",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrY0FMdk9YQmpyVko5Z1FEaENqRHBsUG1sOGtLQWxWR1hrTE1rbFppcDc5Y3FMUlNtcXVhbTMzbnZHLW0tNjB5MUxJR2taS2VPZXl2aG5VTW85azNTREZnNmRuMFhfcGk3TTladnF3?oc=5",
+      "source": "메드월드뉴스"
     },
     {
-      "tag": "해외사업·특화보험",
-      "title": "보험사 해외 진출과 특화보험 경쟁 확대",
-      "summary": "국내 보험사들이 국내시장 정체에 대응해 해외로 눈을 돌리고, 삼성·DB·KB 등이 미국과 유럽의 특화보험 경쟁에 나선다는 보도가 나왔습니다. 중국의 로봇 보험과 대만 규제 등 아시아 시장 변화까지 더해져 해외사업과 특화보험이 성장 전략으로 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUU1PbW1qSV9lWVMyU1FpZ3RSSWdOdkk0T3hoeEU1LXlRTkF6N3o4bC1uNm9qY3U2cGJ0MzJZYzFDSVU0WkpEN1BmbERRRmhKUVZydGlLRFl1bGhvYUViaVcycXZRdGthNm02NzIwbkh3VlZvdjM4VkZ5XzlRWG9TUWFKcG4?oc=5",
-      "source": "글로벌이코노믹"
+      "tag": "기후리스크",
+      "title": "기후위험 축소 논란과 건설현장 기후보험 소외 문제",
+      "summary": "영국 보험업계에서는 보험료를 낮추기 위해 기후위험을 축소했다는 내부고발 논란이 제기됐고, 국내에서는 폭염·폭우 피해가 큰 건설현장이 기후보험에서 소외될 수 있다는 지적이 나왔다. 기후위험의 평가·공시와 보험 접근성 문제가 보험료 산정 및 보장 공백과 함께 쟁점화됐다.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xamdxclpJWkdBT180TW1FZkFWSHFiOTk4WDRxN0xUbGgtSHl1c1F1N2RlWUNveF9rbkxwNHBpVk55NHpQdVhmRHQtbU55MlBEcjA5NFBwbzRfSGptNE1NRnRibXlCMlNiS1E?oc=5",
+      "source": "임팩트온"
     },
     {
-      "tag": "상품·규제",
-      "title": "실손보험 전환과 종신보험의 생전 활용 경쟁",
-      "summary": "오래된 실손보험 계약의 ‘반값 갈아타기’와 관련 규제 변화, 사망보장에 생전 활용을 더한 종신보험 상품 경쟁이 보도됐습니다. 실손보험은 계약 전환과 규제, 종신보험은 보장 외 활용성이 상품 경쟁의 주요 축으로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EUEFBLW43QlZpX2YtZklaX0Vla2hvYzZzbTZXU3RTV1NXeWxoc3ZNNUNDbXFIZ1R0YzVvQS03YUM0SGRsdjFldVVjdW9iNEpidmNNSTVFUFBfbm9IRVdZGdZRZWwzWG5zUU5J0gFvQVVfeXFMTlJKSmJBQ3RjYzdqRm83SFRzMjNVaGxCTm5ER1otOUlNbmpndXBrWXBHOVlGT1cySnFsaFU5bXowei14WmFfN0VVMlU2XzhzVXo1OEdXdHU4SU1ZTGRROXZUWUZxb3BBOVg4NkJsN2Q4?oc=5",
-      "source": "금융경제신문"
+      "tag": "디지털 전환",
+      "title": "보험 AI, 단순 자동화에서 업무 맥락 학습으로 전환",
+      "summary": "국내 보험사의 AI 전환 과제로 단순 자동화를 넘어 비즈니스 맥락을 학습하는 접근이 제시됐고, 미국 보험 AI 기업으로 투자금이 몰리면서 국내 업계의 전환도 빨라지고 있다는 보도가 나왔다. AI 활용 경쟁의 초점이 기술 도입 자체에서 보험업무에 대한 적용력과 전환 속도로 이동하고 있다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFEyUGNLclRZTlU1UXJTdXI4MUZFd1RfT09ZQmRjZWxuY2JuZXAzVTJjTHlRWW95cS1xY250RnNrWG9tUGRMbGNMQkI3enlBRnMxSi1EaWpzeF9rX2pUYjgtRDNiQ2NSc3lX?oc=5",
+      "source": "EBN"
     }
   ]
 }
