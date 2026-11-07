@@ -1,64 +1,70 @@
 {
-  "updatedAt": "2026-11-06T03:30:23.230Z",
+  "updatedAt": "2026-11-07T02:58:04.951Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사 메타데이터에서 동일 사안을 다룬 보도는 하나의 이슈로 통합했습니다. 기사 본문이 제공되지 않은 경우 제목과 메타데이터에 확인되는 내용만 반영했으며, 금융시장 변수는 제공 목록에서 확인 가능한 범위로 제한했습니다.",
+  "editorNote": "제공된 기사 메타데이터의 제목과 매체 정보만 바탕으로 중복 보도를 통합했습니다. 미국 금리·국내외 채권금리·환율·부동산 흐름에 관한 구체적인 수치는 목록에서 확인되지 않아 해당 부분은 확인 한계로 표시했습니다.",
   "keywords": [
-    "보험판매전문회사",
-    "종신·간병보험",
-    "건강보험 빅데이터",
-    "기후보험",
-    "보험 AI"
+    "건강보험 리부트",
+    "실손보험",
+    "종신보험",
+    "AI·빅데이터",
+    "재보험료"
   ],
-  "marketSummary": "미국 주간 신규 실업보험 청구가 전망치를 밑돈 가운데, 보험시장에서는 장기보험 상품 재편과 판매채널 관리, 데이터·AI 활용 확대가 동시에 부각됐다.",
+  "marketSummary": "제공된 목록에서 확인되는 보험시장 관련 시장 신호는 보험주 하락과 재보험료 하락 전망이며, 미국 금리·채권금리·환율·부동산 흐름은 확인되지 않는다.",
   "marketContext": [
     {
-      "label": "미국 고용지표",
-      "summary": "미국 주간 신규 실업보험 청구는 18만9천건으로 시장 전망치를 밑돌았다. 고용 관련 지표는 금융시장 금리 기대와 연결될 수 있지만, 제공 기사에는 미국 금리 수준이나 변동 내용이 제시되지 않아 보험사 자산운용에 대한 구체적 영향은 판단하기 어렵다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0qYlZrZmdNSVl6dG16X25hMTd0azdMTUJEOExhaTRNSXNNdjVrRVo3MUdacWg5TW1UZTVyVllBb1JCcENTQ1hrLUgtLXRRd09YbUdrZWdnUDloaDF4SXNTLWVZNkNEREVJR0hrNm5rWUY?oc=5",
-      "source": "연합인포맥스"
+      "label": "재보험료",
+      "summary": "손해보험사의 해외사업 실적을 재보험이 좌우한다는 보도와 함께 내년 화두로 재보험료 하락이 제시됐다. 해외사업 수익성과 보험사의 위험분담 구조에 연결되는 변수지만, 자산운용이나 구체적인 건전성 수치에 대한 내용은 목록에 없다.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xUDZaRWNocndpaXhGek9qY3Fva2ZUS21KXy1SbUZsaDlwc1ktdFUyUkVSQlE0eVlGd004anRzdEhNMG5kU3lBZC1RU05OYkpVUmxVa0MxUUpaNjlCWk9MY3R2ZE9MX04xaUN4TWc2Qno?oc=5",
+      "source": "DFT 대한금융신문"
     },
     {
-      "label": "채권금리·환율·부동산",
-      "summary": "제공된 기사 목록에는 국내외 채권금리, 원·달러 환율, 부동산 가격이나 거래 흐름을 직접 다룬 내용이 확인되지 않는다. 따라서 이 변수들이 보험사 자산운용, 상품가격, 건전성에 미친 당일 영향은 이번 브리핑에서 평가하지 않는다.",
+      "label": "보험주 주가",
+      "summary": "보험 8개 종목이 하락했고 삼성화재가 7.36% 내렸다는 보도가 나왔다. 보험업 투자심리의 당일 흐름은 보여주지만, 주가 하락 원인과 상품가격·자산운용·건전성의 구체적 연결고리는 기사 목록에서 확인되지 않는다.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yX3BENnZveGhFOGRqWFZrWW1ZTTBxSkhvM0NFcGF2anZpdHN6ajY3Tk9qSmxuXzRkSFVRUzk4d3FXZFZmNndhbDJJbzlySTI5VUJJMG9oVy05UFBJckd1VQ?oc=5",
+      "source": "NSP통신"
+    },
+    {
+      "label": "금리·환율·부동산",
+      "summary": "제공된 기사 목록에는 미국 금리, 국내외 채권금리, 원·달러 환율 또는 부동산 가격의 구체적인 흐름이 포함되지 않았다. 따라서 이들 변수가 보험사 자산운용·상품가격·건전성에 미친 당일 영향은 판단할 수 없다.",
       "url": "",
-      "source": "제공 기사 목록"
+      "source": "기사 목록 확인 결과"
     }
   ],
   "issues": [
     {
-      "tag": "판매채널",
-      "title": "GA 법적 지위 요구와 대리점 제재가 함께 부각",
-      "summary": "보험GA 업계는 대형화에 맞는 법적 위상으로 보험판매전문회사 도입이 시급하다고 주장했고, 보험대리점에 대한 무더기 제재와 특정 업체로의 과태료 집중 보도도 나왔다. 판매채널의 제도적 역할 확대 논의와 함께 내부통제·법규 준수 부담도 동시에 커지는 흐름으로 읽힌다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xeUs3WlNSUDctX0M0VHF3ZWV0ZnN5U2dYNDhZLUdSY01xdWVWUGttQjJMbzZreDZHcHBSWW41SjVxenNLZldIWm1tREFSTkRwY1IwRHpmWW5FaHFRMmFvamNxRUpxb1NN?oc=5",
-      "source": "녹색경제신문"
+      "tag": "공공보험 혁신",
+      "title": "건보공단 ‘리부트 건강보험’ 선포…통합돌봄·AI·빅데이터로 운영 재설계",
+      "summary": "국민건강보험공단이 ‘리부트 건강보험’을 선포하고 4대 경영방침을 공개했다. 의료·요양·돌봄 통합, AI 기반 스마트건강보험, 건강보험 재설계와 빅데이터 분석센터가 함께 보도되며 공공보험 운영 혁신이 핵심 의제로 부상했다.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ySDJESkUyNU5jN21NcHY4bzQtVzNQNTJ3X29zR3Z6NVUyZ01WTVNiajhnWDFhN3pPOXI0X0FEZ3BpMTVQeDFrYS0wQXdyTFlRQ2ZPY2lYTm5Bb1JuVTJKMjBiUjVqbHF0UTlFbktfRkRZMWpQdkHSAWZBVV95cUxNSTg1eG1Kbk9zTHJRbDVaVzVoN1ZiMDFITllMWlNsMVdBTmd2VzdTMFhEdzFoRWNxaVlESU5KelJYR0dlZ0drR0w0OXRiaWprbU0wcjBILXlxMWt6SlRvZ1ctTWFMV3c?oc=5",
+      "source": "동아일보"
     },
     {
-      "tag": "상품·건전성",
-      "title": "생보업계, 종신보험을 생활비·치료비 상품으로 재편",
-      "summary": "‘700종신’ 제동 속 생명보험사들이 생활비·치료비를 내세운 종신보험 경쟁을 이어가고, 일부 회사는 연금보험과 치매·간병보험으로 수익원을 넓히려는 전략을 내놨다. 종신보험의 보장 활용도를 앞세운 상품 경쟁과 고령·간병 수요 대응이 상품 포트폴리오 재편의 핵심으로 부상했다.",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtRFU2M3Q5d2VCdVo1bkFWek1zZFlYVlE3QUVQV0RLc3RkbFBLNGNpS0U4VzYzQU9uM0haSEN0R0RZcEJwMTlybDdnUFhvcFh0dGstTGdNclNJa2ZVZ2xleXV6NA?oc=5",
-      "source": "쿠키뉴스"
+      "tag": "건강보험·의료기기",
+      "title": "의료기기 보험급여 정책포럼 개최…신속등재와 허가비용 이슈 부각",
+      "summary": "한국의료기기산업협회가 19일 보험위원회 정책포럼을 개최한다는 보도가 여러 매체에서 반복됐다. 건강보험 신속등재와 품목허가 비용 인상도 함께 보도되며 의료기기 보험급여 정책과 비용 부담이 주요 이슈로 제시됐다.",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jRUZtb2Q4NTZ2LXZHWFNrTUJVNC1uNXRoNDJzVm50QUNHWHdTcGlTSFd4OGdFUmo1TlJ0NThsVmlXM2gzS0JCUGFtS21xR3NDSFVEYw?oc=5",
+      "source": "MEDI:GATE NEWS"
     },
     {
-      "tag": "건강보험 데이터",
-      "title": "건강보험 빅데이터 분석센터 전국 확대",
-      "summary": "국민건강보험공단이 분당차병원 등을 포함한 4개 분석센터를 새로 열어 분석센터를 전국 19곳으로 확대했다는 보도가 여러 매체에서 반복됐다. 의료·건강보험 데이터의 지역 거점 확대와 AI·빅데이터 활용 기반 강화가 이번 발표의 핵심이다.",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrY0FMdk9YQmpyVko5Z1FEaENqRHBsUG1sOGtLQWxWR1hrTE1rbFppcDc5Y3FMUlNtcXVhbTMzbnZHLW0tNjB5MUxJR2taS2VPZXl2aG5VTW85azNTREZnNmRuMFhfcGk3TTladnF3?oc=5",
-      "source": "메드월드뉴스"
+      "tag": "상품·보험료",
+      "title": "실손 부담 완화와 역선택 우려, 달라진 종신보험까지 상품 경쟁 심화",
+      "summary": "고령 1인가구의 보험료 부담, 실손보험 할인·전환제도와 역선택에 따른 손해율 우려, 달라진 종신보험의 2030 가입 비중이 잇따라 보도됐다. 소비자의 보험료 부담 완화와 보험사의 손해율 관리, 종신보험 상품 재설계가 동시에 부각됐다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WdklfM1hwT3doSTY0SXpTOVZXWEF6QTlocVJieUZlN2pFejUwVndqS1lyenVzd3NQVW9GUlR2Q2RrcjRFaF80QllEcGNkejNwRllRcHhfYTdNUU8yeXVrZUQ4ZnQ0SXJpQTNldkJZaFTSAXRBVV95cUxNT1o2Z1F5VmpTNFhnVTlnNkZ2OUI5RzZuWXppNkk0emRYMEJ2cENVZGJkeEtLY0xCbGZjVzc2ZXgyUHdwd2x4N3JNUDRlM3VLaG9sRl9xOGVKSFNHazd5RFZ1TXhhcVBsTDYxWDZVXzRkUVFmdQ?oc=5",
+      "source": "포인트데일리"
     },
     {
-      "tag": "기후리스크",
-      "title": "기후위험 축소 논란과 건설현장 기후보험 소외 문제",
-      "summary": "영국 보험업계에서는 보험료를 낮추기 위해 기후위험을 축소했다는 내부고발 논란이 제기됐고, 국내에서는 폭염·폭우 피해가 큰 건설현장이 기후보험에서 소외될 수 있다는 지적이 나왔다. 기후위험의 평가·공시와 보험 접근성 문제가 보험료 산정 및 보장 공백과 함께 쟁점화됐다.",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xamdxclpJWkdBT180TW1FZkFWSHFiOTk4WDRxN0xUbGgtSHl1c1F1N2RlWUNveF9rbkxwNHBpVk55NHpQdVhmRHQtbU55MlBEcjA5NFBwbzRfSGptNE1NRnRibXlCMlNiS1E?oc=5",
-      "source": "임팩트온"
+      "tag": "디지털 리스크",
+      "title": "보험·금융권 정보보호와 생성형 AI 보험사기 대응 강화",
+      "summary": "미래에셋의 정보보호 역량이 시험대에 올랐다는 보도와 일본 손보사의 생성형 AI 기반 자동차 보험사기 대응 사례가 나왔다. 바이낸스 해킹 사례에서 사이버보험이 없었다는 내용까지 더해지며 정보보호, 사기탐지와 사이버 위험 보장이 함께 부각됐다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xTVhBSHNYYkxaZzZmOXViRnR0MVFkY0FSSmZnOXdDcHQyNHJXMjhPUlRubjVTMG0yenItZzhjcnF3UWxTVHlwNHNGNlpYbWZHRnFiYy1DMUlPajJJUUZNTVVmY0NEY1BUUDhjVzlJcHA?oc=5",
+      "source": "연합인포맥스"
     },
     {
-      "tag": "디지털 전환",
-      "title": "보험 AI, 단순 자동화에서 업무 맥락 학습으로 전환",
-      "summary": "국내 보험사의 AI 전환 과제로 단순 자동화를 넘어 비즈니스 맥락을 학습하는 접근이 제시됐고, 미국 보험 AI 기업으로 투자금이 몰리면서 국내 업계의 전환도 빨라지고 있다는 보도가 나왔다. AI 활용 경쟁의 초점이 기술 도입 자체에서 보험업무에 대한 적용력과 전환 속도로 이동하고 있다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFEyUGNLclRZTlU1UXJTdXI4MUZFd1RfT09ZQmRjZWxuY2JuZXAzVTJjTHlRWW95cS1xY250RnNrWG9tUGRMbGNMQkI3enlBRnMxSi1EaWpzeF9rX2pUYjgtRDNiQ2NSc3lX?oc=5",
-      "source": "EBN"
+      "tag": "재보험·해외사업",
+      "title": "손보사 해외사업 실적 변수로 재보험 부상…재보험료 하락 전망",
+      "summary": "손해보험사의 해외사업에서 재보험이 실적을 가른다는 분석이 보도됐다. 싱가포르에 모인 보험업계의 내년 화두로 재보험료 하락이 제시되며 해외사업의 수익성과 위험분담 구조에 관심이 모였다.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwenFhT2FSM3BLSVR4aDBRSGZKN3hPTWQ2aUZZSm1fQmY1M3UyZjF2RnhlYkpXU0dmVlhHTUExaTJZOFdUMUJOa2xWOW9wQjFhT3pqQkNmTzJZOXQxRzB1QVZRMXdDcTRrMkE?oc=5",
+      "source": "한국공제보험신문"
     }
   ]
 }
