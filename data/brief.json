@@ -1,70 +1,70 @@
 {
-  "updatedAt": "2026-11-07T02:58:04.951Z",
-  "articleCount": 45,
-  "editorNote": "제공된 기사 메타데이터의 제목과 매체 정보만 바탕으로 중복 보도를 통합했습니다. 미국 금리·국내외 채권금리·환율·부동산 흐름에 관한 구체적인 수치는 목록에서 확인되지 않아 해당 부분은 확인 한계로 표시했습니다.",
+  "updatedAt": "2026-11-08T02:36:12.623Z",
+  "articleCount": 34,
+  "editorNote": "제공된 기사 제목·메타데이터를 기준으로 유사 주제를 묶었습니다. 기사 본문과 금융시장 수치가 제공되지 않아 금리·환율·부동산의 당일 흐름은 확인 가능한 범위에서만 정리했습니다.",
   "keywords": [
-    "건강보험 리부트",
-    "실손보험",
-    "종신보험",
-    "AI·빅데이터",
-    "재보험료"
+    "고령화·장기요양",
+    "펫보험",
+    "종신보험·생애자금",
+    "전국민 산재보험",
+    "건강보험 보장 확대"
   ],
-  "marketSummary": "제공된 목록에서 확인되는 보험시장 관련 시장 신호는 보험주 하락과 재보험료 하락 전망이며, 미국 금리·채권금리·환율·부동산 흐름은 확인되지 않는다.",
+  "marketSummary": "제공된 기사 목록에는 미국 금리·국내외 채권금리·환율·부동산 등 당일 금융시장 흐름을 확인할 수 있는 정보가 없어, 보험사의 자산운용·상품가격·건전성에 미친 영향도 판단하기 어렵습니다.",
   "marketContext": [
     {
-      "label": "재보험료",
-      "summary": "손해보험사의 해외사업 실적을 재보험이 좌우한다는 보도와 함께 내년 화두로 재보험료 하락이 제시됐다. 해외사업 수익성과 보험사의 위험분담 구조에 연결되는 변수지만, 자산운용이나 구체적인 건전성 수치에 대한 내용은 목록에 없다.",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xUDZaRWNocndpaXhGek9qY3Fva2ZUS21KXy1SbUZsaDlwc1ktdFUyUkVSQlE0eVlGd004anRzdEhNMG5kU3lBZC1RU05OYkpVUmxVa0MxUUpaNjlCWk9MY3R2ZE9MX04xaUN4TWc2Qno?oc=5",
-      "source": "DFT 대한금융신문"
-    },
-    {
-      "label": "보험주 주가",
-      "summary": "보험 8개 종목이 하락했고 삼성화재가 7.36% 내렸다는 보도가 나왔다. 보험업 투자심리의 당일 흐름은 보여주지만, 주가 하락 원인과 상품가격·자산운용·건전성의 구체적 연결고리는 기사 목록에서 확인되지 않는다.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yX3BENnZveGhFOGRqWFZrWW1ZTTBxSkhvM0NFcGF2anZpdHN6ajY3Tk9qSmxuXzRkSFVRUzk4d3FXZFZmNndhbDJJbzlySTI5VUJJMG9oVy05UFBJckd1VQ?oc=5",
-      "source": "NSP통신"
-    },
-    {
-      "label": "금리·환율·부동산",
-      "summary": "제공된 기사 목록에는 미국 금리, 국내외 채권금리, 원·달러 환율 또는 부동산 가격의 구체적인 흐름이 포함되지 않았다. 따라서 이들 변수가 보험사 자산운용·상품가격·건전성에 미친 당일 영향은 판단할 수 없다.",
+      "label": "미국 금리",
+      "summary": "관련 기사나 수치가 제공되지 않아 당일 흐름과 보험사의 자산운용·건전성 간 연결점을 확인할 수 없습니다.",
       "url": "",
-      "source": "기사 목록 확인 결과"
+      "source": "제공 기사 목록"
+    },
+    {
+      "label": "국내외 채권금리",
+      "summary": "관련 기사나 수치가 제공되지 않아 금리 변화가 보험상품 가격이나 자산운용에 미친 영향을 확인할 수 없습니다.",
+      "url": "",
+      "source": "제공 기사 목록"
+    },
+    {
+      "label": "환율·부동산",
+      "summary": "환율과 부동산시장 관련 기사나 수치가 제공되지 않아 보험시장과의 연결점을 판단할 수 없습니다.",
+      "url": "",
+      "source": "제공 기사 목록"
     }
   ],
   "issues": [
     {
-      "tag": "공공보험 혁신",
-      "title": "건보공단 ‘리부트 건강보험’ 선포…통합돌봄·AI·빅데이터로 운영 재설계",
-      "summary": "국민건강보험공단이 ‘리부트 건강보험’을 선포하고 4대 경영방침을 공개했다. 의료·요양·돌봄 통합, AI 기반 스마트건강보험, 건강보험 재설계와 빅데이터 분석센터가 함께 보도되며 공공보험 운영 혁신이 핵심 의제로 부상했다.",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ySDJESkUyNU5jN21NcHY4bzQtVzNQNTJ3X29zR3Z6NVUyZ01WTVNiajhnWDFhN3pPOXI0X0FEZ3BpMTVQeDFrYS0wQXdyTFlRQ2ZPY2lYTm5Bb1JuVTJKMjBiUjVqbHF0UTlFbktfRkRZMWpQdkHSAWZBVV95cUxNSTg1eG1Kbk9zTHJRbDVaVzVoN1ZiMDFITllMWlNsMVdBTmd2VzdTMFhEdzFoRWNxaVlESU5KelJYR0dlZ0drR0w0OXRiaWprbU0wcjBILXlxMWt6SlRvZ1ctTWFMV3c?oc=5",
-      "source": "동아일보"
+      "tag": "고령화·돌봄",
+      "title": "장기요양 수요 증가와 고령층 보험료 부담 부각",
+      "summary": "75세 이상 장기요양보험 수급자가 10년 새 2.7배로 늘었다는 보도와 장기요양 수급자 증가에 따른 재정부담, 고령층 보험료 60% 급증 관련 보도가 나왔습니다. 장기요양 수요 확대와 보험료 부담, 간병보험 가입 기준에 대한 관심이 함께 커지고 있음을 보여주는 이슈입니다.",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YdUdOZzdxWDFWbGZYZFZDZmN6by1TUnRkN0pVczBveDZBNDItU3ZZOW9UU2FzQ3lGck53NzlpWV9GeXFoUEZnb1pSMlA0MHN4aUE?oc=5",
+      "source": "노컷뉴스·SBS Biz·더스쿠프·스페셜타임스"
     },
     {
-      "tag": "건강보험·의료기기",
-      "title": "의료기기 보험급여 정책포럼 개최…신속등재와 허가비용 이슈 부각",
-      "summary": "한국의료기기산업협회가 19일 보험위원회 정책포럼을 개최한다는 보도가 여러 매체에서 반복됐다. 건강보험 신속등재와 품목허가 비용 인상도 함께 보도되며 의료기기 보험급여 정책과 비용 부담이 주요 이슈로 제시됐다.",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jRUZtb2Q4NTZ2LXZHWFNrTUJVNC1uNXRoNDJzVm50QUNHWHdTcGlTSFd4OGdFUmo1TlJ0NThsVmlXM2gzS0JCUGFtS21xR3NDSFVEYw?oc=5",
-      "source": "MEDI:GATE NEWS"
+      "tag": "생명보험 상품",
+      "title": "종신보험의 생애자금·건강 보장 강화",
+      "summary": "ABL생명은 납입보험료 인출이 가능한 ‘스테이블보험’을 출시했고, 생보사들은 사망보장을 넘어 생애자금과 건강까지 보장하는 종신보험을 내놓고 있습니다. 한화생명 종신보험의 2030 가입 비중이 2배로 늘었다는 보도까지 더해져 종신보험의 보장 범위와 주요 가입층 변화가 주목받았습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vbzNrVFJ1YmYwX2dMVWRNd0x4WlRPQXo3VTRxN2Q3ZmN6LXZWNS1RQlVZdUluNEg0OXBRVFY5Y2x4eGc3TkFxcDE4dmM3dEM5QlpQZm53YTBnVDZKYUgxU1dqaE9WckM4?oc=5",
+      "source": "FETV·한스경제·스페셜경제"
     },
     {
-      "tag": "상품·보험료",
-      "title": "실손 부담 완화와 역선택 우려, 달라진 종신보험까지 상품 경쟁 심화",
-      "summary": "고령 1인가구의 보험료 부담, 실손보험 할인·전환제도와 역선택에 따른 손해율 우려, 달라진 종신보험의 2030 가입 비중이 잇따라 보도됐다. 소비자의 보험료 부담 완화와 보험사의 손해율 관리, 종신보험 상품 재설계가 동시에 부각됐다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WdklfM1hwT3doSTY0SXpTOVZXWEF6QTlocVJieUZlN2pFejUwVndqS1lyenVzd3NQVW9GUlR2Q2RrcjRFaF80QllEcGNkejNwRllRcHhfYTdNUU8yeXVrZUQ4ZnQ0SXJpQTNldkJZaFTSAXRBVV95cUxNT1o2Z1F5VmpTNFhnVTlnNkZ2OUI5RzZuWXppNkk0emRYMEJ2cENVZGJkeEtLY0xCbGZjVzc2ZXgyUHdwd2x4N3JNUDRlM3VLaG9sRl9xOGVKSFNHazd5RFZ1TXhhcVBsTDYxWDZVXzRkUVFmdQ?oc=5",
-      "source": "포인트데일리"
+      "tag": "펫보험",
+      "title": "펫보험 상품·가격 비교와 계리 리스크 관심 확대",
+      "summary": "반려동물의 특성을 반영해 펫보험을 만드는 계리사들의 역할과 주요 보험사의 보장·보험료 비교 내용이 소개됐습니다. 펫보험 추천과 스타트업 맞춤형 보장, 교통동물보험설계사 관련 기사도 이어지며 반려동물보험의 상품 설계와 판매 방식이 주목받았습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fcVBhdUluU3RLblUxTnB4RUdYUXl4aEh1bTRuVTVWREY2My1wY0E4eFBEX01JZjk5anJEX3ZxSXJNZXI3VW1SN3otLXBsNWZaWWg5VQ?oc=5",
+      "source": "매일경제·재경일보·quasa.io"
     },
     {
-      "tag": "디지털 리스크",
-      "title": "보험·금융권 정보보호와 생성형 AI 보험사기 대응 강화",
-      "summary": "미래에셋의 정보보호 역량이 시험대에 올랐다는 보도와 일본 손보사의 생성형 AI 기반 자동차 보험사기 대응 사례가 나왔다. 바이낸스 해킹 사례에서 사이버보험이 없었다는 내용까지 더해지며 정보보호, 사기탐지와 사이버 위험 보장이 함께 부각됐다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xTVhBSHNYYkxaZzZmOXViRnR0MVFkY0FSSmZnOXdDcHQyNHJXMjhPUlRubjVTMG0yenItZzhjcnF3UWxTVHlwNHNGNlpYbWZHRnFiYy1DMUlPajJJUUZNTVVmY0NEY1BUUDhjVzlJcHA?oc=5",
-      "source": "연합인포맥스"
+      "tag": "사회보험 사각지대",
+      "title": "자영업자 산재보험 가입 저조와 전국민 산재보험 논의",
+      "summary": "전국민 산재보험 추진에도 자영업자의 가입률이 0.6%에 그쳐 사각지대가 여전하다는 보도가 나왔고, 자영업자 보호를 위한 제도 확대 가능성도 다뤄졌습니다. 자영업자의 사회보험 접근성과 가입 확대가 핵심 과제로 부각된 이슈입니다.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xQ1M2c0FldDdmcXVUOUF1MWNBNUF0OVlFbVl5TmxEU0dqak5DRDdHVXFyV0F5cDJvQWJ3THRmS20yUFRLUnZzdVdScEVrdjBqTUw5clhPUWZBVTDSAWBBVV95cUxPU2JfUWZiNENtNFZ5MUZ0QWNiOEpfUnI0Ym54OFBfVDZOYU9NVnJtTmxBS3RKUG9wOWFBdVNubGFqTllBMnJUX3VjSzFGMzNDbVVJYXBjRnhOTzlhOHVTM2U?oc=5",
+      "source": "연합뉴스·미디어시시비비"
     },
     {
-      "tag": "재보험·해외사업",
-      "title": "손보사 해외사업 실적 변수로 재보험 부상…재보험료 하락 전망",
-      "summary": "손해보험사의 해외사업에서 재보험이 실적을 가른다는 분석이 보도됐다. 싱가포르에 모인 보험업계의 내년 화두로 재보험료 하락이 제시되며 해외사업의 수익성과 위험분담 구조에 관심이 모였다.",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwenFhT2FSM3BLSVR4aDBRSGZKN3hPTWQ2aUZZSm1fQmY1M3UyZjF2RnhlYkpXU0dmVlhHTUExaTJZOFdUMUJOa2xWOW9wQjFhT3pqQkNmTzJZOXQxRzB1QVZRMXdDcTRrMkE?oc=5",
-      "source": "한국공제보험신문"
+      "tag": "건강보험·돌봄",
+      "title": "건강보험 보장 확대와 의료·요양 연계 강화 움직임",
+      "summary": "희귀·중증난치질환자의 건강보험 본인부담률을 10%에서 7%로 낮추는 내용과 간호·간병통합서비스 우수기관 선정 소식이 전해졌습니다. 건강보험·의료·요양·돌봄 연계, 건강보험 빅데이터 활용, 건강복지 플랫폼 관련 보도가 함께 나오며 보장과 서비스 전달체계 변화가 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5obVJGUzlaVWkyUmZQZjJuenB6VjVDb2VZcEZYQ2ctMTdtYVRxVDdjSkpQeXVWU3hwUnRZMGhKeXFTOHZJOGhtdUpZb3lTOWxqU1NkU0t1Zzd0S3pOWjlhVjVpOXlzbXJJSThXZUNhNA?oc=5",
+      "source": "시니어오늘·한국시민기자협회 뉴스포털1·메디포뉴스·더퍼스트미디어"
     }
   ]
 }
