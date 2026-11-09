@@ -1,70 +1,70 @@
 {
-  "updatedAt": "2026-11-08T02:36:12.623Z",
-  "articleCount": 34,
-  "editorNote": "제공된 기사 제목·메타데이터를 기준으로 유사 주제를 묶었습니다. 기사 본문과 금융시장 수치가 제공되지 않아 금리·환율·부동산의 당일 흐름은 확인 가능한 범위에서만 정리했습니다.",
+  "updatedAt": "2026-11-09T02:50:02.092Z",
+  "articleCount": 45,
+  "editorNote": "최근 24시간 기사 중 동일 사안을 반복 보도한 기사는 하나의 이슈로 통합했습니다. 금융시장 변수에 관한 기사 메타데이터는 제공되지 않아 시장 방향과 보험시장 영향을 기사 근거만으로 판단할 수 없습니다.",
   "keywords": [
-    "고령화·장기요양",
-    "펫보험",
-    "종신보험·생애자금",
-    "전국민 산재보험",
-    "건강보험 보장 확대"
+    "자동차보험 8주룰",
+    "운전자보험 맞춤형 보장",
+    "AI·자율주행 리스크",
+    "보험사기",
+    "종신보험 상품 혁신"
   ],
-  "marketSummary": "제공된 기사 목록에는 미국 금리·국내외 채권금리·환율·부동산 등 당일 금융시장 흐름을 확인할 수 있는 정보가 없어, 보험사의 자산운용·상품가격·건전성에 미친 영향도 판단하기 어렵습니다.",
+  "marketSummary": "제공된 기사 목록에는 미국 금리·채권금리·환율·부동산 등 금융시장 흐름을 다룬 내용이 없어, 오늘의 시장 움직임이 보험사 자산운용·상품가격·건전성에 미친 영향을 확인하기 어렵습니다.",
   "marketContext": [
     {
       "label": "미국 금리",
-      "summary": "관련 기사나 수치가 제공되지 않아 당일 흐름과 보험사의 자산운용·건전성 간 연결점을 확인할 수 없습니다.",
+      "summary": "관련 금리의 수준이나 변동에 관한 기사가 제공되지 않았습니다. 따라서 보험사의 자산운용과 상품가격에 미친 영향을 기사 근거만으로 설명할 수 없습니다.",
       "url": "",
       "source": "제공 기사 목록"
     },
     {
       "label": "국내외 채권금리",
-      "summary": "관련 기사나 수치가 제공되지 않아 금리 변화가 보험상품 가격이나 자산운용에 미친 영향을 확인할 수 없습니다.",
+      "summary": "국내외 채권금리 흐름과 관련한 정보가 제공되지 않았습니다. 이에 따라 보험사 채권 평가와 건전성에 대한 연결점을 판단할 수 없습니다.",
       "url": "",
       "source": "제공 기사 목록"
     },
     {
       "label": "환율·부동산",
-      "summary": "환율과 부동산시장 관련 기사나 수치가 제공되지 않아 보험시장과의 연결점을 판단할 수 없습니다.",
+      "summary": "환율이나 부동산시장 동향을 다룬 기사가 제공되지 않았습니다. 보험시장에 대한 영향 역시 확인할 수 없습니다.",
       "url": "",
       "source": "제공 기사 목록"
     }
   ],
   "issues": [
     {
-      "tag": "고령화·돌봄",
-      "title": "장기요양 수요 증가와 고령층 보험료 부담 부각",
-      "summary": "75세 이상 장기요양보험 수급자가 10년 새 2.7배로 늘었다는 보도와 장기요양 수급자 증가에 따른 재정부담, 고령층 보험료 60% 급증 관련 보도가 나왔습니다. 장기요양 수요 확대와 보험료 부담, 간병보험 가입 기준에 대한 관심이 함께 커지고 있음을 보여주는 이슈입니다.",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YdUdOZzdxWDFWbGZYZFZDZmN6by1TUnRkN0pVczBveDZBNDItU3ZZOW9UU2FzQ3lGck53NzlpWV9GeXFoUEZnb1pSMlA0MHN4aUE?oc=5",
-      "source": "노컷뉴스·SBS Biz·더스쿠프·스페셜타임스"
+      "tag": "자동차보험",
+      "title": "자동차보험 ‘8주룰’ 시행 후 장기치료 심사 신청 하루 570건",
+      "summary": "자동차보험 ‘8주룰’ 시행 초기 또는 시행 두 달 만에 장기치료 심사 신청이 하루 570건씩 접수되고 있다는 보도가 나왔습니다. 경미한 사고 이후 8주 이상 치료를 받으려는 신청이 자동차보험 손해 관리와 제도 운영의 쟁점으로 부상했습니다.",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GdDRfWloxQWp0a01KZExCX0NxZUtlV1JPUjNHa0tUSnA4SmZKaDJ0VFRYTkx4Uk5OMXhHVjVPV3pzTXdPVzNQVFRYRkhKbzA2RzJrY3dSOWZIT29SVkxpTExWTHBWV2p6MC1PWnpjNEVfdw?oc=5",
+      "source": "인더스트리뉴스"
     },
     {
-      "tag": "생명보험 상품",
-      "title": "종신보험의 생애자금·건강 보장 강화",
-      "summary": "ABL생명은 납입보험료 인출이 가능한 ‘스테이블보험’을 출시했고, 생보사들은 사망보장을 넘어 생애자금과 건강까지 보장하는 종신보험을 내놓고 있습니다. 한화생명 종신보험의 2030 가입 비중이 2배로 늘었다는 보도까지 더해져 종신보험의 보장 범위와 주요 가입층 변화가 주목받았습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vbzNrVFJ1YmYwX2dMVWRNd0x4WlRPQXo3VTRxN2Q3ZmN6LXZWNS1RQlVZdUluNEg0OXBRVFY5Y2x4eGc3TkFxcDE4dmM3dEM5QlpQZm53YTBnVDZKYUgxU1dqaE9WckM4?oc=5",
-      "source": "FETV·한스경제·스페셜경제"
+      "tag": "상품개편",
+      "title": "카카오페이손보, 자녀 동승 보장을 더한 운전자보험 4종 플랜 출시",
+      "summary": "카카오페이손해보험이 운전자보험을 개정해 자녀 동승 보장을 포함한 ‘엄마아빠 플랜’ 등 4가지 맞춤형 플랜을 선보였다는 보도가 이어졌습니다. 운전자보험에서 가족 단위 보장과 맞춤형 상품 구성이 확대되는 흐름을 보여줍니다.",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFNloyRTMxaHdVdTRNbGJMalRMbGNuNkJaWms1U0dDRUVTZnhxcTNuWldCSWthRGFMTVNNOE9VLS1sVU02cEdfSlU4LXdTbGNqUUNGWmVOLUk4TDJR?oc=5",
+      "source": "뉴스핌"
     },
     {
-      "tag": "펫보험",
-      "title": "펫보험 상품·가격 비교와 계리 리스크 관심 확대",
-      "summary": "반려동물의 특성을 반영해 펫보험을 만드는 계리사들의 역할과 주요 보험사의 보장·보험료 비교 내용이 소개됐습니다. 펫보험 추천과 스타트업 맞춤형 보장, 교통동물보험설계사 관련 기사도 이어지며 반려동물보험의 상품 설계와 판매 방식이 주목받았습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fcVBhdUluU3RLblUxTnB4RUdYUXl4aEh1bTRuVTVWREY2My1wY0E4eFBEX01JZjk5anJEX3ZxSXJNZXI3VW1SN3otLXBsNWZaWWg5VQ?oc=5",
-      "source": "매일경제·재경일보·quasa.io"
+      "tag": "신규위험",
+      "title": "보험연구원·스위스 생갈렌대, AI·자율주행·사이버 위험 연구 교류",
+      "summary": "보험연구원이 스위스 생갈렌대와 AI 및 사이버 위험, 자율주행 사고와 보험·법제 대응을 놓고 연구 교류와 협력을 논의했다는 보도가 다수 나왔습니다. 기술 발전으로 발생하는 새로운 위험의 책임과 보험 대응 방안을 국제적으로 모색하는 움직임입니다.",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1QZnNXRllNYnpHNlh6SXRwRWQ3TTRLVzRhakh6M2NGSVFmR1NycXJfNkIyend2ZkNsc250ZnlEQk1iM283S2JwT1NVdm5zUQ?oc=5",
+      "source": "전자신문"
     },
     {
-      "tag": "사회보험 사각지대",
-      "title": "자영업자 산재보험 가입 저조와 전국민 산재보험 논의",
-      "summary": "전국민 산재보험 추진에도 자영업자의 가입률이 0.6%에 그쳐 사각지대가 여전하다는 보도가 나왔고, 자영업자 보호를 위한 제도 확대 가능성도 다뤄졌습니다. 자영업자의 사회보험 접근성과 가입 확대가 핵심 과제로 부각된 이슈입니다.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xQ1M2c0FldDdmcXVUOUF1MWNBNUF0OVlFbVl5TmxEU0dqak5DRDdHVXFyV0F5cDJvQWJ3THRmS20yUFRLUnZzdVdScEVrdjBqTUw5clhPUWZBVTDSAWBBVV95cUxPU2JfUWZiNENtNFZ5MUZ0QWNiOEpfUnI0Ym54OFBfVDZOYU9NVnJtTmxBS3RKUG9wOWFBdVNubGFqTllBMnJUX3VjSzFGMzNDbVVJYXBjRnhOTzlhOHVTM2U?oc=5",
-      "source": "연합뉴스·미디어시시비비"
+      "tag": "보험사기",
+      "title": "교통법규 위반 차량 노린 렌터카 보험사기단 검거",
+      "summary": "교통법규 위반 차량을 골라 고의로 충돌하는 방식으로 43차례 사고를 내고 3억 원을 챙긴 렌터카 보험사기단 21명이 검거됐다는 보도가 나왔습니다. 고의사고를 통한 보험금 편취가 자동차보험 손해율과 보험금 지급 심사의 위험 요인으로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd09mcDZ2RDg4ZEhkelluRERjYU5nWmhVRDM2UE5nalFWZTkzNHZSNjNGVEpMNVZuZE5hY2s4YXQ2VXA3d01EdGFrMzJLNTkySWI4TjY3d1VQVlJKOHJpVld0Y2QwTUN4VDFLMGhNWHhfekxtQ0lmVlktNGhHUHdubkxvQnJIQkhDVHFTZWVTUG9NX2U3UmFjRERkS25aQ0x1N3R1bGRVUUxod9IBX0FVX3lxTE82bjYtdVZOWXlHRW1ZdUVHOWVaYUdua2pfR3pJcHZqdjdDU0x4V2JLSlFIZUlZRVNidHcxZC1TTEVhZXBiMlVOazMyaTMwbmRCdWtRUDFGVEpxQ1I4cU1r?oc=5",
+      "source": "경향신문"
     },
     {
-      "tag": "건강보험·돌봄",
-      "title": "건강보험 보장 확대와 의료·요양 연계 강화 움직임",
-      "summary": "희귀·중증난치질환자의 건강보험 본인부담률을 10%에서 7%로 낮추는 내용과 간호·간병통합서비스 우수기관 선정 소식이 전해졌습니다. 건강보험·의료·요양·돌봄 연계, 건강보험 빅데이터 활용, 건강복지 플랫폼 관련 보도가 함께 나오며 보장과 서비스 전달체계 변화가 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5obVJGUzlaVWkyUmZQZjJuenB6VjVDb2VZcEZYQ2ctMTdtYVRxVDdjSkpQeXVWU3hwUnRZMGhKeXFTOHZJOGhtdUpZb3lTOWxqU1NkU0t1Zzd0S3pOWjlhVjVpOXlzbXJJSThXZUNhNA?oc=5",
-      "source": "시니어오늘·한국시민기자협회 뉴스포털1·메디포뉴스·더퍼스트미디어"
+      "tag": "생명보험",
+      "title": "종신보험, 생전 활용·보험금 리필형으로 상품 변신",
+      "summary": "종신보험이 사망 이후 보장 중심에서 벗어나 생전에 자금을 꺼내 쓰거나 보험금을 다시 채우는 형태로 변하고 있다는 보도가 나왔습니다. 이러한 상품 변화가 2030세대의 관심을 끌고 있다는 점이 주요 내용입니다.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YNUlodUIzV3V3TGRTV1Vpb2JadWJ0WDcwaURmVmRqdVN3WGxWcmZXRWNEbzA2LWtlaFcxX1BfZDNOM0EyUUloWERJdWs5RFhpUmVySTNIX21QZGR4WXc3eUo5elFKdmJNOGhrd3pDdW1kTjBkOXfSAWZBVV95cUxPRnNDdTltaGEyQ1JPOTBzT2ZiVXlvOWVCcHlDTGRqMV9sRHlpU0pNdUNrMndkV2RPWWNHNWczSGF1S08zSGdYaU9pQl9ELUl0cTdSck9NaDJGQ2x2S1FWUkVBWW85Z0E?oc=5",
+      "source": "동아일보"
     }
   ]
 }
