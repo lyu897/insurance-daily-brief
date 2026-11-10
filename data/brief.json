@@ -1,70 +1,70 @@
 {
-  "updatedAt": "2026-11-09T02:50:02.092Z",
+  "updatedAt": "2026-11-10T04:42:04.991Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사 중 동일 사안을 반복 보도한 기사는 하나의 이슈로 통합했습니다. 금융시장 변수에 관한 기사 메타데이터는 제공되지 않아 시장 방향과 보험시장 영향을 기사 근거만으로 판단할 수 없습니다.",
+  "editorNote": "동일 내용을 반복 보도한 기후보험·생명보험협회 캠페인·청년 고용보험·삼성화재의 영국 보험사 인수·생명보험 브랜드평판 기사는 각각 하나의 이슈로 통합했습니다. 금융시장 관련 기사 메타데이터가 없어 당일 시장 방향은 판단하지 않았습니다.",
   "keywords": [
-    "자동차보험 8주룰",
-    "운전자보험 맞춤형 보장",
-    "AI·자율주행 리스크",
-    "보험사기",
-    "종신보험 상품 혁신"
+    "기후보험",
+    "영국 특수보험사 인수",
+    "청년 고용보험 감소",
+    "K-ICS·주주환원",
+    "보험사기·소비자보호"
   ],
-  "marketSummary": "제공된 기사 목록에는 미국 금리·채권금리·환율·부동산 등 금융시장 흐름을 다룬 내용이 없어, 오늘의 시장 움직임이 보험사 자산운용·상품가격·건전성에 미친 영향을 확인하기 어렵습니다.",
+  "marketSummary": "제공된 기사 메타데이터에는 미국 금리와 국내외 채권금리, 환율, 부동산의 당일 흐름이 없어 금융시장 방향은 확인할 수 없으며, 보험업계에서는 자본건전성과 상품·보장 구조 관련 이슈가 부각됐습니다.",
   "marketContext": [
     {
       "label": "미국 금리",
-      "summary": "관련 금리의 수준이나 변동에 관한 기사가 제공되지 않았습니다. 따라서 보험사의 자산운용과 상품가격에 미친 영향을 기사 근거만으로 설명할 수 없습니다.",
+      "summary": "제공 기사에는 미국 금리의 당일 움직임이나 전망이 언급되지 않았습니다. 금리 흐름은 보험사의 자산운용과 장기 상품의 가격·수익 구조를 점검할 때 확인해야 할 변수이지만, 이번 기사 목록만으로 영향 방향을 판단할 수 없습니다.",
       "url": "",
-      "source": "제공 기사 목록"
+      "source": "제공 기사 메타데이터 내 관련 근거 없음"
     },
     {
       "label": "국내외 채권금리",
-      "summary": "국내외 채권금리 흐름과 관련한 정보가 제공되지 않았습니다. 이에 따라 보험사 채권 평가와 건전성에 대한 연결점을 판단할 수 없습니다.",
+      "summary": "국내외 채권금리의 변동을 다룬 기사는 제공 목록에 없습니다. 채권금리는 보험사의 자산운용 및 건전성 점검과 연결되는 변수이나, 현재 목록에서는 실제 금리 수준이나 변동 폭을 확인할 수 없습니다.",
       "url": "",
-      "source": "제공 기사 목록"
+      "source": "제공 기사 메타데이터 내 관련 근거 없음"
     },
     {
-      "label": "환율·부동산",
-      "summary": "환율이나 부동산시장 동향을 다룬 기사가 제공되지 않았습니다. 보험시장에 대한 영향 역시 확인할 수 없습니다.",
-      "url": "",
-      "source": "제공 기사 목록"
+      "label": "환율",
+      "summary": "환율 흐름을 직접 다룬 기사는 제공 목록에 없습니다. 해외 보험사 인수·투자 관련 보도와 연결해 환율을 점검할 수는 있지만, 기사 메타데이터만으로 환율이 해당 거래나 보험사 건전성에 미친 영향을 단정할 수 없습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB9djFPLWFzWTFNY0UxdnJWcmhBbTRPanhWSWJoQmcwaWNNaTdsRjRCdWtUUjNXVWJaMUxMZFpBSE9weFVYQWtCYzMyZkxuZU83X3VhRGVSUzl4NVpCRlZJXzlHWnAtdw?oc=5",
+      "source": "여성소비자신문"
     }
   ],
   "issues": [
     {
-      "tag": "자동차보험",
-      "title": "자동차보험 ‘8주룰’ 시행 후 장기치료 심사 신청 하루 570건",
-      "summary": "자동차보험 ‘8주룰’ 시행 초기 또는 시행 두 달 만에 장기치료 심사 신청이 하루 570건씩 접수되고 있다는 보도가 나왔습니다. 경미한 사고 이후 8주 이상 치료를 받으려는 신청이 자동차보험 손해 관리와 제도 운영의 쟁점으로 부상했습니다.",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GdDRfWloxQWp0a01KZExCX0NxZUtlV1JPUjNHa0tUSnA4SmZKaDJ0VFRYTkx4Uk5OMXhHVjVPV3pzTXdPVzNQVFRYRkhKbzA2RzJrY3dSOWZIT29SVkxpTExWTHBWV2p6MC1PWnpjNEVfdw?oc=5",
-      "source": "인더스트리뉴스"
+      "tag": "기후보험·공공안전망",
+      "title": "경기 기후보험, 취약계층 중심의 기후안전망으로 부상",
+      "summary": "경기 기후보험의 도입·운영 성과와 관련해 경기연구원이 취약계층 보호를 강화하는 방향으로 제도를 고도화해야 한다는 내용이 여러 매체에서 보도됐으며, 첫해 취약계층 지원 비중은 96.7%로 제시됐습니다. 기후위험 보장을 지방자치단체 차원의 안전망으로 확대·정교화할지가 핵심 쟁점으로 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2LVVoTGp6bENaNGJrR3BRTEU2MmNLWXJVMTNDODU0dDBLQTZ5Q0ZFR1VySFJzbklBZFhnMFBXYjhSNWdveHROdVNEUkV5Q1gwbG95UjJSdURiR3p1M0Eta0hFYw?oc=5",
+      "source": "한겨레"
     },
     {
-      "tag": "상품개편",
-      "title": "카카오페이손보, 자녀 동승 보장을 더한 운전자보험 4종 플랜 출시",
-      "summary": "카카오페이손해보험이 운전자보험을 개정해 자녀 동승 보장을 포함한 ‘엄마아빠 플랜’ 등 4가지 맞춤형 플랜을 선보였다는 보도가 이어졌습니다. 운전자보험에서 가족 단위 보장과 맞춤형 상품 구성이 확대되는 흐름을 보여줍니다.",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFNloyRTMxaHdVdTRNbGJMalRMbGNuNkJaWms1U0dDRUVTZnhxcTNuWldCSWthRGFMTVNNOE9VLS1sVU02cEdfSlU4LXdTbGNqUUNGWmVOLUk4TDJR?oc=5",
-      "source": "뉴스핌"
+      "tag": "글로벌 사업 확대",
+      "title": "삼성화재, 영국 특수보험사 캐노피우스 인수·투자",
+      "summary": "삼성화재가 영국 특수보험사 캐노피우스의 경영권을 인수하고, KIC가 삼성화재와 함께 3억달러를 투자한다는 보도가 나왔습니다. 국내 보험사의 해외 특수보험·기업보험 시장 공략과 글로벌 사업 확대가 본격적인 전략 이슈로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nb1BvZDdPcjRRbUFVUlZRYldYTjNaUmxSV0FSWlV1NUdyQXFPX3ZadVE4Q3RXbVYxRENuMFJJcHo0UUpNTXI5RURPcTBWdjZ5MWFEbVJnWkx0QkhjMzFmUG1ZaVVnOU5l?oc=5",
+      "source": "보험매일"
     },
     {
-      "tag": "신규위험",
-      "title": "보험연구원·스위스 생갈렌대, AI·자율주행·사이버 위험 연구 교류",
-      "summary": "보험연구원이 스위스 생갈렌대와 AI 및 사이버 위험, 자율주행 사고와 보험·법제 대응을 놓고 연구 교류와 협력을 논의했다는 보도가 다수 나왔습니다. 기술 발전으로 발생하는 새로운 위험의 책임과 보험 대응 방안을 국제적으로 모색하는 움직임입니다.",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1QZnNXRllNYnpHNlh6SXRwRWQ3TTRLVzRhakh6M2NGSVFmR1NycXJfNkIyend2ZkNsc250ZnlEQk1iM283S2JwT1NVdm5zUQ?oc=5",
-      "source": "전자신문"
+      "tag": "고용·사회보험",
+      "title": "29세 이하 고용보험 가입자 감소세 장기화",
+      "summary": "29세 이하 고용보험 가입자가 50개월째 감소하고 있으며, 청년 고용보험 가입자의 최장기 감소세라는 보도가 나왔습니다. 청년층 고용 기반 약화가 고용보험 가입자 흐름과 사회보험 보장 기반에 미치는 영향이 주요 관심사로 제기됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSy1hMjg0aVVpWFJNYXBMMXlDWkEwT1BCV0NpYXV1ZUNUZ24xZUdIaWV5UTBxbWJxNEpJTXIyT0V1ZksxVXN2YTlhOWlsSFpCZUcxU0dLYVVBVmU2RUUyTzRoOWdrZWE2NXcxRWJGSFQxUjdWNXRkY1dDZUN0b0NVTnJ3?oc=5",
+      "source": "조선일보"
     },
     {
-      "tag": "보험사기",
-      "title": "교통법규 위반 차량 노린 렌터카 보험사기단 검거",
-      "summary": "교통법규 위반 차량을 골라 고의로 충돌하는 방식으로 43차례 사고를 내고 3억 원을 챙긴 렌터카 보험사기단 21명이 검거됐다는 보도가 나왔습니다. 고의사고를 통한 보험금 편취가 자동차보험 손해율과 보험금 지급 심사의 위험 요인으로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd09mcDZ2RDg4ZEhkelluRERjYU5nWmhVRDM2UE5nalFWZTkzNHZSNjNGVEpMNVZuZE5hY2s4YXQ2VXA3d01EdGFrMzJLNTkySWI4TjY3d1VQVlJKOHJpVld0Y2QwTUN4VDFLMGhNWHhfekxtQ0lmVlktNGhHUHdubkxvQnJIQkhDVHFTZWVTUG9NX2U3UmFjRERkS25aQ0x1N3R1bGRVUUxod9IBX0FVX3lxTE82bjYtdVZOWXlHRW1ZdUVHOWVaYUdua2pfR3pJcHZqdjdDU0x4V2JLSlFIZUlZRVNidHcxZC1TTEVhZXBiMlVOazMyaTMwbmRCdWtRUDFGVEpxQ1I4cU1r?oc=5",
-      "source": "경향신문"
+      "tag": "자본건전성·주주환원",
+      "title": "K-ICS 80% 보험사의 배당·자본확충 선택지 논란",
+      "summary": "보험사의 K-ICS 비율이 80%인 경우 배당을 줄이고 자본을 보강할지 여부가 주주환원과 관련한 갈림길로 거론됐습니다. 자본건전성 관리와 배당정책의 균형이 보험업계의 핵심 경영 과제로 부각됐다는 의미입니다.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzVERCRElnUnhEVHB3X05Qa05rWTl0aFdUZ2RpNV9seTJTOGp4QktKUHowX2xQMmxEcG1pdVNDSVlBTXdhS0lrTUFqM3ZGb21VZmhCNDAtQ0d5Mm9QT3JEMjJEWW5ZbXlIWFHSAW5BVV95cUxQLVVKNFRiRFFqWl92SjZUblR1X2hFX1QwUjZpMS1EMkIyY0psTzNvblpjaGRONEIxQ1BCRWtSOUxCdFRNVEx1NFlRMmhXeFNOQ0hURDZqMTZRRDlZZmJRWWU2cnN4UHBmQlZRWDNzZw?oc=5",
+      "source": "파이낸셜투데이"
     },
     {
-      "tag": "생명보험",
-      "title": "종신보험, 생전 활용·보험금 리필형으로 상품 변신",
-      "summary": "종신보험이 사망 이후 보장 중심에서 벗어나 생전에 자금을 꺼내 쓰거나 보험금을 다시 채우는 형태로 변하고 있다는 보도가 나왔습니다. 이러한 상품 변화가 2030세대의 관심을 끌고 있다는 점이 주요 내용입니다.",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YNUlodUIzV3V3TGRTV1Vpb2JadWJ0WDcwaURmVmRqdVN3WGxWcmZXRWNEbzA2LWtlaFcxX1BfZDNOM0EyUUloWERJdWs5RFhpUmVySTNIX21QZGR4WXc3eUo5elFKdmJNOGhrd3pDdW1kTjBkOXfSAWZBVV95cUxPRnNDdTltaGEyQ1JPOTBzT2ZiVXlvOWVCcHlDTGRqMV9sRHlpU0pNdUNrMndkV2RPWWNHNWczSGF1S08zSGdYaU9pQl9ELUl0cTdSck9NaDJGQ2x2S1FWUkVBWW85Z0E?oc=5",
-      "source": "동아일보"
+      "tag": "보험사기·소비자보호",
+      "title": "사고 조작·병원 알선 등 보험 관련 부정행위 보도 잇따라",
+      "summary": "고의로 사고를 낸 보험사기 일당이 적발됐고, 병원·보험설계사가 연계된 병원 알선 브로커 의혹도 보도됐습니다. 보험금 지급과 모집 과정의 부정행위를 차단하고 소비자 보호를 강화해야 한다는 과제가 함께 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIOVRMUEFlaUMxb2Z6NHZ4Yzl1NXZzaGZSbnRVUGVETVRvV0VfNnBZWU9TbW1Bdk5rV2Y2ZVhHMVQ5ajZWNW1CVjRFRVBtVFZ1RTFCNWZNamNDRDlKQzNURFJOb1Q?oc=5",
+      "source": "뉴스1"
     }
   ]
 }
