@@ -1,70 +1,64 @@
 {
-  "updatedAt": "2026-11-10T04:42:04.991Z",
+  "updatedAt": "2026-11-11T02:53:23.633Z",
   "articleCount": 45,
-  "editorNote": "동일 내용을 반복 보도한 기후보험·생명보험협회 캠페인·청년 고용보험·삼성화재의 영국 보험사 인수·생명보험 브랜드평판 기사는 각각 하나의 이슈로 통합했습니다. 금융시장 관련 기사 메타데이터가 없어 당일 시장 방향은 판단하지 않았습니다.",
+  "editorNote": "동일 상품·행사·정책을 다룬 반복 기사는 하나의 이슈로 통합했으며, 제공된 기사 제목과 메타데이터에 나타난 내용만 반영했습니다.",
   "keywords": [
-    "기후보험",
-    "영국 특수보험사 인수",
-    "청년 고용보험 감소",
-    "K-ICS·주주환원",
-    "보험사기·소비자보호"
+    "간병인보험",
+    "종신보험",
+    "자본확충",
+    "달러보험",
+    "보험규제"
   ],
-  "marketSummary": "제공된 기사 메타데이터에는 미국 금리와 국내외 채권금리, 환율, 부동산의 당일 흐름이 없어 금융시장 방향은 확인할 수 없으며, 보험업계에서는 자본건전성과 상품·보장 구조 관련 이슈가 부각됐습니다.",
+  "marketSummary": "기사에 나타난 고금리·고물가는 생명보험 성장 제약으로, 환율 하락은 달러보험 수요 확대 요인으로 부각되며 보험사의 상품 설계와 판매 흐름에 영향을 주고 있다.",
   "marketContext": [
     {
-      "label": "미국 금리",
-      "summary": "제공 기사에는 미국 금리의 당일 움직임이나 전망이 언급되지 않았습니다. 금리 흐름은 보험사의 자산운용과 장기 상품의 가격·수익 구조를 점검할 때 확인해야 할 변수이지만, 이번 기사 목록만으로 영향 방향을 판단할 수 없습니다.",
-      "url": "",
-      "source": "제공 기사 메타데이터 내 관련 근거 없음"
+      "label": "고금리·고물가",
+      "summary": "보험업계에서는 간병·연금 수요가 늘고 있지만 고금리와 고물가가 생명보험 성장을 제약한다는 분석이 나왔다. 이는 보험사의 상품 성장성과 판매 여건을 함께 바라보게 하는 변수다.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBicGVtcHdQRkFIaWpmLThFNW5GVkEwYkR6bVRYYzI5dHZkZG44QlZycjd6djExLWVCLTdhZzYtRXRWVkNWVjZmcXlTYl9KaHdTcGpkRm9LSEtJUQ?oc=5",
+      "source": "이투데이"
     },
     {
-      "label": "국내외 채권금리",
-      "summary": "국내외 채권금리의 변동을 다룬 기사는 제공 목록에 없습니다. 채권금리는 보험사의 자산운용 및 건전성 점검과 연결되는 변수이나, 현재 목록에서는 실제 금리 수준이나 변동 폭을 확인할 수 없습니다.",
-      "url": "",
-      "source": "제공 기사 메타데이터 내 관련 근거 없음"
-    },
-    {
-      "label": "환율",
-      "summary": "환율 흐름을 직접 다룬 기사는 제공 목록에 없습니다. 해외 보험사 인수·투자 관련 보도와 연결해 환율을 점검할 수는 있지만, 기사 메타데이터만으로 환율이 해당 거래나 보험사 건전성에 미친 영향을 단정할 수 없습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB9djFPLWFzWTFNY0UxdnJWcmhBbTRPanhWSWJoQmcwaWNNaTdsRjRCdWtUUjNXVWJaMUxMZFpBSE9weFVYQWtCYzMyZkxuZU83X3VhRGVSUzl4NVpCRlZJXzlHWnAtdw?oc=5",
-      "source": "여성소비자신문"
+      "label": "환율 하락",
+      "summary": "환율 하락과 함께 달러보험에 뭉칫돈이 몰린다는 보도가 나왔고, 연 6% 확정금리 상품도 언급됐다. 환율 흐름이 달러보험에 대한 소비자 관심과 판매 확대에 연결되는 변수로 제시됐다.",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lX3g0bU9ORlZuX0dpQjRHYTVwSXBZdE5rRno1RDdMYXRUM0Q0dnB3a0EtT05xQm9NNDVncXFpckp3Wjk3cEZGeWJyM2pDLXkyc1HSAVNBVV95cUxQVDlsSjVzZkc5aGt3dGc5NW9iUjFlRFhqdFBSSEMtVEkwNXFEU2NaWUplLUI5ajhNR1JfcXE4ZFQzWHlFcHN1TVp1SkwwWUJpVFc3OA?oc=5",
+      "source": "서울경제"
     }
   ],
   "issues": [
     {
-      "tag": "기후보험·공공안전망",
-      "title": "경기 기후보험, 취약계층 중심의 기후안전망으로 부상",
-      "summary": "경기 기후보험의 도입·운영 성과와 관련해 경기연구원이 취약계층 보호를 강화하는 방향으로 제도를 고도화해야 한다는 내용이 여러 매체에서 보도됐으며, 첫해 취약계층 지원 비중은 96.7%로 제시됐습니다. 기후위험 보장을 지방자치단체 차원의 안전망으로 확대·정교화할지가 핵심 쟁점으로 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2LVVoTGp6bENaNGJrR3BRTEU2MmNLWXJVMTNDODU0dDBLQTZ5Q0ZFR1VySFJzbklBZFhnMFBXYjhSNWdveHROdVNEUkV5Q1gwbG95UjJSdURiR3p1M0Eta0hFYw?oc=5",
-      "source": "한겨레"
+      "tag": "상품",
+      "title": "KDB생명, 사망보장 강화·연금전환 더한 종신보험 출시",
+      "summary": "KDB생명이 사망보장을 늘리고 연금전환 기능을 더한 ‘더!행복플러스종신보험’을 출시했다. 종신보험에 사망보장과 노후자금 준비 요소를 결합한 상품 경쟁이 이어지는 흐름으로 볼 수 있다.",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0VFNPNXo4b0FhSUs5MDVIOVhiUHhZbVVlMDdranZkYTVldmxYdG5Jc3BKWlJtdzJ2U3Z5QUxuTm5jZWljTlRWWnVYWTYwODBHLXF3YXBCT1hUU2Et?oc=5",
+      "source": "뉴스핌"
     },
     {
-      "tag": "글로벌 사업 확대",
-      "title": "삼성화재, 영국 특수보험사 캐노피우스 인수·투자",
-      "summary": "삼성화재가 영국 특수보험사 캐노피우스의 경영권을 인수하고, KIC가 삼성화재와 함께 3억달러를 투자한다는 보도가 나왔습니다. 국내 보험사의 해외 특수보험·기업보험 시장 공략과 글로벌 사업 확대가 본격적인 전략 이슈로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nb1BvZDdPcjRRbUFVUlZRYldYTjNaUmxSV0FSWlV1NUdyQXFPX3ZadVE4Q3RXbVYxRENuMFJJcHo0UUpNTXI5RURPcTBWdjZ5MWFEbVJnWkx0QkhjMzFmUG1ZaVVnOU5l?oc=5",
-      "source": "보험매일"
+      "tag": "감독",
+      "title": "금감원, 간병인보험 보장금액·손해율 정밀조사 착수",
+      "summary": "금융감독원이 간병인보험의 보장금액과 손해율에 대한 정밀조사에 착수했다는 보도가 나왔다. 보장한도 조정 가능성이 거론되면서 간병인보험의 상품가격과 보장 설계에 감독당국의 점검이 강화되는 이슈다.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jakp5YnpSMW45ODVFN0otM3p6TGRyT3VJWjVyNGpCMmxCZWJNc3AwaUpNUjg0dU0wRVJQcEhtR3Vlc3V3R2otVTFsTUNKMHQxcWdfY0cwSk54d0JJY1ZXR3VQaHB3QnczTjJtRFk5QQ?oc=5",
+      "source": "보험저널"
     },
     {
-      "tag": "고용·사회보험",
-      "title": "29세 이하 고용보험 가입자 감소세 장기화",
-      "summary": "29세 이하 고용보험 가입자가 50개월째 감소하고 있으며, 청년 고용보험 가입자의 최장기 감소세라는 보도가 나왔습니다. 청년층 고용 기반 약화가 고용보험 가입자 흐름과 사회보험 보장 기반에 미치는 영향이 주요 관심사로 제기됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSy1hMjg0aVVpWFJNYXBMMXlDWkEwT1BCV0NpYXV1ZUNUZ24xZUdIaWV5UTBxbWJxNEpJTXIyT0V1ZksxVXN2YTlhOWlsSFpCZUcxU0dLYVVBVmU2RUUyTzRoOWdrZWE2NXcxRWJGSFQxUjdWNXRkY1dDZUN0b0NVTnJ3?oc=5",
-      "source": "조선일보"
+      "tag": "규제",
+      "title": "보험상품 판매 제한 후폭풍 논란",
+      "summary": "보험상품 판매 제한 이후의 후폭풍을 다룬 보도가 나왔다. 판매 제한이 보험사의 상품 판매와 시장 운영에 어떤 영향을 미치는지가 주요 쟁점으로 제시됐다.",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9weEctSENPNzQwbXlCLWQ1VllXSGJ6UHplX2ZXb3VNWE12WkY1dVJfZmp2SjJicW1NRUIxcUR6Um5Da0x0NDVDZ0ZMVXVndw?oc=5",
+      "source": "전자신문"
     },
     {
-      "tag": "자본건전성·주주환원",
-      "title": "K-ICS 80% 보험사의 배당·자본확충 선택지 논란",
-      "summary": "보험사의 K-ICS 비율이 80%인 경우 배당을 줄이고 자본을 보강할지 여부가 주주환원과 관련한 갈림길로 거론됐습니다. 자본건전성 관리와 배당정책의 균형이 보험업계의 핵심 경영 과제로 부각됐다는 의미입니다.",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzVERCRElnUnhEVHB3X05Qa05rWTl0aFdUZ2RpNV9seTJTOGp4QktKUHowX2xQMmxEcG1pdVNDSVlBTXdhS0lrTUFqM3ZGb21VZmhCNDAtQ0d5Mm9QT3JEMjJEWW5ZbXlIWFHSAW5BVV95cUxQLVVKNFRiRFFqWl92SjZUblR1X2hFX1QwUjZpMS1EMkIyY0psTzNvblpjaGRONEIxQ1BCRWtSOUxCdFRNVEx1NFlRMmhXeFNOQ0hURDZqMTZRRDlZZmJRWWU2cnN4UHBmQlZRWDNzZw?oc=5",
-      "source": "파이낸셜투데이"
+      "tag": "건전성",
+      "title": "생명보험 빅3, 자본확충 잇따라…각기 다른 셈법",
+      "summary": "생명보험 빅3의 자본확충이 잇따르고 있으며 각 회사의 셈법이 다르다는 보도가 나왔다. 대형 생명보험사의 자본관리와 건전성 대응이 보험업계의 주요 관심사로 부각됐다.",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5QVHNjTkZ3emtZYWFiYy1ockYyQmhhaGxXQWx4SXhhbE15SExNSEF5MGQzZzBneEtNdGZJVTQ4TmpzbWhSN1VQcEpQYVk?oc=5",
+      "source": "전자신문"
     },
     {
-      "tag": "보험사기·소비자보호",
-      "title": "사고 조작·병원 알선 등 보험 관련 부정행위 보도 잇따라",
-      "summary": "고의로 사고를 낸 보험사기 일당이 적발됐고, 병원·보험설계사가 연계된 병원 알선 브로커 의혹도 보도됐습니다. 보험금 지급과 모집 과정의 부정행위를 차단하고 소비자 보호를 강화해야 한다는 과제가 함께 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIOVRMUEFlaUMxb2Z6NHZ4Yzl1NXZzaGZSbnRVUGVETVRvV0VfNnBZWU9TbW1Bdk5rV2Y2ZVhHMVQ5ajZWNW1CVjRFRVBtVFZ1RTFCNWZNamNDRDlKQzNURFJOb1Q?oc=5",
-      "source": "뉴스1"
+      "tag": "외화보험",
+      "title": "환율 하락에 달러보험 자금 유입",
+      "summary": "환율 하락으로 달러보험에 뭉칫돈이 몰린다는 보도가 나왔고, 연 6% 확정금리 상품도 언급됐다. 환율 변동이 외화보험에 대한 소비자 관심과 상품 선택에 직접 연결되는 이슈로 부상했다.",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lX3g0bU9ORlZuX0dpQjRHYTVwSXBZdE5rRno1RDdMYXRUM0Q0dnB3a0EtT05xQm9NNDVncXFpckp3Wjk3cEZGeWJyM2pDLXkyc1HSAVNBVV95cUxQVDlsSjVzZkc5aGt3dGc1NW9iUjFlRFhqdFBSSEMtVEkwNXFEU2NaWUplLUI5ajhNR1JfcXE4ZFQzWHlFcHN1TVp1SkwwWUJpVFc3OA?oc=5",
+      "source": "서울경제"
     }
   ]
 }
