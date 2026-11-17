@@ -1,70 +1,70 @@
 {
-  "updatedAt": "2026-11-16T02:54:25.317Z",
+  "updatedAt": "2026-11-17T05:09:23.200Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사 중 동일 사안을 다룬 보도는 하나의 이슈로 통합했으며, 기사 제목과 메타데이터에 확인되는 내용만 반영했습니다. 금융시장 관련 수치는 기사에 제시되지 않아 방향성이나 규모를 임의로 보완하지 않았습니다.",
+  "editorNote": "최근 24시간 기사 중 동일 사안을 반복 보도한 기사는 하나의 이슈로 통합했습니다. 제공된 메타데이터에는 미국 금리·국내외 채권금리·환율·부동산의 구체적인 움직임이 포함돼 있지 않아 방향성 판단은 유보했습니다.",
   "keywords": [
-    "5세대 실손보험",
-    "투자손익",
-    "인터넷 전용 미니암보험",
-    "AI·IoT 위험평가",
-    "모기지보험"
+    "불법 리베이트",
+    "펫보험",
+    "드론보험",
+    "실손보험",
+    "보험손익·CSM"
   ],
-  "marketSummary": "기사에서 확인되는 금융시장 흐름은 보험사의 투자손익이 실적을 좌우하고 주택담보대출 여건이 모기지보험 재개와 맞물리는 모습이며, 금리·환율 등 구체적인 시장 방향은 제시되지 않았습니다.",
+  "marketSummary": "제공된 기사 목록만으로는 미국 금리·채권금리·환율·부동산 등 금융시장 흐름을 확인할 수 없으며, 보험시장에서는 투자성과와 상품 수익성 관련 이슈가 부각됐다.",
   "marketContext": [
     {
-      "label": "주택담보대출·모기지보험",
-      "summary": "은행들이 주택담보대출 취급을 재개하는 가운데 모기지보험 재개로 대출한도가 최대 5500만원 늘어날 수 있다는 보도가 나왔습니다. 주택금융과 보험의 결합이 차주의 대출 가능 범위와 보험 수요에 연결되는 이슈로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWlA2RWs4STZLZ0pDMklQQUViQjctcHJDRHdyc0Z3eHEzNnVBbkpHRVNzM2Y1MjRWUkhtU0lMSXdmc19wSWE1WkYzMzlBd1RLa24xYWNGUmxLcTNDTm9nWG9JekdHbWYwMy1pM3hNaWp6M0NsUmdSVGNEaV94SVIySFdMZnZRS0k5SFdITEJR?oc=5",
-      "source": "조선일보"
+      "label": "미국 금리",
+      "summary": "관련 금리 수준이나 변동에 대한 내용이 기사 목록에 없어 오늘의 방향성은 판단할 수 없다. 다만 해당 변수는 보험사의 자산운용과 상품가격·건전성 점검 때 별도 확인이 필요한 항목이다.",
+      "url": "",
+      "source": "제공 기사 목록에 관련 보도 없음"
     },
     {
-      "label": "보험사 투자손익",
-      "summary": "보험 본업은 선방했지만 투자손익이 실적을 갈랐다는 보도가 잇따랐고, 5대 손보사 역시 보험이익과 투자손익의 엇갈린 영향이 언급됐습니다. 보험사의 자산운용 성과가 당기 실적과 수익성에 직접 연결되는 변수로 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vcm4xS1JFWDk2Nk4tRm9yS0tuTWFVNmw5WmpEUUVVTmx3emk2TE9uS184UTlCTU5VYVFjdHJ3bEVEcEw5RnJVOXJPT3FSTjFOWExZTkdXbWthNy15NEhPTVpCeWxuQ0Q0blVR?oc=5",
-      "source": "비즈워치"
+      "label": "국내외 채권금리",
+      "summary": "국내외 채권금리의 움직임이나 보험사 채권 투자 영향에 대한 구체적인 내용은 제시되지 않았다. 따라서 보험사의 금리 민감도와 자산운용 성과에 대한 시장 연결점을 이번 기사만으로 평가하기 어렵다.",
+      "url": "",
+      "source": "제공 기사 목록에 관련 보도 없음"
     },
     {
-      "label": "금리·환율 등 시장 방향",
-      "summary": "제공된 기사 메타데이터에는 미국 금리, 국내외 채권금리, 환율의 상승·하락 방향이나 수치가 포함되지 않았습니다. 따라서 해당 변수들이 보험사의 자산운용·상품가격·건전성에 미친 구체적 영향은 이번 기사만으로 확인할 수 없습니다.",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NTXVLa09ZVEt5SzFGWGNkSldiTEZOZ0JoRFQyOTFtRkFveUdNbk5vbE9Sb2YxRk82cGluWTdvWkVLWDc4OXVtQzJqYjZrUG0yVG9vYUtzd2tYbHFTMFVMMENyNFVSaENQNUE5SQ?oc=5",
-      "source": "뉴시안"
+      "label": "환율·부동산",
+      "summary": "환율과 부동산 가격의 변동을 다룬 기사는 제공 목록에서 확인되지 않는다. 이에 따라 외화자산이나 부동산 관련 보험·건전성 영향도 이번 기사만으로는 판단할 수 없다.",
+      "url": "",
+      "source": "제공 기사 목록에 관련 보도 없음"
     }
   ],
   "issues": [
     {
-      "tag": "상품·실손",
-      "title": "5세대 실손보험 전환율 정체, 할인제도 효과 시험대",
-      "summary": "5세대 실손보험이 보험료를 낮추거나 반값 수준으로 할인하는 제도를 내세웠지만 전환율이 13%대에 머물고 소비자 반응도 미지근하다는 보도가 나왔습니다. 할인 폭만으로 기존 가입자의 전환을 유도할 수 있을지와 선택형 할인특약 정보 집적이 향후 제도 운영에 어떤 영향을 줄지가 핵심입니다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fbGtCTmdraVhzaVc4eDVycElabDR6RWZ1Q2Z1cGFRUEFETVVnWE5FaGZsMEM5c2ZqUXZtWVppWTZaZ29iSjdlNmVhNjd1bHAySEtQNGhIbHpjN1RUckVpMDZFc3Q1eUdo?oc=5",
+      "tag": "감독·GA",
+      "title": "금감원, 한국보험금융에 등록취소 사전 통지…불법 리베이트 의혹",
+      "summary": "금융감독원이 불법 리베이트 혐의와 관련해 대형 법인보험대리점 한국보험금융에 등록취소를 사전 통지했다는 보도가 여러 매체에서 나왔다. 등록취소가 확정된 사안인지는 기사 제목상 확인되지 않으며, 이번 이슈는 GA 판매질서와 내부통제에 대한 감독 강도를 보여준다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SV0RtVzJBcXd0RFVwbGdBemJqcGJpbFJuQW85eWZ3VVQzelA5enVUREpsb0RFOFFoNjI5OVNRZGg1WERCYjNVX2xabG1pU09Gam1idmJnd2hWeGRhZXVfTThXT19CZXRNLTF4QlNkR0zSAXRBVV95cUxOQ1dTRTR4aUliYk4tbkVIYVJSeHBkZFN1dnZWaVhwMkJSbXFZUUhOMkFqaFJwbFNYT2JsekR1TF9va1JHVzNTdzJ6VnFXWEg5cG9IUDJSWnNPcGNGVktVZEpNVW9QdExSN2g2aEQ2bjNpUk00cQ?oc=5",
+      "source": "연합인포맥스"
+    },
+    {
+      "tag": "손보 실적",
+      "title": "손보업계, 본업 수익성과 미래 이익·투자성과가 엇갈려",
+      "summary": "손해보험업계에서 보험손익은 늘었지만 미래 이익은 감소했다는 분석이 나오는 한편, 롯데손해보험은 3분기 투자 부진으로 937억원의 순손실을 기록했다. 반대로 5대 손보사의 자동차보험은 보험료 인상 효과와 함께 3분기 흑자로 돌아섰다는 보도가 있어 종목·부문별 실적 차이가 부각됐다.",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ETmxmaGd1LTc1cWRVcmVMUlYtTVNpVU1tRUhzaGptUndJUVVNV3gxRk5WRWZHYU1SVjVpaGZPUHRieWJJb2tub2dNRGNKTkdOdHFSQndjeGdtNm0wRzBzdk5R?oc=5",
+      "source": "이코노미스트"
+    },
+    {
+      "tag": "펫보험",
+      "title": "펫보험 가입자 44% 안팎, 연 4회 이상 동물병원 방문",
+      "summary": "여러 보도에서 펫보험 가입자의 약 44% 또는 44.4%가 연간 네 차례 이상 동물병원을 방문한 것으로 나타났고, 반려동물 의료비 부담과 관련 지출 증가도 함께 언급됐다. 가입자의 의료 이용 빈도가 펫보험의 손해율과 상품 가격을 검토하는 핵심 쟁점으로 부각됐다.",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5iREI4cGhiblJCYnFSWXV2RlRvRjRNTkhLU3N4Z2dqSFd0V2NRZXJreVhjTktISi10VDlUcWxXTUthMzlVVlVNSNWlkRXBlZw?oc=5",
+      "source": "전자신문"
+    },
+    {
+      "tag": "신상품·보장",
+      "title": "드론 통합종합보험 개편…기체손해와 조종자 보장 강화",
+      "summary": "해양경찰청의 드론보험이 개편돼 기체손해 보장이 포함되고 조종자 보호 한도가 최대 10억원으로 제시됐다는 보도가 나왔다. 보장 범위 확대와 함께 보험료가 기존 3배에서 11배로 조정됐다는 내용도 있어 위험 보장과 가격의 균형이 쟁점이다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tb3RfYmQzQlRGNC14T294ckROVE8zeVVmemNWeGdBZHdEdzd1YnJqR2dfRnMyMmpRX3FBOVlBbEhjZXRUYjgxWTBGR21OVEFHSHNTaXJXODc5VGptSl9Ta0xwQ3RsWVpC?oc=5",
+      "source": "녹색경제신문"
+    },
+    {
+      "tag": "실손·비급여",
+      "title": "실손보험 선택형 출시 임박…비급여 이용량에 따라 유불리",
+      "summary": "실손보험 선택형 상품 출시가 임박했으며 비급여 이용이 적은 가입자에게 유리할 수 있다는 분석이 제시됐다. 같은 날 비급여 관리체계 강화와 필수의료체계 구축을 서둘러야 한다는 주장도 나와, 실손상품 구조와 비급여 관리가 함께 주목받고 있다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kdU5KVjhBa3g2dkRhZ0lRZF9abHJZdUNkVU1qcmlEYWpGU19VRG5XN3NIUWFGYWlyY3kxd3RwQjg3Vl9fLW5GRnJsYjlYUTJ5N08wSl9zZmNsNmNfandpa2V1eDRLMnlz?oc=5",
       "source": "보험매일"
-    },
-    {
-      "tag": "실손·분쟁",
-      "title": "대체납 실손보험료, 같은 약관·다른 납입액 논란 법해심으로",
-      "summary": "같은 약관의 대체납 실손보험에서 가입자별 납입액이 달라지는 문제를 둘러싸고 법률 해석과 수십 년간의 논란이 다시 부각됐습니다. 관련 법해심이 열리면서 실손보험료 산정과 계약자 간 형평성 문제가 쟁점으로 떠올랐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16T1V2Y0JqRllNUUZ5SVl4aU5BaFY5NlRrRktSX25hUDk4ZXJ2T0ljQTRIQUV3RklZMXZoYXVGMENnZEFlU3p4ZXhpSllNbTNVeG1t?oc=5",
-      "source": "머니투데이"
-    },
-    {
-      "tag": "손보·실적",
-      "title": "손보사 실적, 보험 본업보다 투자손익 영향 커져",
-      "summary": "보험 본업은 비교적 선방했지만 투자손익이 실적을 갈랐고, 5대 손보사의 누적 순이익은 보험이익 증가에도 투자 부문이 발목을 잡았다는 보도가 나왔습니다. 보험영업 성과뿐 아니라 자산운용 결과가 보험사의 수익성과 실적 변동성을 좌우하는 양상이 강조됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NTXVLa09ZVEt5SzFGWGNkSldiTEZOZ0JoRFQyOTFtRkFveUdNbk5vbE9Sb2YxRk82cGluWTdvWkVLWDc4OXVtQzJqYjZrUG0yVG9vYUtzd2tYbHFTMFVMMENyNFVSaENQNUE5SQ?oc=5",
-      "source": "뉴시안"
-    },
-    {
-      "tag": "상품·디지털",
-      "title": "DB손보, 인터넷 전용 미니암보험 출시",
-      "summary": "DB손해보험이 인터넷 가입 전용 ‘참좋은암보험’ 또는 ‘미니암플랜’을 출시하고 월 2만원대 보험료로 표적항암과 주요 치료비 등을 보장한다고 보도됐습니다. 비대면 전용 소액·간편형 상품 출시가 암보험 상품 경쟁과 판매 채널 다변화로 이어질지 주목됩니다.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xU012S0hOa3Rid1gyRlZhOXJuWDVTWUFHclNNZXNQMlVWelNTVElvYTI2cXRFZE94Y0hENGVET2JGN1l0V0NHVjBtZzlFOTQtczFXOXlzemJYdFHSAWBBVV95cUxQUnBnWnhVaUJxa3lCOUh6RUFZT2lrUEhOdGNIaVRkYmZOV1ZKZ0FBTVp2cGR4aHNPYmhMa1VtRWNNOFhwZ0t1M3VXOEloTzM4WTZKQV9nRTkxWHN5czBUX1Y?oc=5",
-      "source": "연합뉴스"
-    },
-    {
-      "tag": "금융·주택",
-      "title": "모기지보험 재개로 주택담보대출 한도 확대",
-      "summary": "은행들이 주택담보대출 취급을 다시 확대하는 가운데 모기지보험 재개로 대출한도가 최대 5500만원 늘어날 수 있다는 보도가 나왔습니다. 대출 규제와 보험의 결합이 차주의 자금 조달 여건과 모기지보험 취급에 영향을 주는 사례로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWlA2RWs4STZLZ0pDMklQQUViQjctcHJDRHdyc0Z3eHEzNnVBbkpHRVNzM2Y1MjRWUkhtU0lMSXdmc19wSWE1WkYzMzlBd1RLa24xYWNGUmxLcTNDTm9nWG9JekdHbWYwMy1pM3hNaWp6M0NsUmdSVGNEaV94SVIySFdMZnZRS0k5SFdITEJR?oc=5",
-      "source": "조선일보"
     }
   ]
 }
