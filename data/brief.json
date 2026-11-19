@@ -1,70 +1,64 @@
 {
-  "updatedAt": "2026-11-18T04:37:02.768Z",
+  "updatedAt": "2026-11-19T04:19:12.844Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사 중 동일 사안을 반복 보도한 기사는 하나의 이슈로 통합했으며, 기사 메타데이터에 제시된 내용만 반영했습니다.",
+  "editorNote": "저축성보험 연금전환, DB손해보험 자동차보험 고객만족도, 보험계약 부활 지원, 보험업계의 AI 활용, 보험사기 주의보 관련 중복 기사를 통합했습니다. 기사 메타데이터에는 미국 금리·국내외 채권금리·환율·부동산 관련 수치가 없어 해당 변수는 반영하지 않았습니다.",
   "keywords": [
-    "자동차 보험사기",
-    "사이버보험",
-    "카셰어링 전용보험",
-    "변액보험",
-    "고금리 저축성보험"
+    "저축성보험",
+    "연금전환",
+    "AI 보험",
+    "자동차보험",
+    "보험사기"
   ],
-  "marketSummary": "폭락장에서는 변액보험 수요와 순자산이 위축된 반면 고금리는 저축성보험 판매를 자극했고, 보험사의 투자손익과 상품 경쟁력에 시장 환경이 엇갈린 영향을 준 흐름이다.",
+  "marketSummary": "증시 등락이 반복되는 가운데 변액보험 초회료가 감소했다는 보도가 나와, 금융시장 변동성이 보험상품 판매 흐름과 고객의 투자형 보험 수요에 영향을 주는 모습이다.",
   "marketContext": [
     {
-      "label": "증시 폭락장",
-      "summary": "폭락장 속에서 변액보험 신계약이 주춤하고 순자산도 120조원 밑으로 내려갔다는 보도가 나왔다. 시장 변동은 변액보험의 판매 흐름과 순자산 규모에 직접 연결되는 변수로 나타났다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zMjdEX2loT1Zjdmh5V1ZNSmVST1ZlTUJpbGlPcUE3cml6TlVNVmlYLWNOUW9uUnVXMkFhZ1JYUGdDd1BHdWszeHVtN3ZFcVBqbDExeVI1MUJPa2xtVUV5UzNzZ1ZubXc0Wk5CYU1rSDI?oc=5",
-      "source": "연합인포맥스"
+      "label": "증시 변동성",
+      "summary": "증시가 등락을 반복하면서 변액보험 초회료가 16% 감소했다는 보도가 나왔다. 주식시장 흐름과 변액보험 판매 사이의 연관성이 기사에서 제시됐다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IMDNLVnIwSDdnQ0daTDByRDNlWDBDcUVOUVl0LVFCNWNxdnA1MHIxVnpleHRqbmctZHlTeXBnYWJnZTdmMTEyVEtDLTJHRXpDd29Sc3d2ZlZYTmJMUTAzR0dpNlc0Rncy?oc=5",
+      "source": "보험매일"
     },
     {
-      "label": "고금리",
-      "summary": "고금리를 배경으로 저축성보험 판매가 늘었고, 삼성생명의 올해 3분기까지 판매액이 7조원으로 전년 대비 3배에 육박했다는 보도가 있었다. 금리 수준은 저축성보험의 판매 경쟁력과 상품 수요에 영향을 주는 변수로 제시됐다.",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XamNqbnJzVzFEcmRHTk1FWlNhQVVaX1k3VW5Cb2RvdVF0cnRMcG5MNzRGZXNxQmU0WDg3ZDdTbzQ1T2lWUmVxN3RMNnk2eXBrcVRaS19KZ2s5dGF0OHRHcTJvUThDWU9ZWFNaXw?oc=5",
-      "source": "굿모닝경제"
-    },
-    {
-      "label": "보험사 투자손익",
-      "summary": "롯데손해보험은 본업 경쟁력이 높아졌지만 투자손익 악화가 발목을 잡았다는 분석이 나왔다. 보험사의 자산운용 성과가 전체 실적과 건전성 평가에 연결되는 변수임을 보여주는 사례다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JTFVlZ01RcDRlcjA2SWZib19UT3ZUbEVYTVpfQWNRVzNxa3hnUEM2ck1ubUhOQ2FKTW9Bb3E5VWhKRGNNMVZaaktaQmgzbm1HR2l4cGV1dHBBeWNaNERCSUlYb3BUdXdH?oc=5",
-      "source": "녹색경제신문"
+      "label": "고수익 보험상품 경쟁",
+      "summary": "흥국생명·흥국화재가 고수익 상품을 앞세워 본업 기초체력을 높였다는 보도가 있었다. 해당 기사는 상품 수익성이 보험사의 영업 및 본업 성과와 연결된다고 전했다.",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Ua3hzeXotTUhidkRmSnVtbndBR2F2Z040ZWhDMWFHLU15dzk5b3pmOEw5OFdPT0o0TGRwZ1oyV1NDNURzSUlrRGVKUmkxdEdUdUVmUWxRYmJRQkxibnJ4VG4xWQ?oc=5",
+      "source": "에너지경제신문"
     }
   ],
   "issues": [
     {
-      "tag": "자동차보험·소비자보호",
-      "title": "금감원, 교묘해지는 자동차 보험사기 대응요령 안내",
-      "summary": "금융감독원이 고의 사고가 의심되면 현장에서 합의하지 말고 신고하라는 자동차 보험사기 대응요령을 발표했으며, 전동킥보드로 80차례 고의 충돌한 사례도 보도됐다. 보험사기 수법이 다양해지는 가운데 소비자의 초기 대응과 보험금 누수 방지가 핵심 과제로 부각됐다.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44UFdPNnQ2NEZLbENvRzZIbGhoaFk0bUtwbjBSUUNrZG5qNkFTSmNXbWwtZlNzRU1jVWRmaVBxSlVFVGVDdlVNS0I0R0xXQ0VlQW9MX0N6a2xVcEnSAWBBVV95cUxNVHN6VDhOTVFBWE96R05DeWlTNU1OeVFENE5XXzR2d1M4QVRZNGJTandEeDlaUTVrSnFLUWlsT0Y3N0h1NVJINW1aVFZjSlJQU3Nza1BMMFd5Ym9kWjJuSFc?oc=5",
-      "source": "연합뉴스"
+      "tag": "상품·제도",
+      "title": "저축성보험, 만기 후 3년까지 연금전환 가능…사전예약도 도입",
+      "summary": "저축성보험 가입자는 만기일을 놓치더라도 최대 3년 안에 연금으로 전환할 수 있고, 만기 1년 전 사전예약도 가능해진다는 보도가 집중됐다. 만기 관리 방식이 바뀌면서 저축성보험의 연금 활용 선택지가 확대되는 내용이다.",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfSG9QbENOVWhEQVZDQ2hWU3F2N0J3a1BQc0MyQjRmRW1nZVBjeEozZXhMMWFEVFRnTkw1VVlidGNlZUZONGdBemdMVGVCT2lmREE?oc=5",
+      "source": "매일경제 마켓·Chosunbiz·연합인포맥스·전자신문·조세일보·보험저널·한겨레·뉴스1"
     },
     {
-      "tag": "디지털보험",
-      "title": "한화손보, 보안등급을 활용한 사이버보험 심사 강화",
-      "summary": "한화손해보험이 시큐리티스코어카드와 업무협약을 맺고 외부 보안등급을 보험심사에 활용하는 사이버보험 사업 협력을 추진한다. 기업의 보안 수준을 심사에 반영해 사이버보험의 위험평가를 정교화하려는 움직임으로 해석된다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TeUZxY0h5ZU0wcHlIcmxORmtSQS1Xelg1VGlpaW5GOFh3bHRRNGNwSkQyRTg1N0VaN24tOG1oVVBOREZ2bll4dk5qVVowQm5CMEtWRTZJb0pOTC1KTWJRbWY4WndOd3JRTWs4?oc=5",
-      "source": "보험신보"
+      "tag": "자동차보험",
+      "title": "DB손보, 23년 만에 자동차보험 고객만족도 1위",
+      "summary": "DB손해보험이 23년 만에 국가고객만족도 조사 자동차보험 부문 1위를 차지했다는 보도가 여러 매체에서 나왔다. 고객 접점과 보상 체계 개선, 서비스품질 평가 성과가 주요 배경으로 언급됐다.",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZOVQ0VUg3RHZWOGtLeEg5YzlqSFh1eUZyR2J4a2RwMzhiYmJDNm16VGhadUJBcWE4NlgwYzA5Z296NFZidUpXWnRsck5UQQ?oc=5",
+      "source": "전자신문·더트래커·파이낸셜투데이·글로벌이코노믹·보험저널·경제타임스·Korea IT Times"
     },
     {
-      "tag": "모빌리티보험",
-      "title": "신한EZ손보·피플카, 투루카 전용 카셰어링보험 개발",
-      "summary": "신한EZ손해보험과 피플카가 투루카 이용자를 대상으로 한 카셰어링 전용 보험상품을 개발하고 보험 가입과 대여를 결합하는 방안을 추진한다. 모빌리티 플랫폼과 보험을 연계해 이용자별·서비스별 맞춤형 상품을 제공하려는 사례다.",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zelR0X2dpTjh0ckQyTnNXN1pRVndoQURxQUpDNkVjT1VOcHV4SHpORkRxT0hEXzJqYXdOOGMxbC0yMS1kSlJXRnVjLWlqRkhlanplWmF6ZFZqV1Zj?oc=5",
-      "source": "오토뷰"
+      "tag": "계약관리",
+      "title": "교보생명, 보험료 미납으로 중단된 계약의 부활 절차 개선",
+      "summary": "교보생명이 보험료 미납으로 효력이 중단된 보험계약을 연말까지 간편하게 부활할 수 있도록 청약 절차를 개선한다는 보도가 나왔다. 계약자의 보장 회복을 지원하는 방향으로 보험 부활의 문턱을 낮춘 조치다.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BdzdmR1Z6ZHNmR1NCd0UwYVFtRkk3Zm1rcnE0LXlmd1p2RDJXSF9JZnJJd1MzNUlJMTZyaTgyNzFyaTJnaGFIdzdKcjY5NXl6Z0MyanNNWEhVcllVMVh1U0NEcVdlOTBoNHZCa0EwRQ?oc=5",
+      "source": "조세일보"
     },
     {
-      "tag": "생명보험·상품시장",
-      "title": "폭락장에 변액보험 위축, 고금리에 저축성보험은 확대",
-      "summary": "폭락장 여파로 변액보험 신계약이 주춤하고 순자산이 120조원 밑으로 내려갔다는 보도가 나온 반면, 고금리를 배경으로 저축성보험 판매가 늘었다는 보도도 나왔다. 금융시장 환경에 따라 투자형 상품과 저축형 상품의 수요가 엇갈리는 모습이다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zMjdEX2loT1Zjdmh5V1ZNSmVST1ZlTUJpbGlPcUE3cml6TlVNVmlYLWNOUW9uUnVXMkFhZ1JYUGdDd1BHdWszeHVtN3ZFcVBqbDExeVI1MUJPa2xtVUV5UzNzZ1ZubXc0Wk5CYU1rSDI?oc=5",
-      "source": "연합인포맥스"
+      "tag": "디지털·AI",
+      "title": "보험업계, AI로 위험관리·완전판매·가입설계 고도화",
+      "summary": "삼성화재는 AI 데이터센터의 위험관리와 보험 역할을 논의했고, DB손해보험은 AI로 완전판매를 실시간 모니터링하고 민원 발생을 예측한다고 밝혔다. 다른 보도에서는 AI 활용으로 보험 가입설계 속도가 35% 높아졌다고 전했다.",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1rY1FRLURyUUVCY0NlTWttN0lCNW1rRzdTeklUU3FZdTVIZGhXLU1SQnJRRmJEb1g2VUZzbUxEc0I4MHFjUVNEbmhzaDIwUQ?oc=5",
+      "source": "전자신문·한국경제·머니투데이"
     },
     {
-      "tag": "보험사 실적·건전성",
-      "title": "보험이익과 투자손익·자본건전성 지표가 엇갈린 보험사 실적",
-      "summary": "롯데손해보험은 본업 경쟁력에도 투자손익 악화가 부담으로 제시됐고, DB손해보험은 K-ICS 212%와 자본정책이 거론됐다. 메트라이프생명의 보험이익 감소와 자본건전성 하락, 흥국생명·화재의 보험이익 증가 등 보험사별 실적과 건전성 흐름이 엇갈렸다.",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fMkw1ZEozOC1tdWMtQzJSUUJLNlktWTdxQ05RbjluYnJ0cWFZRUFpUGw5cGpGZzNyM01udjFMbjhlYjEwU1YydDVsa2V4eTBVbmVVdTA5Y2dnNTFjOUE?oc=5",
-      "source": "뉴스투데이"
+      "tag": "소비자보호",
+      "title": "금감원, 자동차사고·전동킥보드 보험사기 주의 당부",
+      "summary": "금융감독원이 자동차사고와 전동킥보드 사고를 둘러싼 교묘한 보험사기에 주의해야 한다고 경고했다. 전동킥보드로 80건의 고의 사고를 낸 사례와 자동차사고의 성급한 합의 관련 보도가 함께 나왔다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uSTNRYjlaMkMwWGtKZ2pURFE5U2x2STl3S2xQWi0tTkNDV0VHMDg3ZW05My00dVlOLS05czBPMEIwVG9FTFBwTGtReTNKYnBoRzNYUUpBTHVINkZGck9nalBVWkJTWTRf?oc=5",
+      "source": "녹색경제신문·MBC 뉴스"
     }
   ]
 }
