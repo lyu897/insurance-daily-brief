@@ -1,64 +1,64 @@
 {
-  "updatedAt": "2026-11-19T04:19:12.844Z",
+  "updatedAt": "2026-11-20T04:07:21.878Z",
   "articleCount": 45,
-  "editorNote": "저축성보험 연금전환, DB손해보험 자동차보험 고객만족도, 보험계약 부활 지원, 보험업계의 AI 활용, 보험사기 주의보 관련 중복 기사를 통합했습니다. 기사 메타데이터에는 미국 금리·국내외 채권금리·환율·부동산 관련 수치가 없어 해당 변수는 반영하지 않았습니다.",
+  "editorNote": "최근 24시간 기사 메타데이터의 제목과 매체 정보를 기준으로 유사 보도를 하나의 이슈로 묶었습니다. 기사 본문에 없는 세부 수치나 원인·전망은 추가하지 않았습니다.",
   "keywords": [
-    "저축성보험",
-    "연금전환",
-    "AI 보험",
-    "자동차보험",
-    "보험사기"
+    "실손보험",
+    "해상풍력 보험",
+    "기후보험",
+    "보험사기",
+    "자본구조"
   ],
-  "marketSummary": "증시 등락이 반복되는 가운데 변액보험 초회료가 감소했다는 보도가 나와, 금융시장 변동성이 보험상품 판매 흐름과 고객의 투자형 보험 수요에 영향을 주는 모습이다.",
+  "marketSummary": "미국 주간 신규 실업보험 청구가 시장 전망치를 웃돈 가운데, 국내 보험업계에서는 실손 개편과 기후·재난 위험 보장, 대형 프로젝트의 글로벌 보험조건 확보가 주요 흐름으로 부각됐다.",
   "marketContext": [
     {
-      "label": "증시 변동성",
-      "summary": "증시가 등락을 반복하면서 변액보험 초회료가 16% 감소했다는 보도가 나왔다. 주식시장 흐름과 변액보험 판매 사이의 연관성이 기사에서 제시됐다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IMDNLVnIwSDdnQ0daTDByRDNlWDBDcUVOUVl0LVFCNWNxdnA1MHIxVnpleHRqbmctZHlTeXBnYWJnZTdmMTEyVEtDLTJHRXpDd29Sc3d2ZlZYTmJMUTAzR0dpNlc0Rncy?oc=5",
-      "source": "보험매일"
+      "label": "미국 고용지표",
+      "summary": "미국 주간 신규 실업보험 청구는 20만3천건으로 시장 전망치를 웃돌았다. 제공된 기사만으로는 이 지표가 보험사의 자산운용·상품가격·건전성에 미친 구체적 영향은 확인할 수 없다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LVlhqUkYwT1pLYTMzNUtDbE9mT3NZNThIeUYxaE1QYmpTckRZX3hqeWlXZTAyWlMyVXFoNWF5LXVXNWtzbFk2Z1ZlWW9FOGp6Mm1WTUgzTW14OXlITUxSenpQY0hTeE9Zcnp2bHNycjA?oc=5",
+      "source": "연합인포맥스"
     },
     {
-      "label": "고수익 보험상품 경쟁",
-      "summary": "흥국생명·흥국화재가 고수익 상품을 앞세워 본업 기초체력을 높였다는 보도가 있었다. 해당 기사는 상품 수익성이 보험사의 영업 및 본업 성과와 연결된다고 전했다.",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Ua3hzeXotTUhidkRmSnVtbndBR2F2Z040ZWhDMWFHLU15dzk5b3pmOEw5OFdPT0o0TGRwZ1oyV1NDNURzSUlrRGVKUmkxdEdUdUVmUWxRYmJRQkxibnJ4VG4xWQ?oc=5",
-      "source": "에너지경제신문"
+      "label": "국내외 채권금리·환율·부동산",
+      "summary": "제공된 기사 메타데이터에는 국내외 채권금리, 환율, 부동산의 당일 변동 정보가 없다. 따라서 해당 변수와 보험사 자산운용·상품가격·건전성의 연결점도 이번 브리핑에서는 판단하지 않는다.",
+      "url": "",
+      "source": "제공 기사 목록"
     }
   ],
   "issues": [
     {
-      "tag": "상품·제도",
-      "title": "저축성보험, 만기 후 3년까지 연금전환 가능…사전예약도 도입",
-      "summary": "저축성보험 가입자는 만기일을 놓치더라도 최대 3년 안에 연금으로 전환할 수 있고, 만기 1년 전 사전예약도 가능해진다는 보도가 집중됐다. 만기 관리 방식이 바뀌면서 저축성보험의 연금 활용 선택지가 확대되는 내용이다.",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfSG9QbENOVWhEQVZDQ2hWU3F2N0J3a1BQc0MyQjRmRW1nZVBjeEozZXhMMWFEVFRnTkw1VVlidGNlZUZONGdBemdMVGVCT2lmREE?oc=5",
-      "source": "매일경제 마켓·Chosunbiz·연합인포맥스·전자신문·조세일보·보험저널·한겨레·뉴스1"
+      "tag": "프로젝트보험",
+      "title": "두산에너빌리티 해상풍력터빈, 글로벌 보험조건 확보",
+      "summary": "두산에너빌리티의 야월 해상풍력발전단지 터빈에 글로벌·국제 표준 보험조건이 적용됐다는 보도가 여러 매체에서 반복됐다. 104MW 해상풍력 프로젝트가 글로벌 보험업계의 기술 검토와 보험조건 확보를 거쳤다는 점이 핵심이다.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXampMRGZwcmtPMXE3M2s2S29iVThiNjNHZm4yWmZfdUIyU1ppWmNBWXFuSTlNQWljQnV2bnptZ1hrUURFWUNudzN0ZTZHN3FpYjBDR0U2eTQ5aXA3UHozNzhnQ3RPRWwtcDFqTtIBcEFVX3lxTE1BZFVwS2QtcERQVm9BSHJWSzNPc0NzbmNTODBPbExCWERDYTI0cWdSX1VhclEzclFVRXYxN1FWdkJua0dGb3hNbjZrLXlSV0dZSUNtQy1Uc3haOHZiWm5nT09Wc1dETVZrUDRhTmZIcVE?oc=5",
+      "source": "전기신문"
     },
     {
-      "tag": "자동차보험",
-      "title": "DB손보, 23년 만에 자동차보험 고객만족도 1위",
-      "summary": "DB손해보험이 23년 만에 국가고객만족도 조사 자동차보험 부문 1위를 차지했다는 보도가 여러 매체에서 나왔다. 고객 접점과 보상 체계 개선, 서비스품질 평가 성과가 주요 배경으로 언급됐다.",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZOVQ0VUg3RHZWOGtLeEg5YzlqSFh1eUZyR2J4a2RwMzhiYmJDNm16VGhadUJBcWE4NlgwYzA5Z296NFZidUpXWnRsck5UQQ?oc=5",
-      "source": "전자신문·더트래커·파이낸셜투데이·글로벌이코노믹·보험저널·경제타임스·Korea IT Times"
+      "tag": "실손보험",
+      "title": "실손보험 개편·청구 시스템 연계, 현장 수용성이 쟁점",
+      "summary": "5세대 실손보험 전환을 위한 할인책에 현장 냉담론이 제기된 한편, 비급여 누수 차단과 쉬운 약관, 실손24 연계율 확대, 의료기관 전자시스템 연계 의무화가 함께 보도됐다. 실손보험 개편이 상품 전환 유도와 청구·관리 인프라 정비를 동시에 추진하는 흐름으로 나타났다.",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DdUpNMFpYV3ZsbzZnSnlQbUJyNXN3YWNHSXNZbHI1d3hObHNYMXBMc3pMaGkyNmxtOVlPdm9aTVluX1Ewa2dPbWs1ZUd6NExONDlzNXFMS195Zmc4YzVLRWpDdw?oc=5",
+      "source": "에너지경제신문"
     },
     {
-      "tag": "계약관리",
-      "title": "교보생명, 보험료 미납으로 중단된 계약의 부활 절차 개선",
-      "summary": "교보생명이 보험료 미납으로 효력이 중단된 보험계약을 연말까지 간편하게 부활할 수 있도록 청약 절차를 개선한다는 보도가 나왔다. 계약자의 보장 회복을 지원하는 방향으로 보험 부활의 문턱을 낮춘 조치다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BdzdmR1Z6ZHNmR1NCd0UwYVFtRkk3Zm1rcnE0LXlmd1p2RDJXSF9JZnJJd1MzNUlJMTZyaTgyNzFyaTJnaGFIdzdKcjY5NXl6Z0MyanNNWEhVcllVMVh1U0NEcVdlOTBoNHZCa0EwRQ?oc=5",
+      "tag": "기후·재난보험",
+      "title": "집중호우·기후재난 보험 사각지대, 기업 위험관리 과제로",
+      "summary": "국내 집중호우 피해의 보험 보장률이 12%에 그쳤다는 보도와 함께 기업의 기후위험 관리, 사전 위험진단과 보험을 결합한 대응 필요성이 제기됐다. 제주에서는 건설 일용노동자 기후보험을 손질하고, 15세 미만 미성년자의 재난보험 사각지대를 해소하기 위한 논의도 보도됐다.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTF5iSThqRGFwTE9nZG9sWXd5S2JTRnUxODRwQ3dGLU0yVEVxLU0tczFFUHR4OFh3aFI3NEdGMDdQZ1oxYUZiNUItX29vbHNfekg4ejloeGVmRTJzYzVEU21nY1dCQXV0OWpPSUVZdA?oc=5",
+      "source": "ESG경제"
+    },
+    {
+      "tag": "보험사기",
+      "title": "보행기·기저귀 등을 활용한 조직적 보험사기 적발",
+      "summary": "보행기와 기저귀를 동원하고 사전연습까지 한 보험사기 사건이 보도됐으며, 관련 대화가 19만 건에 달한 사례도 언급됐다. 두 보도는 허위·과장 청구를 위해 역할을 나눈 보험사기단이 송치된 사건을 다룬다.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41OThnNDZDQS1QQUNxV0ZEOEVvN21uQU84ckhnanZYbXE3NVdVQ3R1SHhQQ192TUhjdGs2Q05Wb205NVNjdlVwUEU3eFU1UU1wZFlCbE1ZUzBXVUYwZU9zVNIBeEFVX3lxTFBwd0w5cVVFNnVNelFTTXF3bUJiMHVxQl92UGktelJTZ2FLUzRCcFp4NDRhbGVCUGthTTBfMEs0S2lfcWhhbVM1UEhRZ3lldW5rR3c4dWVISlYxUi1fLU5tSmdudC02bkZaQ1hKcDVlQWtmQXlUSEs3Mg?oc=5",
+      "source": "뉴시스"
+    },
+    {
+      "tag": "자본·해외사업",
+      "title": "롯데손보 자본구조 개선 추진과 베트남 사업 성과 엇갈려",
+      "summary": "신한의 인수를 앞둔 롯데손해보험이 10대 1 무상감자를 추진한다는 보도가 나왔다. 베트남에서는 DB손해보험의 보험영업 적자와 현대해상의 VBI 투자 성과가 비교 보도돼 보험사의 자본구조와 해외사업 성과가 함께 조명됐다.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BN1dCUno2dHhVazFkQTJwXzJ2MktTZ0FYQVR3amN4ZWJyMUNjNlhjR0l4MGZWSW9XRTJUbHE0dVM0amV6NHhENl9pVGpPMFQ5MXo3YnNLN0JXUFk0NXZKMkRfRXJfTnhvRkZiVVBvY0JJVlYx?oc=5",
       "source": "조세일보"
-    },
-    {
-      "tag": "디지털·AI",
-      "title": "보험업계, AI로 위험관리·완전판매·가입설계 고도화",
-      "summary": "삼성화재는 AI 데이터센터의 위험관리와 보험 역할을 논의했고, DB손해보험은 AI로 완전판매를 실시간 모니터링하고 민원 발생을 예측한다고 밝혔다. 다른 보도에서는 AI 활용으로 보험 가입설계 속도가 35% 높아졌다고 전했다.",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1rY1FRLURyUUVCY0NlTWttN0lCNW1rRzdTeklUU3FZdTVIZGhXLU1SQnJRRmJEb1g2VUZzbUxEc0I4MHFjUVNEbmhzaDIwUQ?oc=5",
-      "source": "전자신문·한국경제·머니투데이"
-    },
-    {
-      "tag": "소비자보호",
-      "title": "금감원, 자동차사고·전동킥보드 보험사기 주의 당부",
-      "summary": "금융감독원이 자동차사고와 전동킥보드 사고를 둘러싼 교묘한 보험사기에 주의해야 한다고 경고했다. 전동킥보드로 80건의 고의 사고를 낸 사례와 자동차사고의 성급한 합의 관련 보도가 함께 나왔다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uSTNRYjlaMkMwWGtKZ2pURFE5U2x2STl3S2xQWi0tTkNDV0VHMDg3ZW05My00dVlOLS05czBPMEIwVG9FTFBwTGtReTNKYnBoRzNYUUpBTHVINkZGck9nalBVWkJTWTRf?oc=5",
-      "source": "녹색경제신문·MBC 뉴스"
     }
   ]
 }
