@@ -1,64 +1,70 @@
 {
-  "updatedAt": "2026-11-20T04:07:21.878Z",
+  "updatedAt": "2026-11-21T04:06:20.743Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사 메타데이터의 제목과 매체 정보를 기준으로 유사 보도를 하나의 이슈로 묶었습니다. 기사 본문에 없는 세부 수치나 원인·전망은 추가하지 않았습니다.",
+  "editorNote": "최근 24시간 기사 중 동일 사안을 다룬 보도는 하나의 이슈로 통합했습니다. 금융시장 변수는 제공된 기사에서 확인되는 내용과 확인되지 않는 내용을 구분해 정리했습니다.",
   "keywords": [
-    "실손보험",
+    "보험판매전문회사",
+    "5세대 실손보험",
+    "림카토 건강보험",
     "해상풍력 보험",
-    "기후보험",
-    "보험사기",
-    "자본구조"
+    "기후재난 보장공백"
   ],
-  "marketSummary": "미국 주간 신규 실업보험 청구가 시장 전망치를 웃돈 가운데, 국내 보험업계에서는 실손 개편과 기후·재난 위험 보장, 대형 프로젝트의 글로벌 보험조건 확보가 주요 흐름으로 부각됐다.",
+  "marketSummary": "제공 기사에서는 외국인의 K-주식 매도 흐름이 언급됐으며, 이는 보험사의 보유자산 평가와 운용 성과를 점검하게 하는 변수로 볼 수 있다.",
   "marketContext": [
     {
-      "label": "미국 고용지표",
-      "summary": "미국 주간 신규 실업보험 청구는 20만3천건으로 시장 전망치를 웃돌았다. 제공된 기사만으로는 이 지표가 보험사의 자산운용·상품가격·건전성에 미친 구체적 영향은 확인할 수 없다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LVlhqUkYwT1pLYTMzNUtDbE9mT3NZNThIeUYxaE1QYmpTckRZX3hqeWlXZTAyWlMyVXFoNWF5LXVXNWtzbFk2Z1ZlWW9FOGp6Mm1WTUgzTW14OXlITUxSenpQY0hTeE9Zcnp2bHNycjA?oc=5",
-      "source": "연합인포맥스"
+      "label": "국내 주식시장·외국인 수급",
+      "summary": "연합뉴스TV 기사 제목은 외국인 투자자들이 K-주식을 매도하고 있다고 전했습니다. 주식시장 수급은 보험사가 보유한 주식자산의 평가와 운용 성과에 연결될 수 있지만, 해당 기사에는 보험사의 구체적인 보유 규모나 손익 수치는 제시되지 않았습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45ZjR5LV9DeFVoSUd3MXdXamg1MjRTTnEtNEJEU0lwclJBR0MwbkV6T3lRNWduSlhNZ21tQW9PWjRRdkxDdWZHZG50emNlVk9HNHFwdmxYLXltNFVBX2ZiS3NIRUtOYnM?oc=5",
+      "source": "연합뉴스TV"
     },
     {
-      "label": "국내외 채권금리·환율·부동산",
-      "summary": "제공된 기사 메타데이터에는 국내외 채권금리, 환율, 부동산의 당일 변동 정보가 없다. 따라서 해당 변수와 보험사 자산운용·상품가격·건전성의 연결점도 이번 브리핑에서는 판단하지 않는다.",
+      "label": "미국 금리·국내외 채권금리",
+      "summary": "제공된 기사 목록에는 미국 금리와 국내외 채권금리의 방향이나 수치가 확인되지 않습니다. 다만 채권금리는 보험사의 채권자산 평가와 장기 상품의 가격·수익 구조를 점검하는 핵심 변수이므로, 오늘 기사만으로는 관련 시장 흐름을 판단하기 어렵습니다.",
       "url": "",
-      "source": "제공 기사 목록"
+      "source": "기사 목록 미언급"
+    },
+    {
+      "label": "환율",
+      "summary": "제공된 기사 목록에는 원·달러 환율 등 환율의 방향이나 수치가 확인되지 않습니다. 환율은 외화자산 평가와 해외 투자 성과에 연결될 수 있어 보험사 자산운용 변수로 볼 수 있지만, 이번 기사만으로는 현재 영향을 평가할 수 없습니다.",
+      "url": "",
+      "source": "기사 목록 미언급"
     }
   ],
   "issues": [
     {
-      "tag": "프로젝트보험",
-      "title": "두산에너빌리티 해상풍력터빈, 글로벌 보험조건 확보",
-      "summary": "두산에너빌리티의 야월 해상풍력발전단지 터빈에 글로벌·국제 표준 보험조건이 적용됐다는 보도가 여러 매체에서 반복됐다. 104MW 해상풍력 프로젝트가 글로벌 보험업계의 기술 검토와 보험조건 확보를 거쳤다는 점이 핵심이다.",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXampMRGZwcmtPMXE3M2s2S29iVThiNjNHZm4yWmZfdUIyU1ppWmNBWXFuSTlNQWljQnV2bnptZ1hrUURFWUNudzN0ZTZHN3FpYjBDR0U2eTQ5aXA3UHozNzhnQ3RPRWwtcDFqTtIBcEFVX3lxTE1BZFVwS2QtcERQVm9BSHJWSzNPc0NzbmNTODBPbExCWERDYTI0cWdSX1VhclEzclFVRXYxN1FWdkJua0dGb3hNbjZrLXlSV0dZSUNtQy1Uc3haOHZiWm5nT09Wc1dETVZrUDRhTmZIcVE?oc=5",
-      "source": "전기신문"
+      "tag": "모집·판매 규제",
+      "title": "보험판매전문회사 도입을 둘러싼 GA·당국·보험업계 입장차",
+      "summary": "GA업계는 보험판매전문회사 법제화를 통해 권한과 책임을 함께 강화해야 한다고 주장하는 반면, 금융당국과 보험업계는 모집 질서 개선이 먼저라며 신중론을 제시했습니다. 제도 도입 논의의 핵심 쟁점이 GA의 권한 확대와 소비자보호·책임 체계 정비 사이의 조정으로 모이고 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1c080UW9kZ1dobmZYWTdBSTJMMU85YWJNTHFicEpNNktvRi1VMVJMc0NHc0d2c1BSSUNFeEZmXy0xRWFWbEdjbVZSTVJQZUVPckNZZE5KMlJUQ3JheFlxb3V5Xzd2Tzln?oc=5",
+      "source": "보험매일·한국금융신문·비즈워치·라이센스뉴스·Chosunbiz·서울파이낸스·보험저널·매일경제·아주경제"
     },
     {
       "tag": "실손보험",
-      "title": "실손보험 개편·청구 시스템 연계, 현장 수용성이 쟁점",
-      "summary": "5세대 실손보험 전환을 위한 할인책에 현장 냉담론이 제기된 한편, 비급여 누수 차단과 쉬운 약관, 실손24 연계율 확대, 의료기관 전자시스템 연계 의무화가 함께 보도됐다. 실손보험 개편이 상품 전환 유도와 청구·관리 인프라 정비를 동시에 추진하는 흐름으로 나타났다.",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DdUpNMFpYV3ZsbzZnSnlQbUJyNXN3YWNHSXNZbHI1d3hObHNYMXBMc3pMaGkyNmxtOVlPdm9aTVluX1Ewa2dPbWs1ZUd6NExONDlzNXFMS195Zmc4YzVLRWpDdw?oc=5",
-      "source": "에너지경제신문"
+      "title": "5세대 실손보험 전환 할인 시행과 보장 변화",
+      "summary": "5세대 실손보험으로 전환하면 3년간 보험료를 절약할 수 있지만 보장 내용이 달라질 수 있으며, 기존 가입자의 전환율은 13%로 보도됐습니다. 전환 할인 시행을 앞두고 소비자는 보험료 절감과 보장 축소 가능성을 함께 따져야 하는 상황입니다.",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaU2xLX1VCS0pzRDNnbDA2QTd0WWc1XzFVckdTMzdKc1FvUEZNcXNBSXNxUHZBRzFVaFhpb2N3NXotWjZRV19CM2xUNEUzVmtxTFNvdkhxSHgwVjBn?oc=5",
+      "source": "뉴스핌·경제타임스·CEO저널"
     },
     {
-      "tag": "기후·재난보험",
-      "title": "집중호우·기후재난 보험 사각지대, 기업 위험관리 과제로",
-      "summary": "국내 집중호우 피해의 보험 보장률이 12%에 그쳤다는 보도와 함께 기업의 기후위험 관리, 사전 위험진단과 보험을 결합한 대응 필요성이 제기됐다. 제주에서는 건설 일용노동자 기후보험을 손질하고, 15세 미만 미성년자의 재난보험 사각지대를 해소하기 위한 논의도 보도됐다.",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTF5iSThqRGFwTE9nZG9sWXd5S2JTRnUxODRwQ3dGLU0yVEVxLU0tczFFUHR4OFh3aFI3NEdGMDdQZ1oxYUZiNUItX29vbHNfekg4ejloeGVmRTJzYzVEU21nY1dCQXV0OWpPSUVZdA?oc=5",
-      "source": "ESG경제"
+      "tag": "건강보험·제약",
+      "title": "국산 CAR-T 치료제 ‘림카토’ 12월 건강보험 적용",
+      "summary": "큐로셀의 CAR-T 치료제 ‘림카토’가 12월부터 건강보험 적용을 받으며 1회 투여 약가는 약 2억8000만원대로 보도됐습니다. 고가 항암 치료제가 건강보험 보장 체계에 편입되면서 치료비 보장과 보험금 부담에 영향을 줄 수 있는 사안입니다.",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OWnpTOEtoaUFwSDVkOHI5NUpPY0I4RDltUFRpVWRHM29zdlR6bEU2b2FKZ3ZGakRtYV9tdW5RelRhQy1VYVBsRnFYUzdjWTdKYVZOSg?oc=5",
+      "source": "MEDI:GATE NEWS·팜이데일리·히트뉴스·연합뉴스·바이오타임즈·IT조선"
     },
     {
-      "tag": "보험사기",
-      "title": "보행기·기저귀 등을 활용한 조직적 보험사기 적발",
-      "summary": "보행기와 기저귀를 동원하고 사전연습까지 한 보험사기 사건이 보도됐으며, 관련 대화가 19만 건에 달한 사례도 언급됐다. 두 보도는 허위·과장 청구를 위해 역할을 나눈 보험사기단이 송치된 사건을 다룬다.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41OThnNDZDQS1QQUNxV0ZEOEVvN21uQU84ckhnanZYbXE3NVdVQ3R1SHhQQ192TUhjdGs2Q05Wb205NVNjdlVwUEU3eFU1UU1wZFlCbE1ZUzBXVUYwZU9zVNIBeEFVX3lxTFBwd0w5cVVFNnVNelFTTXF3bUJiMHVxQl92UGktelJTZ2FLUzRCcFp4NDRhbGVCUGthTTBfMEs0S2lfcWhhbVM1UEhRZ3lldW5rR3c4dWVISlYxUi1fLU5tSmdudC02bkZaQ1hKcDVlQWtmQXlUSEs3Mg?oc=5",
-      "source": "뉴시스"
+      "tag": "기업보험·재생에너지",
+      "title": "두산에너빌리티 해상풍력터빈, 글로벌 수준 보험조건 확보",
+      "summary": "두산에너빌리티의 8MW 해상풍력터빈과 야월해상풍력단지 관련 보험에 글로벌 보험기준 또는 수준이 적용됐다는 보도가 나왔습니다. 국산 해상풍력 설비의 보험조건 확보가 기술력과 프로젝트 위험보장 측면에서 조명됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sMkhvNFh0NlY5WXBLMUNkWXlDeHkxZWg4a04xbllKMTIydk40WV9STWZNa1Z0WjNJd3RHVnFVdjdoVXdxSUczVTBaOFNpaUN4NE9sZWdqNzM3cFo5WERxRFFpQXFqdGx0SVp1bm9xRXJKVC1BSVHSAWZBVV95cUxPQ0VfT0dUUDRSYmF2YjVQTG81NWZxdE1GN2ZzSEFQX19teUQ2Qk9ubW16eHdVRjduT2NzeGZkeGVDQVJTYmlhaldLX1ZlUEhfUUtxZG9WQXJEZDhYbVUyY0NRa0FmSFE?oc=5",
+      "source": "동아일보·에너지타임즈·디일렉·뉴스;트리"
     },
     {
-      "tag": "자본·해외사업",
-      "title": "롯데손보 자본구조 개선 추진과 베트남 사업 성과 엇갈려",
-      "summary": "신한의 인수를 앞둔 롯데손해보험이 10대 1 무상감자를 추진한다는 보도가 나왔다. 베트남에서는 DB손해보험의 보험영업 적자와 현대해상의 VBI 투자 성과가 비교 보도돼 보험사의 자본구조와 해외사업 성과가 함께 조명됐다.",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BN1dCUno2dHhVazFkQTJwXzJ2MktTZ0FYQVR3amN4ZWJyMUNjNlhjR0l4MGZWSW9XRTJUbHE0dVM0amV6NHhENl9pVGpPMFQ5MXo3YnNLN0JXUFk0NXZKMkRfRXJfTnhvRkZiVVBvY0JJVlYx?oc=5",
-      "source": "조세일보"
+      "tag": "기후·재해보험",
+      "title": "기후재난 피해 확대 속 보험 보장공백 88%",
+      "summary": "환경일보는 기후재난 피해가 커지는 가운데 보험 보장공백이 88%에 달한다고 보도했습니다. 기후위험에 대한 보험 보장 범위와 가입 가능성을 둘러싼 공백이 주요 과제로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9McnZkMUNwUlBlMXVNMW9LaHkzc2hPcGkxQXlWa2xENHBVYm42OGhmalFWcnZYb1JIVUF0TGlDMmlWakxvN2FTY1JOTUM2c1ZyTHkwYnZ3dmQ4dTVrVTNmbS0tT3Z0TElR?oc=5",
+      "source": "환경일보"
     }
   ]
 }
