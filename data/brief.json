@@ -1,70 +1,70 @@
 {
-  "updatedAt": "2026-11-22T03:18:57.464Z",
-  "articleCount": 33,
-  "editorNote": "최근 24시간 기사 중 동일 사건·주제를 묶어 핵심 보험 이슈 5건으로 정리했습니다.",
+  "updatedAt": "2026-11-23T03:52:12.754Z",
+  "articleCount": 45,
+  "editorNote": "최근 24시간 기사 메타데이터에서 동일 주제의 중복 보도를 통합했습니다. 금융시장 변수는 제공된 기사 제목·메타데이터에 관련 수치나 방향성이 없어 확인 가능한 범위만 반영했습니다.",
   "keywords": [
-    "기본자본",
-    "금리위험",
-    "보험사기",
-    "풍수해보험",
-    "해외부동산"
+    "실손보험료",
+    "풍수해·지진재해보험",
+    "개인정보 유출",
+    "보험사기·AI",
+    "암보험 보장 확대"
   ],
-  "marketSummary": "금리 상승이 손보사의 가용자본을 압박하는 가운데 보험사의 해외부동산 투자 규모와 자산운용 관리가 주요 건전성 변수로 부각됐다.",
+  "marketSummary": "제공된 기사 목록에는 미국 금리·국내외 채권금리·환율·부동산 등 금융시장 흐름을 확인할 수 있는 정보가 없어, 이를 보험사의 자산운용·상품가격·건전성과 연결해 평가하기 어렵습니다.",
   "marketContext": [
     {
-      "label": "금리·손보사 가용자본",
-      "summary": "손보사 금리위험 분석에서 금리가 1%포인트 오르면 가용자본이 2조7000억원 감소할 수 있다는 내용이 제시됐다. 금리 변동은 손보사의 자본건전성과 기본자본 관리 이슈로 연결된다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPTm1WakxkUUw5OV9NMGhMdXctYnBacU5iSUpuanBkZWpwTThJdWFFaW1rMnJ1NFE3bEZDQVVZRVA4b0tibTk5MHY0N0M2cUxiV2l5Z2gyVlVCZFJPX2ZFeTRCMExqLWpmczdURm9saw?oc=5",
-      "source": "보험저널"
+      "label": "미국 금리",
+      "summary": "제공된 기사 메타데이터에 미국 금리의 수준이나 변동 방향이 언급되지 않았습니다. 따라서 이번 자료만으로 미국 금리가 보험사 자산운용이나 건전성에 미친 영향을 확인할 수 없습니다.",
+      "url": "",
+      "source": "제공 기사 목록"
     },
     {
-      "label": "해외부동산 투자",
-      "summary": "보험사의 해외부동산 투자액이 30조8000억원으로 금융권 전체의 55%를 차지한다는 보도가 나왔다. 해외부동산 규모는 보험사 자산운용과 건전성 관리에서 점검해야 할 변수로 제시됐다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xOTNKeWs2cjZRWW9WamZrLW5lNGROT00yMjVqWTdlNGpuMjhDV0ExWmZ6TzRZNXY4YVhRcDRDalptYmVnWWpGY3hMU3UtQW9OZ2RUVEFnX3dvcGdsZXJ1elpJMWNENUxi?oc=5",
-      "source": "보험매일"
+      "label": "국내외 채권금리",
+      "summary": "제공된 기사 메타데이터에 국내외 채권금리 관련 내용이 없습니다. 이에 따라 채권 평가손익, 상품가격 또는 보험사 건전성과의 연결점을 이번 자료에서 확인할 수 없습니다.",
+      "url": "",
+      "source": "제공 기사 목록"
     },
     {
-      "label": "재보험 국경간 규제",
-      "summary": "미국이 한국 재보험의 적격관할권 평가를 재개해 담보 부담이 낮아질 가능성이 보도됐다. 재보험의 담보 요건 변화는 보험사의 자본 부담과 해외 재보험 거래에 영향을 줄 수 있는 변수다.",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjZzB5dmxlQ05odmVkZWFyYjNTemVpX19aekwxZ00teFBUVVRacWd0a0JxUW8yeUhZeTRqcEVEeGxXMWZPSVM1NnVVdThIYU5RYlZEWGpzQ1FYOF9lT3dCMmFYLXc1NGh0UFhXazhlbU1FUU3SAXdBVV95cUxNdFQzMEU5QzNfYjhYc3Vma1I2SjVKbEFPNnVTcnFldTdmZllRcjZTNEVlUjZrMFVhZ1pUb1pSY2R3eFZrZ1NlblRXME5DcVJCTFJxMHZna29HUENvMGlXQVRFZ2FPUnpGYnBONEkyekdMRmVPWFYxbw?oc=5",
-      "source": "핀포인트뉴스"
+      "label": "환율·부동산",
+      "summary": "제공된 기사 메타데이터에 환율이나 부동산시장 흐름에 대한 정보가 없습니다. 따라서 보험사의 운용자산과 상품·건전성에 대한 영향도 판단할 수 없습니다.",
+      "url": "",
+      "source": "제공 기사 목록"
     }
   ],
   "issues": [
     {
-      "tag": "자본·건전성",
-      "title": "보험연구원, 손보사 기본자본 중심 관리와 증자 활용 제언",
-      "summary": "보험연구원은 손보사의 기본자본 중심 관리와 손익 관리, 증자 활용이 필요하다고 제시했다. 금리 상승 시 가용자본이 감소할 수 있다는 분석과 맞물려 손보사의 자본건전성 관리가 핵심 과제로 부각됐다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Lbk1RN3NmQW1RRWxXMUNJNUN5cEJ1MzdrQXRXZGtGSUZYNExZd0RudXVQbUZvbWZkMWtzZzBUUDNiWEl4Q0Q2RDBzMTFfV2VtTUZITmwzUHg1LWdqY2wxV3dCZVowUTRxX0p1US1TWmTSAXRBVV95cUxNWU5taEhMemZnN3h0eE9TeDF1c1Q5cTlIYWVkY3NvSHAxdUhTWWdicWh3MUc4Q1ZhZEFXa04ybExHWV82eHNtU3hDbGxIMWJjWTNyVmRqdHNEdXZfelFnRFBGbl9NZkkxekNGUUJlT0lQRGNocg?oc=5",
-      "source": "연합인포맥스"
-    },
-    {
-      "tag": "판매채널·소비자보호",
-      "title": "보험판매전문회사 도입 실익 두고 업계와 금융당국 시각차",
-      "summary": "보험판매전문회사가 소비자보호에 도움이 된다는 주장과 금융당국의 실익 의문이 맞섰다. 판매채널 제도 변화가 소비자보호 강화로 이어질 수 있는지를 둘러싼 논의가 이어지고 있다.",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsc0NWWFdJWjJ3dUVzS2VVelVQZnV2eHRuTW9nVUdWQW1qaFVYRjN5WjZIYnF0S1N1S2pmUTFENkgzM3VfYkpwX3VJQXU5X1Q3d0llRGd3NmxqU3o3NC1PMTJDYw?oc=5",
-      "source": "에너지경제신문"
-    },
-    {
-      "tag": "보험사기",
-      "title": "과거 보험사기 의혹 경험담과 비접촉 사고 보험금 편취 사건 보도",
-      "summary": "‘리트냥이’와 관련한 과거 보험사기 경험담이 중앙일보와 경기일보에 중복 보도됐고, 비접촉 사고를 위장해 보험금 1억원을 편취한 사건도 보도됐다. 보험사기 수법과 피해 사례가 소비자 경각심 및 보험금 심사 이슈로 다시 부각됐다.",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5bjlJSkM5MUFkQ1lzSkJZZzBlVm5IVW1xaFA0WWp6U25UWXkydmdnUmQ5Sk1nTllWZmFfOGdLeG90d0tWMy1tZ2JzRzh1SjY2VVktVWtR?oc=5",
-      "source": "중앙일보·경기일보·영남일보"
+      "tag": "상품·소비자",
+      "title": "실손보험료 부담 완화 방안 주목…3년간 550만원 절감 사례 제시",
+      "summary": "매일경제 마켓은 실손보험료 부담이 커질 때 소비자가 주목할 수 있는 방안을 소개하며 3년간 550만원을 아낄 수 있다는 사례를 제목에 제시했습니다. 실손보험료 부담과 절감 방안이 소비자의 상품 선택에 영향을 줄 수 있는 이슈로 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HWENoa01pc3dvb2cwRlh5RUo4dWRVSXl1Rzl2MnRLQzFfZ2dpWnJkSkhyRy1DejQxZ2QxVnFxWlZUajFzT1JraHNpbmk3aS1PY2c?oc=5",
+      "source": "매일경제 마켓"
     },
     {
       "tag": "재해보험",
-      "title": "풍수해·지진재해보험 가입 지원 확대와 가입 독려",
-      "summary": "행정안전부가 겨울철 자연재난에 대비해 풍수해·지진재해보험 가입 지원을 확대한다는 보도가 나왔다. 풍수해보험의 보험료 대비 보상 사례도 함께 소개되며 재해 위험에 대한 가입 확대 필요성이 제기됐다.",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxWXlTVHRVcjcxamwwM1FjcGdxeDMydGdPTzRKQnhYM2E0TVNSd0pTMHduNFZIOE9FdER2dzRzOWZnT1FDXy1jZ19NUFFUaXpqTWxhZHV6VGFLMWRMM21XeG5XdGg0b1MyRFHSAW5BVV95cUxQdWxMb3Zfbzk1aEtGOU1xWG16Wl9DQmY3S2doWXFXNjA3d2p3OXJsTFRsSGozYndWdTljcE1ETHFXZTFHeEwwQmpoZkN0RFp2RUgyODAwd0lnYmlwamZUX0FEZEtQUG5aS2VWS3gtQQ?oc=5",
-      "source": "퍼블릭타임스"
+      "title": "풍수해·지진재해보험 집중 홍보…정부 지원과 낮은 가입률 함께 부각",
+      "summary": "정부와 관련 매체들은 풍수해·지진재해보험의 보험료를 최대 100% 지원하는 내용과 폭설·자연재해 피해 보장 사례를 집중적으로 알렸습니다. 동시에 소상공인 가입률이 4.6%에 그친다는 보도도 나와, 재해 보장 확대와 가입 활성화가 함께 과제로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WMTR3bUZEajVKRnhMTlNTcFFYb0xTREF1dFIxcWNQTjNmdER3aEVqcTNjRGV2X0FzRjVBX0xEczhDYnJRaGlUNm9FNWVFN1pxcko1QzAtT3gxNi1tSC1vSEVzcEZ5U1g5d0E?oc=5",
+      "source": "한국재난뉴스"
     },
     {
-      "tag": "자산운용",
-      "title": "보험사 해외부동산 투자액 30조8000억원",
-      "summary": "보험사의 해외부동산 투자액이 30조8000억원으로 금융권 전체의 55%라는 보도가 나왔다. 보험사 자산운용에서 해외부동산이 차지하는 규모가 제시되면서 관련 투자 관리와 건전성 점검의 중요성이 부각됐다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xOTNKeWs2cjZRWW9WamZrLW5lNGROT00yMjVqWTdlNGpuMjhDV0ExWmZ6TzRZNXY4YVhRcDRDalptYmVnWWpGY3hMU3UtQW9OZ2RUVEFnX3dvcGdsZXJ1elpJMWNENUxi?oc=5",
-      "source": "보험매일"
+      "tag": "소비자보호·데이터",
+      "title": "예별손보 고객 66명 개인정보 유출…주민번호 포함 피해 보도",
+      "summary": "예별손보의 보험이 종료된 지 4년이 넘은 고객을 포함해 66명의 개인정보가 유출됐고, 주민등록번호까지 포함됐다는 보도가 나왔습니다. 수탁업체 해킹이 원인으로 보도되면서 보험사의 장기 보유정보와 외부 수탁업체 관리가 소비자보호 이슈로 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HekVpMERfaDNZdXlVOFNzV3FqM2hUSWxqSGN1WkJPR0h5WXowTUtlQ0VnODZnNzJVeS1fd2tJM2E3dkZrQ253VjM2NTJEZ3g0dFRCUVE0UGRlUnRGM0l3YlVGXzNmRkRNS291RWp6WXQyN2ZT0gF0QVVfeXFMTXNIbkgtTTJEQ3VxSXVWTXZWRzVuLU12ZWNKdjI1emtOcWo2dTEzR2NIczc2d0hqVncweS1WVXNrVjdUV2pjX1JwU3czUm1FY3cwdF9aSm5FQmJWTl9YRkJqVGJSa2pTaHNtUHVMdWQzUmI4SFg?oc=5",
+      "source": "MBC 뉴스"
+    },
+    {
+      "tag": "상품·수익성",
+      "title": "동양생명, 4대 암 치료 이력자 가입 가능한 암보험 출시",
+      "summary": "동양생명은 4대 암 치료 이력이 있는 사람도 가입할 수 있는 암보험을 출시했다는 보도를 냈습니다. 같은 상품이 여러 매체에서 보도되며 유병력자 대상 보장 확대와 암보험 상품 경쟁이 확인됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pYVBvT2tqcDdoSmZzLVNBVFJQWnNpS2dQTFZ6WnhaX3Jqd21Gcm5aLXZULVZzXzhiZ2s1djFXVEdLTDRzRFl5WTFRV0taZw?oc=5",
+      "source": "전자신문"
+    },
+    {
+      "tag": "보험사기·디지털",
+      "title": "보험사기 전담수사와 AI 기반 방지체계 구축 필요성 제기",
+      "summary": "보험사기 수사가 겸임 형태로 이뤄지고 있어 전담수사팀 신설이 필요하다는 지적과 함께 AI 기반 보험사기 방지체계 구축이 늦어지고 있다는 보도가 나왔습니다. 보험사기 대응 인력과 AI 활용 체계가 보험금 누수 방지와 소비자 보호를 위한 현안으로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdzJMMndxRWZ5OGprWmtuakFEQXpJemo1dTVfQmREYW5mLXJUckhRQjhja3FqU1c3TWpZeWZXUzJQUURsY0lRNkVBRWRBYVV2anJLVldZR1F1dFNjWVFzWTVkZDgyc2xaenAw?oc=5",
+      "source": "보험신보"
     }
   ]
 }
