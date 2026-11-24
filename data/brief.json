@@ -1,70 +1,64 @@
 {
-  "updatedAt": "2026-11-23T03:52:12.754Z",
+  "updatedAt": "2026-11-24T07:00:13.582Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사 메타데이터에서 동일 주제의 중복 보도를 통합했습니다. 금융시장 변수는 제공된 기사 제목·메타데이터에 관련 수치나 방향성이 없어 확인 가능한 범위만 반영했습니다.",
+  "editorNote": "최근 24시간 기사 중 동일한 정책·상품·시장 이슈를 중심으로 중복 보도를 통합했습니다. 제공된 기사 메타데이터에 미국 금리·환율·부동산 가격 등 구체적인 시장 수치나 방향은 없어, 확인 가능한 국내 채권 수급과 보험사 자금 운용 이슈만 반영했습니다.",
   "keywords": [
-    "실손보험료",
-    "풍수해·지진재해보험",
-    "개인정보 유출",
-    "보험사기·AI",
-    "암보험 보장 확대"
+    "보험사기 전력자 모집시장 진입 제한",
+    "GA 과징금",
+    "희귀·중증난치질환 건강보험 본인부담률 인하",
+    "간병인보험 가입 문턱 완화",
+    "보험사 공사채 투자"
   ],
-  "marketSummary": "제공된 기사 목록에는 미국 금리·국내외 채권금리·환율·부동산 등 금융시장 흐름을 확인할 수 있는 정보가 없어, 이를 보험사의 자산운용·상품가격·건전성과 연결해 평가하기 어렵습니다.",
+  "marketSummary": "삼성생명의 7조원 규모 저축보험 자금이 3년물 공사채로 이동하면서 보험사의 채권 운용과 공사채 매수 수급 변화가 오늘 보험시장과 금융시장을 잇는 핵심 흐름으로 부각됐습니다.",
   "marketContext": [
     {
-      "label": "미국 금리",
-      "summary": "제공된 기사 메타데이터에 미국 금리의 수준이나 변동 방향이 언급되지 않았습니다. 따라서 이번 자료만으로 미국 금리가 보험사 자산운용이나 건전성에 미친 영향을 확인할 수 없습니다.",
-      "url": "",
-      "source": "제공 기사 목록"
+      "label": "국내 공사채 3년물 수급",
+      "summary": "삼성생명의 7조원 저축보험 자금이 공사채 3년물로 이동한다는 보도가 나왔습니다. 대규모 보험자금의 매수 대상 변화가 공사채 3년물의 매수 지형과 보험사 자산운용에 영향을 줄 수 있다는 의미입니다.",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LV05EcFJMVkhIcHA4NDR0aE5kcmVvOHR0TkhiN0liaDRNMm1sdzRhLVFmQmVqZW11d3hKRUFzSFpPNTY1R3hmaWFrU0ZxVDRkVnlaajd0dTlMai1mNThSQ2tQOGQ0Tnk3Y3lFNXlHRzhtUQ?oc=5",
+      "source": "KB Think"
     },
     {
-      "label": "국내외 채권금리",
-      "summary": "제공된 기사 메타데이터에 국내외 채권금리 관련 내용이 없습니다. 이에 따라 채권 평가손익, 상품가격 또는 보험사 건전성과의 연결점을 이번 자료에서 확인할 수 없습니다.",
-      "url": "",
-      "source": "제공 기사 목록"
-    },
-    {
-      "label": "환율·부동산",
-      "summary": "제공된 기사 메타데이터에 환율이나 부동산시장 흐름에 대한 정보가 없습니다. 따라서 보험사의 운용자산과 상품·건전성에 대한 영향도 판단할 수 없습니다.",
-      "url": "",
-      "source": "제공 기사 목록"
+      "label": "보험사 저축보험 자금 운용",
+      "summary": "저축보험 자금이 공사채 3년물에 집중되는 흐름이 보험사의 자산 배분과 채권 매수 전략의 주요 변수로 제시됐습니다. 다만 제공된 기사에는 국내외 채권금리의 상승·하락 방향이나 미국 금리, 환율 관련 수치는 포함돼 있지 않습니다.",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LV05EcFJMVkhIcHA4NDR0aE5kcmVvOHR0TkhiN0liaDRNMm1sdzRhLVFmQmVqZW11d3hKRUFzSFpPNTY1R3hmaWFrU0ZxVDRkVnlaajd0dTlMai1mNThSQ2tQOGQ0Tnk3Y3lFNXlHRzhtUQ?oc=5",
+      "source": "KB Think"
     }
   ],
   "issues": [
     {
-      "tag": "상품·소비자",
-      "title": "실손보험료 부담 완화 방안 주목…3년간 550만원 절감 사례 제시",
-      "summary": "매일경제 마켓은 실손보험료 부담이 커질 때 소비자가 주목할 수 있는 방안을 소개하며 3년간 550만원을 아낄 수 있다는 사례를 제목에 제시했습니다. 실손보험료 부담과 절감 방안이 소비자의 상품 선택에 영향을 줄 수 있는 이슈로 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HWENoa01pc3dvb2cwRlh5RUo4dWRVSXl1Rzl2MnRLQzFfZ2dpWnJkSkhyRy1DejQxZ2QxVnFxWlZUajFzT1JraHNpbmk3aS1PY2c?oc=5",
-      "source": "매일경제 마켓"
+      "tag": "모집시장·소비자보호",
+      "title": "보험사기 전력자의 보험모집시장 진입을 막고 GA 제재에 과징금 도입",
+      "summary": "보험사기 전력자의 보험설계사·보험모집시장 진입을 제한하고 결격 기준을 강화하는 내용의 보험업법 시행령 개정 및 관련 기준이 기사화됐습니다. 동시에 GA의 업무정지를 대신해 과징금을 부과할 수 있는 방안이 제시돼 모집시장 관리와 제재 방식에 변화가 예상됩니다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FSlhibnpHZ3NmN1VWRDVzWTk3UlhiTktDNXlOUWtIV0V2alJxYXdabE45a3gtZjJQdWZpUGtEZzBKcnFPTzc4Z0VzTndDT0FOMlg4XzdJMzRJUlJuck11azVDVG80bTR6aDBnRkRhazjSAXRBVV95cUxPU3hGby01YXNvaE9YVWc0c0VYcEtjdUVXX0x2REh5VVFUOS00ZWVxUk9PdnNWY1FPY19IY1hQVVBNRmhxTV9WX2hZUlY5UjU2dFhic3hKc0N0S09RV1R5SmlkRlpsYlJCQVM1eUpQb0lMNlVFRw?oc=5",
+      "source": "연합인포맥스 외"
     },
     {
-      "tag": "재해보험",
-      "title": "풍수해·지진재해보험 집중 홍보…정부 지원과 낮은 가입률 함께 부각",
-      "summary": "정부와 관련 매체들은 풍수해·지진재해보험의 보험료를 최대 100% 지원하는 내용과 폭설·자연재해 피해 보장 사례를 집중적으로 알렸습니다. 동시에 소상공인 가입률이 4.6%에 그친다는 보도도 나와, 재해 보장 확대와 가입 활성화가 함께 과제로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WMTR3bUZEajVKRnhMTlNTcFFYb0xTREF1dFIxcWNQTjNmdER3aEVqcTNjRGV2X0FzRjVBX0xEczhDYnJRaGlUNm9FNWVFN1pxcko1QzAtT3gxNi1tSC1vSEVzcEZ5U1g5d0E?oc=5",
-      "source": "한국재난뉴스"
+      "tag": "건강보험",
+      "title": "희귀·중증난치질환자 건강보험 본인부담률 12월부터 10%에서 7%로 인하",
+      "summary": "12월부터 희귀·중증난치질환자의 건강보험 본인부담률이 10%에서 7%로 낮아진다는 보도가 이어졌습니다. 관련 보도는 환자의 의료비 부담 완화와 건강보험 보장 변화에 의미가 있다고 전했습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ydHZtWlJ1ZEZXXzJMRVJGamlLNW10VmdRVFhnN2pic2xQZDd4UDBkUVFVajRHWTJreWRvSUhnclJwRFpVMVpmc3c5d1dpcmhKbWpITnIxbHdCT3fSAWBBVV95cUxPYVNldFZmY2N1VW9EaFhYVXpXSjRFR1ZCMjVPSGdKSXpCcVAzeFQtYjlZRmZpS2lNWXpnLWZyZ202ektRNlFUR29aZ1VFUk1ybGlZZ3hyUmZKaE9CY2U2RlI?oc=5",
+      "source": "연합뉴스 외"
     },
     {
-      "tag": "소비자보호·데이터",
-      "title": "예별손보 고객 66명 개인정보 유출…주민번호 포함 피해 보도",
-      "summary": "예별손보의 보험이 종료된 지 4년이 넘은 고객을 포함해 66명의 개인정보가 유출됐고, 주민등록번호까지 포함됐다는 보도가 나왔습니다. 수탁업체 해킹이 원인으로 보도되면서 보험사의 장기 보유정보와 외부 수탁업체 관리가 소비자보호 이슈로 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HekVpMERfaDNZdXlVOFNzV3FqM2hUSWxqSGN1WkJPR0h5WXowTUtlQ0VnODZnNzJVeS1fd2tJM2E3dkZrQ253VjM2NTJEZ3g0dFRCUVE0UGRlUnRGM0l3YlVGXzNmRkRNS291RWp6WXQyN2ZT0gF0QVVfeXFMTXNIbkgtTTJEQ3VxSXVWTXZWRzVuLU12ZWNKdjI1emtOcWo2dTEzR2NIczc2d0hqVncweS1WVXNrVjdUV2pjX1JwU3czUm1FY3cwdF9aSm5FQmJWTl9YRkJqVGJSa2pTaHNtUHVMdWQzUmI4SFg?oc=5",
-      "source": "MBC 뉴스"
+      "tag": "상품·보장성보험",
+      "title": "간병인보험 가입 문턱 완화…소비자 보호 논의도 부상",
+      "summary": "DB손해보험이 간병인보험의 연계 조건을 완화하고 최저보험료 기준을 낮추면서 가입 문턱을 낮췄다는 보도가 나왔습니다. 다른 기사에서는 보험 가입이 쉬워지는 흐름과 함께 소비자 보호 필요성을 제기해 상품 접근성과 판매 과정의 균형이 쟁점으로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81UEFYaFlaUlR4RE44aHQ2d1dVYk9SQTR6aXJubHIxQzAxYUFiNWZSWDRkY2hwbjNQQ3NKZjQxall2WFhQY1lfaHhrOUdHbUxReGF1VWJvMFF4MGRzWWNxTUlFdUt5SlQ5UFdWTTBaSQ?oc=5",
+      "source": "보험저널"
     },
     {
-      "tag": "상품·수익성",
-      "title": "동양생명, 4대 암 치료 이력자 가입 가능한 암보험 출시",
-      "summary": "동양생명은 4대 암 치료 이력이 있는 사람도 가입할 수 있는 암보험을 출시했다는 보도를 냈습니다. 같은 상품이 여러 매체에서 보도되며 유병력자 대상 보장 확대와 암보험 상품 경쟁이 확인됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pYVBvT2tqcDdoSmZzLVNBVFJQWnNpS2dQTFZ6WnhaX3Jqd21Gcm5aLXZULVZzXzhiZ2s1djFXVEdLTDRzRFl5WTFRV0taZw?oc=5",
-      "source": "전자신문"
+      "tag": "신상품·헬스케어",
+      "title": "한국릴리·삼성화재, 알츠하이머병 신약 시대의 보험상품 개발 모색",
+      "summary": "한국릴리와 삼성화재가 알츠하이머병 신약 시대에 맞춘 보험상품 개발을 모색한다는 보도가 나왔습니다. 신약 등장에 맞춰 새로운 보장 수요와 보험상품 개발 가능성을 논의했다는 점이 핵심입니다.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZmVFS0lPZ0VhcnVrcmVHOHFGbnhNaHBZYjd6NFM0Y21hLVozcWZRQkJuelFXSWh6S1VMYlJSeXZZYTR6TW1qZGtKejRsUXpoWFFvV29xd3JIRXZTNXpLU1pfVTZocUsyNHR0alQzeGlMVHQ2emFBQlZxVl9XRHhremlDalVVUTDSAZsBQVVfeXFMT1QwaE90V2c4ckNrZ01fOGpUQUVpeEtWTWd3aWI4QzFnUWQ4NWxpejBRMU1mOWVBRDZuSERQRV9HRTJ1eXdsME9UWUlJU1A4WXcwakZZdU85Sl85RmF4RGJxYkxpMDZTSWVHY0dBaUJXWHlmZVRNd3FPMUExaWxXUDhvaE5XdVRQVXR0SVBNVlhndnBGM09mRVlPV0ZPVHc?oc=5",
+      "source": "Chosunbiz 외"
     },
     {
-      "tag": "보험사기·디지털",
-      "title": "보험사기 전담수사와 AI 기반 방지체계 구축 필요성 제기",
-      "summary": "보험사기 수사가 겸임 형태로 이뤄지고 있어 전담수사팀 신설이 필요하다는 지적과 함께 AI 기반 보험사기 방지체계 구축이 늦어지고 있다는 보도가 나왔습니다. 보험사기 대응 인력과 AI 활용 체계가 보험금 누수 방지와 소비자 보호를 위한 현안으로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sdzJMMndxRWZ5OGprWmtuakFEQXpJemo1dTVfQmREYW5mLXJUckhRQjhja3FqU1c3TWpZeWZXUzJQUURsY0lRNkVBRWRBYVV2anJLVldZR1F1dFNjWVFzWTVkZDgyc2xaenAw?oc=5",
-      "source": "보험신보"
+      "tag": "자산운용",
+      "title": "삼성생명 7조원 저축보험 자금, 3년물 공사채로 이동",
+      "summary": "삼성생명의 7조원 규모 저축보험 자금이 3년물 공사채로 향하면서 공사채 매수 지형이 바뀔 수 있다는 보도가 나왔습니다. 대규모 보험자금의 투자처 이동이 보험사 자산운용과 해당 채권시장 수급의 주요 변수로 부각됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LV05EcFJMVkhIcHA4NDR0aE5kcmVvOHR0TkhiN0liaDRNMm1sdzRhLVFmQmVqZW11d3hKRUFzSFpPNTY1R3hmaWFrU0ZxVDRkVnlaajd0dTlMai1mNThSQ2tQOGQ0Tnk3Y3lFNXlHRzhtUQ?oc=5",
+      "source": "KB Think"
     }
   ]
 }
