@@ -1,64 +1,64 @@
 {
-  "updatedAt": "2026-11-24T07:00:13.582Z",
+  "updatedAt": "2026-11-25T05:32:54.466Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사 중 동일한 정책·상품·시장 이슈를 중심으로 중복 보도를 통합했습니다. 제공된 기사 메타데이터에 미국 금리·환율·부동산 가격 등 구체적인 시장 수치나 방향은 없어, 확인 가능한 국내 채권 수급과 보험사 자금 운용 이슈만 반영했습니다.",
+  "editorNote": "최근 24시간 기사에서 반복 보도된 동일 이슈는 하나로 통합했으며, 제공된 기사에 확인되는 내용만 반영했습니다.",
   "keywords": [
-    "보험사기 전력자 모집시장 진입 제한",
-    "GA 과징금",
-    "희귀·중증난치질환 건강보험 본인부담률 인하",
-    "간병인보험 가입 문턱 완화",
-    "보험사 공사채 투자"
+    "자동차보험 손해율",
+    "개인정보 유출보험",
+    "AI 책임보험",
+    "건강보험 CSM",
+    "안전자산 선호"
   ],
-  "marketSummary": "삼성생명의 7조원 규모 저축보험 자금이 3년물 공사채로 이동하면서 보험사의 채권 운용과 공사채 매수 수급 변화가 오늘 보험시장과 금융시장을 잇는 핵심 흐름으로 부각됐습니다.",
+  "marketSummary": "오늘 보험시장 흐름은 자동차보험 손해율 개선과 건강보험·신성장 보장 확대가 이어지는 가운데, 투자손익·PF 부담과 안전자산 선호가 보험사의 수익성과 자산운용을 가르는 모습이다.",
   "marketContext": [
     {
-      "label": "국내 공사채 3년물 수급",
-      "summary": "삼성생명의 7조원 저축보험 자금이 공사채 3년물로 이동한다는 보도가 나왔습니다. 대규모 보험자금의 매수 대상 변화가 공사채 3년물의 매수 지형과 보험사 자산운용에 영향을 줄 수 있다는 의미입니다.",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LV05EcFJMVkhIcHA4NDR0aE5kcmVvOHR0TkhiN0liaDRNMm1sdzRhLVFmQmVqZW11d3hKRUFzSFpPNTY1R3hmaWFrU0ZxVDRkVnlaajd0dTlMai1mNThSQ2tQOGQ0Tnk3Y3lFNXlHRzhtUQ?oc=5",
-      "source": "KB Think"
+      "label": "안전자산 선호",
+      "summary": "보험시장에서도 안전자산 쏠림이 나타나며 퇴직연금과 저축성보험이 인기를 얻고 있다는 보도가 나왔다. 이는 보험사의 자산배분과 저축성 상품 판매 흐름을 함께 살펴볼 변수다.",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96ckhxVTJiRDUtV0JmLWs1NWhfZFhwNFRlX0gzMXRNbnFLYXpQQVltZkxfRzVBX0J4RTBibTVfMmJSWTZwNDNhaXhyb3Z0R1hT?oc=5",
+      "source": "문화일보"
     },
     {
-      "label": "보험사 저축보험 자금 운용",
-      "summary": "저축보험 자금이 공사채 3년물에 집중되는 흐름이 보험사의 자산 배분과 채권 매수 전략의 주요 변수로 제시됐습니다. 다만 제공된 기사에는 국내외 채권금리의 상승·하락 방향이나 미국 금리, 환율 관련 수치는 포함돼 있지 않습니다.",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LV05EcFJMVkhIcHA4NDR0aE5kcmVvOHR0TkhiN0liaDRNMm1sdzRhLVFmQmVqZW11d3hKRUFzSFpPNTY1R3hmaWFrU0ZxVDRkVnlaajd0dTlMai1mNThSQ2tQOGQ0Tnk3Y3lFNXlHRzhtUQ?oc=5",
-      "source": "KB Think"
+      "label": "투자손익·부동산 PF",
+      "summary": "DB그룹 3분기 전망 기사에서는 보험·파운드리와 대비되는 부담 요인으로 투자손익과 PF가 언급됐다. 보험사 관점에서는 투자성과와 부동산 관련 위험이 실적 및 건전성 점검 변수로 연결될 수 있다.",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zQldmXy1NZ082T2Eza2tTalJJNkF0RjAyNFU0MGpBU2R0WnhtNWIxY3FzaXVXdGZkX1VFUHFsU2FfU3ZvSzM4OVpENnpZaTQxYks1ME5zTnFXRmFTNTZMN2pPekgteFRfWGNiSGN3?oc=5",
+      "source": "이코노미톡뉴스"
     }
   ],
   "issues": [
     {
-      "tag": "모집시장·소비자보호",
-      "title": "보험사기 전력자의 보험모집시장 진입을 막고 GA 제재에 과징금 도입",
-      "summary": "보험사기 전력자의 보험설계사·보험모집시장 진입을 제한하고 결격 기준을 강화하는 내용의 보험업법 시행령 개정 및 관련 기준이 기사화됐습니다. 동시에 GA의 업무정지를 대신해 과징금을 부과할 수 있는 방안이 제시돼 모집시장 관리와 제재 방식에 변화가 예상됩니다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FSlhibnpHZ3NmN1VWRDVzWTk3UlhiTktDNXlOUWtIV0V2alJxYXdabE45a3gtZjJQdWZpUGtEZzBKcnFPTzc4Z0VzTndDT0FOMlg4XzdJMzRJUlJuck11azVDVG80bTR6aDBnRkRhazjSAXRBVV95cUxPU3hGby01YXNvaE9YVWc0c0VYcEtjdUVXX0x2REh5VVFUOS00ZWVxUk9PdnNWY1FPY19IY1hQVVBNRmhxTV9WX2hZUlY5UjU2dFhic3hKc0N0S09RV1R5SmlkRlpsYlJCQVM1eUpQb0lMNlVFRw?oc=5",
-      "source": "연합인포맥스 외"
-    },
-    {
-      "tag": "건강보험",
-      "title": "희귀·중증난치질환자 건강보험 본인부담률 12월부터 10%에서 7%로 인하",
-      "summary": "12월부터 희귀·중증난치질환자의 건강보험 본인부담률이 10%에서 7%로 낮아진다는 보도가 이어졌습니다. 관련 보도는 환자의 의료비 부담 완화와 건강보험 보장 변화에 의미가 있다고 전했습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ydHZtWlJ1ZEZXXzJMRVJGamlLNW10VmdRVFhnN2pic2xQZDd4UDBkUVFVajRHWTJreWRvSUhnclJwRFpVMVpmc3c5d1dpcmhKbWpITnIxbHdCT3fSAWBBVV95cUxPYVNldFZmY2N1VW9EaFhYVXpXSjRFR1ZCMjVPSGdKSXpCcVAzeFQtYjlZRmZpS2lNWXpnLWZyZ202ektRNlFUR29aZ1VFUk1ybGlZZ3hyUmZKaE9CY2U2RlI?oc=5",
-      "source": "연합뉴스 외"
-    },
-    {
-      "tag": "상품·보장성보험",
-      "title": "간병인보험 가입 문턱 완화…소비자 보호 논의도 부상",
-      "summary": "DB손해보험이 간병인보험의 연계 조건을 완화하고 최저보험료 기준을 낮추면서 가입 문턱을 낮췄다는 보도가 나왔습니다. 다른 기사에서는 보험 가입이 쉬워지는 흐름과 함께 소비자 보호 필요성을 제기해 상품 접근성과 판매 과정의 균형이 쟁점으로 제시됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81UEFYaFlaUlR4RE44aHQ2d1dVYk9SQTR6aXJubHIxQzAxYUFiNWZSWDRkY2hwbjNQQ3NKZjQxall2WFhQY1lfaHhrOUdHbUxReGF1VWJvMFF4MGRzWWNxTUlFdUt5SlQ5UFdWTTBaSQ?oc=5",
+      "tag": "자동차보험",
+      "title": "10월 자동차보험 손해율 개선…사고 감소에도 보험금 부담은 지속",
+      "summary": "10월 자동차보험 손해율은 기사별 집계 기준에 따라 80.5%, 83.9%, 84.3%로 보도됐으며, 사고와 강수량 감소가 개선 요인으로 제시됐다. 다만 건당 보험금 증가와 연말 재상승 가능성이 함께 언급돼 손익 개선의 지속 여부가 관건으로 남았다.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RaDJJV20wbF9Uek5vTERCUzVXa3VCMC1zUjNQVC1hWl9Fb2dibFJhNTRsSUxnckJDV0JNZWVKeWhzRG5ydHZlOEZqeWpQOXFMa0ZhNHVrQjFPYlo3dU1KM2FwZTZUUnBTSW91QzJEMA?oc=5",
       "source": "보험저널"
     },
     {
-      "tag": "신상품·헬스케어",
-      "title": "한국릴리·삼성화재, 알츠하이머병 신약 시대의 보험상품 개발 모색",
-      "summary": "한국릴리와 삼성화재가 알츠하이머병 신약 시대에 맞춘 보험상품 개발을 모색한다는 보도가 나왔습니다. 신약 등장에 맞춰 새로운 보장 수요와 보험상품 개발 가능성을 논의했다는 점이 핵심입니다.",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZmVFS0lPZ0VhcnVrcmVHOHFGbnhNaHBZYjd6NFM0Y21hLVozcWZRQkJuelFXSWh6S1VMYlJSeXZZYTR6TW1qZGtKejRsUXpoWFFvV29xd3JIRXZTNXpLU1pfVTZocUsyNHR0alQzeGlMVHQ2emFBQlZxVl9XRHhremlDalVVUTDSAZsBQVVfeXFMT1QwaE90V2c4ckNrZ01fOGpUQUVpeEtWTWd3aWI4QzFnUWQ4NWxpejBRMU1mOWVBRDZuSERQRV9HRTJ1eXdsME9UWUlJU1A4WXcwakZZdU85Sl85RmF4RGJxYkxpMDZTSWVHY0dBaUJXWHlmZVRNd3FPMUExaWxXUDhvaE5XdVRQVXR0SVBNVlhndnBGM09mRVlPV0ZPVHc?oc=5",
-      "source": "Chosunbiz 외"
+      "tag": "사이버보험",
+      "title": "한전, 개인정보 유출 고객에게 최대 1000만원 보상보험 제공",
+      "summary": "한국전력은 개인정보 유출 고객의 2차 피해를 막기 위해 최대 1000만원을 보상하는 보험을 무료로 제공한다고 여러 매체가 보도했다. 대규모 개인정보 사고 대응에서 기업이 고객 보호 수단으로 보험을 활용하는 사례로 주목된다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsQWNjSGx6VU14MmlBeHo4ZWJ2ZUJzcHVWd1dyRGR6TjJNX2pkNnhoUkRVY2dCMTk1MkJwMkxjM2ZrbTlOcTBxeHFCd2hoWWlaWEVlbUtGX2piT28ybW44UWVSRmVCYy1DTkgwTWl0bm_SAXRBVV95cUxQaFp4UlFGVjVySnRPUHQtWnp0XzFNZGxneWhORmJodFR0VlFxeF8teEVtRWtfTWNfamkxWGRINC1Fb2RyclpfQjdEUV9UeFR3c192NEZzUXJpemlfN1pWZDAyM2V2V1FTQ0RPZjlFNUtidzlQNw?oc=5",
+      "source": "연합인포맥스"
     },
     {
-      "tag": "자산운용",
-      "title": "삼성생명 7조원 저축보험 자금, 3년물 공사채로 이동",
-      "summary": "삼성생명의 7조원 규모 저축보험 자금이 3년물 공사채로 향하면서 공사채 매수 지형이 바뀔 수 있다는 보도가 나왔습니다. 대규모 보험자금의 투자처 이동이 보험사 자산운용과 해당 채권시장 수급의 주요 변수로 부각됐습니다.",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LV05EcFJMVkhIcHA4NDR0aE5kcmVvOHR0TkhiN0liaDRNMm1sdzRhLVFmQmVqZW11d3hKRUFzSFpPNTY1R3hmaWFrU0ZxVDRkVnlaajd0dTlMai1mNThSQ2tQOGQ0Tnk3Y3lFNXlHRzhtUQ?oc=5",
-      "source": "KB Think"
+      "tag": "AI보험",
+      "title": "AI 에이전트 사고에 책임보험 의무화 논의",
+      "summary": "정부와 업계에서 AI 에이전트를 자동차처럼 등록하고 사고 발생 시 책임보험을 의무화하는 방안이 제안됐다. AI가 스스로 판단하고 행동하는 환경에서 책임 주체와 보상 체계를 제도화하려는 논의가 본격화되고 있음을 보여준다.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNQWYycmpWeUhfUzFJMS1hMDNEbDdYbGVvRkRkOUFzUHlXa282VkdOVlBQNHN0a01WV0ZVUGtpaHhCM20ya21zdEM4VlRzU2FzVlU4Y1ZqT0lzcFnSAWBBVV95cUxON0lnRHluVkwyQ1lwQXJpSHo5YmRYSmsybVpFZU9EN1FwN1YyQXVYODFadDhNWnhiMm5SaFdrckFxSGRfbjNaWTZNR2VudGlsVTMydnNpUmlWSjE0c3VCeXQ?oc=5",
+      "source": "연합뉴스"
+    },
+    {
+      "tag": "생명보험",
+      "title": "건강보험 성장과 GA 중심 판매 확대",
+      "summary": "미래에셋생명은 건강보험 신계약 CSM이 2년 만에 두 배로 늘고 보유 CSM이 2조3000억원을 넘어섰다고 보도됐다. 생보업계에서는 신계약의 절반 이상을 GA가 차지하는 반면 은행 판매는 반토막 났다는 분석이 나와 상품 성장과 판매채널 재편이 함께 나타났다.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwMGVWU29kcThJemRoZWhJYkU0UHJPYjRvb1dOWkFkVkdoNXd4VWFqZ3VQYnpOMURwa045WXJ1b1RpaURwSDEtMXlvakdvU3FRLWlSaVNFMTBvZw?oc=5",
+      "source": "한국경제"
+    },
+    {
+      "tag": "보험실적",
+      "title": "보험료 수입 증가에도 순이익 감소…생보·손보 성적 엇갈려",
+      "summary": "보험료 수입은 28조6000억원 늘었지만 순이익은 8823억원 감소했으며, 생명보험과 손해보험의 성적표가 엇갈렸다는 보도가 나왔다. 매출 증가만으로는 수익성 개선을 판단하기 어려워 보험사의 이익 구조와 투자성과를 함께 봐야 한다는 의미를 던진다.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80aTlIcFhfT1QtV2FPQWU2Wm1XZTYzbEl5LTkyUjI3amFTcF9jamFtaFcyMnVNbXVqQXRoR3lILUV5UnNXT3ZyYnk4SzZGdkVlVmVOemxuci10NEFiZW1fSllwTjA2dEJHOU5sX0pzUQ?oc=5",
+      "source": "보험저널"
     }
   ]
 }
