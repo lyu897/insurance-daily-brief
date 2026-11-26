@@ -1,64 +1,63 @@
 {
-  "updatedAt": "2026-11-25T05:32:54.466Z",
+  "updatedAt": "2026-11-26T05:15:33.761Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사에서 반복 보도된 동일 이슈는 하나로 통합했으며, 제공된 기사에 확인되는 내용만 반영했습니다.",
+  "editorNote": "최근 24시간 기사 중 동일 내용을 반복 보도한 기사는 하나의 이슈로 통합했습니다. 제공된 기사에는 국내외 채권금리와 환율의 방향을 직접 보여주는 정보가 없어 해당 변수는 제외하고, 확인 가능한 미국 고용지표와 국내 주택대출·보증 흐름을 시장 변수로 반영했습니다.",
   "keywords": [
+    "보험 판매수수료 규제",
+    "희귀·중증질환 건강보험",
     "자동차보험 손해율",
-    "개인정보 유출보험",
-    "AI 책임보험",
-    "건강보험 CSM",
-    "안전자산 선호"
+    "풍수해·지진재해보험"
   ],
-  "marketSummary": "오늘 보험시장 흐름은 자동차보험 손해율 개선과 건강보험·신성장 보장 확대가 이어지는 가운데, 투자손익·PF 부담과 안전자산 선호가 보험사의 수익성과 자산운용을 가르는 모습이다.",
+  "marketSummary": "미국 주간 신규 실업보험 청구가 시장 전망치를 밑돈 가운데 국내에서는 주택대출 한도 확대와 보증·보험 재개 소식이 전해져, 보험시장에서는 거시 흐름보다 판매비용 규제와 보장성보험·위험보험 수익성 이슈가 부각됐다.",
   "marketContext": [
     {
-      "label": "안전자산 선호",
-      "summary": "보험시장에서도 안전자산 쏠림이 나타나며 퇴직연금과 저축성보험이 인기를 얻고 있다는 보도가 나왔다. 이는 보험사의 자산배분과 저축성 상품 판매 흐름을 함께 살펴볼 변수다.",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96ckhxVTJiRDUtV0JmLWs1NWhfZFhwNFRlX0gzMXRNbnFLYXpQQVltZkxfRzVBX0J4RTBibTVfMmJSWTZwNDNhaXhyb3Z0R1hT?oc=5",
-      "source": "문화일보"
+      "label": "미국 고용시장",
+      "summary": "미국 주간 신규 실업보험 청구가 18만9천건으로 시장 전망치를 밑돌았다는 보도가 나왔다. 고용 관련 지표는 보험사의 자산운용과 상품가격에 영향을 줄 수 있는 미국 경기·금리 기대와 연결되는 변수지만, 제공 기사에는 금리 방향이나 시장 반응이 제시되지 않았다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrWk9HT2RwVTJPMEM1YVRkbzBPeG1LcHU2NnR5WVpQNDlqT3RSa0ZmalM3RHNnaFVnNHcxMTNnX1d5NjExSS14bm80X0R3eFA0OTBSdVBSbjdabVJ0QVRlVndsRmVKWlZmNzUxaGMzYg?oc=5",
+      "source": "연합인포맥스"
     },
     {
-      "label": "투자손익·부동산 PF",
-      "summary": "DB그룹 3분기 전망 기사에서는 보험·파운드리와 대비되는 부담 요인으로 투자손익과 PF가 언급됐다. 보험사 관점에서는 투자성과와 부동산 관련 위험이 실적 및 건전성 점검 변수로 연결될 수 있다.",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zQldmXy1NZ082T2Eza2tTalJJNkF0RjAyNFU0MGpBU2R0WnhtNWIxY3FzaXVXdGZkX1VFUHFsU2FfU3ZvSzM4OVpENnpZaTQxYks1ME5zTnFXRmFTNTZMN2pPekgteFRfWGNiSGN3?oc=5",
-      "source": "이코노미톡뉴스"
+      "label": "국내 주택대출·보증",
+      "summary": "기업은행이 주택대출 한도를 늘리고 내년분 보증·보험을 재개한다는 내용이 보도됐다. 이는 주택금융 보증·보험의 취급 환경과 관련된 변수로, 보험시장에서는 주택 관련 보증 수요와 위험 노출을 점검할 사안이다.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRUUtRk1WaHRPR3VpYzBXb1FEdERTX1dsNTZKXzgwR0hDZ0J6NXByREFNT2dNcGNHNFNDU0pHbUhRZ3hIdU5FVVhGTnlGUVBMbFBjTlYzOVQyUWpOblRUU2tjTW81eS1NeDRmX3NhbENOVjBGYjEwNDJ4eXRWeHZWRNIBlAFBVV95cUxPM1RONWZ4Wl9SS0lrcHVqeG9OUlIwcERVX0MyUllFNjlqSEJtNXllOWIxcGdlQUZqdkk3bGhXT204T3N2LUU4bGRDUlc0WEJnXzFoVTdGVlZwWTdQZ0tCaTRjYTJfMDAwaHYzUTkwYUx2X2ZZMnB2MDVSU0lPcHB1SGZ5eHNaazRYdjJjeUgwdnZVaDAt?oc=5",
+      "source": "Chosunbiz"
     }
   ],
   "issues": [
     {
+      "tag": "규제·판매채널",
+      "title": "보험 판매수수료 지급한도·공시 규제 강화, 2027년부터 적용",
+      "summary": "금융당국이 보험 판매수수료 지급한도를 제한하고 계약체결비용과 사업비 공시를 확대하는 방안이 여러 매체를 통해 보도됐다. 2027년 1월 적용과 표준해약공제액 기준이 언급되면서 보험사의 판매비용 운용과 판매채널의 과당경쟁이 주요 관리 과제로 부상했다.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSTB5Wnk2dTZKcW9sWk9lanNlX3BncTRkTDlWYkJ1M2xFZHYzY0o0LWJfdHFnS0J3SU1aQS0tSGZxRlV6aVJMb254NFdubkpKck9TaHhxN3ByOWhBYWM0Z1hiR2hsUnFzUnh5QzNVVWRnRF84eFZsVG9ZY2hVb0lqedIBlAFBVV95cUxNME5TWVNJbzdMMHZxa0hsTlZVQmQ5dDA0T0Y4dGcwMkRMSENYXzVUTWdNWjhZY1hTcTU5MGtKOFpaUUk2cy1KZ012YWFfUU01VjVPT3N3dXFJLUYzQ0hhZFVFWEZYTTVpaVU3Z0doYmpXN1VNT3l3OHVMTzVoZG0tR0UyazJscDBPVVFjbnhxVmg4V3ZB?oc=5",
+      "source": "Chosunbiz"
+    },
+    {
+      "tag": "건강보험·보장성",
+      "title": "희귀·중증질환자 건강보험 본인부담률 7% 언급",
+      "summary": "이 대통령이 희귀·중증질환자의 치료비 부담을 낮추겠다고 밝혔고, 관련 보도에서 건강보험 본인부담률을 7%로 낮추는 내용이 제시됐다. 공적 건강보험의 보장 확대 논의는 민영 건강보험과 실손보험의 보장·정산 구조를 함께 점검하게 하는 요인이다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yMjZ3QUQ0dzVybG5hdi1idUZyV25CUFhkbVR5djBNY2NYRWwwV0I2TTNaS0NBQk1XSno2TURmb1ZvV05LRlpBNGxWVm1HX3p6UWtLOEJ4MkNMWjBvZlZFQWRLbjlVbnJYQlhZY2pzQmNOSURJR1dOcNIBeEFVX3lxTE1oVFdWREl5c0dLV0lMLTFnNzhuc2lyLXc3SU94YjkzZDFDaTdwUmRGNVkxR0hKdzJQTXJFTDE2eGtBSUhNQmJjenRubXc1ZzFic21GaXpKR0ZGME1BaG1sTHVYT0lRbVZGR1ZCSXc1S2ZERWlZTWVTYw?oc=5",
+      "source": "MBC 뉴스"
+    },
+    {
       "tag": "자동차보험",
-      "title": "10월 자동차보험 손해율 개선…사고 감소에도 보험금 부담은 지속",
-      "summary": "10월 자동차보험 손해율은 기사별 집계 기준에 따라 80.5%, 83.9%, 84.3%로 보도됐으며, 사고와 강수량 감소가 개선 요인으로 제시됐다. 다만 건당 보험금 증가와 연말 재상승 가능성이 함께 언급돼 손익 개선의 지속 여부가 관건으로 남았다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RaDJJV20wbF9Uek5vTERCUzVXa3VCMC1zUjNQVC1hWl9Fb2dibFJhNTRsSUxnckJDV0JNZWVKeWhzRG5ydHZlOEZqeWpQOXFMa0ZhNHVrQjFPYlo3dU1KM2FwZTZUUnBTSW91QzJEMA?oc=5",
-      "source": "보험저널"
+      "title": "자동차보험 손해율 개선 기대와 자차담보 손해율 상승이 병존",
+      "summary": "자동차보험 손해율이 두 달 연속 개선돼 수익성 회복 기대가 커졌다는 보도가 나왔다. 반면 자차담보 손해율은 19.5%포인트 상승했다는 분석도 제기돼, 전체 손해율 개선과 담보별 부담이 엇갈리는 모습이다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TTXZhZ25Ec0w0dlRIVUdWcnhPS002elN0ckRRVnhfYndWWW5kektSLTRqS0VRaXBlNmRwYmFudjlJZE1FT3NCV28zWnJHRXNnbnFteXZHSUVZbDF2RmtaT3Y3NngwTkQ0?oc=5",
+      "source": "녹색경제신문"
     },
     {
-      "tag": "사이버보험",
-      "title": "한전, 개인정보 유출 고객에게 최대 1000만원 보상보험 제공",
-      "summary": "한국전력은 개인정보 유출 고객의 2차 피해를 막기 위해 최대 1000만원을 보상하는 보험을 무료로 제공한다고 여러 매체가 보도했다. 대규모 개인정보 사고 대응에서 기업이 고객 보호 수단으로 보험을 활용하는 사례로 주목된다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsQWNjSGx6VU14MmlBeHo4ZWJ2ZUJzcHVWd1dyRGR6TjJNX2pkNnhoUkRVY2dCMTk1MkJwMkxjM2ZrbTlOcTBxeHFCd2hoWWlaWEVlbUtGX2piT28ybW44UWVSRmVCYy1DTkgwTWl0bm_SAXRBVV95cUxQaFp4UlFGVjVySnRPUHQtWnp0XzFNZGxneWhORmJodFR0VlFxeF8teEVtRWtfTWNfamkxWGRINC1Fb2RyclpfQjdEUV9UeFR3c192NEZzUXJpemlfN1pWZDAyM2V2V1FTQ0RPZjlFNUtidzlQNw?oc=5",
-      "source": "연합인포맥스"
+      "tag": "재해보험",
+      "title": "겨울철 자연재난 대비 풍수해·지진재해보험 홍보 확대",
+      "summary": "정부 정책브리핑과 지자체 관련 보도에서 폭설 등 겨울철 재난에 대비한 풍수해·지진재해보험 가입이 안내됐다. 군위군을 중심으로 집중 홍보가 이뤄지면서 자연재난 위험에 대한 보험 활용과 가입 확대가 강조됐다.",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15S1RYUElORTZIYi1Fd1A2WUdLNVRtWjlqVEdxbVN6R2RkckNPOS1DYzFSMHdyOWhrc3NPN0wtM01nQkcwMmhSd0Q2azU5UXQzaUJoNzg3al9jaVV2TG5nemVRaW1kVEQ4TWZ0Mmx3?oc=5",
+      "source": "대한민국 정책브리핑"
     },
     {
-      "tag": "AI보험",
-      "title": "AI 에이전트 사고에 책임보험 의무화 논의",
-      "summary": "정부와 업계에서 AI 에이전트를 자동차처럼 등록하고 사고 발생 시 책임보험을 의무화하는 방안이 제안됐다. AI가 스스로 판단하고 행동하는 환경에서 책임 주체와 보상 체계를 제도화하려는 논의가 본격화되고 있음을 보여준다.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNQWYycmpWeUhfUzFJMS1hMDNEbDdYbGVvRkRkOUFzUHlXa282VkdOVlBQNHN0a01WV0ZVUGtpaHhCM20ya21zdEM4VlRzU2FzVlU4Y1ZqT0lzcFnSAWBBVV95cUxON0lnRHluVkwyQ1lwQXJpSHo5YmRYSmsybVpFZU9EN1FwN1YyQXVYODFadDhNWnhiMm5SaFdrckFxSGRfbjNaWTZNR2VudGlsVTMydnNpUmlWSjE0c3VCeXQ?oc=5",
-      "source": "연합뉴스"
-    },
-    {
-      "tag": "생명보험",
-      "title": "건강보험 성장과 GA 중심 판매 확대",
-      "summary": "미래에셋생명은 건강보험 신계약 CSM이 2년 만에 두 배로 늘고 보유 CSM이 2조3000억원을 넘어섰다고 보도됐다. 생보업계에서는 신계약의 절반 이상을 GA가 차지하는 반면 은행 판매는 반토막 났다는 분석이 나와 상품 성장과 판매채널 재편이 함께 나타났다.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwMGVWU29kcThJemRoZWhJYkU0UHJPYjRvb1dOWkFkVkdoNXd4VWFqZ3VQYnpOMURwa045WXJ1b1RpaURwSDEtMXlvakdvU3FRLWlSaVNFMTBvZw?oc=5",
-      "source": "한국경제"
-    },
-    {
-      "tag": "보험실적",
-      "title": "보험료 수입 증가에도 순이익 감소…생보·손보 성적 엇갈려",
-      "summary": "보험료 수입은 28조6000억원 늘었지만 순이익은 8823억원 감소했으며, 생명보험과 손해보험의 성적표가 엇갈렸다는 보도가 나왔다. 매출 증가만으로는 수익성 개선을 판단하기 어려워 보험사의 이익 구조와 투자성과를 함께 봐야 한다는 의미를 던진다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80aTlIcFhfT1QtV2FPQWU2Wm1XZTYzbEl5LTkyUjI3amFTcF9jamFtaFcyMnVNbXVqQXRoR3lILUV5UnNXT3ZyYnk4SzZGdkVlVmVOemxuci10NEFiZW1fSllwTjA2dEJHOU5sX0pzUQ?oc=5",
-      "source": "보험저널"
+      "tag": "사회안전망",
+      "title": "장애인 소상공인·영세기업의 고용보험 가입 공백",
+      "summary": "장애인기업 대표자 또는 장애인 소상공인·영세기업 대표자 2명 중 1명이 고용보험에 가입하지 않았다는 보도가 이어졌다. 보험 가입 유지가 어렵고 기업 규모가 작을수록 사회보험 가입률이 낮다는 점이 사회안전망의 공백으로 제시됐다.",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6Z1dfbE9YeW4xb2MwdUNleUFaMDktT3FCbmNlM1AzLWYtZTRQUm01a1M5dEYwLVc3ME8wOVcwcnlSaExyRjE2MkFtMzZYajBweVFHQ011U01CbEJJTnNzSDByblllTGgtU2RnbnNB?oc=5",
+      "source": "에이블뉴스"
     }
   ]
 }
