@@ -1,63 +1,70 @@
 {
-  "updatedAt": "2026-11-26T05:15:33.761Z",
+  "updatedAt": "2026-11-27T05:13:33.571Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사 중 동일 내용을 반복 보도한 기사는 하나의 이슈로 통합했습니다. 제공된 기사에는 국내외 채권금리와 환율의 방향을 직접 보여주는 정보가 없어 해당 변수는 제외하고, 확인 가능한 미국 고용지표와 국내 주택대출·보증 흐름을 시장 변수로 반영했습니다.",
+  "editorNote": "최근 24시간 기사 중 동일 사안을 다룬 보도는 하나의 이슈로 묶었으며, 기사 제목과 제공된 메타데이터에 확인되는 내용만 반영했습니다.",
   "keywords": [
-    "보험 판매수수료 규제",
-    "희귀·중증질환 건강보험",
-    "자동차보험 손해율",
-    "풍수해·지진재해보험"
+    "건강보험 제도",
+    "실손보험 환급",
+    "AI 보험",
+    "보험 건전성",
+    "보험료·수수료 규제"
   ],
-  "marketSummary": "미국 주간 신규 실업보험 청구가 시장 전망치를 밑돈 가운데 국내에서는 주택대출 한도 확대와 보증·보험 재개 소식이 전해져, 보험시장에서는 거시 흐름보다 판매비용 규제와 보장성보험·위험보험 수익성 이슈가 부각됐다.",
+  "marketSummary": "기사 목록에는 미국 금리·국내외 채권금리·환율·부동산 등 금융시장 흐름이 제시되지 않아, 당일 시장 방향을 보험시장 관점에서 판단하기는 어렵다.",
   "marketContext": [
     {
-      "label": "미국 고용시장",
-      "summary": "미국 주간 신규 실업보험 청구가 18만9천건으로 시장 전망치를 밑돌았다는 보도가 나왔다. 고용 관련 지표는 보험사의 자산운용과 상품가격에 영향을 줄 수 있는 미국 경기·금리 기대와 연결되는 변수지만, 제공 기사에는 금리 방향이나 시장 반응이 제시되지 않았다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrWk9HT2RwVTJPMEM1YVRkbzBPeG1LcHU2NnR5WVpQNDlqT3RSa0ZmalM3RHNnaFVnNHcxMTNnX1d5NjExSS14bm80X0R3eFA0OTBSdVBSbjdabVJ0QVRlVndsRmVKWlZmNzUxaGMzYg?oc=5",
-      "source": "연합인포맥스"
+      "label": "국내외 채권금리",
+      "summary": "생명보험사의 보험손익과 투자손익이 함께 악화됐다는 보도가 나왔지만 구체적인 국내외 채권금리 수준이나 변동은 제시되지 않았다. 채권금리는 보험사의 투자손익과 자산운용 여건에 연결되는 변수인 만큼, 이번 실적 보도와 함께 확인할 필요가 있으나 당일 방향은 기사 목록만으로 판단할 수 없다.",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0Z1ZlWnhESkFPcFp3YnlpUnNzTkFCUnlPLVNKNGthdVFBaDBPb2xRSDlSa3BBLW9DbXY5ekVUVXY1cnM5Z0FNenBzRGdpSEo5Q0lJQ09XSWJPc0NmaVROT2NR?oc=5",
+      "source": "이코노미스트"
     },
     {
-      "label": "국내 주택대출·보증",
-      "summary": "기업은행이 주택대출 한도를 늘리고 내년분 보증·보험을 재개한다는 내용이 보도됐다. 이는 주택금융 보증·보험의 취급 환경과 관련된 변수로, 보험시장에서는 주택 관련 보증 수요와 위험 노출을 점검할 사안이다.",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRUUtRk1WaHRPR3VpYzBXb1FEdERTX1dsNTZKXzgwR0hDZ0J6NXByREFNT2dNcGNHNFNDU0pHbUhRZ3hIdU5FVVhGTnlGUVBMbFBjTlYzOVQyUWpOblRUU2tjTW81eS1NeDRmX3NhbENOVjBGYjEwNDJ4eXRWeHZWRNIBlAFBVV95cUxPM1RONWZ4Wl9SS0lrcHVqeG9OUlIwcERVX0MyUllFNjlqSEJtNXllOWIxcGdlQUZqdkk3bGhXT204T3N2LUU4bGRDUlc0WEJnXzFoVTdGVlZwWTdQZ0tCaTRjYTJfMDAwaHYzUTkwYUx2X2ZZMnB2MDVSU0lPcHB1SGZ5eHNaazRYdjJjeUgwdnZVaDAt?oc=5",
-      "source": "Chosunbiz"
+      "label": "미국 금리",
+      "summary": "제공된 기사에는 미국 금리의 수준이나 변동에 관한 내용이 없다. 미국 금리는 국내 보험사의 해외채권 운용과 금리 민감도에 연결될 수 있는 변수지만, 이번 기사 목록만으로 보험시장 영향을 구체화할 수 없다.",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0Z1ZlWnhESkFPcFp3YnlpUnNzTkFCUnlPLVNKNGthdVFBaDBPb2xRSDlSa3BBLW9DbXY5ekVUVXY1cnM5Z0FNenBzRGdpSEo5Q0lJQ09XSWJPc0NmaVROT2NR?oc=5",
+      "source": "이코노미스트"
+    },
+    {
+      "label": "부동산·대출시장",
+      "summary": "보험사 대출이 2조1000억원 줄었지만 연체율이 1.27%로 나타났다는 보도가 있어 보험사의 대출자산 건전성이 주요 변수로 부각됐다. 다만 부동산 가격이나 관련 시장의 실제 흐름은 기사에 제시되지 않아 부동산과의 직접적인 연결은 확인할 수 없다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4QmNqNTUwMTdteUNSa09XQ2RPektlOUNFNEFjdmprQVlPcmtKbkEzZy02S3d5M3huUHFaSVpTWUVZekFYSU5vM0NnYkNuQkxmSzVjOGlCOU5Fb0huLWQzMWVmYkMta2FlU2NJSkl5WEbSAXRBVV95cUxNbFZtdGFXbms1QXkzRjdLeEFGYjNFY1UyWVZVbkdiSFpRbEItdU92VFhzdEVLSVByRUp6aWhaa29nazViMjZhY2c3Nk1mdzlJLU1NX2prT0Y1V0lRMHE5a0hFcG8tZ3VzWmc2bWpZMzRJTEd5SA?oc=5",
+      "source": "산경투데이"
     }
   ],
   "issues": [
     {
-      "tag": "규제·판매채널",
-      "title": "보험 판매수수료 지급한도·공시 규제 강화, 2027년부터 적용",
-      "summary": "금융당국이 보험 판매수수료 지급한도를 제한하고 계약체결비용과 사업비 공시를 확대하는 방안이 여러 매체를 통해 보도됐다. 2027년 1월 적용과 표준해약공제액 기준이 언급되면서 보험사의 판매비용 운용과 판매채널의 과당경쟁이 주요 관리 과제로 부상했다.",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSTB5Wnk2dTZKcW9sWk9lanNlX3BncTRkTDlWYkJ1M2xFZHYzY0o0LWJfdHFnS0J3SU1aQS0tSGZxRlV6aVJMb254NFdubkpKck9TaHhxN3ByOWhBYWM0Z1hiR2hsUnFzUnh5QzNVVWRnRF84eFZsVG9ZY2hVb0lqedIBlAFBVV95cUxNME5TWVNJbzdMMHZxa0hsTlZVQmQ5dDA0T0Y4dGcwMkRMSENYXzVUTWdNWjhZY1hTcTU5MGtKOFpaUUk2cy1KZ012YWFfUU01VjVPT3N3dXFJLUYzQ0hhZFVFWEZYTTVpaVU3Z0doYmpXN1VNT3l3OHVMTzVoZG0tR0UyazJscDBPVVFjbnhxVmg4V3ZB?oc=5",
-      "source": "Chosunbiz"
+      "tag": "건강보험·부정가입",
+      "title": "건강보험 허위 직장가입자 단속 강화…가산금 4배·신고포상금 최대 30억원",
+      "summary": "건강보험 직장가입 허위취득에 대한 가산금을 4배로 높이고 신고포상금을 최대 30억원까지 지급한다는 보도가 여러 매체에서 나왔다. 허위가입 단속과 재정 누수 방지가 건강보험 제도 운영의 주요 이슈로 부상했다.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvRUN2T09nMFhXSEFnLWViek1rNWI5aGU2Z0lrVGp3dHF3TEszbEUzZk9QQjBUMnR6XzlIMTFuLVJXUmIxdWozOGF1RDJsbHNfSzhkYW5XekdIZw?oc=5",
+      "source": "한국경제"
     },
     {
-      "tag": "건강보험·보장성",
-      "title": "희귀·중증질환자 건강보험 본인부담률 7% 언급",
-      "summary": "이 대통령이 희귀·중증질환자의 치료비 부담을 낮추겠다고 밝혔고, 관련 보도에서 건강보험 본인부담률을 7%로 낮추는 내용이 제시됐다. 공적 건강보험의 보장 확대 논의는 민영 건강보험과 실손보험의 보장·정산 구조를 함께 점검하게 하는 요인이다.",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yMjZ3QUQ0dzVybG5hdi1idUZyV25CUFhkbVR5djBNY2NYRWwwV0I2TTNaS0NBQk1XSno2TURmb1ZvV05LRlpBNGxWVm1HX3p6UWtLOEJ4MkNMWjBvZlZFQWRLbjlVbnJYQlhZY2pzQmNOSURJR1dOcNIBeEFVX3lxTE1oVFdWREl5c0dLV0lMLTFnNzhuc2lyLXc3SU94YjkzZDFDaTdwUmRGNVkxR0hKdzJQTXJFTDE2eGtBSUhNQmJjenRubXc1ZzFic21GaXpKR0ZGME1BaG1sTHVYT0lRbVZGR1ZCSXc1S2ZERWlZTWVTYw?oc=5",
-      "source": "MBC 뉴스"
+      "tag": "건강보험·보상체계",
+      "title": "공공정책급여 도입 등 건강보험 보상체계 개편 추진",
+      "summary": "환자가 적은 지역의 상시 진료 비용을 건강보험으로 보상하고, 공공정책급여와 지역 가산분 본인부담 면제 등을 도입하는 방안이 보도됐다. 지역 필수의료 유지와 건강보험 보상체계 개편이 함께 추진되는 흐름이다.",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBWN2k2Q1JuN0JMT3ZjX214RjVKbmZxb01KSVJEZUNBa0pVcFpPQXZEOTRWSmFCTUNySEs1LWRJREVjcllP?oc=5",
+      "source": "후생신보"
     },
     {
-      "tag": "자동차보험",
-      "title": "자동차보험 손해율 개선 기대와 자차담보 손해율 상승이 병존",
-      "summary": "자동차보험 손해율이 두 달 연속 개선돼 수익성 회복 기대가 커졌다는 보도가 나왔다. 반면 자차담보 손해율은 19.5%포인트 상승했다는 분석도 제기돼, 전체 손해율 개선과 담보별 부담이 엇갈리는 모습이다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TTXZhZ25Ec0w0dlRIVUdWcnhPS002elN0ckRRVnhfYndWWW5kektSLTRqS0VRaXBlNmRwYmFudjlJZE1FT3NCV28zWnJHRXNnbnFteXZHSUVZbDF2RmtaT3Y3NngwTkQ0?oc=5",
-      "source": "녹색경제신문"
+      "tag": "AI·디지털 전환",
+      "title": "AI 보험설계·보험금 지급의 역할과 규율, 업계 AX 전환 쟁점화",
+      "summary": "AI가 보험 가입 권유와 청약을 연결하거나 보험금 지급까지 맡을 경우 무자격 모집 또는 업계의 경계 대상이 될 수 있다는 보도가 나왔다. 보험연수원의 AI 맞춤형 교육 플랫폼 운영과 보험업계 조직개편 보도까지 겹치며 AI 활용 범위와 내부 역량 확보가 동시에 쟁점이 됐다.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BVGRSWkdwY05tcUJTX0lGWjR2VDJUVHdpSF8zTXBqQWtuSlBOTWRmV1JxQ1RqWnRPc1p5OWY1UDdBRk5aXzJfdWp4dngydUNoS2NVdkJyOXkyUWU1WUlTQXYzNC1sNTdHajN3RjEycw?oc=5",
+      "source": "보험저널"
     },
     {
-      "tag": "재해보험",
-      "title": "겨울철 자연재난 대비 풍수해·지진재해보험 홍보 확대",
-      "summary": "정부 정책브리핑과 지자체 관련 보도에서 폭설 등 겨울철 재난에 대비한 풍수해·지진재해보험 가입이 안내됐다. 군위군을 중심으로 집중 홍보가 이뤄지면서 자연재난 위험에 대한 보험 활용과 가입 확대가 강조됐다.",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15S1RYUElORTZIYi1Fd1A2WUdLNVRtWjlqVEdxbVN6R2RkckNPOS1DYzFSMHdyOWhrc3NPN0wtM01nQkcwMmhSd0Q2azU5UXQzaUJoNzg3al9jaVV2TG5nemVRaW1kVEQ4TWZ0Mmx3?oc=5",
-      "source": "대한민국 정책브리핑"
+      "tag": "보험사·건전성",
+      "title": "생보사 실적 악화와 보험사 대출 연체율 상승 보도",
+      "summary": "생명보험사의 보험손익과 투자손익이 함께 뒷걸음질쳤다는 보도가 나왔고, 보험사 대출은 2조1000억원 줄었지만 연체율은 1.27%로 집계됐다는 보도도 나왔다. 보험영업과 투자영업, 대출자산 건전성이 동시에 보험사의 실적과 재무 부담을 좌우하는 이슈로 제시됐다.",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0Z1ZlWnhESkFPcFp3YnlpUnNzTkFCUnlPLVNKNGthdVFBaDBPb2xRSDlSa3BBLW9DbXY5ekVUVXY1cnM5Z0FNenBzRGdpSEo5Q0lJQ09XSWJPc0NmaVROT2NR?oc=5",
+      "source": "이코노미스트"
     },
     {
-      "tag": "사회안전망",
-      "title": "장애인 소상공인·영세기업의 고용보험 가입 공백",
-      "summary": "장애인기업 대표자 또는 장애인 소상공인·영세기업 대표자 2명 중 1명이 고용보험에 가입하지 않았다는 보도가 이어졌다. 보험 가입 유지가 어렵고 기업 규모가 작을수록 사회보험 가입률이 낮다는 점이 사회안전망의 공백으로 제시됐다.",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6Z1dfbE9YeW4xb2MwdUNleUFaMDktT3FCbmNlM1AzLWYtZTRQUm01a1M5dEYwLVc3ME8wOVcwcnlSaExyRjE2MkFtMzZYajBweVFHQ011U01CbEJJTnNzSDByblllTGgtU2RnbnNB?oc=5",
-      "source": "에이블뉴스"
+      "tag": "소비자·가격규제",
+      "title": "실손보험료 환급 가능성과 판매수수료 한도규제 부상",
+      "summary": "100만명에게 실손보험료 3000억원을 더 걷었다는 보도와 함께 환급 가능성이 제기됐다. 보험 판매수수료 한도규제로 사업비 경쟁을 차단하려는 움직임도 보도되며 보험료 산정과 판매비용에 대한 소비자·당국의 관심이 커졌다.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnYXNJUTQ2YUVNN3U3QmpoRkczcTE5aW1kNXFNQjVWSnNaeFJxTGJTazZydEFPU29uOEcwRGlnb1g0S2lENWdMMy1Wb0gteF9xb2ZfNU1BcjQwZw?oc=5",
+      "source": "한국경제"
     }
   ]
 }
