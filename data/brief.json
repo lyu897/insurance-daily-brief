@@ -1,70 +1,70 @@
 {
-  "updatedAt": "2026-11-27T05:13:33.571Z",
+  "updatedAt": "2026-11-28T04:49:03.367Z",
   "articleCount": 45,
-  "editorNote": "최근 24시간 기사 중 동일 사안을 다룬 보도는 하나의 이슈로 묶었으며, 기사 제목과 제공된 메타데이터에 확인되는 내용만 반영했습니다.",
+  "editorNote": "최근 24시간 기사 중 동일 보도와 단순 부고·스포츠·지역 봉사성 기사는 통합하거나 주요 이슈에서 제외했습니다. 금융시장 변수는 기사 제목에서 확인되는 고금리와 대출 건전성 흐름만 반영했습니다.",
   "keywords": [
-    "건강보험 제도",
-    "실손보험 환급",
-    "AI 보험",
-    "보험 건전성",
-    "보험료·수수료 규제"
+    "고금리",
+    "대출 연체율",
+    "보험계약대출",
+    "실손·암보험 개편",
+    "AI 보험서비스"
   ],
-  "marketSummary": "기사 목록에는 미국 금리·국내외 채권금리·환율·부동산 등 금융시장 흐름이 제시되지 않아, 당일 시장 방향을 보험시장 관점에서 판단하기는 어렵다.",
+  "marketSummary": "고금리와 대출 연체 상승이 취약 차주와 보험사 대출 건전성에 부담을 주는 가운데, 보험업계는 보장 범위·가입조건을 조정한 상품과 디지털 보험서비스 경쟁을 확대하는 흐름입니다.",
   "marketContext": [
     {
-      "label": "국내외 채권금리",
-      "summary": "생명보험사의 보험손익과 투자손익이 함께 악화됐다는 보도가 나왔지만 구체적인 국내외 채권금리 수준이나 변동은 제시되지 않았다. 채권금리는 보험사의 투자손익과 자산운용 여건에 연결되는 변수인 만큼, 이번 실적 보도와 함께 확인할 필요가 있으나 당일 방향은 기사 목록만으로 판단할 수 없다.",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0Z1ZlWnhESkFPcFp3YnlpUnNzTkFCUnlPLVNKNGthdVFBaDBPb2xRSDlSa3BBLW9DbXY5ekVUVXY1cnM5Z0FNenBzRGdpSEo5Q0lJQ09XSWJPc0NmaVROT2NR?oc=5",
-      "source": "이코노미스트"
+      "label": "고금리·차주 신용위험",
+      "summary": "고금리 여파로 중소기업 대출 연체율이 두 배로 올랐다는 보도와 보험계약대출 잔액 증가가 함께 제기됐습니다. 차주의 자금 부담과 보험계약대출 수요 증가는 보험사의 대출자산과 건전성 관리에 연결되는 변수입니다.",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tTHA5N3M4RUFyd0lTWVRRSXpybER0SGxqQ3YtMkt6NnkwSjBRNDBBcW8xMC1lTGpvN09lSm5rcnFCWnc0SlJhemQ1a29OQnZFWjlDLW9R?oc=5",
+      "source": "중앙일보"
     },
     {
-      "label": "미국 금리",
-      "summary": "제공된 기사에는 미국 금리의 수준이나 변동에 관한 내용이 없다. 미국 금리는 국내 보험사의 해외채권 운용과 금리 민감도에 연결될 수 있는 변수지만, 이번 기사 목록만으로 보험시장 영향을 구체화할 수 없다.",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0Z1ZlWnhESkFPcFp3YnlpUnNzTkFCUnlPLVNKNGthdVFBaDBPb2xRSDlSa3BBLW9DbXY5ekVUVXY1cnM5Z0FNenBzRGdpSEo5Q0lJQ09XSWJPc0NmaVROT2NR?oc=5",
-      "source": "이코노미스트"
+      "label": "보험사 대출 연체율",
+      "summary": "보험사 대출 잔액은 2조1000억원 줄었지만 연체율은 1.27%로 상승했다는 보도가 나왔습니다. 대출 규모 축소만으로는 건전성 부담이 해소되지 않을 수 있어 보험사의 자산운용과 리스크 관리가 주목됩니다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yOXBTZ0g1RjFXYjhONkpjRzA0N0xlcXpUMk9Hd2hWbjdwVHVxZF9mWTZObVl6UnllaC1xd1ZFRzJUUVB6Ym5qdDVRS0ZmZTFwalVOUkVuSFRZNDlDWnY1RGtWOWtIYTRpUURB?oc=5",
+      "source": "한국보험신문"
     },
     {
-      "label": "부동산·대출시장",
-      "summary": "보험사 대출이 2조1000억원 줄었지만 연체율이 1.27%로 나타났다는 보도가 있어 보험사의 대출자산 건전성이 주요 변수로 부각됐다. 다만 부동산 가격이나 관련 시장의 실제 흐름은 기사에 제시되지 않아 부동산과의 직접적인 연결은 확인할 수 없다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4QmNqNTUwMTdteUNSa09XQ2RPektlOUNFNEFjdmprQVlPcmtKbkEzZy02S3d5M3huUHFaSVpTWUVZekFYSU5vM0NnYkNuQkxmSzVjOGlCOU5Fb0huLWQzMWVmYkMta2FlU2NJSkl5WEbSAXRBVV95cUxNbFZtdGFXbms1QXkzRjdLeEFGYjNFY1UyWVZVbkdiSFpRbEItdU92VFhzdEVLSVByRUp6aWhaa29nazViMjZhY2c3Nk1mdzlJLU1NX2prT0Y1V0lRMHE5a0hFcG8tZ3VzWmc2bWpZMzRJTEd5SA?oc=5",
-      "source": "산경투데이"
+      "label": "보험계약대출",
+      "summary": "고금리 상황에서 보험계약대출 잔액이 3조원 늘었다는 보도가 제시됐습니다. 보험계약대출 증가는 가입자의 유동성 확보와 보험사의 대출자산 관리가 맞물리는 지점입니다.",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tTHA5N3M4RUFyd0lTWVRRSXpybER0SGxqQ3YtMkt6NnkwSjBRNDBBcW8xMC1lTGpvN09lSm5rcnFCWnc0SlJhemQ1a29OQnZFWjlDLW9R?oc=5",
+      "source": "중앙일보"
     }
   ],
   "issues": [
     {
-      "tag": "건강보험·부정가입",
-      "title": "건강보험 허위 직장가입자 단속 강화…가산금 4배·신고포상금 최대 30억원",
-      "summary": "건강보험 직장가입 허위취득에 대한 가산금을 4배로 높이고 신고포상금을 최대 30억원까지 지급한다는 보도가 여러 매체에서 나왔다. 허위가입 단속과 재정 누수 방지가 건강보험 제도 운영의 주요 이슈로 부상했다.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvRUN2T09nMFhXSEFnLWViek1rNWI5aGU2Z0lrVGp3dHF3TEszbEUzZk9QQjBUMnR6XzlIMTFuLVJXUmIxdWozOGF1RDJsbHNfSzhkYW5XekdIZw?oc=5",
-      "source": "한국경제"
+      "tag": "건전성",
+      "title": "고금리 속 대출 연체 상승…보험계약대출도 증가",
+      "summary": "중소기업 대출 연체율이 두 배로 상승하고 보험계약대출 잔액은 3조원 늘었다는 보도가 나왔으며, 보험사 대출은 잔액 감소에도 연체율이 1.27%로 올랐다는 보도가 이어졌습니다. 고금리와 차주 상환 부담이 보험사의 대출 건전성과 계약자 유동성 수요를 동시에 자극하는 흐름으로 읽힙니다.",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tTHA5N3M4RUFyd0lTWVRRSXpybER0SGxqQ3YtMkt6NnkwSjBRNDBBcW8xMC1lTGpvN09lSm5rcnFCWnc0SlJhemQ1a29OQnZFWjlDLW9R?oc=5",
+      "source": "중앙일보·한국보험신문·서울파이낸스"
     },
     {
-      "tag": "건강보험·보상체계",
-      "title": "공공정책급여 도입 등 건강보험 보상체계 개편 추진",
-      "summary": "환자가 적은 지역의 상시 진료 비용을 건강보험으로 보상하고, 공공정책급여와 지역 가산분 본인부담 면제 등을 도입하는 방안이 보도됐다. 지역 필수의료 유지와 건강보험 보상체계 개편이 함께 추진되는 흐름이다.",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBWN2k2Q1JuN0JMT3ZjX214RjVKbmZxb01KSVJEZUNBa0pVcFpPQXZEOTRWSmFCTUNySEs1LWRJREVjcllP?oc=5",
-      "source": "후생신보"
+      "tag": "상품·가격",
+      "title": "실손·암보험 중심으로 보장과 가입조건 재편",
+      "summary": "5세대 실손보험이 보험료 부담 완화와 건강보험 정상화를 내세우고, 생명보험사들은 암 이력자 가입과 치료비 보장을 반영한 암보험을 내놓거나 상품을 손질하고 있습니다. 설계사 수수료 변화와 유병자·암 이력자 대상 가입조건 조정이 향후 보험료와 상품 선택에 영향을 줄 핵심 쟁점으로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yNWxOS0E2VFpFLWcybk5jdkVUMjlsSzZRZG5uNlMwNktVSnkwUXRfQXNpZ2Zldy02T00xUEp3SGktOHJGeUh5V0djY1NBYXBtNWpPT05uU2ZORmxlSzRJQg?oc=5",
+      "source": "뉴스1"
     },
     {
-      "tag": "AI·디지털 전환",
-      "title": "AI 보험설계·보험금 지급의 역할과 규율, 업계 AX 전환 쟁점화",
-      "summary": "AI가 보험 가입 권유와 청약을 연결하거나 보험금 지급까지 맡을 경우 무자격 모집 또는 업계의 경계 대상이 될 수 있다는 보도가 나왔다. 보험연수원의 AI 맞춤형 교육 플랫폼 운영과 보험업계 조직개편 보도까지 겹치며 AI 활용 범위와 내부 역량 확보가 동시에 쟁점이 됐다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BVGRSWkdwY05tcUJTX0lGWjR2VDJUVHdpSF8zTXBqQWtuSlBOTWRmV1JxQ1RqWnRPc1p5OWY1UDdBRk5aXzJfdWp4dngydUNoS2NVdkJyOXkyUWU1WUlTQXYzNC1sNTdHajN3RjEycw?oc=5",
-      "source": "보험저널"
+      "tag": "자동차보험",
+      "title": "차량 수리비·손해율이 손보사 실적 변수로 부상",
+      "summary": "자동차 수리비가 자비 부담과 보험 처리 여부에 따라 다르게 나타난다는 보도와 함께, 자동차보험 손해율이 예상보다 양호하다는 분석이 나왔습니다. 수리비 차이와 손해율 흐름은 자동차보험의 보험금 관리와 손해보험사 연말 실적에 영향을 줄 변수로 제시됐습니다.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZjFFWHUxZnlwd255Z3FyQ0R5NmRhOUJHdjVHWnM0LTdrZXcxQ1RVQlRvNEpRd19WaDc2QkozLTZoZHZaem03TXYtMElUYnNkR2NheVRKWG9JYmZSRThmLXZOSUJCelBNZnl4S1pZUWhja2xGOUxYWUFXaUNFdlRRSw?oc=5",
+      "source": "이데일리"
     },
     {
-      "tag": "보험사·건전성",
-      "title": "생보사 실적 악화와 보험사 대출 연체율 상승 보도",
-      "summary": "생명보험사의 보험손익과 투자손익이 함께 뒷걸음질쳤다는 보도가 나왔고, 보험사 대출은 2조1000억원 줄었지만 연체율은 1.27%로 집계됐다는 보도도 나왔다. 보험영업과 투자영업, 대출자산 건전성이 동시에 보험사의 실적과 재무 부담을 좌우하는 이슈로 제시됐다.",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0Z1ZlWnhESkFPcFp3YnlpUnNzTkFCUnlPLVNKNGthdVFBaDBPb2xRSDlSa3BBLW9DbXY5ekVUVXY1cnM5Z0FNenBzRGdpSEo5Q0lJQ09XSWJPc0NmaVROT2NR?oc=5",
-      "source": "이코노미스트"
+      "tag": "디지털·AI",
+      "title": "AI 보험사기 탐지와 초고속 보험금 지급 경쟁",
+      "summary": "일본의 AI 보험사기 탐지 기술과 카카오페이손해보험의 독감 보험금 4.41초 지급 사례가 보도됐고, 의료용 AI 슈퍼앱과 보험청구 앱 관련 협력 소식도 전해졌습니다. 보험업계의 디지털 경쟁이 사기 방지와 청구 간소화라는 두 축으로 확장되고 있음을 보여줍니다.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVkdPc0U4N3d2UE1vZVVsZi1DdTd1b01JTUNGSENHZmZWNTNtNUtOX2ZFZWFROWFrd2pWZk5lZmx3VndIT1RNZkgzeGctOUlmRzRrRVN4MmMtSm1oX1dBRXNCLWF1RkJQZHJjYUlxRkFQTVgwem1qWjRhOGtSRV9tRg?oc=5",
+      "source": "이데일리"
     },
     {
-      "tag": "소비자·가격규제",
-      "title": "실손보험료 환급 가능성과 판매수수료 한도규제 부상",
-      "summary": "100만명에게 실손보험료 3000억원을 더 걷었다는 보도와 함께 환급 가능성이 제기됐다. 보험 판매수수료 한도규제로 사업비 경쟁을 차단하려는 움직임도 보도되며 보험료 산정과 판매비용에 대한 소비자·당국의 관심이 커졌다.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnYXNJUTQ2YUVNN3U3QmpoRkczcTE5aW1kNXFNQjVWSnNaeFJxTGJTazZydEFPU29uOEcwRGlnb1g0S2lENWdMMy1Wb0gteF9xb2ZfNU1BcjQwZw?oc=5",
-      "source": "한국경제"
+      "tag": "업계전략",
+      "title": "보험사 해외·장기보험 확대와 지배구조 변화 주목",
+      "summary": "삼성의 보험사업 해외 승부, 하나손해보험의 장기보험 확대에 따른 흑자 전환 기반, 롯데손해보험의 신한손해보험 사명 변경 계획이 보도됐습니다. 해외사업·장기보험·브랜드 재편이 보험사별 성장전략과 경영 연속성 논의의 중심으로 부상했습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oSmVvZTh1VVU4RlZKcG9yWEVKWEtKTXpzV2NjVUlmSUFta0NCc1p0Y3ZfZ2UtWHlVS0ZHVUlneHFhZmVkVVRDbEpSeEhWelU?oc=5",
+      "source": "딜사이트"
     }
   ]
 }
